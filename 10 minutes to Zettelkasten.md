@@ -1,4 +1,4 @@
-[https://youtu.be/GRA_fwbdrtc](https://youtu.be/GRA_fwbdrtc "Share link")
+[https://youtu.be/GRA_fwbdrtc](https://youtu.be/GRA_fwbdrtc "Share link") [[notetaking]] 
 
 1. Intro
 2. before we start
