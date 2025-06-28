@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c7b6decf57b19d30",
+        "id": "7c21c33e08696565",
         "type": "tabs",
         "children": [
           {
-            "id": "9ae2c5dd3e632741",
+            "id": "3f18cd55839b90ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10 minutes to Zettelkasten.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10 minutes to Zettelkasten"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,17 +166,58 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ae2c5dd3e632741",
+  "active": "5a69238350bfdba9",
   "lastOpenFiles": [
-    "Proper 12.md",
-    "ask and it shall be given.md",
-    "bargaining with God.md",
-    "index.md",
-    "Inbox.md",
-    "preaching.md",
-    "Christ is head of every ruler.md",
-    "Preaching as circular not linear.md",
-    "Pasted image 20250628101828.png",
-    "Pasted image 20250628101730.png"
+    "5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "5_Structure/Canvases/About - 2_Literature Notes.canvas",
+    "5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "5_Structure/_About - 5_Structure Notes.md",
+    "5_Structure/Terms - Zettelkasten.md",
+    "5_Structure/Quotes.md",
+    "5_Structure/Inspect View.md",
+    "5_Structure/Index - Zettelkasten.md",
+    "5_Structure/Glossary.md",
+    "5_Structure/Canvases",
+    "5_Structure/ARCO View.md",
+    "5_Structure/Books.md",
+    "5_Structure/7 Days Created Chart.md",
+    "5_Structure",
+    "Visuals/zettelkasten_maturity_2024-11-18.png",
+    "Visuals/luhmann_vs_digital_2025-03-06.png",
+    "Visuals/banner_books.jpg",
+    "Visuals/Zettelkasten_usecase_model_2025-04-24.png",
+    "Visuals/Zettelkasten_models_2025-04-15.png",
+    "Visuals/Zettelkasten_mental-gym_2025-06-08.png",
+    "Visuals/Zettelkasten_history_2025-04-18.png",
+    "Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
+    "Visuals/Zettelkasten_Ontology.png",
+    "Visuals/Zettelkasten_LitMap_2024-08-04.png",
+    "Visuals",
+    "Home.md",
+    "3_Permanent/_About - 3_Permanent Notes.md",
+    "3_Permanent/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
+    "3_Permanent/Apples Vision Statement.md",
+    "3_Permanent",
+    "Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
+    "Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf",
+    "Assets/Zettelkasten_LitMap_2024-08-04.pdf",
+    "Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf",
+    "Assets/The_Extended_Mind_2024-08-11.pdf",
+    "Assets",
+    "1_Fleeting/My First Fleeting Note.md",
+    "1_Fleeting/About - 1_Fleeting Notes.md",
+    "4_Project/Posts Zettelkasten/Post - Luhmann vs Digital Zettelkasten.md",
+    "4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
+    "4_Project/Obsidian Starter Kit/Project Log - Obsidian Starter Kit.md",
+    "4_Project/Obsidian Starter Kit/History - Obsidian Starter Kit.md",
+    "4_Project/About - 4_Project Notes.md",
+    "Templates/x_Front Matter Snippet.md",
+    "Templates/x_Dataview Table Snippet.md",
+    "Templates/x_Book Front Matter Snippet.md",
+    "Templates/x_Back Matter Snippet.md",
+    "Templates/5_Structure Template.md"
   ]
 }
