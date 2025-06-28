@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7c21c33e08696565",
+        "id": "f578a7fdb1058d27",
         "type": "tabs",
         "children": [
           {
-            "id": "3f18cd55839b90ec",
+            "id": "5c95625cef3779f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-06-28.md",
+                "file": "Things I know experientially.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-28"
+              "title": "Things I know experientially"
             }
           },
           {
-            "id": "6384628b1b5c2b01",
+            "id": "62f8163d7d1790a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking.md",
+                "file": "preaching.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,51 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "notetaking"
+              "title": "preaching"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7424a8f2550b1e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6dff5127e855f28",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "preaching.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of preaching"
             }
           }
         ]
@@ -87,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#theme/zettelkasten",
+                "query": "image",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,12 +152,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -200,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,40 +255,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b7761cf85aa2df06",
+  "active": "62f8163d7d1790a8",
   "lastOpenFiles": [
-    "Starter-Kit/2_Literature/Asset.md",
-    "journal/2025-06-28.md",
-    "10 minutes to Zettelkasten.md",
-    "notetaking.md",
-    "Starter-Kit/5_Structure/Glossary.md",
-    "Starter-Kit/5_Structure/Books.md",
-    "Starter-Kit/5_Structure/ARCO View.md",
+    "goal of the sermon?.md",
+    "preaching.md",
+    "index.md",
+    "Preaching as circular not linear.md",
+    "Things I know experientially.md",
+    "surprise.md",
+    "Proper 12.md",
     "bargaining with God.md",
-    "Obsidian Charts - Plugin.md",
-    "Starter-Kit/5_Structure/7 Days Created Chart.md",
-    "7 Days Created List.md",
-    "Starter-Kit/Home.md",
+    "templates/Daily note template.md",
+    "journal/2025-06-29.md",
+    "journal/2025-06-28.md",
+    "metaphor.md",
+    "Timestamps/2025/06-June/2025-06-27-Friday.md",
+    "Timestamps/2025/06-June",
+    "Timestamps/2025",
+    "Timestamps",
+    "+Daily Notes.md",
+    "templates",
+    "Untitled",
+    "Starter-Kit/Templates/3_Question Template.md",
+    "Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
+    "Starter-Kit/Visuals/IMG_0843.png",
+    "Starter-Kit/Visuals/IMG_0099.PNG",
     "Inbox.md",
+    "Starter-Kit/Templates/2_Book Template.md",
+    "Starter-Kit/5_Structure/Quotes.md",
+    "Starter-Kit/Templates/5_Meeting Notes Template.md",
+    "Starter-Kit/Templates/4_Post Template.md",
+    "Starter-Kit/Templates/3_Note Template.md",
+    "On This Day.md",
+    "Starter-Kit/5_Structure/_About - 5_Structure Notes.md",
+    "notetaking.md",
+    "Starter-Kit/2_Literature/Asset.md",
+    "10 minutes to Zettelkasten.md",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "5_Structure/Canvases/About - 4_Project Notes.canvas",
     "5_Structure/Canvases/About - 3_Permanent Notes.canvas",
     "5_Structure/Canvases/About - 2_Literature Notes.canvas",
     "5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
-    "5_Structure/_About - 5_Structure Notes.md",
-    "5_Structure/Terms - Zettelkasten.md",
-    "5_Structure/Quotes.md",
-    "5_Structure/Inspect View.md",
-    "5_Structure/Index - Zettelkasten.md",
-    "5_Structure/Glossary.md",
     "5_Structure/Canvases",
-    "5_Structure/ARCO View.md",
-    "5_Structure/Books.md",
-    "5_Structure/7 Days Created Chart.md",
     "5_Structure",
     "Visuals/zettelkasten_maturity_2024-11-18.png",
     "Visuals/luhmann_vs_digital_2025-03-06.png",
@@ -252,20 +310,8 @@
     "Visuals/Zettelkasten_models_2025-04-15.png",
     "Visuals/Zettelkasten_mental-gym_2025-06-08.png",
     "Visuals/Zettelkasten_history_2025-04-18.png",
-    "Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
-    "Visuals/Zettelkasten_Ontology.png",
-    "Visuals/Zettelkasten_LitMap_2024-08-04.png",
     "Visuals",
-    "Home.md",
-    "3_Permanent/_About - 3_Permanent Notes.md",
-    "3_Permanent/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
-    "3_Permanent/Apples Vision Statement.md",
     "3_Permanent",
-    "Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
-    "Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf",
-    "Assets/Zettelkasten_LitMap_2024-08-04.pdf",
-    "Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf",
-    "Assets/The_Extended_Mind_2024-08-11.pdf",
-    "Assets"
+    "Assets/make_useful_notes_v0-18-0_2023-07-24.pdf"
   ]
 }
