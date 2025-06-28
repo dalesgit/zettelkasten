@@ -15,7 +15,17 @@
               "state": {
                 "file": "journal/2025-06-28.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "2025-06-28"
@@ -174,9 +184,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "b7761cf85aa2df06",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f18cd55839b90ec",
+  "active": "b7761cf85aa2df06",
   "lastOpenFiles": [
     "Starter-Kit/2_Literature/Asset.md",
     "journal/2025-06-28.md",
