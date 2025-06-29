@@ -4,35 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "f578a7fdb1058d27",
+        "id": "7424a8f2550b1e47",
         "type": "tabs",
         "children": [
           {
-            "id": "5c95625cef3779f0",
+            "id": "f6dff5127e855f28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Things I know experientially.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "preaching.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
                 }
               },
-              "icon": "lucide-file",
-              "title": "Things I know experientially"
+              "icon": "lucide-git-fork",
+              "title": "Graph of preaching"
             }
           },
           {
-            "id": "62f8163d7d1790a8",
+            "id": "2a4fe54fe87423f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,11 +72,11 @@
         "currentTab": 1
       },
       {
-        "id": "7424a8f2550b1e47",
+        "id": "fb9f04c0e9cc08fb",
         "type": "tabs",
         "children": [
           {
-            "id": "f6dff5127e855f28",
+            "id": "190fdaf12e2c4af3",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -259,15 +272,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62f8163d7d1790a8",
+  "active": "2a4fe54fe87423f0",
   "lastOpenFiles": [
-    "goal of the sermon?.md",
+    "Proper 12.md",
     "preaching.md",
+    "Things I know experientially.md",
+    "tyranny.md",
+    "Dialogue within the fractured American society.md",
+    "goal of the sermon?.md",
     "index.md",
     "Preaching as circular not linear.md",
-    "Things I know experientially.md",
     "surprise.md",
-    "Proper 12.md",
     "bargaining with God.md",
     "templates/Daily note template.md",
     "journal/2025-06-29.md",
@@ -293,8 +308,6 @@
     "On This Day.md",
     "Starter-Kit/5_Structure/_About - 5_Structure Notes.md",
     "notetaking.md",
-    "Starter-Kit/2_Literature/Asset.md",
-    "10 minutes to Zettelkasten.md",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "5_Structure/Canvases/About - 4_Project Notes.canvas",

@@ -1,0 +1,1 @@
+Seeking to open up dialogue with the people who are bringing down the rule of law, the civic institutions that have been built by the lives of generations, and the very fabric of our nation -- feels like encouraging the brain-washing known as the [[Stockholm syndrome]].
