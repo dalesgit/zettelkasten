@@ -6,6 +6,7 @@
       {
         "id": "7424a8f2550b1e47",
         "type": "tabs",
+        "dimension": 58.57605177993528,
         "children": [
           {
             "id": "f6dff5127e855f28",
@@ -50,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "preaching.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -65,15 +66,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "preaching"
+              "title": "Inbox"
+            }
+          },
+          {
+            "id": "aa0e6d332e76c5e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-06-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-29"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "fb9f04c0e9cc08fb",
         "type": "tabs",
+        "dimension": 41.42394822006473,
         "children": [
           {
             "id": "190fdaf12e2c4af3",
@@ -81,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "preaching.md",
+                "file": "journal/2025-06-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -104,12 +130,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.9125738870907659,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of preaching"
+              "title": "Graph of 2025-06-29"
             }
           }
         ]
@@ -131,7 +157,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -272,42 +298,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a4fe54fe87423f0",
+  "active": "aa0e6d332e76c5e6",
   "lastOpenFiles": [
-    "Proper 12.md",
+    "journal/2025-06-28.md",
+    "journal/2025-06-29.md",
+    "7 Days Created List.md",
+    "Obsidian Charts - Plugin.md",
+    "+Daily Notes.md",
+    "10 minutes to Zettelkasten.md",
+    "Dialogue within the fractured American society.md",
+    "Inbox.md",
+    "overview Zettelkasten.md",
+    "Starter-Kit/4_Project/Posts Zettelkasten/Post - Luhmann vs Digital Zettelkasten.md",
+    "Tom Li.md",
+    "Timestamps/2025/06-June/2025-06-27-Friday.md",
     "preaching.md",
+    "Proper 12.md",
     "Things I know experientially.md",
     "tyranny.md",
-    "Dialogue within the fractured American society.md",
     "goal of the sermon?.md",
     "index.md",
     "Preaching as circular not linear.md",
     "surprise.md",
     "bargaining with God.md",
     "templates/Daily note template.md",
-    "journal/2025-06-29.md",
-    "journal/2025-06-28.md",
     "metaphor.md",
-    "Timestamps/2025/06-June/2025-06-27-Friday.md",
     "Timestamps/2025/06-June",
     "Timestamps/2025",
     "Timestamps",
-    "+Daily Notes.md",
     "templates",
     "Untitled",
     "Starter-Kit/Templates/3_Question Template.md",
     "Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
     "Starter-Kit/Visuals/IMG_0843.png",
     "Starter-Kit/Visuals/IMG_0099.PNG",
-    "Inbox.md",
     "Starter-Kit/Templates/2_Book Template.md",
     "Starter-Kit/5_Structure/Quotes.md",
-    "Starter-Kit/Templates/5_Meeting Notes Template.md",
-    "Starter-Kit/Templates/4_Post Template.md",
-    "Starter-Kit/Templates/3_Note Template.md",
-    "On This Day.md",
-    "Starter-Kit/5_Structure/_About - 5_Structure Notes.md",
-    "notetaking.md",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "5_Structure/Canvases/About - 4_Project Notes.canvas",

@@ -1,145 +1,4 @@
----
-view_count: 1
-created: 2025-03-26, 16:59
-modified: 2025-03-30, 18:22
-tags:
-  - type/post
-  - theme/zettelkasten
-  - target/forumzettelkasten
-  - target/starterkit
-aliases: 
-visual: "![[luhmann_vs_digital_2025-03-06.png|300]]"
-lead: +++ Lead paragraph goes here +++
-published: 
-views: 0
-feedbacks: 0
-template_type: Post
-template_version: "1.27"
----
-
-# Post - Luhmann vs Digital Zettelkasten
-
-
-<!-- Main content of this story -->
-✨ Luhmann's Method vs Extended Digital Zettelkasten ✨
-
-It is a challenge to define the Zettelkasten method in a way that balances the core principles with the diversity of practical applications. A double bubble map as a visual tool for comparison and contrast helps to see more clearly how the two main practices of the Zettelkasten relate to each other:
-
-<!-- My sketchnote if available -->
-```dataviewjs 
-dv.paragraph(dv.current().visual);
-```
-<small>_Zoom: [[luhmann_vs_digital_2025-03-06.png]] | Edit: [[luhmann_vs_digital_2025-03-06.smmx]]_</small>
-
-This makes it easier to build appropriate definitions:
-
-**1 - Zettelkasten**
-> The Zettelkasten is a knowledge management approach designed to capture, interlink, and refine ideas in a networked system of atomic notes.
->
-> Whether implemented in analog or digital form, it promotes non-linear thinking, emergent connections, and long-term intellectual development. The method supports knowledge synthesis by allowing ideas to evolve organically, fostering creativity and deep understanding across various domains.
-
-**2 - Luhmann's Zettelkasten**
-> The Zettelkasten, developed by Niklas Luhmann, is a paper-based knowledge management system that organizes ideas using atomic notes, a hierarchical numbering system (Folgezettel), and manual cross-referencing.
-> 
-> Each note contains a single idea and is linked contextually to other notes, forming a non-linear web of knowledge. This method encourages deep thinking, emergent insights, and long-term knowledge accumulation without relying on predefined categories or rigid structures.
-
-**3 - Extended Digital Zettelkasten**
-> The extended digital Zettelkasten adapts Luhmann’s principles to digital tools like Logseq, Obsidian, Roam Research or The Archive, enhancing the system with bidirectional links, tags, search functions, and automation.
-> 
-> Unlike the analog method, it allows for dynamic connections, multimedia integration, and rapid retrieval of information. Digital implementations often replace the traditional numbering system with backlinks and graph-based navigation, making the knowledge network more fluid and scalable.
-
-**References**
-...
-
-. . .  
-Thanks very much! I really appreciate you reading my work. If you enjoyed it and found it useful, you might also like the related book “MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten”. Here's your free copy: https://github.com/groepl/Take-Useful-Notes. 
-. . .  
-
-**Tags**
-....
-
-## Tags for LinkedIn
-
-```
---- TAGS FOR PUBLISHING (MAX 30) ---
-#edmund2024 #agile #agilität #agilemindset #learning #lernos #lernossketchnoting #newwork #wol #workingoutloud #digitalsketchnotes #doodle #doodles #doodleart #drawing #facilitation #handwriting #lettering #sketchnote #sketchnotes #sketchnoting #storytelling #visualization #visualnotes #visualstorytelling #visualthinking #conceptsapp #powerbi #procreate #knowledgemanagement #obsidian #obsidianmd #pkm #secondbrain #smartsketchnotes #writing #zettelkasten 
-```
-
-```
---- STRUCTURED LIST OF TAGS as input to build up list of TAGS FOR PUBLISHING. --
-
-FROM
-#edmund2024
-
-AGILE
-#agile #agilität #agilecoach #agilemindset 
-
-LEARNING
-#learning #lernos #lernossketchnoting #newwork #wol #workingoutloud 
-
-SKETCHNOTES
-#digitalsketchnotes #doodle #doodles #doodleart #drawing #facilitation #handwriting #lettering #sketchnote #sketchnotes #sketchnoting #storytelling #visualization #visualnotes #visualstorytelling #visualthinking
-
-TOOLS
-#ai #chatgpt #conceptsapp #powerbi #obsidian #obsidianmd #procreate 
-
-ZETTELKASTEN
-#knowledgemanagement #pkm #secondbrain #smartsketchnotes #writing #zettelkasten 
-```
-
----
-# Back Matter
-**Source**
-<!--Always keep a link to the source. -->
-- based_on:: [[Basic Zettelkasten vs Extended Digital Zettelkasten]]
-
-**References**
-<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see:: 
-
-**Terms**
-<!-- Links to definition pages. -->
-- 
-
-**Target**
-<!-- Link to project note or externaly published content. -->
-- target:: [Zettelkasten - Term and Definition — Zettelkasten Forum](https://forum.zettelkasten.de/discussion/comment/22936/#Comment_22936)
-
-**Feedback**
-<!-- Any critique, ideas or questions from social media or other audience? --> 
-- 
-
-
-**Tasks**
-<!-- What remains to be done do get the final version? --> 
-- 
-
-
-**Questions**
-<!-- What remains for you to consider in the draft version? --> 
-- 
-
-**Latest Posts**
-<!-- Links to chapters from e-book -->
-
-```dataview
-TABLE 
-	file.cday AS "Date"
-FROM #target/linkedin 
-SORT file.cday DESC
-LIMIT 10
-```
-
-**Template Help**
-<!-- Links to external help pages on GitHub. -->
-- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
-- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
-- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
-- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
-- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
-- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
-
-## on Zettelkasten
+# overview Zettelkasten
 ---
 title: "I built my own Zettlekasten in Obsidian, and it changed my note-taking forever"
 source: "https://www.xda-developers.com/zettelkasten-in-obsidian-life-changer/"
@@ -155,9 +14,9 @@ I’ve had a hard time finding a way to organize my notes, not just for my writi
 
 I was ready to give up until someone nudged me about the Zettelkasten, a method for collecting and connecting note snippets to build a knowledge base. As it turns out, Obsidian, a popular note-taking app I already use, is perfect for this. My current Zettelkasten archive is still modest, but even applying it at a rudimentary level has made note-taking incredibly helpful and, dare I say, fun.
 
-### Zettel…what?
+## Zettel…what?
 
-#### A counterintuitive yet brilliant note-taking strategy
+### A counterintuitive yet brilliant note-taking strategy
 
 The Zettelkasten note-taking strategy focuses on intentional note-taking and note linking. It encourages the writer not to mindlessly record information, but to actively process it into their own words. To make that process easier, each note should be as concise as possible.
 
@@ -169,9 +28,9 @@ Another advantage of Zettelkasten is that it connects notes beyond their local s
 
 When Zettelkasten was invented in the 1950s by German sociologist Niklas Luhmann, it was intended for writers. Back then, Luhmann had to record the notes on good ol’ paper cards. Today, robust note-taking software like Obsidian has extended its application far beyond writing. Zettelkasten is now used in academia, publishing, and so much more.
 
-### Why Obsidian makes it easy
+## Why Obsidian makes it easy
 
-#### Visualizing notes is a game-changer
+### Visualizing notes is a game-changer
 
 Among the note-taking community, the Obsidian note-taking app has become the preferred tool for the Zettelkasten system for one good reason: it’s built around note linking. Additionally, Obsidian’s Graph View creates a constellation of all the relationships between notes, making it quick and easy to identify emerging trends. Here is a gallery of more helpful Obsidian features for Zettelkasten.
 
@@ -212,9 +71,9 @@ The setup doesn’t need to be complicated. At its core, all you really need are
 - Images: Contains images and their sources.
 ![A screenshot of Obsidian's graph view.](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/xda-developers-obsidian-graph-view.png)
 
-### What should I make it about?
+## What should I make it about?
 
-#### Got a thought? Jot it down
+### Got a thought? Jot it down
 
 Zettelkasten can record anything. Ardent purists say one Zettelkasten is enough for your entire life, one in which your philosophy and learning intermingle into a free-flowing pool of knowledge. This certainly makes sense, as it minimizes orphaned notes, but I still chose to separate my personal and professional life. In Obsidian, the best way to do this is to set up a dedicated Vault for each.
 
@@ -222,9 +81,9 @@ Zettelkasten can record anything. Ardent purists say one Zettelkasten is enough 
 
 A screenshot of Obsidian's Vault manager.
 
-### Building a structure
+## Building a structure
 
-#### Link, map, organize
+### Link, map, organize
 
 Although Zettelkasten champions thriving in chaos, it still requires an organized labeling system to make referencing notes easy. Every note must have a unique identifier. Without one, notes can quickly become buried and isolated, which defeats the purpose of not just Zettelkasten, but good note-taking as a whole.
 
@@ -290,9 +149,9 @@ The trends guide the story. Look for dense clusters of connected notes in Obsidi
 
 Not only does Zettelkasten help retain information, it also preserves your train of thought, easing the daunting task of finding and organizing ideas. Ideally, when it comes time to write, be it a thesis, book, or article, the words just flow from your fingertips.
 
-### Zettelkasten is flexible
+## Zettelkasten is flexible
 
-#### Everyone can have their own setup in Obsidian
+### Everyone can have their own setup in Obsidian
 
 Zettelkasten is an extremely flexible system. In addition to the basic card system, Obsidian’s Tags can group similar topics together, functioning somewhat like an index, similar to what Luhmann used. You can also add bibliographies for books, source notes, and all sorts of other categorizations to make finding related notes easy, as long as your permanent notes relate to one another.
 
@@ -302,9 +161,9 @@ A screenshot outlining a tag in Obsidian.
 
 Adding a tag in Obsidian is easy. Just type "#" followed by the tag name. You can find the tag again in any view using the search function.
 
-### Is paying for Obsidian worth it?
+## Is paying for Obsidian worth it?
 
-#### The free version is good, but syncing notes requires a fee
+### The free version is good, but syncing notes requires a fee
 
 The free version of Obsidian covers all the core functions needed for a Zettelkasten, except for the ability to sync notes across devices. I'm still getting by without it. My current system involves recording fleeting notes in Google Keep and then transferring them into Obsidian. However, this is becoming annoying since I can’t view my notes on multiple devices. I'll eventually be fed up enough to buy the Sync tier, which, at the time of writing, costs $4 per month. In addition to note syncing, it also unlocks collaboration in shared vaults, encryption, and version history. Not a bad deal.
 
@@ -318,9 +177,9 @@ A screenshot of an article mind map built in Obsidian Canvas.
 
 This was an idea for a Zettelkasten guide. Obsidian's Canvas View is perfect for planning your piece and organizing its relevant points. You can even link your notes directly within the blocks.
 
-### My gripes
+## My gripes
 
-#### Some HTML and CSS knowledge is needed to modify notes' content
+### Some HTML and CSS knowledge is needed to modify notes' content
 
 Zettelkasten relies heavily on organization, so the lack of some basic features in Obsidian can be frustrating. Image handling is clunky: rather than simply embedding, each image must be saved as a separate file, and simple actions such as resizing them require fiddling with special characters in their links. Tables are equally awkward: you can’t set dimensions upfront, adding rows or columns is manual, and editing requires learning its specific markdown syntax. A simple GUI for these features would go a long way.
 
