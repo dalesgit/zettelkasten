@@ -4,114 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7424a8f2550b1e47",
+        "id": "244246d6d1e0d41e",
         "type": "tabs",
-        "dimension": 58.57605177993528,
         "children": [
           {
-            "id": "f6dff5127e855f28",
+            "id": "f0eb3036d5f8ccaa",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "preaching.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of preaching"
-            }
-          },
-          {
-            "id": "2a4fe54fe87423f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-06-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-06-30"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fb9f04c0e9cc08fb",
-        "type": "tabs",
-        "dimension": 41.42394822006473,
-        "children": [
-          {
-            "id": "190fdaf12e2c4af3",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "journal/2025-06-30.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7388458529772653,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of 2025-06-30"
+              "title": "New tab"
             }
           }
         ]
@@ -274,34 +177,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a4fe54fe87423f0",
+  "active": "f0eb3036d5f8ccaa",
   "lastOpenFiles": [
-    "journal/2025-06-30.md",
-    "Inbox.md",
-    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
     "health.md",
-    "metaphor.md",
+    "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
+    "Timestamps/2025/06-June/2025-06-30-Monday.md",
+    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
+    "Post - Luhmann vs Digital Zettelkasten.md",
+    "Inbox.md",
+    "Tom Li.md",
+    "Timestamps/2025/06-June/2025-06-28-Saturday.md",
+    "Timestamps/2025/06-June/2025-06-27-Friday.md",
     "power of words.md",
+    "Timestamps/2025/06-June/2025-06-26-Thursday.md",
+    "+Daily Notes.md",
+    "templates/Daily note template.md",
+    "Timestamps/2025/07-July",
+    "journal/2025-06-29.md",
+    "journal/2025-06-28.md",
+    "+Daily-Notes.md",
+    "+Daily-Notes.md.crswap",
+    "journal/2025-06-30.md",
+    "metaphor.md",
     "analogical thinking.md",
     "God-talk.md",
     "Things I know experientially.md",
-    "journal/2025-06-29.md",
-    "journal/2025-06-28.md",
     "7 Days Created List.md",
     "Obsidian Charts - Plugin.md",
-    "+Daily Notes.md",
     "10 minutes to Zettelkasten.md",
     "Dialogue within the fractured American society.md",
     "overview Zettelkasten.md",
-    "Starter-Kit/4_Project/Posts Zettelkasten/Post - Luhmann vs Digital Zettelkasten.md",
-    "Tom Li.md",
-    "Timestamps/2025/06-June/2025-06-27-Friday.md",
-    "preaching.md",
-    "Proper 12.md",
-    "tyranny.md",
-    "goal of the sermon?.md",
-    "index.md",
-    "Preaching as circular not linear.md",
     "Timestamps/2025/06-June",
     "Timestamps/2025",
     "Timestamps",
@@ -325,8 +230,6 @@
     "Visuals/Zettelkasten_models_2025-04-15.png",
     "Visuals/Zettelkasten_mental-gym_2025-06-08.png",
     "Visuals/Zettelkasten_history_2025-04-18.png",
-    "Visuals",
-    "3_Permanent",
-    "Assets/make_useful_notes_v0-18-0_2023-07-24.pdf"
+    "Visuals"
   ]
 }
