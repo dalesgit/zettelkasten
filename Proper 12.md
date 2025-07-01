@@ -7,3 +7,4 @@ Readings
 Abraham is [[bargaining with God]] for the sake of the Sodomites.
 [[Christ is head of every ruler]] and authority
 Luke's [[Lord's prayer]] -- [[peristence in prayer]] -- [[ask and it shall be given]]
+[[preaching]]
