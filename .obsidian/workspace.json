@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post - Luhmann vs Digital Zettelkasten.md",
+                "file": "Personal Knowledge Management - Defined by AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Post - Luhmann vs Digital Zettelkasten"
+              "title": "Personal Knowledge Management - Defined by AI"
             }
           }
         ]
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +192,13 @@
   },
   "active": "f0eb3036d5f8ccaa",
   "lastOpenFiles": [
-    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
+    "pages/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
+    "Personal Knowledge Management - Defined by AI.md",
+    "pages/Post - Luhmann vs Digital Zettelkasten.md",
+    "Basic Zettelkasten vs Extended Digital Zettelkasten.md",
+    "+Daily Notes.md",
     "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
+    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
     "Timestamps/2025/06-June/2025-06-28-Saturday.md",
     "health.md",
     "Timestamps/2025/06-June/2025-06-30-Monday.md",
@@ -202,7 +208,6 @@
     "Timestamps/2025/06-June/2025-06-27-Friday.md",
     "power of words.md",
     "Timestamps/2025/06-June/2025-06-26-Thursday.md",
-    "+Daily Notes.md",
     "templates/Daily note template.md",
     "Timestamps/2025/07-July",
     "journal/2025-06-29.md",
@@ -215,10 +220,6 @@
     "God-talk.md",
     "Things I know experientially.md",
     "7 Days Created List.md",
-    "Obsidian Charts - Plugin.md",
-    "10 minutes to Zettelkasten.md",
-    "Dialogue within the fractured American society.md",
-    "overview Zettelkasten.md",
     "Timestamps/2025/06-June",
     "Timestamps/2025",
     "Timestamps",
