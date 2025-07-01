@@ -11,10 +11,24 @@
             "id": "f0eb3036d5f8ccaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Post - Luhmann vs Digital Zettelkasten.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Post - Luhmann vs Digital Zettelkasten"
             }
           }
         ]
@@ -74,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -162,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +191,14 @@
   },
   "active": "f0eb3036d5f8ccaa",
   "lastOpenFiles": [
-    "health.md",
-    "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
-    "Timestamps/2025/06-June/2025-06-30-Monday.md",
     "Timestamps/2025/06-June/2025-06-29-Sunday.md",
+    "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
+    "Timestamps/2025/06-June/2025-06-28-Saturday.md",
+    "health.md",
+    "Timestamps/2025/06-June/2025-06-30-Monday.md",
     "Post - Luhmann vs Digital Zettelkasten.md",
     "Inbox.md",
     "Tom Li.md",
-    "Timestamps/2025/06-June/2025-06-28-Saturday.md",
     "Timestamps/2025/06-June/2025-06-27-Friday.md",
     "power of words.md",
     "Timestamps/2025/06-June/2025-06-26-Thursday.md",
