@@ -3,4 +3,5 @@
 	- what is the [[goal of the sermon?]]
 	- working with [[tyranny]] 
 - [[Things I know experientially]]
+- [[preaching]] 
 - 
