@@ -3,5 +3,8 @@
   "obsidian-charts",
   "dataview",
   "calendar",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-read-it-later",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-footnotes"
 ]

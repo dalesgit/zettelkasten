@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "244246d6d1e0d41e",
+        "id": "9fda9078e902dda0",
         "type": "tabs",
         "children": [
           {
-            "id": "f0eb3036d5f8ccaa",
+            "id": "eecf562b56611923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Management - Defined by AI.md",
+                "file": "Timestamps/2025/07-July/2025-07-04-Friday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Personal Knowledge Management - Defined by AI"
+              "title": "2025-07-04-Friday"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "image",
+                "query": "\"Good Goats\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "tyranny.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of tyranny"
             }
           },
           {
@@ -171,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,44 +187,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "f0eb3036d5f8ccaa",
+  "active": "5a69238350bfdba9",
   "lastOpenFiles": [
-    "pages/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
-    "Personal Knowledge Management - Defined by AI.md",
-    "pages/Post - Luhmann vs Digital Zettelkasten.md",
-    "Basic Zettelkasten vs Extended Digital Zettelkasten.md",
-    "+Daily Notes.md",
-    "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
-    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
-    "Timestamps/2025/06-June/2025-06-28-Saturday.md",
-    "health.md",
-    "Timestamps/2025/06-June/2025-06-30-Monday.md",
-    "Post - Luhmann vs Digital Zettelkasten.md",
-    "Inbox.md",
-    "Tom Li.md",
-    "Timestamps/2025/06-June/2025-06-27-Friday.md",
-    "power of words.md",
-    "Timestamps/2025/06-June/2025-06-26-Thursday.md",
+    "inbox/Fwd Richard Rohr’s Daily Meditation A Leading Voice for Liberation - dhath12@gmail.com - Gmail.md",
+    "inbox",
+    "Helder Camara.md",
+    "Timestamps/2025/07-July/2025-07-04-Friday.md",
+    "preaching.md",
+    "linnGoodGoatsHealing1994.md",
+    "Proper 12.md",
+    "Changing our metaphors.md",
+    "templates/basic-zotero-template.md",
+    "zotero",
+    "templates/annotation-zotero-template.md",
     "templates/Daily note template.md",
-    "Timestamps/2025/07-July",
-    "journal/2025-06-29.md",
-    "journal/2025-06-28.md",
-    "+Daily-Notes.md",
-    "+Daily-Notes.md.crswap",
-    "journal/2025-06-30.md",
-    "metaphor.md",
-    "analogical thinking.md",
-    "God-talk.md",
+    "Rosemerry Wahtola Trommer.md",
+    "Rabbi Or Rose.md",
+    "MP.md",
+    "tyranny.md",
     "Things I know experientially.md",
-    "7 Days Created List.md",
+    "ReadItLater Inbox/Note 2025-07-03 06-49-37.md",
+    "Starter-Kit/Home.md",
+    "Timestamps/2025/07-July/2025-07-03-Thursday.md",
+    "ReadItLater.md",
+    "Textsnippet.md",
+    "ReadItLater Inbox",
+    "Timestamps/2025/06-June/2025-06-26-Thursday.md",
+    "Timestamps/2025/06-June/2025-06-27-Friday.md",
+    "Timestamps/2025/06-June/2025-06-28-Saturday.md",
+    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
+    "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
+    "Timestamps/2025/07-July/2025-07-02-Wednesday.md",
+    "Timestamps/2025/07-July",
+    "+Daily-Notes.md.crswap",
     "Timestamps/2025/06-June",
     "Timestamps/2025",
     "Timestamps",
     "templates",
-    "Untitled",
     "Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
     "Starter-Kit/Visuals/IMG_0843.png",
     "Starter-Kit/Visuals/IMG_0099.PNG",
@@ -235,14 +238,12 @@
     "5_Structure/Canvases/About - 2_Literature Notes.canvas",
     "5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
     "5_Structure/Canvases",
-    "5_Structure",
     "Visuals/zettelkasten_maturity_2024-11-18.png",
     "Visuals/luhmann_vs_digital_2025-03-06.png",
     "Visuals/banner_books.jpg",
     "Visuals/Zettelkasten_usecase_model_2025-04-24.png",
     "Visuals/Zettelkasten_models_2025-04-15.png",
     "Visuals/Zettelkasten_mental-gym_2025-06-08.png",
-    "Visuals/Zettelkasten_history_2025-04-18.png",
-    "Visuals"
+    "Visuals/Zettelkasten_history_2025-04-18.png"
   ]
 }

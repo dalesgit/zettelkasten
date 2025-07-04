@@ -1,3 +1,4 @@
+#preaching 
 1. Everything we know or talk about comes down to [[metaphor]]
 2. God generally communicates with us via [[surprise]]
 3. Our "ordinary" experience is not the only reality -- [[deeper reality]]
