@@ -1,1 +1,0 @@
-- self examination of the image of God we carry around
