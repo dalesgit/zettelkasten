@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "57aae1b79550e93b",
+        "id": "fa93d4321ebda351",
         "type": "tabs",
         "children": [
           {
-            "id": "8a4de15abd6be9b4",
+            "id": "e8e5293c9ab9b721",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-08-Tuesday"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -192,15 +178,15 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "8a4de15abd6be9b4",
+  "active": "e8e5293c9ab9b721",
   "lastOpenFiles": [
+    "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+    "+Bob.md",
     "Untitled.md",
     "Untitled",
-    "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
     "banking.md",
     "Timestamps/2025/07-July/2025-07-07-Monday.md",
     "Timestamps/2025/07-July/2025-07-06-Sunday.md",
-    "+Bob.md",
     "Timestamps/2025/07-July/2025-07-05-Saturday.md",
     "chuGoodSoil2025.md",
     "resistance.md",
