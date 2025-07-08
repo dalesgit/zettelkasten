@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "17e027ca819c9dff",
+        "id": "57aae1b79550e93b",
         "type": "tabs",
         "children": [
           {
-            "id": "0025e286931b74f8",
+            "id": "8a4de15abd6be9b4",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-08-Tuesday"
             }
           }
         ]
@@ -73,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -178,11 +192,12 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "0025e286931b74f8",
+  "active": "8a4de15abd6be9b4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
     "banking.md",
-    "Untitled.md",
     "Timestamps/2025/07-July/2025-07-07-Monday.md",
     "Timestamps/2025/07-July/2025-07-06-Sunday.md",
     "+Bob.md",
@@ -206,7 +221,6 @@
     "critical thinking.md",
     "inbox/After 47 years in the US, Ice took this Iranian mother from her yard. Her family just wants her home  US immigration  The Guardian.md",
     "ReadItLater Inbox/How to type special characters and symbols on a Chromebook.md",
-    "inbox/Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson.md",
     "inbox",
     "zotero",
     "ReadItLater Inbox",
@@ -215,7 +229,6 @@
     "Timestamps/2025/06-June",
     "Timestamps/2025",
     "Timestamps",
-    "templates",
     "Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
     "Starter-Kit/Visuals/IMG_0843.png",
     "Starter-Kit/Visuals/IMG_0099.PNG",
