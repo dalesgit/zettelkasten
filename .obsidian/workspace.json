@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afd5a7ff00ea0580",
+        "id": "17e027ca819c9dff",
         "type": "tabs",
         "children": [
           {
-            "id": "08c4cac2a8c8c1ac",
+            "id": "0025e286931b74f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-06-Sunday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-06-Sunday"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -193,11 +178,15 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "08c4cac2a8c8c1ac",
+  "active": "0025e286931b74f8",
   "lastOpenFiles": [
+    "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+    "banking.md",
+    "Untitled.md",
+    "Timestamps/2025/07-July/2025-07-07-Monday.md",
+    "Timestamps/2025/07-July/2025-07-06-Sunday.md",
     "+Bob.md",
     "Timestamps/2025/07-July/2025-07-05-Saturday.md",
-    "Timestamps/2025/07-July/2025-07-06-Sunday.md",
     "chuGoodSoil2025.md",
     "resistance.md",
     "inbox/JD Vance Sending ICE Billions Is More Important Than Your Grandma’s Medicaid  Vanity Fair.md",
@@ -218,10 +207,6 @@
     "inbox/After 47 years in the US, Ice took this Iranian mother from her yard. Her family just wants her home  US immigration  The Guardian.md",
     "ReadItLater Inbox/How to type special characters and symbols on a Chromebook.md",
     "inbox/Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson.md",
-    "inbox/Neil deGrasse Tyson Lists 8 (Free) Books Every Intelligent Person Should Read  Open Culture.md",
-    "inbox/5 stories that teach you philosophy (better than some philosophy books) - Big Think.md",
-    "Timestamps/2025/07-July/2025-07-03-Thursday.md",
-    "Timestamps/2025/07-July/2025-07-02-Wednesday.md",
     "inbox",
     "zotero",
     "ReadItLater Inbox",

@@ -1,10 +1,11 @@
 [
-  "obsidian-banners",
   "obsidian-charts",
   "dataview",
   "calendar",
   "templater-obsidian",
   "obsidian-read-it-later",
   "obsidian-zotero-desktop-connector",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "beautitab",
+  "obsidian-minimal-settings"
 ]
