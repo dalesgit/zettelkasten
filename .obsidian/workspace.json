@@ -11,9 +11,24 @@
             "id": "e8e5293c9ab9b721",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-08-Tuesday"
             }
           }
         ]
@@ -148,7 +163,7 @@
             }
           },
           {
-            "id": "b7761cf85aa2df06",
+            "id": "d53e0c40f91f7a59",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -181,8 +196,8 @@
   "active": "e8e5293c9ab9b721",
   "lastOpenFiles": [
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
-    "+Bob.md",
     "Untitled.md",
+    "+Bob.md",
     "Untitled",
     "banking.md",
     "Timestamps/2025/07-July/2025-07-07-Monday.md",
