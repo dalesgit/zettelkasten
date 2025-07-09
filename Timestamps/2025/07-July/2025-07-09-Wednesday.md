@@ -1,9 +1,11 @@
 ---
-created: 2025-07-08 08:20
-source: https://dannb.org/blog/2022/obsidian-daily-note-template/
-banner:
+created: 2025-07-09 04:42
+source: https://dannb.org/blog/2022/obsidian-daily-note-template/ & https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/21?u=gibson
 ---
 tags:: [[+Daily Notes]]
+
+# Wednesday, July 09, 2025
+
 ```dataviewjs
 /*
     previous/next note by date for Daily Notes
@@ -34,25 +36,31 @@ nav.push(next ? '[[' + next[0] + ']]' : none);
 //dv.paragraph(nav.join(" · "));
 dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 ```
-# Tuesday, July 08, 2025
-
-<< [[Timestamps/2025/07-July/2025-07-07-Monday|Yesterday]] | [[Timestamps/2025/07-July/2025-07-09-Wednesday|Tomorrow]] >>
-
 ---
 ### 📅 Daily Questions
+##### 🌜 From yesterday I could have done better … 
+- Deal with stressors. The car not starting caused a fair amount. N.B. my high glucose readings the past several days. #health 
+
+##### 🙌 One thing I'm excited about right now is …
+- The wireless noise-canceling headphones. [[MP]] may want some also, for flying.
+
+##### 🚀 One+ thing I plan to accomplish today is …
+- [ ] 
+
+##### 👎 One thing I'm struggling with today is …
+- 
 
 ---
 # 📝 Notes
-- [[funeral]] for Carl Federer #funeral 
-- from email re. Charles de [[Foucauld]] 
+- 
 
 ---
 ### Notes created today
 ```dataview
-List FROM "" WHERE file.cday = date("2025-07-08") SORT file.ctime asc
+List FROM "" WHERE file.cday = date("2025-07-09") SORT file.ctime asc
 ```
 
 ### Notes last touched today
 ```dataview
-List FROM "" WHERE file.mday = date("2025-07-08") SORT file.mtime asc
+List FROM "" WHERE file.mday = date("2025-07-09") SORT file.mtime asc
 ```

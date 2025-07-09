@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8df7468e767316b",
+        "id": "4a17e16374d9dc11",
         "type": "tabs",
         "children": [
           {
-            "id": "355cd71b926652d9",
+            "id": "f51f3fa8913427f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foucauld.md",
+                "file": "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Foucauld"
+              "title": "2025-07-09-Wednesday"
             }
           }
         ]
@@ -84,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,20 +193,27 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "355cd71b926652d9",
+  "active": "f51f3fa8913427f9",
   "lastOpenFiles": [
+    "+Daily Notes.md",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+    "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
+    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
+    "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
+    "Timestamps/2025/07-July/2025-07-02-Wednesday.md",
+    "Timestamps/2025/07-July/2025-07-03-Thursday.md",
+    "Timestamps/2025/07-July/2025-07-04-Friday.md",
+    "Timestamps/2025/07-July/2025-07-05-Saturday.md",
+    "Timestamps/2025/07-July/2025-07-06-Sunday.md",
+    "Timestamps/2025/07-July/2025-07-07-Monday.md",
+    "templates/Daily note template.md",
     "Foucauld.md",
     "inbox/ICE detentions of non-criminal immigrants spike; about 8% have violent convictions, analysis of new data shows - CBS News.md",
-    "templates/Daily note template.md",
     "funeral.md",
     "Untitled.md",
     "+Bob.md",
     "Untitled",
     "banking.md",
-    "Timestamps/2025/07-July/2025-07-07-Monday.md",
-    "Timestamps/2025/07-July/2025-07-06-Sunday.md",
-    "Timestamps/2025/07-July/2025-07-05-Saturday.md",
     "chuGoodSoil2025.md",
     "resistance.md",
     "inbox/JD Vance Sending ICE Billions Is More Important Than Your Grandma’s Medicaid  Vanity Fair.md",
@@ -214,14 +222,7 @@
     "inbox/Episcopal Church Executive Council Opening remarks from Presiding Bishop Sean Rowe – The Episcopal Church.md",
     "inbox/personal/11 Little Things Classy People Have In Their Homes, No Matter How Much Money They Make  YourTango.md",
     "inbox/personal/How to Clean Blueberries With Baking Soda or Vinegar.md",
-    "inbox/personal/6 daily rituals scientists link to long-lasting marriages – VegOut.md",
-    "inbox/personal/10 behaviors highly intelligent people never display in public – VegOut.md",
-    "inbox/personal/6 Things to Avoid After 5 P.M. for Better Blood Sugar Control.md",
-    "inbox/personal/Glucose monitors can help tame blood sugar spikes and crashes  NPR.md",
     "inbox/personal",
-    "Timestamps/2025/07-July/2025-07-04-Friday.md",
-    "thought.md",
-    "critical thinking.md",
     "inbox",
     "zotero",
     "ReadItLater Inbox",
