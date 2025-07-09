@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa93d4321ebda351",
+        "id": "b8df7468e767316b",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e5293c9ab9b721",
+            "id": "355cd71b926652d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+                "file": "Foucauld.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-08-Tuesday"
+              "title": "Foucauld"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Good Goats\"",
+                "query": "tag:#and",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -138,7 +138,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,9 +192,13 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "e8e5293c9ab9b721",
+  "active": "355cd71b926652d9",
   "lastOpenFiles": [
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+    "Foucauld.md",
+    "inbox/ICE detentions of non-criminal immigrants spike; about 8% have violent convictions, analysis of new data shows - CBS News.md",
+    "templates/Daily note template.md",
+    "funeral.md",
     "Untitled.md",
     "+Bob.md",
     "Untitled",
@@ -206,7 +209,6 @@
     "chuGoodSoil2025.md",
     "resistance.md",
     "inbox/JD Vance Sending ICE Billions Is More Important Than Your Grandma’s Medicaid  Vanity Fair.md",
-    "inbox/ICE detentions of non-criminal immigrants spike; about 8% have violent convictions, analysis of new data shows - CBS News.md",
     "inbox/The David Frum Show Trump’s Betrayal of Ukraine - The Atlantic.md",
     "inbox/Peter Thiel’s Palantir poses a grave threat to Americans  Robert Reich  The Guardian.md",
     "inbox/Episcopal Church Executive Council Opening remarks from Presiding Bishop Sean Rowe – The Episcopal Church.md",
@@ -220,8 +222,6 @@
     "Timestamps/2025/07-July/2025-07-04-Friday.md",
     "thought.md",
     "critical thinking.md",
-    "inbox/After 47 years in the US, Ice took this Iranian mother from her yard. Her family just wants her home  US immigration  The Guardian.md",
-    "ReadItLater Inbox/How to type special characters and symbols on a Chromebook.md",
     "inbox",
     "zotero",
     "ReadItLater Inbox",

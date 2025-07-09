@@ -1,6 +1,10 @@
 ---
 created: 2025-07-03T17:18:42 (UTC -04:00)
-tags: [Immigration,U.S. Immigration and Customs Enforcement,Trump Administration]
+tags:
+  - Immigration
+  - Customs
+  - Enforcement
+  - Trump
 source: https://www.cbsnews.com/news/ice-detentions-non-criminal-immigrants-violent-crime-convictions-analysis/
 author: Julia  Ingram
 ---
