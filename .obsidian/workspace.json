@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a17e16374d9dc11",
+        "id": "5e55b2a454aa83f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f51f3fa8913427f9",
+            "id": "21fa18a9206dffa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-09-Wednesday"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -193,11 +178,11 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "f51f3fa8913427f9",
+  "active": "21fa18a9206dffa0",
   "lastOpenFiles": [
+    "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
     "+Daily Notes.md",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
-    "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
     "Timestamps/2025/06-June/2025-06-29-Sunday.md",
     "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
     "Timestamps/2025/07-July/2025-07-02-Wednesday.md",

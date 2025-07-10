@@ -45,14 +45,15 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 - The wireless noise-canceling headphones. [[MP]] may want some also, for flying.
 
 ##### 🚀 One+ thing I plan to accomplish today is …
-- [ ] 
+- [ ]exercise
+- 
 
 ##### 👎 One thing I'm struggling with today is …
-- 
+- [[MP]] sent this prayer: 
 
 ---
 # 📝 Notes
-- 
+- "I try to not lie at funerals." (They're especially prone to clichés and platitudes.)  [[funeral]]
 
 ---
 ### Notes created today
