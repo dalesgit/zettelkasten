@@ -11,9 +11,24 @@
             "id": "21fa18a9206dffa0",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "raisins-with-almonds/raisins-contents.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "raisins-contents"
             }
           }
         ]
@@ -180,6 +195,8 @@
   },
   "active": "21fa18a9206dffa0",
   "lastOpenFiles": [
+    "Timestamps/2025/07-July/2025-07-10-Thursday.md",
+    "raisins-with-almonds/raisins-contents.md",
     "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
     "+Daily Notes.md",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
@@ -205,8 +222,6 @@
     "inbox/The David Frum Show Trump’s Betrayal of Ukraine - The Atlantic.md",
     "inbox/Peter Thiel’s Palantir poses a grave threat to Americans  Robert Reich  The Guardian.md",
     "inbox/Episcopal Church Executive Council Opening remarks from Presiding Bishop Sean Rowe – The Episcopal Church.md",
-    "inbox/personal/11 Little Things Classy People Have In Their Homes, No Matter How Much Money They Make  YourTango.md",
-    "inbox/personal/How to Clean Blueberries With Baking Soda or Vinegar.md",
     "inbox/personal",
     "inbox",
     "zotero",

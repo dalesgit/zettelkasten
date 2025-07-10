@@ -1,4 +1,6 @@
 {
   "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Baskerville",
+  "baseFontSize": 18
 }

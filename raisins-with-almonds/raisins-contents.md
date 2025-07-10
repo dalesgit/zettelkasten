@@ -12,3 +12,14 @@
 - Mel Brooks and Carl Reiner. "21,000 Doctors" from 2000 and Thirteen: Warner Bros. LP BS-2741.
 - Satmar Chassidim, of Bnei Brak, Israel. "Shiru Lol" (Rabbi J. Ashkenazi) from Satmar Nigunim: House of Menorah, New York, LPM-190
 - Glora Feldman, clarinet (with Ori Harpaz, guitar, and Moshe Schprecher, bass). "The Western Wall Remembers" (Isaacher Miron) from "Long Live Glora, His Clarinet and His Soul Music!": Star Record Co., New York, LP ST AE-76A/B. (also "Nachman's Twinkling" and "Blessed be the Lord of the universe" from the same record are heard later in the program. Maestro Feldman is principal Bass Clarinet of the Israel Philharmonic Orchestra, and the album title is a quote from a statement by Leonard Bernstein.)
+- A grandmother, from Zhitomie, Russia. "A-a lyu lyu" from **Jewish Life "The Old Country**" Collected and Edited by Ruth Rubin: FOlkways LP FG 3801 (Also a Chassidic song without words heard following the Shofar, sung by a grandfather born in Lodz, Poland, is from the same collection.) "A-a lyu lyu" follows Cantor Waldman.
+- Maurice Schwartz (singing), "S' Fuhrt A Yid Oif A Shiff" from **Maurice Schwartz** (including dramatic and comedy  monologues): Banner Records, New York, LP BAS-1008
+- Arnold Miller's Shabbat Folk Service (excerpt). "Yih' Yu L'Ratzon" briefly included in **The American Jewish Experience in Song**: The Bicentennial Recording of the Board of Jewish Education of Metropolitan Chicago.
+- Irving Howe. A reading of the closing paragraphs of Mr. Howe's book **World of Our Fathers** (New York: Simon and Schuster, 1976) as it was given by the author during a 1976 WFMT/Studs Terkel interview.
+- **Cantor Leibele Waldman**. "Letichoch" from **The Best Cantorial Works of Leibele Waldman**: The Greater Recording Co., New York, LP GRC-164.
+- **Yehuda Lev**. The narration of a circumcision ceremony in Jerusalem from his album **The Sounds of Jerusalem** (Produced, Edited and Narrated by Yehuda Lev): Folkways LP FW-8552.
+- **Richard Tucker**, tenor. "*Rozhinkes Mit Mandlin*" (Avram Goldfaden) from "**Rozhinkes Mit Mandlin**": CBS Records Ltd., Tel Aviv, LP CBS-81421. (Also available in the Columbia D3M-33448 (3-12 LP's) album **In Memoriam Richard Tucker.**)
+- **Soloists, Orchestra and Chorus of the Bucharest State Jewish Theatre.** Excerpts from "*The Witch*" and "*Shulamis*" (Avram Goldfaden) from **Highlights from Goldfaden Operettas:** Electrecord Records, Romania, LPECE-0201.
+- **Shai Ophir (Professor Higgins**) and Avraham Ben-Joseph (Colonel Pickering). "Hymn to Him" from Giora Godik's original Israel Hebrew cast profuction of **My Fair Lady:** CBS Records Ltd., Tel Aviv, LP CBS-72201.
+- **Maurice Samuel.** Reading from his "*The World of Sholom Aleichem* " (the tale of the Talmud student who has an answer in search of a question) from **Maurice Samuel Reading from His Works** (including "Prince of the Ghetto"): Spoken ARts LP SA-1021
+- **Cantor Moishe Oysher. "*Ma-Toiv*"
