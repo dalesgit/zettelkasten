@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proper 12.md",
+                "file": "Timestamps/2025/07-July/2025-07-11-Friday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,89 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Proper 12"
+              "title": "2025-07-11-Friday"
             }
           }
         ]
+      },
+      {
+        "id": "888e870fa4e60d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77f9e885809758e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "preaching.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "preaching"
+            }
+          },
+          {
+            "id": "c5983a8a08affa1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "christian burial.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "christian burial"
+            }
+          },
+          {
+            "id": "a1db0da46a661fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sacred.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sacred"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,6 +274,12 @@
   },
   "active": "74548e1324a501d9",
   "lastOpenFiles": [
+    "sacred.md",
+    "christian burial.md",
+    "preaching.md",
+    "Carl Feddeler.md",
+    "Timestamps/2025/07-July/2025-07-11-Friday.md",
+    "Proper 12.md",
     "Timestamps/2025/07-July/2025-07-10-Thursday.md",
     "stress.md",
     "BHAG.md",
@@ -215,13 +300,7 @@
     "Timestamps/2025/07-July/2025-07-07-Monday.md",
     "templates/Daily note template.md",
     "Foucauld.md",
-    "inbox/ICE detentions of non-criminal immigrants spike; about 8% have violent convictions, analysis of new data shows - CBS News.md",
-    "funeral.md",
-    "Untitled.md",
-    "+Bob.md",
     "Untitled",
-    "banking.md",
-    "chuGoodSoil2025.md",
     "inbox/personal",
     "inbox",
     "zotero",
