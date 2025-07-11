@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e55b2a454aa83f1",
+        "id": "caafd239ebf8f616",
         "type": "tabs",
         "children": [
           {
-            "id": "21fa18a9206dffa0",
+            "id": "74548e1324a501d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raisins-with-almonds/raisins-contents.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "raisins-contents"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -193,9 +178,12 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "21fa18a9206dffa0",
+  "active": "74548e1324a501d9",
   "lastOpenFiles": [
+    "spiritual director.md",
     "Timestamps/2025/07-July/2025-07-10-Thursday.md",
+    "life-in-community.md",
+    "Rule of life.md",
     "raisins-with-almonds/raisins-contents.md",
     "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
     "+Daily Notes.md",
@@ -219,9 +207,6 @@
     "chuGoodSoil2025.md",
     "resistance.md",
     "inbox/JD Vance Sending ICE Billions Is More Important Than Your Grandma’s Medicaid  Vanity Fair.md",
-    "inbox/The David Frum Show Trump’s Betrayal of Ukraine - The Atlantic.md",
-    "inbox/Peter Thiel’s Palantir poses a grave threat to Americans  Robert Reich  The Guardian.md",
-    "inbox/Episcopal Church Executive Council Opening remarks from Presiding Bishop Sean Rowe – The Episcopal Church.md",
     "inbox/personal",
     "inbox",
     "zotero",
