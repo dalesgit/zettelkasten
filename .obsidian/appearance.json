@@ -1,6 +1,10 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "theme": "obsidian",
-  "textFontFamily": "Baskerville",
-  "baseFontSize": 18
+  "textFontFamily": "Cambria,Baskerville",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Cambria,Baskerville",
+  "enabledCssSnippets": [
+    "myfont"
+  ]
 }

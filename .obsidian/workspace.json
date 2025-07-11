@@ -11,9 +11,24 @@
             "id": "74548e1324a501d9",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Proper 12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Proper 12"
             }
           }
         ]
@@ -180,11 +195,13 @@
   },
   "active": "74548e1324a501d9",
   "lastOpenFiles": [
-    "spiritual director.md",
     "Timestamps/2025/07-July/2025-07-10-Thursday.md",
+    "stress.md",
+    "BHAG.md",
+    "raisins-with-almonds/raisins-contents.md",
+    "spiritual director.md",
     "life-in-community.md",
     "Rule of life.md",
-    "raisins-with-almonds/raisins-contents.md",
     "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
     "+Daily Notes.md",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
@@ -205,8 +222,6 @@
     "Untitled",
     "banking.md",
     "chuGoodSoil2025.md",
-    "resistance.md",
-    "inbox/JD Vance Sending ICE Billions Is More Important Than Your Grandma’s Medicaid  Vanity Fair.md",
     "inbox/personal",
     "inbox",
     "zotero",
