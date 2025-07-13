@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34d28a881043410c",
+        "id": "8cdf305f8b99fc08",
         "type": "tabs",
         "children": [
           {
-            "id": "9937253a2dc50256",
+            "id": "5e6618df02b7b6d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/07-July/2025-07-12-Saturday.md",
+                "file": "Timestamps/2025/07-July/2025-07-13-Sunday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-12-Saturday"
-            }
-          },
-          {
-            "id": "940149b07bcc73c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-12-Saturday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-12-Saturday"
+              "title": "2025-07-13-Sunday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +163,7 @@
             }
           },
           {
-            "id": "d53e0c40f91f7a59",
+            "id": "e6329c7b863ef15d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -199,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,12 +193,13 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "940149b07bcc73c8",
+  "active": "5e6618df02b7b6d1",
   "lastOpenFiles": [
-    "orlando-checklist.md",
     "Timestamps/2025/07-July/2025-07-12-Saturday.md",
-    "feddeler funeral.md",
+    "Timestamps/2025/07-July/2025-07-13-Sunday.md",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+    "orlando-checklist.md",
+    "feddeler funeral.md",
     "Timestamps/2025/07-July/2025-07-11-Friday.md",
     "preaching.md",
     "christian burial.md",
@@ -246,7 +221,6 @@
     "Timestamps/2025/07-July/2025-07-02-Wednesday.md",
     "Timestamps/2025/07-July/2025-07-03-Thursday.md",
     "Timestamps/2025/07-July/2025-07-04-Friday.md",
-    "Timestamps/2025/07-July/2025-07-05-Saturday.md",
     "Untitled",
     "inbox/personal",
     "inbox",
