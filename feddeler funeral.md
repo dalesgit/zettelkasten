@@ -1,5 +1,5 @@
-- BCP note
-- Silversword story
+- [[Gilgamesh]] -- oldest human story. What to say? 
+- [[BCP note on death]]- L. Weil -- whoever it is, whatever the story, it's about [[baptism]], new life, restoration, community (connections)
 - Seeing him left me feeling "a man secure in his place"
-- Gilgamesh -- oldest human story. What to say? 
-- L. Weil -- whoever it is, whatever the story, it's about baptism, new life, restoration, community (connections)
+- [[Silversword story]]
+- Funerals above all a [[Sacred]] time

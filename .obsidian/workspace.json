@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8cdf305f8b99fc08",
+        "id": "e61f4188a20bea5c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e6618df02b7b6d1",
+            "id": "0aeeb9f40ab0af6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-13-Sunday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-13-Sunday"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -193,13 +178,18 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "5e6618df02b7b6d1",
+  "active": "0aeeb9f40ab0af6c",
   "lastOpenFiles": [
-    "Timestamps/2025/07-July/2025-07-12-Saturday.md",
+    "feddeler funeral.md",
+    "inbox/baptism.md",
+    "inbox/BCP note on death.md",
+    "inbox/Gilgamesh.md",
+    "Silversword story.md",
+    "Pasted image 20250713093846.png",
     "Timestamps/2025/07-July/2025-07-13-Sunday.md",
+    "Timestamps/2025/07-July/2025-07-12-Saturday.md",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
     "orlando-checklist.md",
-    "feddeler funeral.md",
     "Timestamps/2025/07-July/2025-07-11-Friday.md",
     "preaching.md",
     "christian burial.md",
@@ -217,10 +207,6 @@
     "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
     "+Daily Notes.md",
     "Timestamps/2025/06-June/2025-06-29-Sunday.md",
-    "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
-    "Timestamps/2025/07-July/2025-07-02-Wednesday.md",
-    "Timestamps/2025/07-July/2025-07-03-Thursday.md",
-    "Timestamps/2025/07-July/2025-07-04-Friday.md",
     "Untitled",
     "inbox/personal",
     "inbox",
@@ -245,7 +231,6 @@
     "Visuals/banner_books.jpg",
     "Visuals/Zettelkasten_usecase_model_2025-04-24.png",
     "Visuals/Zettelkasten_models_2025-04-15.png",
-    "Visuals/Zettelkasten_mental-gym_2025-06-08.png",
-    "Visuals/Zettelkasten_history_2025-04-18.png"
+    "Visuals/Zettelkasten_mental-gym_2025-06-08.png"
   ]
 }
