@@ -11,12 +11,52 @@
             "id": "0aeeb9f40ab0af6c",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2025/07-July/2025-07-15-Tuesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-15-Tuesday"
+            }
+          },
+          {
+            "id": "1c0117d32457b666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "feddeler funeral.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "feddeler funeral"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,15 +218,16 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "0aeeb9f40ab0af6c",
+  "active": "1c0117d32457b666",
   "lastOpenFiles": [
+    "Timestamps/2025/07-July/2025-07-15-Tuesday.md",
+    "Timestamps/2025/07-July/2025-07-13-Sunday.md",
     "feddeler funeral.md",
     "inbox/baptism.md",
     "inbox/BCP note on death.md",
     "inbox/Gilgamesh.md",
     "Silversword story.md",
     "Pasted image 20250713093846.png",
-    "Timestamps/2025/07-July/2025-07-13-Sunday.md",
     "Timestamps/2025/07-July/2025-07-12-Saturday.md",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
     "orlando-checklist.md",
@@ -206,7 +247,6 @@
     "Rule of life.md",
     "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
     "+Daily Notes.md",
-    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
     "Untitled",
     "inbox/personal",
     "inbox",
