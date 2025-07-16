@@ -1,4 +1,4 @@
-I didn't know Carl the way most of you did. The reason you all are here is because you can tell the poignant, funny, sad, unexpected, long-forgotten stories about him. I can't do that. I've only been attending St. Alfred's for a couple of years, and I only know Carl from the time that I became aware that there was this tall well-dressed man who sat in the same seat every week. For the most part, when I extended my hand in greeting, he smiled back warmly and kind of nodded.
+I did 't know Carl the way most of you did. The reason you all are here is because you can tell the poignant, funny, sad, unexpected, long-forgotten stories about him. I can't do that. I've only been attending St. Alfred's for a couple of years, and I only know Carl from the time that I became aware that there was this tall well-dressed man who sat in the same seat every week. For the most part, when I extended my hand in greeting, he smiled back warmly and kind of nodded.
 
 Seeing him left me feeling something like "there's a man who is secure in his place in the world. He knows who he is and he's ok with that. He know's where he's come from ankd he's ok with that. He knows whose he is and where he's headed and he's ok with that.
 
@@ -16,16 +16,15 @@ According to National Park Service, this event typically occurs after 20 to 50 y
 
 ![[Pasted image 20250713093846.png]]
 
-There was only one Carl ... -- though there are several others in our midst today. 
+There was only one Carl ... -- though there are several others in our midst today.
 
 - [[BCP note on death]]- L. Weil -- whoever it is, whatever the story, it's about [[baptism]], new life, restoration, community (connections)
 
 > **Note:**
 > The liturgy for the dead is an Easter liturgy. It finds all meaning in the resurrection. Because Jesus was raised from the dead, we too, shall be raised.
 >
-The liturgy, therefore, is characterized by joy, in the certainty that "neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
+> The liturgy, therefore, is characterized by joy, in the certainty that "neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
 >
-This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn.
+> This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn.
 
 Funerals above all a [[Sacred]] time when we recognize and celebrate the life of one of the saints who has completed the course of life prepared before he was even born.
-
