@@ -6,9 +6,7 @@ I want you to know that every time I saw him -- even more when he smiled and nod
 
 It was fairly early in my life that I learned about how the trajectory of one's life is, or ought to be, a process of being who you were made to be. That life is made up of not the number of breaths you take but the number of moments that take your breath away. When I saw Carl, I thought of someone who had done well in becoming who he was meant to be.
 
-The silversword plant illustrates the principle.
-
-- [[Silversword story]]
+The silversword plant illustrates the principle. I only know about this plant because it is the it is the mascot of the athletic teams of Chaminade University and I taught there for a few years after I retired from parish ministry.
 
 BLOOMS ONCE IN IT'S LIFETIME.... THEN DIES
 
@@ -18,9 +16,16 @@ According to National Park Service, this event typically occurs after 20 to 50 y
 
 ![[Pasted image 20250713093846.png]]
 
-- [[Gilgamesh]] -- oldest human story. It is essentially a reflection on trying to make sense of the death of a human being. What to say?
+There was only one Carl ... -- though there are several others in our midst today. 
 
 - [[BCP note on death]]- L. Weil -- whoever it is, whatever the story, it's about [[baptism]], new life, restoration, community (connections)
+
+> **Note:**
+> The liturgy for the dead is an Easter liturgy. It finds all meaning in the resurrection. Because Jesus was raised from the dead, we too, shall be raised.
+>
+The liturgy, therefore, is characterized by joy, in the certainty that "neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
+>
+This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn.
 
 Funerals above all a [[Sacred]] time when we recognize and celebrate the life of one of the saints who has completed the course of life prepared before he was even born.
 
