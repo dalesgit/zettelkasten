@@ -1,12 +1,38 @@
+## Opening
 I did 't know Carl the way most of you did. The reason you all are here is because you can tell the poignant, funny, sad, unexpected, long-forgotten stories about him. I can't do that. I've only been attending St. Alfred's for a couple of years, and I only know Carl from the time that I became aware that there was this tall well-dressed man who sat in the same seat every week. For the most part, when I extended my hand in greeting, he smiled back warmly and kind of nodded.
 
-Seeing him left me feeling something like "there's a man who is secure in his place in the world. He knows who he is and he's ok with that. He know's where he's come from ankd he's ok with that. He knows whose he is and where he's headed and he's ok with that.
+Seeing him left me feeling something like "there's a man who is secure in his place in the world. He knows who he is and he's OK with that. He know's where he's come from and he's OK with that. He knows whose he is and where he's headed and he's OK with that.
 
-I want you to know that every time I saw him -- even more when he smiled and nodded as I shared the peace -- I felt a little better about myself and my own place in the universe.
+I want you to know that every time I saw him -- even more when he smiled and nodded as I shared the peace -- I felt a little bit better about myself and my own place in the universe.
 
-It was fairly early in my life that I learned about how the trajectory of one's life is, or ought to be, a process of being who you were made to be. That life is made up of not the number of breaths you take but the number of moments that take your breath away. When I saw Carl, I thought of someone who had done well in becoming who he was meant to be.
+Death confronts us with a hard rock of reality. We are mortals and to dust we shall return. The very oldest piece of human writing attempting to make sense of the absence of one who so shortly ago was present. 
 
-The silversword plant illustrates the principle. I only know about this plant because it is the it is the mascot of the athletic teams of Chaminade University and I taught there for a few years after I retired from parish ministry.
+Just being in Carl's presence left me feeling that, there is one who knows **who he is and whose he is.** 
+
+## Baptism and Resurrection
+
+[[BCP note on death]]- It was not until I was into my 20's that I had to grapple with the reality of death. (That's my story and not particularly relevant here.) One of my teachers at seminary was the first to impress on me that from the perspective of the Church, it's all about the Resurrection. He said whatever the circumstances surrounding a funeral,   -- whoever it is, whatever the story, -- he would about [[baptism]], new life, restoration, community (connections). 
+
+Our prayer book includes this note:
+
+> **Note:**
+> The liturgy for the dead is an Easter liturgy. It finds all meaning in the resurrection. Because Jesus was raised from the dead, we too, shall be raised.
+>
+> The liturgy, therefore, is characterized by joy, in the certainty that "neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
+>
+> This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn.
+
+In the intervening years I have often used the phrase "Who we are and Whose we are" to describe the lifelong process of living into our baptism. 
+
+In a very long tradition in the church, the Easter candle (that stands here at the center) is lit for the first time at Easter and then burns for 50 days throughout the Easter season. A week of weeks, 7 times 7, and a day. Until the Day of Pentecost. 
+
+It is lit on 2 other occasions. "Because it's all about Resurrection." At baptisms and at funerals.
+
+It was fairly early in my life that I learned about how the trajectory of one's life is, or ought to be, a process of being who you were made to be. That life is made up of not the **number of breaths you take but the number of moments that take your breath away**. When I saw Carl, I thought of someone who had done well in becoming who he was meant to be. 
+
+## And it takes a lifetime
+
+The silversword plant illustrates the principle. I only know about this plant because it is the mascot of the athletic teams of Chaminade University in Honolulu. I taught there for a few years after I retired from parish ministry.
 
 BLOOMS ONCE IN IT'S LIFETIME.... THEN DIES
 
@@ -16,15 +42,13 @@ According to National Park Service, this event typically occurs after 20 to 50 y
 
 ![[Pasted image 20250713093846.png]]
 
-There was only one Carl ... -- though there are several others in our midst today.
+## Closing
 
-- [[BCP note on death]]- L. Weil -- whoever it is, whatever the story, it's about [[baptism]], new life, restoration, community (connections)
+There was only one Carl ... -- though there are several others in our midst today. The passing of generations is at the very least a symbol of our connections to one another, connections that transcend all the birthing and passing we experience.
 
-> **Note:**
-> The liturgy for the dead is an Easter liturgy. It finds all meaning in the resurrection. Because Jesus was raised from the dead, we too, shall be raised.
->
-> The liturgy, therefore, is characterized by joy, in the certainty that "neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
->
-> This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn.
+Funerals are a time when we are especially aware of our connections. 
 
-Funerals above all a [[Sacred]] time when we recognize and celebrate the life of one of the saints who has completed the course of life prepared before he was even born.
+> Time past and time future/ What might have been and what has been /Point to one end, which is always present. *Burnt Norton*, T.S. Eliot
+
+Funerals are above all a [[Sacred]] time when we recognize and celebrate the life of one of the saints who has completed their own course of life, all the way through to the magnificent blossom that appears at the end. **Silversword.** Saint. Beloved. Father, Son, Grandfather, friend, spouse, ...
+
