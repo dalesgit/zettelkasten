@@ -54,7 +54,8 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 # 📝 Notes
 - [[feddeler funeral]] 
 - word count in nvim, lazy: https://youtu.be/6mxWayq-s9I
-- 
+	- from https://github.com/skwee357/nvim-prose/blob/main/lua/nvim-prose/init.lua I got the app working as per setup in ./config/nvim
+	- I also figured how to adjust the reading time. It seems  like maybe ca. 100 wpm might be an estimate for sermon. Default is 200. 
 
 ---
 ### Notes created today
