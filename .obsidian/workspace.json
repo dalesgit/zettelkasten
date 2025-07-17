@@ -4,83 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e61f4188a20bea5c",
+        "id": "771e78a79139d01e",
         "type": "tabs",
         "children": [
           {
-            "id": "0aeeb9f40ab0af6c",
+            "id": "d56ff9425fa65095",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-15-Tuesday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-15-Tuesday"
-            }
-          },
-          {
-            "id": "1c0117d32457b666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-16-Wednesday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-16-Wednesday"
-            }
-          },
-          {
-            "id": "cb991b8a805bffd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/BCP note on death.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BCP note on death"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +178,15 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "1c0117d32457b666",
+  "active": "d56ff9425fa65095",
   "lastOpenFiles": [
-    "feddeler funeral.md",
-    "Timestamps/2025/07-July/2025-07-16-Wednesday.md",
-    "Timestamps/2025/07-July/2025-07-15-Tuesday.md",
     "inbox/BCP note on death.md",
+    "Timestamps/2025/07-July/2025-07-15-Tuesday.md",
+    "inbox/Inspect Index Visuals.md",
+    "Starter-Kit/5_Structure/Inspect View.md",
+    "Timestamps/2025/07-July/2025-07-17-Thursday.md",
+    "Timestamps/2025/07-July/2025-07-16-Wednesday.md",
+    "feddeler funeral.md",
     "Timestamps/2025/07-July/2025-07-13-Sunday.md",
     "inbox/baptism.md",
     "inbox/Gilgamesh.md",
@@ -268,9 +207,6 @@
     "BHAG.md",
     "raisins-with-almonds/raisins-contents.md",
     "spiritual director.md",
-    "life-in-community.md",
-    "Rule of life.md",
-    "Timestamps/2025/07-July/2025-07-09-Wednesday.md",
     "Untitled",
     "inbox/personal",
     "inbox",
