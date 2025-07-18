@@ -6,5 +6,5 @@ The Haleakalā silversword, found only on the high slopes of Maui’s Haleakalā
 
 According to National Park Service, this event typically occurs after 20 to 50 years though some may flower as early as 7 years depending on environmental conditions. This final act of beauty lasts only about seven days. And then, having poured every ounce of stored energy into reproduction, the plant dies. It’s a symbol of endurance, timing, and the profound rewards of waiting. In a world driven by urgency, it stands as a quiet reminder: some of nature’s most magnificent displays require a lifetime to unfold.
 
-![[Pasted image 20250713093846.png]]
+![[silversword.png]]
 

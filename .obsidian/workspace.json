@@ -11,9 +11,12 @@
             "id": "d56ff9425fa65095",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "silversword.png"
+              },
+              "icon": "lucide-image",
+              "title": "silversword"
             }
           }
         ]
@@ -73,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -178,20 +180,21 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "d56ff9425fa65095",
+  "active": "5a69238350bfdba9",
   "lastOpenFiles": [
+    "feddeler funeral.md",
+    "Timestamps/2025/07-July/2025-07-18-Friday.md",
     "inbox/BCP note on death.md",
     "Timestamps/2025/07-July/2025-07-15-Tuesday.md",
     "inbox/Inspect Index Visuals.md",
     "Starter-Kit/5_Structure/Inspect View.md",
     "Timestamps/2025/07-July/2025-07-17-Thursday.md",
     "Timestamps/2025/07-July/2025-07-16-Wednesday.md",
-    "feddeler funeral.md",
     "Timestamps/2025/07-July/2025-07-13-Sunday.md",
     "inbox/baptism.md",
     "inbox/Gilgamesh.md",
     "Silversword story.md",
-    "Pasted image 20250713093846.png",
+    "silversword.png",
     "Timestamps/2025/07-July/2025-07-12-Saturday.md",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
     "orlando-checklist.md",
@@ -206,7 +209,6 @@
     "stress.md",
     "BHAG.md",
     "raisins-with-almonds/raisins-contents.md",
-    "spiritual director.md",
     "Untitled",
     "inbox/personal",
     "inbox",
