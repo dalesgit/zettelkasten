@@ -1,3 +1,9 @@
+---
+title: Carl Feddeler Funeral
+author: St. Alfred's Church
+date: July 18, 2025
+---
+
 _Contents_
 
 - [Opening](#opening)
