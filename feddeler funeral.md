@@ -4,12 +4,6 @@ author: St. Alfred's Church
 date: July 18, 2025
 ---
 
-_Contents_
-
-- [Opening](#opening)
-- [Baptism and Resurrection](#Baptism and Resurrection)
-- [And it takes a lifetime](#And it takes a lifetime)
-- [Closing](#closing)
 
 ## Opening
 
