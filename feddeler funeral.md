@@ -25,7 +25,7 @@ Just being in Carl's presence left me feeling that, there is one who knows **who
 
 ## Baptism and Resurrection
 
-[[BCP note on death]]- It was not until I was into my 20's that I had to grapple with the reality of death. (That's my story and not particularly relevant here.) One of my teachers at seminary was the first to impress on me that from the perspective of the Church, it's all about the Resurrection. He said whatever the circumstances surrounding a funeral, -- whoever it is, whatever the story, -- he would about [[baptism]], new life, restoration, community (connections).
+It was not until I was into my 20's that I had to grapple with the reality of death. (That's my story and not particularly relevant here.) One of my teachers at seminary was the first to impress on me that from the perspective of the Church, it's all about the Resurrection. He said whatever the circumstances surrounding a funeral, -- whoever it is, whatever the story, -- he would preach Easter, baptism, new life, restoration, the Community of the Saints … .
 
 Our prayer book includes this note:
 
@@ -36,32 +36,28 @@ Our prayer book includes this note:
 >
 > This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn.
 
-In the intervening years I have often used the phrase "Who we are and Whose we are" to describe the lifelong process of living into our baptism.
+In the intervening years I have often used the phrase "Who we are and Whose we are" to describe the lifelong process of living into our baptism. That is essentially how I look at life, the life of a Christian in particular, but much more generally the life of the Resurrection, the life of all creation.
 
-In a very long tradition in the church, the Easter candle (that stands here at the center) is lit for the first time at Easter and then burns for 50 days throughout the Easter season. A week of weeks, 7 times 7, and a day. Until the Day of Pentecost.
+In a very long tradition in the church, the Easter candle (_that stands here at the center_) is lit for the first time at Easter and then burns for 50 days throughout the Easter season. A week of weeks, 7 times 7, and a day. Until the Day of Pentecost.
 
 It is lit on 2 other occasions. "Because it's all about Resurrection." At baptisms and at funerals.
 
-It was fairly early in my life that I learned about how the trajectory of one's life is, or ought to be, a process of being who you were made to be. That life is made up of not the **number of breaths you take but the number of moments that take your breath away**. When I saw Carl, I thought of someone who had done well in becoming who he was meant to be.
+When I looked at Carl, what I saw and felt was a man who had lived into his baptism. For all of us it takes a lifetime to do that.
 
 ## And it takes a lifetime
 
-The silversword plant illustrates the principle. I only know about this plant because it is the mascot of the athletic teams of Chaminade University in Honolulu. I taught there for a few years after I retired from parish ministry.
+The silversword plant illustrates the principle. I only know about this plant because it is the mascot of the athletic teams of Chaminade University in Honolulu. I taught there for a few years after I retired from parish ministry. The silversword plant blooms but one time in its lifetime. Then it dies.
 
-BLOOMS ONCE IN IT'S LIFETIME.... THEN DIES
-
-The Haleakalā silversword, found only on the high slopes of Maui’s Haleakalā volcano is a rare alpine plant that blooms just once in its lifetime. For decades, it waits in silence, its shimmering silver leaves gathering sunlight in the thin mountain air. Then, without warning and only once in its life, it blooms.
+The Haleakalā silversword, is found only on the high slopes of Maui’s Haleakalā volcano. It is a rare alpine plant that blooms just once in its lifetime. For decades, it waits in silence, its shimmering silver leaves gathering sunlight in the thin mountain air. Then, without warning and only once in its life, it blooms.
 
 According to National Park Service, this event typically occurs after 20 to 50 years though some may flower as early as 7 years depending on environmental conditions. This final act of beauty lasts only about seven days. And then, having poured every ounce of stored energy into reproduction, the plant dies. It’s a symbol of endurance, timing, and the profound rewards of waiting. In a world driven by urgency, it stands as a quiet reminder: some of nature’s most magnificent displays require a lifetime to unfold.
 
 ![silversword.png](silversword.png)
 
-## Closing
+## In Closing
 
-There was only one Carl ... -- though there are several others in our midst today. The passing of generations is at the very least a symbol of our connections to one another, connections that transcend all the birthing and passing we experience.
-
-Funerals are a time when we are especially aware of our connections.
+There was only one Carl ... -- though there are several others here in our midst today. The passing of generations is at the very least a symbol of our connections to one another, connections that transcend all the birthing and passing we experience. It is the **Communion of the Saints**. It is equally the thread that binds us together with all of creation. Funerals are a time when we are especially aware of those connections.
 
 > Time past and time future/ What might have been and what has been /Point to one end, which is always present. _Burnt Norton_, T.S. Eliot
 
-Funerals are above all a [[Sacred]] time when we recognize and celebrate the life of one of the saints who has completed their own course of life, all the way through to the magnificent blossom that appears at the end. **Silversword.** Saint. Beloved. Father, Son, Grandfather, friend, spouse, ...
+Funerals are above all a **Sacred** time when we recognize and celebrate the life of one of the saints who has completed their own course of life, all the way through to the magnificent blossom that appears at the end. **Silversword.** Saint. Beloved. Father, Son, Grandfather, friend, spouse, ...
