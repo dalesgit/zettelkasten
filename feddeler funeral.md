@@ -9,7 +9,7 @@ date: July 18, 2025
 
 I did 't know Carl the way most of you did. The reason you all are here is because you can tell the poignant, funny, sad, unexpected, long-forgotten stories about him. I can't do that. I've only been attending St. Alfred's for a couple of years, and I only know Carl from the time that I became aware that there was this tall well-dressed man who sat in the same seat every week. For the most part, when I extended my hand in greeting, he smiled back warmly and kind of nodded.
 
-Seeing him left me feeling something like "there's a man who is secure in his place in the world. He knows who he is and he's OK with that. He know's where he's come from and he's OK with that. He knows whose he is and where he's headed and he's OK with that.
+Seeing him left me feeling something like "there's a man who is secure in his place in the world. He knows who he is and he's OK with that. He know's where he's come from and he's OK with that. He knows whose he is and where he's headed and he's OK with that."
 
 I want you to know that every time I saw him -- even more when he smiled and nodded as I shared the peace -- I felt a little bit better about myself and my own place in the universe.
 
@@ -19,7 +19,7 @@ Just being in Carl's presence left me feeling that, here is one who has lived it
 
 ## Baptism and Resurrection
 
-It was not until I was into my 20's that I had to grapple with the reality of death. (*That's my story and not particularly relevant here.*) One of my teachers at seminary was the first to impress on me that from the perspective of the Church, it's all about the Resurrection. He said whatever the circumstances surrounding a funeral, -- whoever it is, whatever the story, -- he would preach Easter, Baptism, New Life, Restoration, the Community of the Saints … . I've tried to follow that model throughout my ministry
+It was not until I was into my 20's that I had to grapple with the reality of death. (*That's my story and not particularly relevant here.*) One of my teachers at seminary was the first to impress on me that from the perspective of the Church, it's all about the Resurrection. 
 
 Our prayer book includes this note:
 
@@ -29,7 +29,7 @@ Our prayer book includes this note:
 >
 > This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn.
 
-In the intervening years I have often used the phrase "Who we are and Whose we are" to describe the lifelong process of living into our baptism. That is essentially how I look at life, the life of a Christian in particular, but much more generally the life of the Resurrection, the life of all creation.
+My seminary teacher said whatever the circumstances surrounding a funeral, -- whoever it is, whatever the story, -- he would preach Easter, Baptism, New Life, Restoration, the Community of the Saints … . I've tried to follow that model throughout my ministry. In the intervening years I have often used the phrase "Who we are and Whose we are" to describe the lifelong process of living into our baptism. That is essentially how I look at life, the life of a Christian in particular, but much more generally the life of the Resurrection, the life of all creation.
 
 In a very long tradition in the church, the Easter candle (_that stands here at the center_) is lit for the first time at Easter and then burns for 50 days throughout the Easter season. A week of weeks, 7 times 7, and a day. Until the Day of Pentecost.
 
@@ -39,7 +39,7 @@ When I looked at Carl, what I saw and felt was a man who had lived into his bapt
 
 ## It takes a lifetime
 
-The silversword plant illustrates the principle. I only know about this plant because it is the mascot of the athletic teams of Chaminade University in Honolulu. I taught there for a few years after I retired from parish ministry. The silversword plant blooms but one time in its lifetime. Then it dies.
+The silversword plant illustrates this principle. I only know about this plant because it is the mascot of the athletic teams of Chaminade University in Honolulu. I taught there for a few years after I retired from parish ministry. The silversword plant blooms but one time in its lifetime. Then it dies.
 
 The Haleakalā silversword, is found only on the high slopes of Maui’s Haleakalā volcano. It is a rare alpine plant that blooms just once in its lifetime. For decades, it waits in silence, its shimmering silver leaves gathering sunlight in the thin mountain air. Then, without warning and only once in its life, it blooms.
 
