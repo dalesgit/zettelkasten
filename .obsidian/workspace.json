@@ -4,59 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "771e78a79139d01e",
+        "id": "e88dade12c06617b",
         "type": "tabs",
         "children": [
           {
-            "id": "d56ff9425fa65095",
+            "id": "ac66a341583f0e47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-19-Saturday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-19-Saturday"
-            }
-          },
-          {
-            "id": "b9fe2423bb267130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-20-Sunday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-20-Sunday"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -217,11 +178,20 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "b9fe2423bb267130",
+  "active": "ac66a341583f0e47",
   "lastOpenFiles": [
-    "burial-rite-1.md",
-    "Timestamps/2025/07-July/2025-07-20-Sunday.md",
+    "inbox/When I was growing up.md",
+    "inbox/Colossians 2.6-15, (16-19).md",
+    "Proper 12.md",
+    "Changing our metaphors.md",
+    "inbox/SKs rich prayer life.md",
+    "inbox/Genesis 18.20-32.md",
+    "inbox/Luke 11.1-13.md",
+    "inbox/Psalm 138.md",
+    "preaching.md",
     "Timestamps/2025/07-July/2025-07-19-Saturday.md",
+    "Timestamps/2025/07-July/2025-07-20-Sunday.md",
+    "burial-rite-1.md",
     "inbox/burial.md",
     "silversword.png",
     "feddeler funeral.md",
@@ -237,15 +207,6 @@
     "inbox/Gilgamesh.md",
     "Silversword story.md",
     "Timestamps/2025/07-July/2025-07-12-Saturday.md",
-    "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
-    "orlando-checklist.md",
-    "Timestamps/2025/07-July/2025-07-11-Friday.md",
-    "preaching.md",
-    "christian burial.md",
-    "Forum Obsidian.md",
-    "sacred.md",
-    "Carl Feddeler.md",
-    "Proper 12.md",
     "Untitled",
     "inbox/personal",
     "inbox",
