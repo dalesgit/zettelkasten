@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "563900a000f1c316",
+        "id": "c947c7d7846e5dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "a648c4761285a296",
+            "id": "fe049e79328aefbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07-July/2025-07-06-Sunday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-06-Sunday"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -108,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Timestamps/2025/07-July/2025-07-06-Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,6 +160,12 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "a648c4761285a296",
-  "lastOpenFiles": []
+  "active": "fe049e79328aefbe",
+  "lastOpenFiles": [
+    "Timestamps/2025/07-July/2025-07-13-Sunday.md",
+    "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+    "Timestamps/2025/07-July/2025-07-20-Sunday.md",
+    "chuGoodSoil2025.md",
+    "Timestamps/2025/07-July/2025-07-06-Sunday.md"
+  ]
 }
