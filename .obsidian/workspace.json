@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/07-July/2025-07-21-Monday.md",
+                "file": "journal/2025-07-21-Monday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -194,8 +194,10 @@
   },
   "active": "ac66a341583f0e47",
   "lastOpenFiles": [
-    "Timestamps/2025/07-July/2025-07-04-Friday.md",
+    "journal/2025-07-20-Sunday.md",
+    "journal/2025-07-21-Monday.md",
     "Timestamps/2025/07-July/2025-07-21-Monday.md",
+    "Timestamps/2025/07-July/2025-07-04-Friday.md",
     "Timestamps/2025/07-July/2025-07-03-Thursday.md",
     "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
     "Timestamps/2025/07-July/2025-07-13-Sunday.md",
@@ -219,8 +221,6 @@
     "silversword.png",
     "feddeler funeral.md",
     "inbox/BCP note on death.md",
-    "inbox/Inspect Index Visuals.md",
-    "Starter-Kit/5_Structure/Inspect View.md",
     "Untitled",
     "inbox/personal",
     "inbox",
