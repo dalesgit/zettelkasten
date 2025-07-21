@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-07-21-Monday.md",
+                "file": "Proper 12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-21-Monday"
+              "title": "Proper 12"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2025-06-28.md",
+                "file": "journal/2025-07-21-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-28"
+              "title": "Backlinks for 2025-07-21-Monday"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2025-06-28.md",
+                "file": "journal/2025-07-21-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-06-28"
+              "title": "Outgoing links from 2025-07-21-Monday"
             }
           },
           {
@@ -173,11 +173,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,16 +195,20 @@
   },
   "active": "a6b405ae73962613",
   "lastOpenFiles": [
-    "templates/Daily note template.md",
-    "journal/2025-07-21-Monday.md",
-    "journal/2025-07-20-Sunday.md",
+    "inbox/goal of the sermon?.md",
+    "inbox/Luke 11.1-13.md",
     "Proper 12.md",
+    "Changing our metaphors.md",
+    "journal/2025-07-21-Monday.md",
+    "Silversword story.md",
+    "health.md",
+    "templates/Daily note template.md",
+    "journal/2025-07-20-Sunday.md",
     "journal/2025-06-30-Monday.md",
     "journal/2025-06-29-Sunday.md",
     "journal/2025-06-27-Friday.md",
     "journal/2025-06-26-Thursday.md",
     "journal/2025-07-01-Tuesday.md",
-    "Changing our metaphors.md",
     "Obsidian Charts - Plugin.md",
     "Timestamps/2025/07-July/2025-07-21-Monday.md",
     "Timestamps/2025/07-July/2025-07-04-Friday.md",
@@ -216,10 +221,6 @@
     "Timestamps/2025/07-July/2025-07-18-Friday.md",
     "Timestamps/2025/07-July/2025-07-19-Saturday.md",
     "Timestamps/2025/07-July/2025-07-20-Sunday.md",
-    "inbox/When I was growing up.md",
-    "inbox/Colossians 2.6-15, (16-19).md",
-    "inbox/SKs rich prayer life.md",
-    "inbox/Genesis 18.20-32.md",
     "silversword.png",
     "Untitled",
     "inbox/personal",
