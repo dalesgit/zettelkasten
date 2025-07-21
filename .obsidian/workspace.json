@@ -11,9 +11,24 @@
             "id": "ac66a341583f0e47",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2025/07-July/2025-07-21-Monday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-21-Monday"
             }
           }
         ]
@@ -162,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +194,17 @@
   },
   "active": "ac66a341583f0e47",
   "lastOpenFiles": [
+    "Timestamps/2025/07-July/2025-07-04-Friday.md",
+    "Timestamps/2025/07-July/2025-07-21-Monday.md",
+    "Timestamps/2025/07-July/2025-07-03-Thursday.md",
+    "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
+    "Timestamps/2025/07-July/2025-07-13-Sunday.md",
+    "Timestamps/2025/07-July/2025-07-15-Tuesday.md",
+    "Timestamps/2025/07-July/2025-07-16-Wednesday.md",
+    "Timestamps/2025/07-July/2025-07-17-Thursday.md",
+    "Timestamps/2025/07-July/2025-07-18-Friday.md",
+    "Timestamps/2025/07-July/2025-07-19-Saturday.md",
+    "Timestamps/2025/07-July/2025-07-20-Sunday.md",
     "inbox/When I was growing up.md",
     "inbox/Colossians 2.6-15, (16-19).md",
     "Proper 12.md",
@@ -189,24 +214,13 @@
     "inbox/Luke 11.1-13.md",
     "inbox/Psalm 138.md",
     "preaching.md",
-    "Timestamps/2025/07-July/2025-07-19-Saturday.md",
-    "Timestamps/2025/07-July/2025-07-20-Sunday.md",
     "burial-rite-1.md",
     "inbox/burial.md",
     "silversword.png",
     "feddeler funeral.md",
-    "Timestamps/2025/07-July/2025-07-18-Friday.md",
     "inbox/BCP note on death.md",
-    "Timestamps/2025/07-July/2025-07-15-Tuesday.md",
     "inbox/Inspect Index Visuals.md",
     "Starter-Kit/5_Structure/Inspect View.md",
-    "Timestamps/2025/07-July/2025-07-17-Thursday.md",
-    "Timestamps/2025/07-July/2025-07-16-Wednesday.md",
-    "Timestamps/2025/07-July/2025-07-13-Sunday.md",
-    "inbox/baptism.md",
-    "inbox/Gilgamesh.md",
-    "Silversword story.md",
-    "Timestamps/2025/07-July/2025-07-12-Saturday.md",
     "Untitled",
     "inbox/personal",
     "inbox",
