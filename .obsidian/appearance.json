@@ -2,7 +2,7 @@
   "cssTheme": "Material Gruvbox",
   "theme": "moonstone",
   "textFontFamily": "Cambria,Baskerville",
-  "baseFontSize": 23,
+  "baseFontSize": 20,
   "interfaceFontFamily": "Cambria,Baskerville",
   "enabledCssSnippets": [
     "myfont"

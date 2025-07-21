@@ -1,3 +1,4 @@
+#preaching #image-God 
 Readings
 	[[Genesis 18.20-32]]
 	[[Psalm 138]]

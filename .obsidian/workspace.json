@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e88dade12c06617b",
+        "id": "65ab7d2684feae1f",
         "type": "tabs",
         "children": [
           {
-            "id": "ac66a341583f0e47",
+            "id": "a6b405ae73962613",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,10 +192,19 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "ac66a341583f0e47",
+  "active": "a6b405ae73962613",
   "lastOpenFiles": [
-    "journal/2025-07-20-Sunday.md",
+    "templates/Daily note template.md",
     "journal/2025-07-21-Monday.md",
+    "journal/2025-07-20-Sunday.md",
+    "Proper 12.md",
+    "journal/2025-06-30-Monday.md",
+    "journal/2025-06-29-Sunday.md",
+    "journal/2025-06-27-Friday.md",
+    "journal/2025-06-26-Thursday.md",
+    "journal/2025-07-01-Tuesday.md",
+    "Changing our metaphors.md",
+    "Obsidian Charts - Plugin.md",
     "Timestamps/2025/07-July/2025-07-21-Monday.md",
     "Timestamps/2025/07-July/2025-07-04-Friday.md",
     "Timestamps/2025/07-July/2025-07-03-Thursday.md",
@@ -209,18 +218,9 @@
     "Timestamps/2025/07-July/2025-07-20-Sunday.md",
     "inbox/When I was growing up.md",
     "inbox/Colossians 2.6-15, (16-19).md",
-    "Proper 12.md",
-    "Changing our metaphors.md",
     "inbox/SKs rich prayer life.md",
     "inbox/Genesis 18.20-32.md",
-    "inbox/Luke 11.1-13.md",
-    "inbox/Psalm 138.md",
-    "preaching.md",
-    "burial-rite-1.md",
-    "inbox/burial.md",
     "silversword.png",
-    "feddeler funeral.md",
-    "inbox/BCP note on death.md",
     "Untitled",
     "inbox/personal",
     "inbox",
