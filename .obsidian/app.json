@@ -1,8 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
-  "newFileLocation": "folder",
-  "newFileFolderPath": "inbox",
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",

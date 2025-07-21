@@ -11,9 +11,24 @@
             "id": "7f2b0f9637651050",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Changing our metaphors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Changing our metaphors"
             }
           }
         ]
@@ -179,18 +194,19 @@
   },
   "active": "7f2b0f9637651050",
   "lastOpenFiles": [
-    "Proper 12.md",
-    "inbox/When I was growing up.md",
-    "journal/2025-07-21-Monday.md",
-    "inbox/citizens of the kingdom.md",
-    "inbox/Changing us.md",
-    "inbox/goal of the sermon?.md",
-    "inbox/Luke 11.1-13.md",
+    "inbox/Changing.md",
     "Changing our metaphors.md",
+    "Proper 12.md",
+    "journal/2025-07-21-Monday.md",
+    "citizens of the kingdom.md",
+    "Changing us.md",
+    "journal/2025-07-20-Sunday.md",
+    "When I was growing up.md",
+    "goal of the sermon?.md",
+    "Luke 11.1-13.md",
     "Silversword story.md",
     "health.md",
     "templates/Daily note template.md",
-    "journal/2025-07-20-Sunday.md",
     "journal/2025-06-30-Monday.md",
     "journal/2025-06-29-Sunday.md",
     "journal/2025-06-27-Friday.md",
@@ -204,7 +220,6 @@
     "Timestamps/2025/07-July/2025-07-13-Sunday.md",
     "Timestamps/2025/07-July/2025-07-15-Tuesday.md",
     "Timestamps/2025/07-July/2025-07-16-Wednesday.md",
-    "Timestamps/2025/07-July/2025-07-17-Thursday.md",
     "silversword.png",
     "Untitled",
     "inbox/personal",
