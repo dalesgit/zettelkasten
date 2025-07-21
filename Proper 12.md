@@ -13,8 +13,8 @@ Luke's [[Lord's prayer]] -- [[peristence in prayer]] -- [[ask and it shall be gi
 [[preaching]]
 
 ## Outline
-- [[When I was growing up]]
-- [[goal of the sermon?]] 
-- [[Changing our metaphors]] 
-- [[Changing us]]
-- [[citizens of the kingdom]]
+- [[inbox/When I was growing up]]
+- [[inbox/goal of the sermon?]] 
+- [inbox/Changing our metaphors](inbox/Changing our metaphors) 
+- [[inbox/Changing us]]
+- [[inbox/citizens of the kingdom]]
