@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a98d3ad8c2809b7",
+        "id": "da95742e3ee6aa8e",
         "type": "tabs",
         "children": [
           {
-            "id": "a37c32af89216f97",
+            "id": "fbe8a4fbd8bf288f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Changing us.md",
+                "file": "proper-12-draft-1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,65 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Changing us"
+              "title": "proper-12-draft-1"
             }
           }
         ]
-      },
-      {
-        "id": "aa061c5640693f90",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05387bea9864d525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Changing our metaphors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Changing our metaphors"
-            }
-          },
-          {
-            "id": "9229252e5e653d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SKs rich prayer life.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SKs rich prayer life"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,20 +193,21 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "a37c32af89216f97",
+  "active": "fbe8a4fbd8bf288f",
   "lastOpenFiles": [
-    "SKs rich prayer life.md",
+    "Proper 12.md",
+    "citizens of the kingdom.md",
+    "proper-12-draft-1.md",
     "Changing us.md",
     "Changing our metaphors.md",
-    "Proper 12.md",
+    "goal of the sermon?.md",
+    "When I was growing up.md",
+    "SKs rich prayer life.md",
+    "Luke 11.1-13.md",
     "journal/2025-07-22-Tuesday.md",
     "inbox/Changing.md",
     "journal/2025-07-21-Monday.md",
-    "citizens of the kingdom.md",
     "journal/2025-07-20-Sunday.md",
-    "When I was growing up.md",
-    "goal of the sermon?.md",
-    "Luke 11.1-13.md",
     "Silversword story.md",
     "health.md",
     "templates/Daily note template.md",
@@ -275,7 +221,6 @@
     "Timestamps/2025/07-July/2025-07-04-Friday.md",
     "Timestamps/2025/07-July/2025-07-03-Thursday.md",
     "Timestamps/2025/07-July/2025-07-01-Tuesday.md",
-    "Timestamps/2025/07-July/2025-07-13-Sunday.md",
     "silversword.png",
     "Untitled",
     "inbox/personal",

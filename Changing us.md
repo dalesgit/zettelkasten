@@ -14,11 +14,13 @@ I want to see him._
 
 _–Søren Kierkegaard (1813–55)_
 
-A song that I used to play on the piano and sing to myself over and overbegins this way:
+A song that I used to play on the piano and sing to myself over and over begins this way:
 
 Open the eyes of my heart, Lord \
 Open the eyes of my heart \
-I want to see You 
+I want to see You …  
 
 *-- Michael W. Smith*
+
+As I let that music flow in and through me, it became a way to fertilize the budding relationship I sought with God.
 
