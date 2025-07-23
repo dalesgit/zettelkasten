@@ -150,15 +150,8 @@ When I sought to love my children with all that was within me, I was trying to n
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
-[^1]:
-     Linn, D., Linn, S. F., & Linn, M. (1994). *Good goats: healing our image of God*. Paulist Press.
-
-[^2]:
-      [https://www.bartehrman.com/names-of-god/](https://www.bartehrman.com/names-of-god/)
-
-[^3]:
-     *Søren Kierkegaard (1813–55)*
-
-[^4]:
-     *Michael W. Smith*
+[^1]: Linn, D., Linn, S. F., & Linn, M. (1994). *Good goats: healing our image of God*. Paulist Press.
+[^2]: [https://www.bartehrman.com/names-of-god/](https://www.bartehrman.com/names-of-god/)
+[^3]: *Søren Kierkegaard (1813–55)*
+[^4]: *Michael W. Smith*
 
