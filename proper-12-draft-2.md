@@ -15,8 +15,6 @@ It is with that sort of outlook that every time today's lessons would come aroun
 
 Here, after all, was:
 
-
-
 1. A version of the Lord's Prayer that was different from the one everyone knew.
 2. Jesus' own words that all we have to do is **ask** and God will provide what we ask. Seek and you'll find. I don't know about you, but that has not been my general experience of God. Perhaps with a different perspective? An impish one?
 3. Sodom and Gomorrah! That was rich enough. Of course Fr. Agostino gave us a bit of a heads up last week about the lesson in hospitality that it offers us.
@@ -61,14 +59,13 @@ It's enough to ask: Wait! What is the image of God I set before myself?
 
 ## Challenge to our images of God
 
+### Good Goats
 
-### There's a fun book, almost a children's book, that came out 30 years ago with the title *Good Goats; healing our image of God*.  Perhaps I liked it because I like goats, having raised them for a while in my twenties. I have harbored a resistance to traditional interpretations of that Parable in the gospel of Matthew about the goats and the Sheep.  It seems to imply that sheep are good and goats are bad. [^1]
+There's a fun book, almost a children's book, that came out 30 years ago with the title *Good Goats; healing our image of God*.  Perhaps I liked it because I like goats, having raised them for a while in my twenties. I have harbored a resistance to traditional interpretations of that Parable in the gospel of Matthew about the goats and the Sheep.  It seems to imply that sheep are good and goats are bad. [^1]
 
 This simple book seeks to illustrate that when we are able to change our image of God from a judgmental one to a loving one the result will be healing.
 
  For example some different images of God that we carry with us might be:
-
-
 
 1. Good old Uncle George. Living in a mansion, bearded, gruff and threatening.
 2. A vengeful, punishing God? 
@@ -85,8 +82,6 @@ What these authors propose is that if we change our image of God to a loving God
 
 The Bible itself gives us a dramatic variety of ways to imagine God. Father and mother are both possibilities. God as creator of everything is the first image we get as we open the Hebrew scriptures. Some of the names attributed to God are: [^2]
 
-
-
 * God Almighty
 * I am – He who is
 * Most high God
@@ -96,14 +91,12 @@ The Bible itself gives us a dramatic variety of ways to imagine God. Father and 
 * The Lord who provides
 * Lord of hosts, of the powers
 * The beginning and the end (Alpha and Omega)
-* Holy one
 
 Where our focus is reveals the active image we are using to engage God in prayer. 
 
 Meister Eckhart imagined God as putting the seed of life into us: 
 
-
-    The seed of God is in us. Now the seed of a pear tree grows into a pear tree and a hazel seed grows into a hazel tree; a seed of God grows into God.
+The seed of God is in us. Now the seed of a pear tree grows into a pear tree and a hazel seed grows into a hazel tree; a seed of God grows into God.
 
 
 ### Prayer to change us
@@ -111,13 +104,13 @@ Meister Eckhart imagined God as putting the seed of life into us:
 The image that has sustained be the most is that when we pray we are not trying to change God but to change ourselves.  The source of this understanding of Prayer wrote in his journals:
 
 
-    *Where am I? Who am I? \
+Where am I? Who am I? \
 How did I come to be here? \
 What is this thing called the world? \
 How did I come into the world? \
 Why was I not consulted? \
 And if I am compelled to take part in it, where is the director? \
-I want to see him.*[^3]
+I want to see him.[^3]
 
 This understanding suggests an image of God as one who desires that we grow into who we are meant to be,  to thrive, to get to the end of life and be able to say thank you. 
 
@@ -132,7 +125,7 @@ A song that I used to play on the piano and sing to myself over and over begins 
 
 Open the eyes of my heart, Lord  \
 Open the eyes of my heart  \
-I want to see You …[^4]
+I want to see You … [^4]
 
 As I let that music flow in and through me, it became a way to fertilize the budding relationship I sought with God. I sought to have that seed grow within me. The door I saw to open was the door to all of God's creation and all God's creatures. 
 
@@ -142,7 +135,7 @@ As I let that music flow in and through me, it became a way to fertilize the bud
 When I sought to love my children with all that was within me, I was trying to nurture relationships. My relationship with my children to be sure. But I sought to nurture within them the tools so that they would be able to live in the world around them with grace. I heard just in the past couple of weeks a "meme" that said the **purpose of life** was … (*drum roll*) … to be **kind**.
 
 
-    Ask, and it will be given you; search, and you will find; knock, and the door will be opened for you
+> Ask, and it will be given you; search, and you will find; knock, and the door will be opened for you
 
 … means not the reward of an individual person. It means to be rewarded with a web of relationships, beginning with one person and reaching out to include the whole world.
 
