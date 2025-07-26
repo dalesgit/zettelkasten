@@ -36,17 +36,17 @@ But consider. I suspect that many of you know well the very human response when 
 
 And really, should we be so friendly with God that he is like the person we sit next to down at the pub? **Wait! What?**
 
-The disciples say to Jesus in today's reading from Luke: "Teach us to pray." And then he gives them a very simple formula. Not much more than, "God is good, God is great, let us thank him for this food."
+The disciples say to Jesus in today's reading from Luke: "Teach us to pray." And then he gives them a very simple formula. Not much more than, "God is great, God is good, let us thank him for this food."
 
-But Jesus doesn't end with the just the simple form of prayer. He tells them parables. Jesus' preferred method of teaching is, after all, to tell stories. *As a parenthesis, I've thought for a long time that we don't take that point seriously enough.*
+But Jesus doesn't end with just the simple form of prayer. He tells them parables. Jesus' preferred method of teaching is, after all, to tell stories. *As a parenthesis, I've thought for a long time that we don't take that point seriously enough.*
 
-He tells plain stories that his followers can understand.
+He tells plain stories that his followers can take in. (_Like God, people and children love stories_.)
 
-If you have a friend who comes to you with a request, are you going to turn him away? I had a friend send a text to me the other day, asking if I had time to talk. He had just got out of the hospital with a fairly complicated cancer surgery. I'm not gonna blow it off.
+If you have a friend who comes to you with a request, are you going to turn him away? I had a friend send a text to me the other day, asking if I had time to talk. He had just got out of the hospital with a fairly complicated cancer surgery. Of course I had time to talk. I'm not gonna blow that off.
 
 So God is like me because I respond to my friend who needs to talk? Or I should be like my friend with a great need? What do I make of this?
 
-Jesus goes on, “In the land of  **Abba**, when you ask for something it will be provided you. Something like,* it's a place where people are provided with what they need, not a place where some are privileged and others will just have to drop by the wayside.*
+Jesus goes on, “In the land of  **Abba**, when you ask for something it will be provided you. Something like, "it's a place where people are provided with what they need, not a place where some are privileged and others will just have to drop by the wayside."
 
 That’s not like the world I live in.
 
@@ -62,7 +62,7 @@ It's enough to ask: Wait! What is the image of God I set before myself?
 
 ### There's a fun book, almost a children's book, that came out about 30 years ago with the title *Good Goats; healing our image of God*.  Perhaps I liked it because I like goats, having raised them for a while in my twenties. I have harbored a resistance to the traditional interpretations of that parable in the gospel of Matthew about the goats and the sheep.  It seems to imply that sheep are good and goats are bad. [^1]
 
-This simple book seeks to illustrate that when we are able to change our image of God from a judgmental one -- even a punishing one -- to an image of a God who loves, the result will be healing.
+This simple book seeks to illustrate that when we are able to change our image of God from a judgmental one -- even a punishing one -- to an image of a God who loves us, the result will be healing.
 
 For example some different images of God that we carry with us might be:
 
@@ -92,30 +92,35 @@ The Bible itself gives us a dramatic variety of ways to imagine God. Father and 
 * The beginning and the end (Alpha and Omega)
 * Holy one
 
-Where our focus is reveals the active image we are using to engage God in prayer.
+~~The active image we are using to engage God in prayer will be revealed by how we respond.~~
+
+But if we imagine God to be a "prosecuting attorney" or "judge", all God's efforts to heal or sanctify us will not work – "we will fail to thrive".  We will relate to God with defensiveness, with arguments, with stonewalling when what God desires is for us is to melt into an embrace of love.
+
+~~The image that has sustained me the most is that when we pray we are not trying to change God but to change ourselves.  This understanding suggests an image of God as one who desires that we grow into who we are meant to be,  to thrive, to get to the end of life and be able to say thank you.~~
+
+
+
+## Prayer to change us
+
+A particularly powerful image for me is a God who desires what is best for me -- best in the long run, not the short term. In other words:
+
+"When I pray to God I do not pray to change God, change God's mine, but rather to change me."
+
+> if the child asks for an egg, will (they) give a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him!"*
+
+Indeed, as a parent trying to love my child, I knew full well that what the child wanted might well not be what the child needed in order to thrive. I used to say that my goal as a parent was to prepare her to be able to cross the street without holding my hand. At the time I couldn’t imagine that little girl crossing the street without getting run over.
+
+~~If it’s the case that God loves us as much as the person who loves us the most, it may equally be the case that when we pray to God we’re not asking God to change, but rather we’re saying, “God, I’m ready to be changed myself.”~~
+
+~~It matters what our image of God is, because the image we bring to the relationship will limit the possibilities for growth in us. One learns quickly in gardening that much depends on the soil, the nutrients, the temperature, the moisture, the light we provide the plants. The difference is between a flourishing -- *whatever it is* -- and one that "fails to thrive."~~
 
 Meister Eckhart imagined God as putting the seed of life into us:
+
 
 
     *The seed of God is in us. Now the seed of a pear tree grows into a pear tree and a hazel seed grows into a hazel tree; a seed of God grows into God.*
 
 
-### Prayer to change us
-
-The image that has sustained me the most is that when we pray we are not trying to change God but to change ourselves.  This understanding suggests an image of God as one who desires that we grow into who we are meant to be,  to thrive, to get to the end of life and be able to say thank you.
-
-
-## Changing us
-
-The names for God that we find in the Bible are rich indeed. "Most high God", "He who is", "The Lord who heals", "The Lord who sanctifies", -- *that just scratches the surface*. But if we imagine God to be a "prosecuting attorney" or "judge", all God's efforts to heal or sanctify us will not work – "we will fail to thrive".  We will relate to God with defensiveness, with arguments, with stonewalling when what God desires is for us is to melt into an embrace of love.
-
-*Or if the child asks for an egg, will (they) give a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him!"*
-
-Indeed, as a parent trying to love my child, I knew full well that what the child wanted might well not be what the child needed in order to thrive. I used to say that my goal as a parent was to prepare her to be able to cross the street without holding my hand. At the time I couldn’t imagine that little girl crossing the street without getting run over.
-
-If it’s the case that God loves us as much as the person who loves us the most, it may equally be the case that when we pray to God we’re not asking God to change, but rather we’re saying, “God, I’m ready to be changed myself.”
-
-It matters what our image of God is, because the image we bring to the relationship will limit the possibilities for growth in us. One learns quickly in gardening that much depends on the soil, the nutrients, the temperature, the moisture, the light we provide the plants. The difference is between a flourishing -- *whatever it is* -- and one that "fails to thrive."
 
 
 ## Citizens of the Kingdom
@@ -135,21 +140,28 @@ What I was dissatisfied with is that both of those phrases have to do with me an
 ---
 
 
-    *My brother sent me a recording of* Noel Paul Stookey (*of Peter, Paul and Mary fame*) doing a little monologue. He said it used to be that the big magazine of the day was **TIME** magazine. Everybody read it regularly. Then came **LIFE** magazine. Now time and life are very close concepts, to be sure; but life is a subset of time. Then after a while we had **PEOPLE** magazine. People, of course, are a specific subset of life; not everything that is alive is a person. Then came **US** magazine. US relates to people, of course; but not them, only US. Then we finally got to **SELF**. Never mind about the others, let’s just consider number one. He jokingly said something about the next big magazine would be called ME, (*and the pages would consist of aluminum foil so you could look at yourself.)*[^3]
-
+> *My brother sent me a recording of* Noel Paul Stookey (*of Peter, Paul and Mary fame*) doing a little monologue. He said it used to be that the big magazine of the day was **TIME** magazine. Everybody read it regularly. Then came **LIFE** magazine. Now time and life are very close concepts, to be sure; but life is a subset of time. Then after a while we had **PEOPLE** magazine. People, of course, are a specific subset of life; not everything that is alive is a person. Then came **US** magazine. US relates to people, of course; but not them, only US. Then we finally got to **SELF**. Never mind about the others, let’s just consider number one. He jokingly said something about the next big magazine would be called ME, (*and the pages would consist of aluminum foil so you could look at yourself.)*[^3]
 
 ---
 
-When God loves us. You know, “Jesus loves me this I know.” It’s not just between God and me. It’s not just for my benefit. It’s not like a child asking for an egg and getting an egg. It is for the sake of the whole world around me. God loves me. Yes. But God loves the whole creation. And God loves us so that we can become like him.
+I'm not sure if it's apparent to you, but that whole sequence is completely backward for what is good for us. What God wants for us is the reverse sequence:
+
+1. self 
+2. us 
+3. people 
+4. life 
+5. time … everything and always.
+
+When God loves us. ~~You know, “Jesus loves me this I know.”~~ It’s not just between God and me. It’s not just for my benefit. It’s not like a child asking for an egg and getting an egg. It is for the sake of the whole world around me. God loves me. Yes. But God loves the whole creation. And God loves us so that we can become like him.
 
 I am loved so that I can give it away in love. The fact is that I am surrounded by creatures (*God’s creations*) that are also loved.
 
-I guess I knew that. But this past week I came to know that, love, like all the best gifts, is not so much to be enjoyed as to give away. 
+I guess I knew that. But this past week I came to know it in a new way. Love, like all the best gifts, is not so much to be enjoyed as to give away. 
 
 
 ---
 
-A song that I used to play on the piano and sing to myself over and over begins this way:
+A song that I used to play on the piano and sing to myself over and over again begins this way:
 
 Open the eyes of my heart, Lord   \
 Open the eyes of my heart   \
@@ -167,20 +179,13 @@ When I sought to love my children with all that was within me, I was trying to n
 
     Ask, and it will be given you; search, and you will find; knock, and the door will be opened for you
 
-… means not the reward of one individual person. It means to be rewarded with a web of relationships, beginning with one person and reaching out to include the whole world. Love is inherently relational. Love connects people and things. It’s not a thing to be owned. It is only love when used up. On that neighbor, that stranger, the planet that sustains us, the one who perceives me as the enemy, the moon and the stars. In the end, Love connects everything.
+… means not the reward of one individual person. It means to be rewarded with a web of relationships, beginning with one person and reaching out to include the whole world. Love is inherently relational. Love connects people and things. It’s not a thing to be owned. It is only love when used up. On that neighbor, that stranger, the planet that sustains us, the one who perceives me as the enemy, the moon and the stars. In the end, **everything**.
 
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
-[^1]:
-    Linn, D., Linn, S. F., & Linn, M. (1994). *Good goats: healing our image of God*. Paulist Press.
-
-[^2]:
-    [https://www.bartehrman.com/names-of-god/](https://www.bartehrman.com/names-of-god/)
-
-[^3]:
-     https://ceec.church/220211-2/
-
-[^4]:
-    *Michael W. Smith*
+[^1]: Linn, D., Linn, S. F., & Linn, M. (1994). *Good goats: healing our image of God*. Paulist Press.
+[^2]: [https://www.bartehrman.com/names-of-god/](https://www.bartehrman.com/names-of-god/)
+[^3]: https://ceec.church/220211-2/
+[^4]: *Michael W. Smith*
