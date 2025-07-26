@@ -60,7 +60,7 @@ It's enough to ask: Wait! What is the image of God I set before myself?
 ## Challenge to our images of God
 
 
-### There's a fun book, almost a children's book, that came out about 30 years ago with the title *Good Goats; healing our image of God*.  Perhaps I liked it because I like goats, having raised them for a while in my twenties. I have harbored a resistance to the traditional interpretations of that parable in the gospel of Matthew about the goats and the sheep.  It seems to imply that sheep are good and goats are bad. [^1]
+There's a fun book, almost a children's book, that came out about 30 years ago with the title *Good Goats; healing our image of God*.  Perhaps I liked it because I like goats, having raised them for a while in my twenties. I have harbored a resistance to the traditional interpretations of that parable in the gospel of Matthew about the goats and the sheep.  It seems to imply that sheep are good and goats are bad. [^1]
 
 This simple book seeks to illustrate that when we are able to change our image of God from a judgmental one -- even a punishing one -- to an image of a God who loves us, the result will be healing.
 
