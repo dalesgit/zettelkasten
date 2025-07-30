@@ -4,19 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "0a62de35458a5b99",
+        "id": "4c763e9842d62577",
         "type": "tabs",
         "children": [
           {
-            "id": "f8ee77aa10693ae7",
+            "id": "628eb89d79c3bf9d",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-07-30-Wednesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-30-Wednesday"
+            }
+          },
+          {
+            "id": "9e7e026594184b25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "funeral.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "funeral"
+            }
+          },
+          {
+            "id": "c1a8b261917b3282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "funeral-aug-2-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "funeral-aug-2-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,8 +242,17 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "f8ee77aa10693ae7",
+  "active": "c1a8b261917b3282",
   "lastOpenFiles": [
+    "funeral.md",
+    "funeral-aug-2-2025.md",
+    "feddeler funeral.md",
+    "journal/2025-07-30-Wednesday.md",
+    "Help us, we pray, in the midst of things we cannot understand, to believe and trust in the communion of saints, the forgiveness of sins, and the resurrection to life everlasting. Amen..md",
+    "my-files-inbox-7-30-25/index-7-30-25.md",
+    "courts/How.md",
+    "index-7-30-25.md",
+    "courts",
     "journal/2025-07-28-Monday.md",
     "journal/2025-07-29-Tuesday.md",
     "proper-12-draft-1.md",
@@ -198,14 +271,6 @@
     "Silversword story.md",
     "health.md",
     "templates/Daily note template.md",
-    "journal/2025-06-30-Monday.md",
-    "journal/2025-06-29-Sunday.md",
-    "journal/2025-06-27-Friday.md",
-    "journal/2025-06-26-Thursday.md",
-    "journal/2025-07-01-Tuesday.md",
-    "Obsidian Charts - Plugin.md",
-    "Timestamps/2025/07-July/2025-07-21-Monday.md",
-    "Timestamps/2025/07-July/2025-07-04-Friday.md",
     "silversword.png",
     "Untitled",
     "inbox/personal",
@@ -216,7 +281,6 @@
     "+Daily-Notes.md.crswap",
     "Timestamps/2025/06-June",
     "Timestamps/2025",
-    "Timestamps",
     "Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
     "Starter-Kit/Visuals/IMG_0843.png",
     "Starter-Kit/Visuals/IMG_0099.PNG",

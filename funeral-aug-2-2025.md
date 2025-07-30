@@ -23,7 +23,7 @@ even so saith the Spirit, for they rest from their labors.
 
 The Celebrant says one of the following Collects, first saying
 
- 	The Lord be with you.
+ Celebrant	The Lord be with you.
 People	And with thy spirit.
 Celebrant	Let us pray.
 Page 470

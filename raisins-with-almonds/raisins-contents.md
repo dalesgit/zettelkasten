@@ -22,4 +22,6 @@
 - **Soloists, Orchestra and Chorus of the Bucharest State Jewish Theatre.** Excerpts from "*The Witch*" and "*Shulamis*" (Avram Goldfaden) from **Highlights from Goldfaden Operettas:** Electrecord Records, Romania, LPECE-0201.
 - **Shai Ophir (Professor Higgins**) and Avraham Ben-Joseph (Colonel Pickering). "Hymn to Him" from Giora Godik's original Israel Hebrew cast profuction of **My Fair Lady:** CBS Records Ltd., Tel Aviv, LP CBS-72201.
 - **Maurice Samuel.** Reading from his "*The World of Sholom Aleichem* " (the tale of the Talmud student who has an answer in search of a question) from **Maurice Samuel Reading from His Works** (including "Prince of the Ghetto"): Spoken ARts LP SA-1021
-- **Cantor Moishe Oysher. "*Ma-Toiv*"
+- **Cantor Moishe Oysher. "*Ma-Toiv*"from **The Golden Years of Cantorial Music, Volume 1**: Banner Records, New York, LP BAS-1015.
+- Max Perlman. "Ven di Lachst … " from **Max Perlman Sings Original Yiddish Theatre Classics**: The Greater Recording Bo., New York LP GRC-164
+
