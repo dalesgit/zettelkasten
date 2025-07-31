@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-07-27-Sunday.md",
-                "mode": "source",
+                "file": "Ignatius.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-27-Sunday"
+              "title": "Ignatius"
             }
           }
         ]
@@ -46,7 +46,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -108,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Ignatius.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,6 +178,8 @@
   },
   "active": "fe049e79328aefbe",
   "lastOpenFiles": [
+    "journal/2025-07-31-Thursday.md",
+    "Ignatius.md",
     "journal/2025-07-27-Sunday.md",
     "Timestamps/2025/07-July/2025-07-13-Sunday.md",
     "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
