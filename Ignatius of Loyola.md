@@ -19,6 +19,8 @@ _Genesis 32:22–31_
 
 That night Jacob got up and took his two wives, his two maids, and his eleven children, and crossed the ford of the Jabbok. He took them and sent them across the stream, and likewise everything that he had. Jacob was left alone; and a man wrestled with him until daybreak. When the man saw that he did not prevail against Jacob, he struck him on the hip socket; and Jacob’s hip was put out of joint as he wrestled with him. Then he said, “Let me go, for the day is breaking.” But Jacob said, “I will not let you go, unless you bless me.” So he said to him, “What is your name?” And he said, “Jacob.” Then the man said, “You shall no longer be called Jacob, but Israel, for you have striven with God and with humans, and have prevailed.” Then Jacob asked him, “Please tell me your name.” But he said, “Why is it that you ask my name?” And there he blessed him. So Jacob called the place Peniel, saying, “For I have seen God face to face, and yet my life is preserved.” The sun rose upon him as he passed Penuel, limping because of his hip.
 
+> Wrestling with God. Only a close relative or friend would wrestle. The conversion is something like. Wrestling with … remember the priest saying if you could do anything else, do it.
+
 ## The Psalm
 _Psalm 22:27-30_ Deus, Deus meus
 
@@ -43,3 +45,7 @@ Be imitators of me, as I am of Christ.
 _Luke 9:57–62_
 
 As they were going along the road, someone said to Jesus, "I will follow you wherever you go." And Jesus said to him, "Foxes have holes, and birds of the air have nests; but the Son of Man has nowhere to lay his head." To another he said, "Follow me." But he said, "Lord, first let me go and bury my father." But Jesus said to him, "Let the dead bury their own dead; but as for you, go and proclaim the kingdom of God." Another said, "I will follow you, Lord; but let me first say farewell to those at my home." Jesus said to him, "No one who puts a hand to the plow and looks back is fit for the kingdom of God."ggk
+## Homily
+
+- When I first found my way back into the church as a 20-something, Jesuits and Ignatius of Loyola had no partiular significance.  If I had attended UH at the time I might have known more because there were Jesuits in the campus ministry. As it was my own college ministry was run by a Congregational minister who would later become an Episcopalian.
+- 
