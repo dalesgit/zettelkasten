@@ -1,24 +1,34 @@
 {
   "main": {
-    "id": "15bc1566c6590daf",
+    "id": "f32342853f9d81be",
     "type": "split",
     "children": [
       {
-        "id": "6ab5961daabf538d",
+        "id": "c947c7d7846e5dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "dc3c9e211a2dfdd3",
+            "id": "fe049e79328aefbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Ignatius.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Ignatius"
             }
           }
         ]
@@ -27,16 +37,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "befe043b06f86348",
+    "id": "61fbbbe4f91646a9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "71a97cdf3cba2859",
+        "id": "9b376f63e4796feb",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -44,7 +54,7 @@
         }
       },
       {
-        "id": "8426066002d73ab7",
+        "id": "7e840a51811bcfaf",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +71,7 @@
         }
       },
       {
-        "id": "ed39968e4af3f043",
+        "id": "078e2b6625c03635",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +86,7 @@
         }
       },
       {
-        "id": "3f3808524e805b44",
+        "id": "28f4e635b8701c69",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,16 +99,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "d7562de1bde4a5f9",
+    "id": "bf36703740709b05",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5151812ee2abfc6a",
+        "id": "bedacb4c817fcc12",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Ignatius.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,12 +122,12 @@
         }
       },
       {
-        "id": "664852df11c731d4",
+        "id": "8248a6c6fe334778",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Timestamps/2025/07-July/2025-07-06-Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -126,18 +136,28 @@
         }
       },
       {
-        "id": "5613f67605e4bd9d",
+        "id": "6a268d8159824d45",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md",
+            "file": "Timestamps/2025/07-July/2025-07-06-Sunday.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
+        }
+      },
+      {
+        "id": "a6162b534f4517a2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -150,66 +170,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "dc3c9e211a2dfdd3",
+  "active": "fe049e79328aefbe",
   "lastOpenFiles": [
-    "ask and it shall be given.md",
-    "ReadItLater Inbox_/How to type special characters and symbols on a Chromebook.md",
-    "ReadItLater Inbox_/Note 2025-07-03 06-49-37.md",
-    "ReadItLater Inbox_",
-    "power of words.md",
-    "Help us, we pray, in the midst of things we cannot understand, to believe and trust in the communion of saints, the forgiveness of sins, and the resurrection to life everlasting. Amen..md",
-    "Tom Li.md",
-    "Colossians 2.6-15, (16-19).md",
-    "health.md",
-    "Foucauld.md",
-    "orlando-checklist.md",
-    "critical thinking.md",
-    "Obsidian Charts - Plugin.md",
-    "banking.md",
-    "pages/Post - Luhmann vs Digital Zettelkasten.md",
-    "pages/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
-    "pages",
-    "assets/bishops-province8-mokuleia-full-moon.jpg",
-    "assets",
-    "7 Days Created List.md",
-    "+Bob.md",
-    "Psalm 138.md",
-    "Rule of life.md",
-    "enriching-prayer-2.md",
-    "Ignatius of Loyola.md_",
-    "Copy of Copy of proper-12-draft-3-late.md",
-    "Textsnippet.md",
-    "raisins-with-almonds/rhozinkhes-Screenshot 2025-07-09 23.46.53.png",
-    "raisins-with-almonds/rozhinkes-Screenshot 2025-07-09 23.45.14.png",
-    "raisins-with-almonds/Screenshot 2025-07-10 09.06.14.png",
-    "raisins-with-almonds/raisins-cover-1-insert-scan-02.jpg",
-    "raisins-with-almonds/Screenshot 2025-07-09 23.52.42.png",
-    "raisins-with-almonds/rainsins-3-end.png",
-    "raisins-with-almonds/Screenshot 2025-07-09 23.04.07.png",
-    "raisins-with-almonds/raisins-2.png",
-    "raisins-with-almonds/raisins-1.png",
-    "raisins-with-almonds/raisins-page1.txt",
-    "raisins-with-almonds/raisins-page2.txt",
-    "raisins-with-almonds/raisins-contents.md",
-    "raisins-with-almonds",
+    "journal/2025-07-31-Thursday.md",
+    "Ignatius.md",
+    "journal/2025-07-27-Sunday.md",
+    "Timestamps/2025/07-July/2025-07-13-Sunday.md",
+    "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
+    "Timestamps/2025/07-July/2025-07-20-Sunday.md",
     "chuGoodSoil2025.md",
-    "Carl Feddeler.md",
-    "sacred.md",
-    "courts",
-    "templates",
-    "raisins-with-almonds_/raisins-page1.txt",
-    "Starter-Kit_/5_Structure/Canvases/About - 4_Project Notes.canvas",
-    "Starter-Kit_/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
-    "Starter-Kit_/5_Structure/Canvases/How to Use Links with Templates.canvas",
-    "Starter-Kit_/5_Structure/Canvases/About - 5_Structure Notes.canvas",
-    "Starter-Kit_/5_Structure/Canvases/About - 3_Permanent Notes.canvas",
-    "Starter-Kit_/5_Structure/Canvases/About - 2_Literature Notes.canvas",
-    "Starter-Kit/5_Structure/Canvases/About - 4_Project Notes.canvas",
-    "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
-    "Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
-    "Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas"
+    "Timestamps/2025/07-July/2025-07-06-Sunday.md"
   ]
 }

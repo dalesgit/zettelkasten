@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "15bc1566c6590daf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab5961daabf538d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc3c9e211a2dfdd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "befe043b06f86348",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "71a97cdf3cba2859",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8426066002d73ab7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ed39968e4af3f043",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "3f3808524e805b44",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d7562de1bde4a5f9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5151812ee2abfc6a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "664852df11c731d4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "5613f67605e4bd9d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dc3c9e211a2dfdd3",
+  "lastOpenFiles": [
+    "ask and it shall be given.md",
+    "ReadItLater Inbox_/How to type special characters and symbols on a Chromebook.md",
+    "ReadItLater Inbox_/Note 2025-07-03 06-49-37.md",
+    "ReadItLater Inbox_",
+    "power of words.md",
+    "Help us, we pray, in the midst of things we cannot understand, to believe and trust in the communion of saints, the forgiveness of sins, and the resurrection to life everlasting. Amen..md",
+    "Tom Li.md",
+    "Colossians 2.6-15, (16-19).md",
+    "health.md",
+    "Foucauld.md",
+    "orlando-checklist.md",
+    "critical thinking.md",
+    "Obsidian Charts - Plugin.md",
+    "banking.md",
+    "pages/Post - Luhmann vs Digital Zettelkasten.md",
+    "pages/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
+    "pages",
+    "assets/bishops-province8-mokuleia-full-moon.jpg",
+    "assets",
+    "7 Days Created List.md",
+    "+Bob.md",
+    "Psalm 138.md",
+    "Rule of life.md",
+    "enriching-prayer-2.md",
+    "Ignatius of Loyola.md_",
+    "Copy of Copy of proper-12-draft-3-late.md",
+    "Textsnippet.md",
+    "raisins-with-almonds/rhozinkhes-Screenshot 2025-07-09 23.46.53.png",
+    "raisins-with-almonds/rozhinkes-Screenshot 2025-07-09 23.45.14.png",
+    "raisins-with-almonds/Screenshot 2025-07-10 09.06.14.png",
+    "raisins-with-almonds/raisins-cover-1-insert-scan-02.jpg",
+    "raisins-with-almonds/Screenshot 2025-07-09 23.52.42.png",
+    "raisins-with-almonds/rainsins-3-end.png",
+    "raisins-with-almonds/Screenshot 2025-07-09 23.04.07.png",
+    "raisins-with-almonds/raisins-2.png",
+    "raisins-with-almonds/raisins-1.png",
+    "raisins-with-almonds/raisins-page1.txt",
+    "raisins-with-almonds/raisins-page2.txt",
+    "raisins-with-almonds/raisins-contents.md",
+    "raisins-with-almonds",
+    "chuGoodSoil2025.md",
+    "Carl Feddeler.md",
+    "sacred.md",
+    "courts",
+    "templates",
+    "raisins-with-almonds_/raisins-page1.txt",
+    "Starter-Kit_/5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "Starter-Kit_/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "Starter-Kit_/5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "Starter-Kit_/5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "Starter-Kit_/5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "Starter-Kit_/5_Structure/Canvases/About - 2_Literature Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas"
+  ]
+}
