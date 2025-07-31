@@ -1,34 +1,20 @@
 {
   "main": {
-    "id": "f32342853f9d81be",
+    "id": "49579362d4a10dfc",
     "type": "split",
     "children": [
       {
-        "id": "c947c7d7846e5dcc",
+        "id": "5ef25352a3e8bb03",
         "type": "tabs",
         "children": [
           {
-            "id": "fe049e79328aefbe",
+            "id": "9acf6eca1d571544",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-07-27-Sunday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-27-Sunday"
+              "title": "New tab"
             }
           }
         ]
@@ -37,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "61fbbbe4f91646a9",
+    "id": "a3bbaf91aef76a7d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9b376f63e4796feb",
+        "id": "79764e14675aad73",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -54,7 +40,7 @@
         }
       },
       {
-        "id": "7e840a51811bcfaf",
+        "id": "646a96c66b4ea64c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -71,7 +57,7 @@
         }
       },
       {
-        "id": "078e2b6625c03635",
+        "id": "4496e1f7d8d112aa",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -86,7 +72,7 @@
         }
       },
       {
-        "id": "28f4e635b8701c69",
+        "id": "63698ff1af7f603a",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,11 +85,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "bf36703740709b05",
+    "id": "77cc13be95497e4a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bedacb4c817fcc12",
+        "id": "9235224d15105f0b",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -121,12 +107,11 @@
         }
       },
       {
-        "id": "8248a6c6fe334778",
+        "id": "f6c241033c1442cc",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Timestamps/2025/07-July/2025-07-06-Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -135,28 +120,17 @@
         }
       },
       {
-        "id": "6a268d8159824d45",
+        "id": "3c632778719fc66d",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Timestamps/2025/07-July/2025-07-06-Sunday.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
-        }
-      },
-      {
-        "id": "a6162b534f4517a2",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
         }
       }
     ],
@@ -169,19 +143,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "fe049e79328aefbe",
-  "lastOpenFiles": [
-    "journal/2025-07-27-Sunday.md",
-    "Timestamps/2025/07-July/2025-07-13-Sunday.md",
-    "Timestamps/2025/07-July/2025-07-08-Tuesday.md",
-    "Timestamps/2025/07-July/2025-07-20-Sunday.md",
-    "chuGoodSoil2025.md",
-    "Timestamps/2025/07-July/2025-07-06-Sunday.md"
-  ]
+  "active": "9acf6eca1d571544",
+  "lastOpenFiles": []
 }
