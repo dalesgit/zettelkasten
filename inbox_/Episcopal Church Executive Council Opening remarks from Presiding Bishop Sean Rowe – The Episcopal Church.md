@@ -1,0 +1,52 @@
+---
+created: 2025-07-03T06:30:39 (UTC -04:00)
+tags: []
+source: https://www.episcopalchurch.org/publicaffairs/episcopal-church-executive-council-opening-remarks-from-presiding-bishop-sean-rowe-3/?utm_source=ENS+English&utm_campaign=3636366fbf-EMAIL_CAMPAIGN_2025_06_23_08_10&utm_medium=email&utm_term=0_-3636366fbf-136028141&fbclid=IwY2xjawLTOq1leHRuA2FlbQIxMQBicmlkETBWYzhHVHVSaWRhcG85ZGU3AR5zl255ad4zWMqz-GlL0Rqav_9FR4Avqg97mMjCsZ50pfKGvZPEr-ePxTDvVQ_aem_HqzuagK79m_3T28GKLg3Pg
+author: Office of Public Affairs
+---
+
+# Episcopal Church Executive Council: Opening remarks from Presiding Bishop Sean Rowe – The Episcopal Church
+
+> ## Excerpt
+> Following are the opening remarks, as prepared for delivery, by Presiding Bishop Sean Rowe to the Executive Council of The Episcopal Church, meeting June 23-25 in Linthicum Heights, Maryland.
+
+---
+_Following are the opening remarks, as prepared for delivery, by Presiding Bishop Sean Rowe to the Executive Council of The Episcopal Church, meeting June 23-25 in Linthicum Heights, Maryland._
+
+Good morning, and welcome back to the Maritime Center. Before we begin our meeting, I want to thank our chaplains for leading us in prayer for the people of Iran and Israel, and most of all, for peace. 
+
+I was in touch yesterday with Archbishop Hosam Naoum of the Province of Jerusalem and the Middle East. The conflict lies within that province, which includes the Diocese of Jerusalem and the Middle East, the Diocese of Cyprus and the Gulf, and the Diocese of Iran. Please continue to pray for all of God’s people in those places, and for the approximately 40,000 U.S. service members serving in the Middle East. 
+
+Archbishop Hosam has extended an invitation to Anglicans across the world to offer intercessions on their behalf, so that, he writes, “we might collectively be strengthened to embody the role of peacemakers as mutual members of the larger Body of Christ.” I am especially aware that at this moment, those of us from the United States have a particular responsibility to pray for peace and urge our leaders to practice restraint and de-escalation. As the situation becomes clearer, the Office of Government Relations will offer us ways to take action, and I commend their resources to you.
+
+We have a full agenda, and I am looking forward to a productive meeting. I am especially glad to welcome our new chief financial officer, Chris Lacovara, whom you appointed in March. We will have some extended time with Chris later this morning, when he will give us a financial overview and analysis of the work now underway in finance and accounting, budgeting, treasury and investments, and real estate.
+
+I am also glad to welcome Eric Metoyer, who was elected in February to fill an unexpired term, to his first full board meeting. Eric serves as the canon for racial, social, and environmental justice in the Diocese of California, and is also on the Joint Budget Committee, and we are glad to have him here with us.
+
+At our last two meetings, we have spent time refining our vision and setting priorities for moving toward it. That vision, you may remember, is that we will be a strong, adaptive church that communicates and embodies the depth of Christian spirituality and works toward The Episcopal Church’s vision of God’s kingdom by supporting ministry on the ground in dioceses.
+
+We will have plenty of time during this meeting for us to talk about the work we are doing to move toward this vision; and tomorrow morning, I will take some extended time to give you a detailed update on our progress and plans.
+
+This morning, however, I’d like to reflect for a few minutes on why we are undertaking this work—why it matters that The Episcopal Church can make a strong and effective witness to the gospel of Jesus Christ.
+
+I do not need to tell you that these are challenging times for the church we serve and for God’s people in our communities. Many of our dioceses and congregations are responding to unprecedented need—feeding people who are hungry, comforting those who are afraid, and struggling to find new models for ministry and to hold on to hope for the future of the church.
+
+Everywhere in our church, faithful Episcopalians are watching what is happening and discerning how to respond. As Christians, we are seeking to live by our baptismal promises: to persevere in resisting evil, to strive for justice and peace among all people, and to respect the dignity of every human being.
+
+But we live in a time when the evil one is seeking to divide us from one another in myriad ways, especially in political life and on social media. Even as we make our witness to the gospel, we struggle not to be conformed to this world, as Paul put it in his letter to the church at Rome. We too often behave as if our first allegiance is to our nation or political party, and not to the kingdom of God here on earth.
+
+This can make it difficult for us to discern the next right thing. For every message I get demanding that we speak on a particular issue, I get a letter telling me that the church is dying because we won’t stop talking about politics. We are not of one mind about how to respond to what is unfolding around us as followers of the Risen Christ.
+
+Although this broad range of opinion in the church can sometimes make discernment difficult, I find great hope in our diversity of opinion. Because we are not of one mind, we can resist the urge to give ourselves over to the excesses of either party in the United States, or in any other country. We are a living laboratory for how to build community with the creative tension of disagreement, and when we are at our best, The Episcopal Church can make a powerful witness to the world through our unity in diversity.
+
+Our Christian witness is increasingly a matter of life and death. We saw last weekend in Minnesota the deadly consequences of extremist Christian nationalism, which appears to have played a significant role in motivating the assassination of a state lawmaker and her husband. This kind of distortion of the gospel message is all around us in public life—in dehumanizing attacks on transgender people, in fomenting fear of migrants, and in increasing antisemitism and anti-Muslim bigotry. It is urgent that we strengthen our capacity to offer a different vision of God’s kingdom.
+
+That kind of witness happened last weekend in Utah, when Bishop Phyllis Spiegel opened the doors of the cathedral in Salt Lake City for protesters seeking shelter from gunfire. Once they were inside, she prayed with them and calmed the children who were frightened.
+
+It is happening now in the Diocese of South Dakota, where two of our members—Bishop Jonathan Folts and Warren Hawk—will soon be meeting with members of the Crow Creek Tribal Council to further our search for the truth concerning the involvement of The Episcopal Church in Indigenous boarding schools. It is a sign of hope that the tribal chairperson has asked that the meeting take place not in a tribal building, but in one of our churches. Thank you, Jonathan and Warren, and all the members of the MW062 and A067 committees, for your ministry.
+
+In Utah and South Dakota and all over the church, we are offering an alternative Christian witness, centered in our relationship with God in Christ and with humanity and proclaiming God’s reconciling love. When we get it right, we Episcopalians are capable of resolute commitment to both justice and unity, and to extending grace to one another and to all of God’s people, even those who don’t agree with us.
+
+This kind of Christian witness changes people’s lives. In fact, it saves people’s lives, and our work to build more capacity for it in The Episcopal Church is urgent. That is what we are here to do in the next three days, and I am grateful to you for your commitment.
+
+Paul told the Romans that instead of conforming to this world, they should “be transformed by the renewing of your minds, so that you may discern what is the will of God——what is good and acceptable and perfect.” As we lead the church in these troubling times, let these words guide us also.

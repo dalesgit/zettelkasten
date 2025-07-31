@@ -1,0 +1,6 @@
+- It's about Resurrection
+- It's about baptism
+	- cf. Julian, baby drowned, my mother, Littlest angel -- all about living the life God intended for you
+- [[Carl Feddeler]]
+- Prayer Book Note
+- Time for God to break into our normal -- [[sacred]] 
