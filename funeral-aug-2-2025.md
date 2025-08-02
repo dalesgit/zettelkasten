@@ -1,5 +1,5 @@
-The Burial of the Dead:
-Rite One
+# The Burial of the Dead:
+## Rite One
 All stand while one or more of the following anthems are sung or said
 
 I am the resurrection and the life, saith the Lord;
@@ -191,3 +191,18 @@ The God of peace, who brought again from the dead our Lord Jesus Christ, the gre
 Page 487
 
 the blood of the everlasting covenant: Make you perfect in every good work to do his will, working in you that which is well pleasing in his sight; through Jesus Christ, to whom be glory for ever and ever. Amen.
+
+
+https://st-peters.org/suggested-lessons-for-burial-liturgy/
+
+Lamentations 3:22-26,31-33 (The Lord is good to those who wait for him)
+
+The steadfast love of the LORD never ceases, his mercies never come to an end; they are new every morning; great is your faithfulness. “The LORD is my portion,” says my soul, “therefore I will hope in him.” The LORD is good to those who wait for him, to the soul that seeks him. It is good that one should wait quietly for the salvation of the LORD. For the Lord will not reject forever. Although he causes grief, he will have compassion according to the abundance of his steadfast love; for he does not willingly afflict or grieve anyone.
+
+Revelation 21:2-7 (Behold, I make all things new)
+
+I saw a new heaven and a new earth; for the first heaven and the first earth had passed away, and the sea was no more. And I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. And I heard a loud voice from the throne saying, “See, the home of God is among mortals. He will dwell with them as their God; they will be his peoples, and God himself will be with them; he will wipe every tear from their eyes. Death will be no more; mourning and crying and pain will be no more, for the first things have passed away.” And the one who was seated on the throne said, “See, I am making all things new.” Also he said, “Write this, for these words are trustworthy and true.” Then he said to me, “It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give water as a gift from the spring of the water of life. Those who conquer will inherit these things, and I will be their God and they will be my children.”
+
+John 11:21-27 (I am the resurrection and the life)
+
+Martha said to Jesus, “Lord, if you had been here, my brother, Lazarus, would not have died. But even now I know that God will give you whatever you ask of him.” Jesus said to her, “Your brother will rise again.” Martha said to him, “I know that he will rise again in the resurrection on the last day.” Jesus said to her, “I am the resurrection and the life. Those who believe in me, even though they die, will live, and everyone who lives and believes in me will never die. Do you believe this?” She said to him, “Yes, Lord, I believe that you are the Messiah, the Son of God, the one coming into the world.”
