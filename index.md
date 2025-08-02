@@ -65,7 +65,7 @@ Graphics of the process
  - [feddeler funeral.md](./feddeler funeral.md)
  - [funeral-aug-2-2025.md](./funeral-aug-2-2025.md)
  - [funeral.md](./funeral.md)
- - [goal of the sermon?.md](./goal of the sermon?.md)
+ - [goal of the sermon.md](./goal of the sermon.md)
  - [grace.md](./grace.md)
  - [health.md](./health.md)
  - [index-7-30-25.md](./index-7-30-25.md)

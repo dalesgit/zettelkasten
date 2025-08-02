@@ -4,7 +4,7 @@
 - Funeral for Carl Feddeler: July 19 [[christian burial]]
 ## notes
 - [[Preaching as circular not linear]]
-	- what is the [[goal of the sermon?]]
+	- what is the [[goal of the sermon]]
 	- working with [[tyranny]] 
 - [[Things I know experientially]]
 - 

@@ -14,7 +14,7 @@ Luke's [[Lord's prayer]] -- [[peristence in prayer]] -- [[ask and it shall be gi
 
 ## Outline
 - [[When I was growing up]]
-- [[goal of the sermon?]] 
+- [[goal of the sermon]] 
 - [[Changing our metaphors]]
 - [[Changing us]]
 - [[citizens of the kingdom]]
