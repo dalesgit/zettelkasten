@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ignatius.md",
-                "mode": "preview",
+                "file": "funeral-aug-2-2025.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ignatius"
+              "title": "funeral-aug-2-2025"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "fe049e79328aefbe",
   "lastOpenFiles": [
+    "journal/2025-08-02-Saturday.md",
+    "Untitled.md",
     "journal/2025-07-31-Thursday.md",
     "Ignatius.md",
     "journal/2025-07-27-Sunday.md",

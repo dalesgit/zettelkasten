@@ -105,3 +105,36 @@ Let us go forth in the name of Christ
 _Thanks be to God._
 
 ---
+
+# Dwayne Miller
+
+## your testimony tells so much about him
+
+- your task to carry the memories
+- my task is to point in some way to meaning
+- Texts ...
+
+##  scripture
+
+### - lamentations
+- _chesed_ never ceases
+- Grief is a real part of our lives. But there is something more. 
+- < love
+
+### Revelations
+- a new heavens arising. We don’t see it yet. 
+- All things new
+- Already but not yet
+
+### John
+- we see and feel endings
+- Like we rejoice in beginnings so we weep, with Martha. But that’s not the end of Jesus’s words. 
+> I am the resurrection and the life. 
+- Resurrection is like a circle. It’s not a line with a beginning and an ending. It’s never ending line. 
+
+## death is
+- there’s more to the story. 
+- Grief and celebration are part of the whole story
+- Beginnings and endings are the story. 
+- The steadfast love of the Lord never ceases.
+
