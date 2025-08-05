@@ -11,9 +11,24 @@
             "id": "c24ef728b6f3fe1b",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-07-30-Wednesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-30-Wednesday"
             }
           }
         ]
@@ -177,8 +192,13 @@
   },
   "active": "c24ef728b6f3fe1b",
   "lastOpenFiles": [
-    "templates/Daily note template.md",
+    "journal/2025-07-29-Tuesday.md",
+    "journal/2025-07-30-Wednesday.md",
+    "journal/2025-07-31-Thursday.md",
+    "journal/2025-08-02-Saturday.md",
     "journal/2025-08-05-Tuesday.md",
+    "journal/2025-08-05.md",
+    "templates/Daily note template.md",
     "templates/Daily note template 1.md",
     "journal/2025-07-15-Tuesday.md",
     "journal/2025-07-16-Wednesday.md",
@@ -188,10 +208,6 @@
     "journal/2025-07-20-Sunday.md",
     "journal/2025-07-21-Monday.md",
     "journal/2025-07-22-Tuesday.md",
-    "journal/2025-07-29-Tuesday.md",
-    "journal/2025-07-30-Wednesday.md",
-    "journal/2025-07-31-Thursday.md",
-    "journal/2025-08-02-Saturday.md",
     "journal/2025-07-09-Wednesday.md",
     "journal/2025-07-03-Thursday.md",
     "journal/2025-07-02-Wednesday.md",
@@ -203,7 +219,6 @@
     "Untitled.canvas",
     "funeral.md",
     "funeral-aug-2-2025.md",
-    "raisins-with-almonds/raisins-contents.md",
     "courts",
     "silversword.png",
     "Untitled",
