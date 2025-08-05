@@ -48,12 +48,3 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 	- I also figured how to adjust the reading time. It seems  like maybe ca. 100 wpm might be an estimate for sermon. Default is 200. 
 
 ---
-### Notes created today
-```dataview
-List FROM "" WHERE file.cday = date("2025-07-16") SORT file.ctime asc
-```
-
-### Notes last touched today
-```dataview
-List FROM "" WHERE file.mday = date("2025-07-16") SORT file.mtime asc
-```

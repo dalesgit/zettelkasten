@@ -54,11 +54,11 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 # 📝 Notes
 - <% tp.file.cursor() %>
 
-### another shot at a table (last week files)
+### another shot at a table (yesterday's files (mtime))
 
 ```dataview 
 TABLE file.ctime, file.mtime, file.tags, file.folder FROM "" 
-WHERE file.mtime >= date(today) - dur(7d) 
+WHERE file.mtime >= date(today) - dur(1d) 
 ```
 ---
 ### Notes created today

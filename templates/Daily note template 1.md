@@ -1,10 +1,10 @@
 ---
-created: 2025-07-18 06:57
+created: <% tp.file.creation_date() %>
 source: https://dannb.org/blog/2022/obsidian-daily-note-template/ & https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/21?u=gibson
 ---
 tags:: [[+Daily Notes]]
 
-# Friday, July 18, 2025
+# <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
 ```dataviewjs
 /*
@@ -38,10 +38,35 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 ```
 ---
 ### 📅 Daily Questions
+##### 🌜 From yesterday I could have done better … 
+- 
 
+##### 🙌 One thing I'm excited about right now is …
+- 
+
+##### 🚀 One+ thing I plan to accomplish today is …
+- [ ] 
+
+##### 👎 One thing I'm struggling with today is …
+- 
 
 ---
 # 📝 Notes
--  
+- <% tp.file.cursor() %>
 
+### another shot at a table (last week files)
+
+```dataview 
+TABLE file.ctime, file.mtime, file.tags, file.folder FROM "" 
+WHERE file.mtime >= date(today) - dur(7d) 
+```
 ---
+### Notes created today
+```dataview
+List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.ctime asc
+```
+
+### Notes last touched today
+```dataview
+List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc
+```

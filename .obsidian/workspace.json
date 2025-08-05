@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2d14f1b39d3d9f",
+        "id": "eb07ae25d1abbe1e",
         "type": "tabs",
         "children": [
           {
-            "id": "cbd41c717977c9c5",
+            "id": "c24ef728b6f3fe1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "funeral-aug-2-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "funeral-aug-2-2025"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -84,13 +69,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -168,17 +151,16 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,35 +175,36 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "cbd41c717977c9c5",
+  "active": "c24ef728b6f3fe1b",
   "lastOpenFiles": [
+    "templates/Daily note template.md",
+    "journal/2025-08-05-Tuesday.md",
+    "templates/Daily note template 1.md",
+    "journal/2025-07-15-Tuesday.md",
+    "journal/2025-07-16-Wednesday.md",
+    "journal/2025-07-17-Thursday.md",
+    "journal/2025-07-18-Friday.md",
+    "journal/2025-07-19-Saturday.md",
+    "journal/2025-07-20-Sunday.md",
+    "journal/2025-07-21-Monday.md",
+    "journal/2025-07-22-Tuesday.md",
+    "journal/2025-07-29-Tuesday.md",
+    "journal/2025-07-30-Wednesday.md",
+    "journal/2025-07-31-Thursday.md",
+    "journal/2025-08-02-Saturday.md",
+    "journal/2025-07-09-Wednesday.md",
+    "journal/2025-07-03-Thursday.md",
+    "journal/2025-07-02-Wednesday.md",
+    "Timestamps/2025/06-June/2025-06-28-Saturday.md",
+    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
+    "Timestamps/2025/06-June/2025-06-26-Thursday.md",
+    "Timestamps/2025/06-June/2025-06-27-Friday.md",
+    "+Daily Notes.md",
+    "Untitled.canvas",
     "funeral.md",
     "funeral-aug-2-2025.md",
-    "journal/2025-08-02-Saturday.md",
-    "journal/2025-07-30-Wednesday.md",
     "raisins-with-almonds/raisins-contents.md",
-    "feddeler funeral.md",
-    "Help us, we pray, in the midst of things we cannot understand, to believe and trust in the communion of saints, the forgiveness of sins, and the resurrection to life everlasting. Amen..md",
-    "my-files-inbox-7-30-25/index-7-30-25.md",
-    "courts/How.md",
-    "index-7-30-25.md",
     "courts",
-    "journal/2025-07-28-Monday.md",
-    "journal/2025-07-29-Tuesday.md",
-    "proper-12-draft-1.md",
-    "Proper 12.md",
-    "citizens of the kingdom.md",
-    "Changing us.md",
-    "Changing our metaphors.md",
-    "goal of the sermon?.md",
-    "When I was growing up.md",
-    "SKs rich prayer life.md",
-    "Luke 11.1-13.md",
-    "journal/2025-07-22-Tuesday.md",
-    "inbox/Changing.md",
-    "journal/2025-07-21-Monday.md",
-    "journal/2025-07-20-Sunday.md",
-    "Silversword story.md",
     "silversword.png",
     "Untitled",
     "inbox/personal",
