@@ -54,19 +54,6 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 # 📝 Notes
 - <% tp.file.cursor() %>
 
-### another shot at a table (yesterday's files (mtime))
-
-```dataview 
-TABLE file.ctime, file.mtime, file.tags, file.folder FROM "" 
-WHERE file.mtime >= date(today) - dur(1d) 
-```
----
-### Notes created today
-```dataview
-List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.ctime asc
-```
-
-### Notes last touched today
-```dataview
-List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc
-```
+- [[yesterdays-files]]
+- [[notes-created-today]]
+- [[notes-last-touched-today]]

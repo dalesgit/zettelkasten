@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb07ae25d1abbe1e",
+        "id": "c17106ba6675b51c",
         "type": "tabs",
         "children": [
           {
-            "id": "c24ef728b6f3fe1b",
+            "id": "7933eca81ed9f02a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-07-17.md",
+                "file": "templates/Daily-note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-17"
+              "title": "Daily-note"
             }
           }
         ]
@@ -190,8 +190,16 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "c24ef728b6f3fe1b",
+  "active": "7933eca81ed9f02a",
   "lastOpenFiles": [
+    "yesterdays-files.md",
+    "templates/Daily-note.md",
+    "notes-last-touched-today.md",
+    "notes-created-today.md",
+    "journal/2025-08-07.md",
+    "Notes created today.md",
+    "templates/Daily note template 1.md",
+    "journal/2025-07-17.md",
     "journal/2025-08-05.md",
     "journal/2025-08-05-Tuesday.md",
     "journal/2025-07-29-Tuesday.md",
@@ -199,7 +207,6 @@
     "journal/2025-07-31-Thursday.md",
     "journal/2025-08-02-Saturday.md",
     "templates/Daily note template.md",
-    "templates/Daily note template 1.md",
     "journal/2025-07-15-Tuesday.md",
     "journal/2025-07-16-Wednesday.md",
     "journal/2025-07-17-Thursday.md",
@@ -211,14 +218,7 @@
     "journal/2025-07-09-Wednesday.md",
     "journal/2025-07-03-Thursday.md",
     "journal/2025-07-02-Wednesday.md",
-    "Timestamps/2025/06-June/2025-06-28-Saturday.md",
-    "Timestamps/2025/06-June/2025-06-29-Sunday.md",
-    "Timestamps/2025/06-June/2025-06-26-Thursday.md",
-    "Timestamps/2025/06-June/2025-06-27-Friday.md",
-    "+Daily Notes.md",
     "Untitled.canvas",
-    "funeral.md",
-    "funeral-aug-2-2025.md",
     "courts",
     "silversword.png",
     "Untitled",
