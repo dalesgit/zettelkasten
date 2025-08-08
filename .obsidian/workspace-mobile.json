@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal /2025-08-02.md",
+                "file": "journal/2025-08-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-02"
+              "title": "2025-08-07"
             }
           }
         ]
@@ -166,8 +166,8 @@
         "state": {
           "type": "daily-note-calendar",
           "state": {},
-          "icon": "calendar",
-          "title": "Daily note calendar"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -188,6 +188,7 @@
   },
   "active": "17472579875c4f82",
   "lastOpenFiles": [
+    "yesterdays-files.md",
     "journal/2025-08-07.md",
     "journal /2025-08-02.md",
     "journal ",
