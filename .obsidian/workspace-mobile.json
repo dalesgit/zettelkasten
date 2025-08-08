@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-08-06.md",
+                "file": "journal /2025-08-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-06"
-            }
-          },
-          {
-            "id": "af92ef36da79e3d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "2025-08-02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Daily notes/2025-08-06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,12 +156,22 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "c4c98eef6bba2cf0",
+        "type": "leaf",
+        "state": {
+          "type": "daily-note-calendar",
+          "state": {},
+          "icon": "calendar",
+          "title": "Daily note calendar"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,9 +186,17 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "af92ef36da79e3d7",
+  "active": "17472579875c4f82",
   "lastOpenFiles": [
+    "journal/2025-08-07.md",
+    "journal /2025-08-02.md",
+    "journal ",
+    "journal /2025-08-06.md",
+    "journal /2025-08-07.md",
     "journal/2025-08-06.md",
+    "Daily notes/2025-08-06.md",
+    "Daily notes/2025-08-07.md",
+    "Daily notes",
     "Untitled 1.md",
     "journal/2025-08-04.md",
     "journal/2025-08-05a.md",
