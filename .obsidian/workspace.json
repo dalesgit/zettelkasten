@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c9cba1e3e2c7dc5",
+        "id": "52b042dd6a99f6f4",
         "type": "tabs",
         "children": [
           {
-            "id": "3d0d9d845109cb12",
+            "id": "bf717f298322f996",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes-created-today.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "notes-created-today"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -50,7 +35,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -176,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,17 +177,24 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "3d0d9d845109cb12",
+  "active": "bf717f298322f996",
   "lastOpenFiles": [
+    "templates/Daily-note.md",
+    "journal/2025-08-09.md",
+    "MOC.md",
+    "Starter-Kit/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
+    "Proper 12.md",
+    "proper-12-draft-1.md",
+    "+Daily Notes.md",
+    "my-files-inbox-7-30-25/diy/index.md",
+    "yesterdays-files.md",
+    "notes-created-today.md",
     "journal/2025-08-07.md",
     "notes-last-touched-today.md",
-    "notes-created-today.md",
-    "yesterdays-files.md",
     "pages/obsidian-nvimobsidian.nvim Obsidian 🤝 Neovim.md",
     "journal/2025-08-06.md",
     "dietician-online-presentation.md",
     "thursday-mass-8-7.md",
-    "templates/Daily-note.md",
     "Notes created today.md",
     "templates/Daily note template 1.md",
     "journal/2025-07-17.md",
@@ -212,13 +205,6 @@
     "journal/2025-07-31-Thursday.md",
     "journal/2025-08-02-Saturday.md",
     "templates/Daily note template.md",
-    "journal/2025-07-15-Tuesday.md",
-    "journal/2025-07-16-Wednesday.md",
-    "journal/2025-07-17-Thursday.md",
-    "journal/2025-07-18-Friday.md",
-    "journal/2025-07-19-Saturday.md",
-    "journal/2025-07-20-Sunday.md",
-    "journal/2025-07-21-Monday.md",
     "Untitled.canvas",
     "courts",
     "silversword.png",

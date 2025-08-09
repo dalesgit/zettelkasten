@@ -1,4 +1,8 @@
 #preaching #image-God 
+
+Effort to index "MOC" https://obsidian.rocks/quick-tip-quickly-organize-notes-in-obsidian/
+
+
 Readings
 	[[Genesis 18.20-32]]
 	[[Psalm 138]]
