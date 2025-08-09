@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52b042dd6a99f6f4",
+        "id": "9f432d5b68f98dea",
         "type": "tabs",
         "children": [
           {
-            "id": "bf717f298322f996",
+            "id": "3c04f3f30e12695e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-08-09.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-09"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -50,7 +35,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -88,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -192,18 +176,19 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "bf717f298322f996",
+  "active": "3c04f3f30e12695e",
   "lastOpenFiles": [
-    "templates/Daily-note.md",
-    "journal/2025-08-09.md",
     "MOC.md",
-    "Starter-Kit/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
+    "notes-created-today.md",
+    "journal/2025-08-09.md",
+    "my-files-inbox-7-30-25/diy/index for diy.md",
     "Proper 12.md",
+    "preaching.md",
+    "templates/Daily-note.md",
+    "Starter-Kit/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
     "proper-12-draft-1.md",
     "+Daily Notes.md",
-    "my-files-inbox-7-30-25/diy/index.md",
     "yesterdays-files.md",
-    "notes-created-today.md",
     "journal/2025-08-07.md",
     "notes-last-touched-today.md",
     "pages/obsidian-nvimobsidian.nvim Obsidian 🤝 Neovim.md",
@@ -219,7 +204,6 @@
     "journal/2025-07-30-Wednesday.md",
     "journal/2025-07-31-Thursday.md",
     "journal/2025-08-02-Saturday.md",
-    "templates/Daily note template.md",
     "Untitled.canvas",
     "courts",
     "silversword.png",
