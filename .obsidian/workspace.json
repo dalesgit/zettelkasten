@@ -11,9 +11,24 @@
             "id": "bf717f298322f996",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-08-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-09"
             }
           }
         ]
