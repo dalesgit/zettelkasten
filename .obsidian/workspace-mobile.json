@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel tips.md",
+                "file": "journal/2025-08-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "travel tips"
+              "title": "2025-08-09"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#names",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9c9ff1c23d784e2f",
@@ -186,10 +186,10 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "17472579875c4f82",
+  "active": "ce8cc08385ba2003",
   "lastOpenFiles": [
-    "journal/2025-08-09.md",
     "travel tips.md",
+    "journal/2025-08-09.md",
     "journal/2025-08-07.md",
     "yesterdays-files.md",
     "journal /2025-08-02.md",
