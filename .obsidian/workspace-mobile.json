@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-08-09.md",
+                "file": "journal/2025-08-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-09"
+              "title": "2025-08-10"
+            }
+          },
+          {
+            "id": "029bc91a1f4738e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "alternative anglican chant.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "alternative anglican chant"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +211,13 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "ce8cc08385ba2003",
+  "active": "029bc91a1f4738e4",
   "lastOpenFiles": [
-    "travel tips.md",
+    "journal/2025-08-10.md",
+    "alternative anglican chant.md",
+    "notes/soups I like.md",
     "journal/2025-08-09.md",
+    "travel tips.md",
     "journal/2025-08-07.md",
     "yesterdays-files.md",
     "journal /2025-08-02.md",
