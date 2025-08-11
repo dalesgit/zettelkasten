@@ -11,9 +11,24 @@
             "id": "5e36cebe1f57638d",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-08-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-11"
             }
           }
         ]
@@ -178,13 +193,19 @@
   },
   "active": "5e36cebe1f57638d",
   "lastOpenFiles": [
+    "Kanban Board.md",
+    "journal/2025-08-11.md",
+    "notes-created-today.md",
+    "yesterdays-files.md",
+    "MP.md",
+    "Daily notes/2025-08-07.md",
+    "journal/2025-08-08.md",
+    "journal/2025-08-09.md",
     "journal/2025-08-10.md",
     "Psalm 138.md",
     "alternative anglican chant.md",
     "notes/soups I like.md",
     "MOC.md",
-    "notes-created-today.md",
-    "journal/2025-08-09.md",
     "my-files-inbox-7-30-25/diy/index for diy.md",
     "Proper 12.md",
     "preaching.md",
@@ -192,18 +213,12 @@
     "Starter-Kit/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
     "proper-12-draft-1.md",
     "+Daily Notes.md",
-    "yesterdays-files.md",
     "journal/2025-08-07.md",
     "notes-last-touched-today.md",
     "pages/obsidian-nvimobsidian.nvim Obsidian 🤝 Neovim.md",
     "journal/2025-08-06.md",
     "dietician-online-presentation.md",
     "thursday-mass-8-7.md",
-    "Notes created today.md",
-    "templates/Daily note template 1.md",
-    "journal/2025-07-17.md",
-    "journal/2025-08-05.md",
-    "journal/2025-08-05-Tuesday.md",
     "Untitled.canvas",
     "courts",
     "silversword.png",
