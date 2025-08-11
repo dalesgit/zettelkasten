@@ -1,0 +1,135 @@
+#!/bin/bash
+# https://askubuntu.com/questions/1146166/bash-how-to-create-a-menu-with-submenu
+# submenu
+# gio launch ~/bin/Obsidian.desktop
+# https://unix.stackexchange.com/questions/27139/script-to-change-current-directory-cd-pwd
+#
+#
+File="/home/dale/Repositories/vim-config/bin/wikis"
+Repo="${menu[$option]}"
+vimrc="/home/dale/.vimrc"
+lua="/home/dale/.config/nvim/lua/config/options.lua"
+luaPost="/home/dale/Repositories/vim-config/options-wiki-post-cruise.lua"
+luaLog="/home/dale/Repositories/vim-config/options-logseq.lua"
+luaVim="/home/dale/Repositories/vim-config/options-wiki-vim.lua"
+luaCruise="/home/dale/Repositories/vim-config/options-wiki-cruise.lua"
+luaZettel="/home/dale/Repositories/vim-config/options-zettelkasten.lua"
+#/home/dale/Repositories/zettelkasten"
+function doSD() {
+  cd /home/dale/Repositories/logseq-sd/
+  #Dir="/home/dale/Repositories/logseq-sd/"
+  git pull origin main
+  #exec bash
+  return
+}
+function doZettel-git() {
+  cd /home/dale/Repositories/zettel-git/
+  #Dir="/home/dale/Repositories/zettel-git/"
+  git pull origin main
+  #exec bash
+  return
+}
+function doCruise() {
+  cp $luaCruise $lua
+  cp "/home/dale/.vimrc-cruise" $vimrc
+
+  cd /home/dale/Repositories/wiki-cruise/
+  #Dir="/home/dale/Repositories/wiki-cruise/"
+  git pull origin main
+
+  #exec bash
+  return
+
+}
+function doPostcruise() {
+  cp $luaPost $lua
+  cp "/home/dale/.vimrc-post" $vimrc
+  cd /home/dale/Repositories/wiki-post-cruise/
+  #Dir="/home/dale/Repositories/wiki-post-cruise/"
+  git pull origin main
+
+  #exec bash
+  return
+
+}
+function doWiki() {
+  cp $luaVim $lua
+  cp "/home/dale/.vimrc-wiki" $vimrc
+  cd /home/dale/Repositories/wiki-vim/
+  #Dir="/home/dale/Repositories/wiki-vim/"
+  git pull origin main
+  return
+  # exec bash
+
+}
+function doLogseq() {
+  cp $luaLog $lua
+  cp "/home/dale/.vimrc-logseq" $vimrc
+  cd /home/dale/Repositories/logseq/
+  #Dir="/home/dale/Repositories/logseq/"
+  git pull origin main
+
+  #exec bash
+  return
+
+}
+
+function doZettelkasten() {
+  cp "/home/dale/.vimrc-zettelkasten" $vimrc
+  cp $luaZettel $lua
+  cd /home/dale/Repositories/zettelkasten/
+  #Dir="/home/dale/Repositories/zettelkasten/"
+  git pull origin main
+  #exec bash
+  return
+
+}
+
+# main menu
+PS3='Please enter main option: '
+options=("WikiVim" "zettelkasten" "Logseq-wiki" "Logseq-sd" "Wiki-cruise"
+  "Wiki-post-cruise" "zettel-git" "doObsidian" "doLogseq" "doRanger" "Main menu quit")
+clear
+select opt in "${options[@]}"; do
+  case $opt in
+  "WikiVim")
+    doWiki
+    ;;
+  "Logseq-wiki")
+    doLogseq
+    ;;
+  "Logseq-sd")
+    doLogseq-sd
+    ;;
+  "Wiki-cruise")
+    doCruise
+    ;;
+  "Wiki-post-cruise")
+    doPostcruise
+    ;;
+  "zettelkasten")
+    doZettelkasten
+    ;;
+  "zettel-git")
+    doZettel-git
+    ;;
+  "doObsidian")
+    obsidian
+    ;;
+  "doLogseq")
+    logseq
+    ;;
+  "doRanger")
+    ranger
+    ;;
+  "Main menu quit")
+    #Dir="$PWD"
+    #cd $Dir
+    #echo $Dir
+    exec bash
+    exit
+    ;;
+  *) echo "invalid option $REPLY" ;;
+  esac
+  #   clear
+done
