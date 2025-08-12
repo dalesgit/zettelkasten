@@ -1,0 +1,29 @@
+- 76 trombones
+	- Cheeseman Park
+	- Musical at park (summer)
+- When you look out -- where do you see beauty?
+	- Down on yourself
+	- ugly.
+- Picture of my butt? You say you like it?
+	- We need pics in our bedroom
+- "Spirit of 76"
+	- patriotism?
+	- "creeping up to my knees
+- "Atypical" makes you smile
+	- Ethan
+	- Magic Island
+- Union 76
+	- ![[Pasted image 20250812141210.png]]
+	- 7<sup>2</sup> X 19
+		- Lucas number approximates golden spiral
+	- year of bicentennial
+	- 76: automorphic in base 10. 76 to whatever power, the answer always ends in 76. Only other such 2 digit number is 25.
+	- 76'ers a Philadelphia basketball team
+		- Dr. J
+			- (Dr. J, The Doctor, J.W., The Claw, Black Moses, Houdini, Little Hawk, Doc, Julie, Super Julius)
+			- Philadelphia his final home.
+			- Started in the ABA (Denver)
+- Music man
+	- ![[Pasted image 20250812141109.png]]
+	- "I'm here to organize a River City boy's band"
+	- Trombones led the big parade.
