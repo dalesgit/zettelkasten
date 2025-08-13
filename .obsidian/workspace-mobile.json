@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alternative anglican chant.md",
+                "file": "journal/2025-08-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "alternative anglican chant"
+              "title": "2025-08-11"
             }
           }
         ],
@@ -133,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily notes/2025-08-06.md",
+            "file": "journal/2025-08-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "analogical thinking.md",
+            "file": "journal/2025-08-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -166,7 +166,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "analogical thinking.md",
+            "file": "journal/2025-08-11.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -196,7 +196,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +213,9 @@
   },
   "active": "029bc91a1f4738e4",
   "lastOpenFiles": [
-    "journal/2025-08-10.md",
+    "journal/2025-08-12.md",
     "alternative anglican chant.md",
+    "journal/2025-08-10.md",
     "notes/soups I like.md",
     "journal/2025-08-09.md",
     "travel tips.md",
