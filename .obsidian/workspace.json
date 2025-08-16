@@ -4,59 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5e0045f8a7509f",
+        "id": "b660e5214e32090e",
         "type": "tabs",
         "children": [
           {
-            "id": "7439ff1737bb099e",
+            "id": "00f03085197450ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-08-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-14"
-            }
-          },
-          {
-            "id": "dd7e945ffd60f3fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/Here, Now, and Always - MNMF.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Here, Now, and Always - MNMF"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,9 +176,10 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "dd7e945ffd60f3fd",
+  "active": "00f03085197450ac",
   "lastOpenFiles": [
     "journal/2025-08-14.md",
+    "journal/2025-08-16.md",
     "ReadItLater Inbox/Here, Now, and Always - MNMF.md",
     "ReadItLater Inbox/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live.md",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
@@ -255,7 +216,6 @@
     "notes/soups I like.md",
     "MOC.md",
     "my-files-inbox-7-30-25/diy/index for diy.md",
-    "Proper 12.md",
     "Untitled.canvas",
     "courts",
     "Untitled",
