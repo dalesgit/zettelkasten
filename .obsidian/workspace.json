@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b660e5214e32090e",
+        "id": "d689de65cb1e6f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "00f03085197450ac",
+            "id": "db3d572685d3df02",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "pages/2025-fall-Packing-list.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "2025-fall-Packing-list"
             }
           }
         ]
@@ -73,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -136,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tyranny.md",
+                "file": "pages/2025-fall-Packing-list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tyranny"
+              "title": "Outline of 2025-fall-Packing-list"
             }
           },
           {
@@ -156,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,6 +179,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -173,11 +189,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "00f03085197450ac",
+  "active": "db3d572685d3df02",
   "lastOpenFiles": [
+    "journal/2025-08-21.md",
+    "pages/2025-fall-Packing-list.md",
+    "pages/sample7.md",
+    "my-files-inbox-7-30-25/history/The long shadow of Adolf Hitler - New Statesman.md",
+    "my-files-inbox-7-30-25/history/preserve-democracy.md",
+    "my-files-inbox-7-30-25/index-7-30-25.md",
+    "history/The.md",
+    "history",
+    "journal/2025-08-19.md",
+    "journal/2025-08-10.md",
+    "journal/2025-08-12.md",
+    "+Daily Notes.md",
     "journal/2025-08-14.md",
     "journal/2025-08-16.md",
     "ReadItLater Inbox/Here, Now, and Always - MNMF.md",
@@ -201,21 +230,10 @@
     "Textsnippet.md",
     "Aug-14,-2025-Troy’s-fall-was-partly-due-to-environmental-strain-–-and-it-holds-lessons-for-today.md.crswap",
     "ReadItLater Inbox/assets",
-    "journal/2025-08-12.md",
     "76-birthday.md",
     "journal/2025-08-11.md",
     "Kanban Board.md",
     "notes-created-today.md",
-    "MP.md",
-    "Daily notes/2025-08-07.md",
-    "journal/2025-08-08.md",
-    "journal/2025-08-09.md",
-    "journal/2025-08-10.md",
-    "Psalm 138.md",
-    "alternative anglican chant.md",
-    "notes/soups I like.md",
-    "MOC.md",
-    "my-files-inbox-7-30-25/diy/index for diy.md",
     "Untitled.canvas",
     "courts",
     "Untitled",
@@ -224,7 +242,6 @@
     "zotero",
     "ReadItLater Inbox",
     "Timestamps/2025/07-July",
-    "+Daily-Notes.md.crswap",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "5_Structure/Canvases/About - 4_Project Notes.canvas",
