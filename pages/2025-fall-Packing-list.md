@@ -57,7 +57,7 @@ kanban-plugin: board
 - [ ] large brim hat
 - [ ] water bottle
 - [ ] jacket?
-
+- [ ] Beach chairs
 
 ## Hotel rooms
 
