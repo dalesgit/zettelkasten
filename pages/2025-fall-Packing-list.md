@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] shampoos
 - [ ] cloth
 - [ ] electric clipper
+- [ ] Bathroom bag separate 
 
 
 ## Meds
@@ -27,6 +28,10 @@ kanban-plugin: board
 - [ ] fungal
 - [ ] eczema
 - [ ] tylenol
+- [ ] Regular meds
+- [ ] Glucose testing 
+- [ ] Shampoo etc. 
+- [ ] scrub cloth 
 
 
 ## Dressy

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-08-10.md",
+                "file": "pages/2025-fall-Packing-list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-10"
-            }
-          },
-          {
-            "id": "029bc91a1f4738e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-08-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-11"
+              "title": "2025-fall-Packing-list"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +166,8 @@
         "state": {
           "type": "daily-note-calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "daily-note-calendar"
         }
       }
     ],
@@ -200,6 +175,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,16 +189,23 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "029bc91a1f4738e4",
+  "active": "17472579875c4f82",
   "lastOpenFiles": [
+    "journal/2025-08-23.md",
+    "journal/2025-08-16.md",
+    "notes-created-today.md",
+    "yesterdays-files.md",
+    "journal/2025-08-14.md",
+    "journal/2025-08-21.md",
     "journal/2025-08-12.md",
-    "alternative anglican chant.md",
     "journal/2025-08-10.md",
+    "Textsnippet.md",
+    "journal/2025-08-11.md",
+    "alternative anglican chant.md",
     "notes/soups I like.md",
     "journal/2025-08-09.md",
     "travel tips.md",
     "journal/2025-08-07.md",
-    "yesterdays-files.md",
     "journal /2025-08-02.md",
     "journal ",
     "journal /2025-08-06.md",
