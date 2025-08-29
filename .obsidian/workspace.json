@@ -11,22 +11,24 @@
             "id": "db3d572685d3df02",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "pages/2025-fall-Packing-list.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "journal/2025-08-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "2025-fall-Packing-list"
+              "icon": "lucide-file",
+              "title": "2025-08-26"
             }
           }
         ]
@@ -86,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -195,8 +196,9 @@
   },
   "active": "db3d572685d3df02",
   "lastOpenFiles": [
-    "journal/2025-08-21.md",
     "pages/2025-fall-Packing-list.md",
+    "journal/2025-08-26.md",
+    "journal/2025-08-21.md",
     "pages/sample7.md",
     "my-files-inbox-7-30-25/history/The long shadow of Adolf Hitler - New Statesman.md",
     "my-files-inbox-7-30-25/history/preserve-democracy.md",
@@ -233,7 +235,6 @@
     "76-birthday.md",
     "journal/2025-08-11.md",
     "Kanban Board.md",
-    "notes-created-today.md",
     "Untitled.canvas",
     "courts",
     "Untitled",
