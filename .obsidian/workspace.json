@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-08-26.md",
+                "file": "Recipes/Instant Pot Tuscan Bean and Sausage Soup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-26"
+              "title": "Instant Pot Tuscan Bean and Sausage Soup"
             }
           }
         ]
@@ -191,13 +191,19 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "recipe-grabber:Recipe Grabber": false
     }
   },
   "active": "db3d572685d3df02",
   "lastOpenFiles": [
-    "pages/2025-fall-Packing-list.md",
+    "journal/2025-08-31.md",
+    "Recipes/Instant Pot Tuscan Bean and Sausage Soup.md",
+    "journal/2025-07-13.md",
+    "Untitled 1",
+    "Recipes",
     "journal/2025-08-26.md",
+    "pages/2025-fall-Packing-list.md",
     "journal/2025-08-21.md",
     "pages/sample7.md",
     "my-files-inbox-7-30-25/history/The long shadow of Adolf Hitler - New Statesman.md",
@@ -232,17 +238,12 @@
     "Textsnippet.md",
     "Aug-14,-2025-Troy’s-fall-was-partly-due-to-environmental-strain-–-and-it-holds-lessons-for-today.md.crswap",
     "ReadItLater Inbox/assets",
-    "76-birthday.md",
-    "journal/2025-08-11.md",
-    "Kanban Board.md",
     "Untitled.canvas",
     "courts",
-    "Untitled",
     "inbox/personal",
     "inbox",
     "zotero",
     "ReadItLater Inbox",
-    "Timestamps/2025/07-July",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "5_Structure/Canvases/About - 4_Project Notes.canvas",
