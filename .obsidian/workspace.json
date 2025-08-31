@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d689de65cb1e6f9a",
+        "id": "9291d8e1b5b4214a",
         "type": "tabs",
         "children": [
           {
-            "id": "db3d572685d3df02",
+            "id": "ec00e3e57417c0ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Instant Pot Tuscan Bean and Sausage Soup.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Instant Pot Tuscan Bean and Sausage Soup"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -195,9 +180,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "db3d572685d3df02",
+  "active": "ec00e3e57417c0ce",
   "lastOpenFiles": [
+    "Recipes/Tuscan Soup.md",
+    "Tony Campalo story.md",
     "journal/2025-08-31.md",
+    "Recipes/RecipeImages",
     "Recipes/Instant Pot Tuscan Bean and Sausage Soup.md",
     "journal/2025-07-13.md",
     "Untitled 1",
@@ -234,8 +222,6 @@
     "ReadItLater.md",
     "ReadItLater Inbox/This free Obsidian plugin helps me save content and catch up with online reading.md",
     "ReadItLater Inbox/Note 2025-07-03 06-49-37.md",
-    "Aug-14,-2025-Troy’s-fall-was-partly-due-to-environmental-strain-–-and-it-holds-lessons-for-today.md",
-    "Textsnippet.md",
     "Aug-14,-2025-Troy’s-fall-was-partly-due-to-environmental-strain-–-and-it-holds-lessons-for-today.md.crswap",
     "ReadItLater Inbox/assets",
     "Untitled.canvas",
@@ -243,7 +229,6 @@
     "inbox/personal",
     "inbox",
     "zotero",
-    "ReadItLater Inbox",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "5_Structure/Canvases/About - 4_Project Notes.canvas",
