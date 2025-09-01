@@ -70,5 +70,14 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }
