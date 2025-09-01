@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3b3810a2c82ec4",
+        "id": "c5fcce6bbe1e7a03",
         "type": "tabs",
         "children": [
           {
-            "id": "17472579875c4f82",
+            "id": "7e78931e3dcebf62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-08-31.md",
+                "file": "journal/2025-09-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-31"
+              "title": "2025-09-01"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#names",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9c9ff1c23d784e2f",
@@ -175,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "recipe-grabber:Recipe Grabber": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "bases:Create new base": false,
@@ -189,10 +190,13 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "17472579875c4f82",
+  "active": "7e78931e3dcebf62",
   "lastOpenFiles": [
-    "Judaism was not a religion. It was living out what it means to be God's chosen. Paul's insight was to affirm the chosen of Jews, but to say that all people are chosen. This is from Steve caulk..md",
+    "journal/2025-09-01.md",
+    "Recipes/Sheet Pan Chicken Pot Pie.md",
+    "Recipes/Lentil Soup.md",
     "journal/2025-08-31.md",
+    "Judaism was not a religion. It was living out what it means to be God's chosen. Paul's insight was to affirm the chosen of Jews, but to say that all people are chosen. This is from Steve caulk..md",
     "MCCOLMAN.md",
     "Olivebranchcommunity.org Ken Medema about a Lutheran church in Minnesota. New ways to worship..md",
     "Tony Campalo story.md",
@@ -215,9 +219,6 @@
     "alternative anglican chant.md",
     "notes/soups I like.md",
     "journal/2025-08-09.md",
-    "travel tips.md",
-    "journal/2025-08-07.md",
-    "journal /2025-08-02.md",
     "journal ",
     "Daily notes"
   ]
