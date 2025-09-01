@@ -11,9 +11,24 @@
             "id": "ec00e3e57417c0ce",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-08-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-31"
             }
           }
         ]
@@ -183,14 +198,15 @@
   "active": "ec00e3e57417c0ce",
   "lastOpenFiles": [
     "Recipes/Tuscan Soup.md",
-    "Tony Campalo story.md",
+    "journal/2025-08-23.md",
+    "journal/2025-08-26.md",
     "journal/2025-08-31.md",
+    "Tony Campalo story.md",
     "Recipes/RecipeImages",
     "Recipes/Instant Pot Tuscan Bean and Sausage Soup.md",
     "journal/2025-07-13.md",
     "Untitled 1",
     "Recipes",
-    "journal/2025-08-26.md",
     "pages/2025-fall-Packing-list.md",
     "journal/2025-08-21.md",
     "pages/sample7.md",
@@ -221,7 +237,6 @@
     "ReadItLater Inbox/How to type special characters and symbols on a Chromebook.md",
     "ReadItLater.md",
     "ReadItLater Inbox/This free Obsidian plugin helps me save content and catch up with online reading.md",
-    "ReadItLater Inbox/Note 2025-07-03 06-49-37.md",
     "Aug-14,-2025-Troy’s-fall-was-partly-due-to-environmental-strain-–-and-it-holds-lessons-for-today.md.crswap",
     "ReadItLater Inbox/assets",
     "Untitled.canvas",
