@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4684923aa56bab39",
+        "id": "1b199a0f114a4511",
         "type": "tabs",
         "children": [
           {
-            "id": "011b00c278ed774f",
+            "id": "9ad8e4a7ece329fc",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -180,13 +180,13 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "011b00c278ed774f",
+  "active": "9ad8e4a7ece329fc",
   "lastOpenFiles": [
-    "archive/www_tomshardware_com.How to transfer and share files over a network without a USB flash drive  and with just one line of code  Toms Hardware.md",
     "journal/2025-09-01.md",
-    "sacred space 2.md",
     "archive/t_me.Telegram View Kyivpostofficial.md",
     "archive/www_noemamag_com.Religious Architecture Is Vanishing - NOEMA.md",
+    "archive/www_tomshardware_com.How to transfer and share files over a network without a USB flash drive  and with just one line of code  Toms Hardware.md",
+    "sacred space 2.md",
     "sacred space.md",
     "Untitled 2.md",
     "archive",
