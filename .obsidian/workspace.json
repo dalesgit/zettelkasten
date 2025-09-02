@@ -11,9 +11,24 @@
             "id": "9ad8e4a7ece329fc",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-09-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-02"
             }
           }
         ]
@@ -182,6 +197,10 @@
   },
   "active": "9ad8e4a7ece329fc",
   "lastOpenFiles": [
+    "yesterdays-files.md",
+    "journal/2025-09-02.md",
+    "How to tell Ukraine from Russia when Putin blurs the lines.md",
+    "Trump is not the labor president he claims to be.md",
     "journal/2025-09-01.md",
     "archive/t_me.Telegram View Kyivpostofficial.md",
     "archive/www_noemamag_com.Religious Architecture Is Vanishing - NOEMA.md",
@@ -209,11 +228,7 @@
     "journal/2025-08-21.md",
     "pages/sample7.md",
     "my-files-inbox-7-30-25/history/The long shadow of Adolf Hitler - New Statesman.md",
-    "my-files-inbox-7-30-25/history/preserve-democracy.md",
-    "my-files-inbox-7-30-25/index-7-30-25.md",
-    "history/The.md",
     "history",
-    "journal/2025-08-19.md",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-rRY5YXPl2U.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-3kEOQa0RsR.jpeg",
