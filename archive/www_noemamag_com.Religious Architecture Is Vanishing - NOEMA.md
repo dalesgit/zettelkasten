@@ -1,7 +1,3 @@
----
-link: “https://www.noemamag.com/the-vanishing-art-of-building-sacred-spaces/”
----
-https://www.noemamag.com/the-vanishing-art-of-building-sacred-spaces/
 # [Religious Architecture Is Vanishing - NOEMA](https://www.noemamag.com/the-vanishing-art-of-building-sacred-spaces/)
 John Last is a freelance journalist based in Padua, Italy.
 
