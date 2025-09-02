@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "journal/2025-09-02.md",
+=======
+                "file": "sacred space.md",
+>>>>>>> e4195d3b51e407ca7d7a5df9cdd5f0e11a9ae900
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +32,11 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "2025-09-02"
+=======
+              "title": "sacred space"
+>>>>>>> e4195d3b51e407ca7d7a5df9cdd5f0e11a9ae900
             }
           }
         ]
@@ -194,6 +202,7 @@
   "lastOpenFiles": [
     "journal/2025-09-02.md",
     "journal/2025-09-01.md",
+    "sacred space.md",
     "Recipes/Sheet Pan Chicken Pot Pie.md",
     "Recipes/Lentil Soup.md",
     "journal/2025-08-31.md",
