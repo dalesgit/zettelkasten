@@ -11,9 +11,24 @@
             "id": "fefe51cfc2dad80a",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-09-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-02"
             }
           }
         ]
@@ -81,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9c9ff1c23d784e2f",
@@ -177,6 +192,7 @@
   },
   "active": "fefe51cfc2dad80a",
   "lastOpenFiles": [
+    "journal/2025-09-02.md",
     "journal/2025-09-01.md",
     "Recipes/Sheet Pan Chicken Pot Pie.md",
     "Recipes/Lentil Soup.md",
@@ -203,7 +219,6 @@
     "journal/2025-08-11.md",
     "alternative anglican chant.md",
     "notes/soups I like.md",
-    "journal/2025-08-09.md",
     "journal ",
     "Daily notes"
   ]
