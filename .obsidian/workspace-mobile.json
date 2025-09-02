@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-01.md",
+                "file": "sacred space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-01"
+              "title": "sacred space"
             }
           }
         ]
@@ -193,6 +193,7 @@
   "active": "fefe51cfc2dad80a",
   "lastOpenFiles": [
     "journal/2025-09-01.md",
+    "sacred space.md",
     "Recipes/Sheet Pan Chicken Pot Pie.md",
     "Recipes/Lentil Soup.md",
     "journal/2025-08-31.md",
@@ -218,7 +219,6 @@
     "journal/2025-08-11.md",
     "alternative anglican chant.md",
     "notes/soups I like.md",
-    "journal/2025-08-09.md",
     "journal ",
     "Daily notes"
   ]
