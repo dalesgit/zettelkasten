@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b199a0f114a4511",
+        "id": "6988b184951fcfcc",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad8e4a7ece329fc",
+            "id": "d3787d0ff944d5f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-02"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +36,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -195,10 +180,16 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "9ad8e4a7ece329fc",
+  "active": "d3787d0ff944d5f9",
   "lastOpenFiles": [
-    "yesterdays-files.md",
+    "journal/2025-09-03.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "wake-up-call-to-higher-ed.md",
+    "book bans satire Atwood.md",
+    "america as subscription service.md",
     "journal/2025-09-02.md",
+    "yesterdays-files.md",
     "How to tell Ukraine from Russia when Putin blurs the lines.md",
     "Trump is not the labor president he claims to be.md",
     "journal/2025-09-01.md",
@@ -221,13 +212,8 @@
     "journal/2025-08-26.md",
     "Recipes/RecipeImages",
     "Recipes/Instant Pot Tuscan Bean and Sausage Soup.md",
-    "journal/2025-07-13.md",
     "Untitled 1",
     "Recipes",
-    "pages/2025-fall-Packing-list.md",
-    "journal/2025-08-21.md",
-    "pages/sample7.md",
-    "my-files-inbox-7-30-25/history/The long shadow of Adolf Hitler - New Statesman.md",
     "history",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-rRY5YXPl2U.jpeg",
@@ -242,8 +228,6 @@
     "ReadItLater Inbox/assets",
     "Untitled.canvas",
     "courts",
-    "inbox/personal",
-    "inbox",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "5_Structure/Canvases/About - 4_Project Notes.canvas",
