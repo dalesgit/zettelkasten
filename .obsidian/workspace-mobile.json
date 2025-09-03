@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb9d23d0543d5197",
+        "id": "2a831e913d8010ce",
         "type": "tabs",
         "children": [
           {
-            "id": "ff32664af02cb8ea",
+            "id": "66606d5c1e4f858c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-02.md",
+                "file": "journal/2025-09-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-02"
+              "title": "2025-09-03"
             }
           }
         ]
@@ -46,7 +46,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -180,9 +180,15 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "ff32664af02cb8ea",
+  "active": "66606d5c1e4f858c",
   "lastOpenFiles": [
-    "Glucose spike myth.md",
-    "journal/2025-09-02.md"
+    "book bans satire Atwood.md",
+    "Untitled 1.canvas",
+    "journal/2025-09-03.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled Kanban.md",
+    "journal/2025-09-02.md",
+    "Glucose spike myth.md"
   ]
 }
