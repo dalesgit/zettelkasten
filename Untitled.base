@@ -1,6 +1,11 @@
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Table
     filters:
       and:
         - file.ctime == "2025-09-03"
+    order:
+      - file.name
+      - formula.Untitled

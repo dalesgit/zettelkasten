@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a831e913d8010ce",
+        "id": "52cd02ae5aa63b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "66606d5c1e4f858c",
+            "id": "4c4f7db5f4b23ece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-03.md",
+                "file": "sacred space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-03"
+              "title": "sacred space"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2025-09-02.md",
+            "file": "sacred space.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,11 +180,14 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "66606d5c1e4f858c",
+  "active": "4c4f7db5f4b23ece",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 3.base",
+    "journal/2025-09-04.md",
+    "journal/2025-09-03.md",
     "book bans satire Atwood.md",
     "Untitled 1.canvas",
-    "journal/2025-09-03.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled Kanban.md",
