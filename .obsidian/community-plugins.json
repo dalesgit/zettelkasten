@@ -12,5 +12,6 @@
   "obsidian-git",
   "obsidian-kanban",
   "recipe-grabber",
-  "extract-url"
+  "extract-url",
+  "obsidian-tasks-plugin"
 ]

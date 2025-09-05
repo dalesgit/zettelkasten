@@ -9,7 +9,7 @@ tags:
 ---
 # soups I like
 ## Soup swap
-- potato leek
+- [ ] potato leek
 - miso with tofu and scallions
 - hot and sour
 - tomato basil

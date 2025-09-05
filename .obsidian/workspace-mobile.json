@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "52cd02ae5aa63b8e",
+        "id": "e00d4bc000ab79b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4c4f7db5f4b23ece",
+            "id": "a3924d249812ab65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sacred space.md",
-                "mode": "source",
+                "file": "european--security.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sacred space"
+              "title": "european--security"
             }
           }
         ]
@@ -108,8 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sacred space.md",
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -159,9 +158,19 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "0348512f475a57d4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +189,29 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "4c4f7db5f4b23ece",
+  "active": "a3924d249812ab65",
   "lastOpenFiles": [
+    "journal/2025-09-05.md",
+    "european--security.md",
+    "my-files-inbox-7-30-25/thought/A 100,000-year-old burial site in Israel is changing what we know about early humans - The Globe and Mail.md",
+    "Untitled 2.base",
+    "Starter-Kit/2_Literature/_About - 2_Literature Notes.md",
+    "Untitled 1.canvas",
+    "pages/202509050747.md",
+    "notes/Learning to create links naturally as in Obsidian.md",
+    "Untitled Kanban 1.md",
+    "notes/soups I like.md",
+    "inbox/Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson.md",
+    "Untitled 4.base",
+    "Brooks on left right values.md",
+    "book bans satire Atwood.md",
     "Untitled.base",
+    "yesterdays-files.md",
+    "archive/www_noemamag_com.Religious Architecture Is Vanishing - NOEMA.md",
+    "sacred space.md",
     "Untitled 3.base",
     "journal/2025-09-04.md",
     "journal/2025-09-03.md",
-    "book bans satire Atwood.md",
-    "Untitled 1.canvas",
-    "Untitled 2.base",
     "Untitled 1.base",
     "Untitled Kanban.md",
     "journal/2025-09-02.md",
