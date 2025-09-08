@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6988b184951fcfcc",
+        "id": "a25e3b4527100faa",
         "type": "tabs",
         "children": [
           {
-            "id": "d3787d0ff944d5f9",
+            "id": "5d50b62aded62289",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -180,8 +180,13 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "d3787d0ff944d5f9",
+  "active": "5d50b62aded62289",
   "lastOpenFiles": [
+    "inbox/MarkDownloads/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
+    "inbox/MarkDownloads",
+    "inbox/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
+    "inbox/Peter Thiel’s Palantir poses a grave threat to Americans  Robert Reich  The Guardian.md",
+    "journal/2025-09-08.md",
     "journal/2025-09-03.md",
     "Untitled.base",
     "Untitled 1.base",
@@ -206,12 +211,8 @@
     "Recipes/Instant Pot Navy Bean and Ham Soup.md",
     "Zach Lambert.md",
     "Tony Campalo story.md",
-    "Recipes/Instant Pot Chicken Tortilla Soup.md",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
-    "journal/2025-08-23.md",
-    "journal/2025-08-26.md",
     "Recipes/RecipeImages",
-    "Recipes/Instant Pot Tuscan Bean and Sausage Soup.md",
     "Untitled 1",
     "Recipes",
     "history",
@@ -227,7 +228,6 @@
     "Aug-14,-2025-Troy’s-fall-was-partly-due-to-environmental-strain-–-and-it-holds-lessons-for-today.md.crswap",
     "ReadItLater Inbox/assets",
     "Untitled.canvas",
-    "courts",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "5_Structure/Canvases/About - 4_Project Notes.canvas",
