@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3643520de353f925",
+        "id": "08596ccc72bbbc90",
         "type": "tabs",
         "children": [
           {
-            "id": "6bcd07a008f8f031",
+            "id": "e541d463c6574074",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -180,8 +180,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "6bcd07a008f8f031",
+  "active": "e541d463c6574074",
   "lastOpenFiles": [
+    "proper-20c.md",
+    "proper-20c-brainstorming.md",
+    "journal/2025-09-09.md",
     "inbox/MarkDownloads/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
     "inbox/MarkDownloads",
     "inbox/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
@@ -209,8 +212,6 @@
     "Recipes/Instant Pot Tuscan Soup.md",
     "Recipes/Instant Pot Navy Bean and Ham Soup 1.md",
     "Recipes/Instant Pot Navy Bean and Ham Soup.md",
-    "Zach Lambert.md",
-    "Tony Campalo story.md",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "Recipes/RecipeImages",
     "Untitled 1",
