@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a25e3b4527100faa",
+        "id": "3643520de353f925",
         "type": "tabs",
         "children": [
           {
-            "id": "5d50b62aded62289",
+            "id": "6bcd07a008f8f031",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -180,7 +180,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "5d50b62aded62289",
+  "active": "6bcd07a008f8f031",
   "lastOpenFiles": [
     "inbox/MarkDownloads/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
     "inbox/MarkDownloads",
