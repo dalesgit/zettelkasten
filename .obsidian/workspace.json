@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08596ccc72bbbc90",
+        "id": "a9a20e7525914e86",
         "type": "tabs",
         "children": [
           {
-            "id": "e541d463c6574074",
+            "id": "3c22c345c7daec16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/MarkDownloads/personal/The First Over-the-Counter Continuous Glucose Monitor Is It Right for You  NYU Langone News.md",
+                "file": "proper-20c.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The First Over-the-Counter Continuous Glucose Monitor Is It Right for You  NYU Langone News"
+              "title": "proper-20c"
             }
           },
           {
-            "id": "08d85dc418a331e1",
+            "id": "98d88b3ebf0bd33d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/MarkDownloads/personal/If you remember these 15 everyday items from the 1970s that completely disappeared, your memory is in the top 5% of people – VegOut.md",
+                "file": "proper-20c-brainstorming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "If you remember these 15 everyday items from the 1970s that completely disappeared, your memory is in the top 5% of people – VegOut"
-            }
-          },
-          {
-            "id": "b8ee026b2cc644ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lisa-cook-firing-backfires.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "lisa-cook-firing-backfires"
+              "title": "proper-20c-brainstorming"
             }
           }
         ],
@@ -137,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -244,19 +221,32 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "08d85dc418a331e1",
+  "active": "98d88b3ebf0bd33d",
   "lastOpenFiles": [
-    "inbox/MarkDownloads/personal/The First Over-the-Counter Continuous Glucose Monitor Is It Right for You  NYU Langone News.md",
-    "inbox/personal/6 daily rituals scientists link to long-lasting marriages – VegOut.md",
+    "inbox/MarkDownloads/kamala-harris-memoir.md",
+    "proper-20c.md",
+    "journal/2025-09-09.md",
     "journal/2025-09-10.md",
+    "inbox/thought/How Originalism Killed the Constitution - The Atlantic.md",
+    "ReadItLater Inbox/This free Obsidian plugin helps me save content and catch up with online reading.md",
+    "Read-it-later.base",
+    "ReadItLater.md",
+    "ReadItLater Inbox/Plane to purgatory how Trump’s deportation program shuttles immigrants into lawless limbo.md",
+    "assets/Pasted image 20250910094353.png",
+    "ReadItLater Inbox/Note 2025-07-03 06-49-37.md",
+    "ReadItLater Inbox/How to type special characters and symbols on a Chromebook.md",
+    "ReadItLater Inbox/Here, Now, and Always - MNMF.md",
+    "lisa-cook-firing-backfires.md",
+    "inbox/MarkDownloads/personal/The First Over-the-Counter Continuous Glucose Monitor Is It Right for You  NYU Langone News.md",
+    "notes/Dad's geneaology for David.md",
+    "notes/soups I like.md",
+    "inbox/MarkDownloads/personal/If you remember these 15 everyday items from the 1970s that completely disappeared, your memory is in the top 5% of people – VegOut.md",
+    "inbox/personal/6 daily rituals scientists link to long-lasting marriages – VegOut.md",
     "inbox/MarkDownloads/Does Society Have Too Many Rules  The New Yorker.md~",
     "inbox/MarkDownloads/Does Society Have Too Many Rules  The New Yorker.md",
     "inbox/MarkDownloads/Unconfirmed 40674.crdownload",
-    "lisa-cook-firing-backfires.md",
     "inbox/MarkDownloads/The Supreme Court Is Trump’s Partner in Crimes Against America.md",
-    "proper-20c.md",
     "proper-20c-brainstorming.md",
-    "journal/2025-09-09.md",
     "inbox/MarkDownloads/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
     "inbox/MarkDownloads",
     "inbox/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
@@ -264,19 +254,7 @@
     "journal/2025-09-08.md",
     "journal/2025-09-03.md",
     "Untitled.base",
-    "Untitled 1.base",
     "wake-up-call-to-higher-ed.md",
-    "book bans satire Atwood.md",
-    "america as subscription service.md",
-    "journal/2025-09-02.md",
-    "yesterdays-files.md",
-    "How to tell Ukraine from Russia when Putin blurs the lines.md",
-    "Trump is not the labor president he claims to be.md",
-    "journal/2025-09-01.md",
-    "archive/t_me.Telegram View Kyivpostofficial.md",
-    "archive/www_noemamag_com.Religious Architecture Is Vanishing - NOEMA.md",
-    "archive/www_tomshardware_com.How to transfer and share files over a network without a USB flash drive  and with just one line of code  Toms Hardware.md",
-    "sacred space 2.md",
     "archive",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "Recipes/RecipeImages",
@@ -291,7 +269,6 @@
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-GkHohThxlo.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-o47VLKik8v.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-EKFlrFnzU2.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-7o1EDgcDdN.jpeg",
     "Untitled.canvas",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
