@@ -11,12 +11,76 @@
             "id": "e541d463c6574074",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "inbox/MarkDownloads/personal/The First Over-the-Counter Continuous Glucose Monitor Is It Right for You  NYU Langone News.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The First Over-the-Counter Continuous Glucose Monitor Is It Right for You  NYU Langone News"
+            }
+          },
+          {
+            "id": "08d85dc418a331e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/MarkDownloads/personal/If you remember these 15 everyday items from the 1970s that completely disappeared, your memory is in the top 5% of people – VegOut.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "If you remember these 15 everyday items from the 1970s that completely disappeared, your memory is in the top 5% of people – VegOut"
+            }
+          },
+          {
+            "id": "b8ee026b2cc644ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lisa-cook-firing-backfires.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "lisa-cook-firing-backfires"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +244,16 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "e541d463c6574074",
+  "active": "08d85dc418a331e1",
   "lastOpenFiles": [
+    "inbox/MarkDownloads/personal/The First Over-the-Counter Continuous Glucose Monitor Is It Right for You  NYU Langone News.md",
+    "inbox/personal/6 daily rituals scientists link to long-lasting marriages – VegOut.md",
+    "journal/2025-09-10.md",
+    "inbox/MarkDownloads/Does Society Have Too Many Rules  The New Yorker.md~",
+    "inbox/MarkDownloads/Does Society Have Too Many Rules  The New Yorker.md",
+    "inbox/MarkDownloads/Unconfirmed 40674.crdownload",
+    "lisa-cook-firing-backfires.md",
+    "inbox/MarkDownloads/The Supreme Court Is Trump’s Partner in Crimes Against America.md",
     "proper-20c.md",
     "proper-20c-brainstorming.md",
     "journal/2025-09-09.md",
@@ -205,13 +277,7 @@
     "archive/www_noemamag_com.Religious Architecture Is Vanishing - NOEMA.md",
     "archive/www_tomshardware_com.How to transfer and share files over a network without a USB flash drive  and with just one line of code  Toms Hardware.md",
     "sacred space 2.md",
-    "sacred space.md",
-    "Untitled 2.md",
     "archive",
-    "journal/2025-08-31.md",
-    "Recipes/Instant Pot Tuscan Soup.md",
-    "Recipes/Instant Pot Navy Bean and Ham Soup 1.md",
-    "Recipes/Instant Pot Navy Bean and Ham Soup.md",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "Recipes/RecipeImages",
     "Untitled 1",
@@ -226,8 +292,6 @@
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-o47VLKik8v.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-EKFlrFnzU2.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-7o1EDgcDdN.jpeg",
-    "Aug-14,-2025-Troy’s-fall-was-partly-due-to-environmental-strain-–-and-it-holds-lessons-for-today.md.crswap",
-    "ReadItLater Inbox/assets",
     "Untitled.canvas",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
