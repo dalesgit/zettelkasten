@@ -3,15 +3,45 @@ id: proper-20c
 aliases: []
 tags: []
 ---
-[[proper-20c-brainstorming]] 
+- [[proper-20c-brainstorming]]
+- [[proper-20c-outline]]
+- [[Things I know experientially]]
+- [[Preaching as circular not linear]]
+- [[what is my goal for 20c]]
+- Prophetic ears
+	- Heschel on prophets. # [What Are Prophets For by Abraham Joshua Heschel](https://www.plough.com/en/topics/faith/what-are-prophets-for)
+		- From *[[Thunder in the Soul To Be Known by God - Abraham Joshua Heschel|Thunder in the Soul]]*. https://www.plough.com/en/topics/faith/what-are-prophets-for
+	- [[What Are Prophets For]]
+	- Elie Wiesel on prophets [[wiesel-messengers-of-god]]
+	- Hebrew Bible divisions -- highlighting the prominence of "prophets" and the absence of "historical"
+	- https://bible.org/seriespage/19-old-testament-prophets-selected-bibliography for bibliography
+
+---
+<img alt="The prophet Baalam painting by Yoram Raanan" src="https://www.plough.com/-/media/images/plough/quarterly/2020/24springpolitics/24heschel/heschel_balaam_600.jpg?la=en" height="1024" width="770" />
+
+Yoram Raanan, *Balaam*, 2005, acrylic over lithograph
+
+Source: Abraham Joshua Heschel, “Religion in a Free Society,” in *The Insecurity of Freedom: Essays on Human Existence* (Farrar, Straus & Giroux, 1959), 11–12.
+
 
 | lessons         |                                                                                      |
 | --------------- | ------------------------------------------------------------------------------------ |
 | Amos 8:4-7      | Care of the poor                                                                     |
-| Psalm 113       |                                                                                      |
+| Psalm 113       | lifts up weak out of the dust                                                        |
 | 1 Timothy 2:1-7 | Prayers for all. There is one God. I am herald of such.                              |
 | Luke 16:1-13    | Unrighteous manager. Faithful in a little faithful in much. Slave serving 2 masters. |
+## Psalm 113
+5 Who is like the Lord our God, who sits enthroned on high *  
+but stoops to behold the heavens and the earth?
 
+6 He takes up the weak out of the dust *  
+and lifts up the poor from the ashes.
+
+7 He sets them with the princes, *  
+with the princes of his people.
+
+8 He makes the woman of a childless house *  
+to be a joyful mother of children.
 ##  The Epistle
 
 ### 1 Timothy 2:1-7
