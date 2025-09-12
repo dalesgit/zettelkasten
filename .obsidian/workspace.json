@@ -4,83 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a9a20e7525914e86",
+        "id": "0a48d7c9c6558db8",
         "type": "tabs",
         "children": [
           {
-            "id": "3c22c345c7daec16",
+            "id": "bae46eff2d46b002",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proper-20c.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "proper-20c"
-            }
-          },
-          {
-            "id": "3e0f571c1540bec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proper-20c.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "proper-20c"
-            }
-          },
-          {
-            "id": "61567e04833a5c7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things I know experientially.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Things I know experientially"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,12 +69,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -245,14 +181,21 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "3e0f571c1540bec0",
+  "active": "bae46eff2d46b002",
   "lastOpenFiles": [
-    "proper-20c-outline.md",
-    "proper-20c.md",
-    "proper-20c-brainstorming.md",
-    "Things I know experientially.md",
-    "what is my goal for 20c.md",
+    "charlie-kirk-empathy-trap-democrats.md",
     "journal/2025-09-11.md",
+    "Clippings/Appeals court judges publicly admonish Supreme Court justices ‘We’re out here flailing’.md",
+    "Clippings/My new favorite note-taking app for MacOS and Linux checks this crucial box - and it's free.md",
+    "Clippings/How David Hume split literature from philosophy  Aeon Essays.md",
+    "proper-20c.md",
+    "Things I know experientially.md",
+    "Clippings",
+    "Untitled 1",
+    "Untitled",
+    "proper-20c-outline.md",
+    "proper-20c-brainstorming.md",
+    "what is my goal for 20c.md",
     "wiesel-messengers-of-god.md",
     "ReadItLater Inbox/What Are Prophets For.md",
     "archive/Thunder in the Soul To Be Known by God - Abraham Joshua Heschel.md",
@@ -273,19 +216,12 @@
     "ReadItLater Inbox/How to type special characters and symbols on a Chromebook.md",
     "ReadItLater Inbox/Here, Now, and Always - MNMF.md",
     "lisa-cook-firing-backfires.md",
-    "inbox/MarkDownloads/personal/The First Over-the-Counter Continuous Glucose Monitor Is It Right for You  NYU Langone News.md",
-    "notes/Dad's geneaology for David.md",
-    "notes/soups I like.md",
-    "inbox/MarkDownloads/personal/If you remember these 15 everyday items from the 1970s that completely disappeared, your memory is in the top 5% of people – VegOut.md",
     "inbox/MarkDownloads/Does Society Have Too Many Rules  The New Yorker.md~",
     "inbox/MarkDownloads/Unconfirmed 40674.crdownload",
     "inbox/MarkDownloads",
     "archive",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "Recipes/RecipeImages",
-    "Untitled 1",
-    "Recipes",
-    "history",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-rRY5YXPl2U.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-3kEOQa0RsR.jpeg",
