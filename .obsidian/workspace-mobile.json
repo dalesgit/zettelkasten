@@ -11,12 +11,52 @@
             "id": "2c3e56407f6ad79f",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/Charlie Kirk in his own words ‘prowling Blacks’ and ‘the great replacement strategy’.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Charlie Kirk in his own words ‘prowling Blacks’ and ‘the great replacement strategy’"
+            }
+          },
+          {
+            "id": "c634269968ad21f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-09-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +214,13 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "2c3e56407f6ad79f",
+  "active": "c634269968ad21f7",
   "lastOpenFiles": [
+    "ReadItLater Inbox/A new world order isn’t coming, it’s already here − and this is what it looks like.md",
+    "journal/2025-09-12.md",
+    "ReadItLater Inbox/Charlie Kirk in his own words ‘prowling Blacks’ and ‘the great replacement strategy’.md",
+    "ReadItLater Inbox/Your Android phone's most powerful security feature is hidden and off by default - turn it on now.md",
+    "ReadItLater Inbox/America’s Greatest Threat to Democracy Comes From Within.md",
     "journal/2025-09-10.md",
     "journal/2025-09-09.md",
     "journal/2025-09-11.md",
@@ -202,13 +247,8 @@
     "inbox/Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson.md",
     "Untitled 4.base",
     "Brooks on left right values.md",
-    "book bans satire Atwood.md",
     "Untitled.base",
-    "yesterdays-files.md",
-    "archive/www_noemamag_com.Religious Architecture Is Vanishing - NOEMA.md",
-    "sacred space.md",
     "Untitled 3.base",
-    "journal/2025-09-04.md",
     "Untitled 1.base"
   ]
 }
