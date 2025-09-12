@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0a48d7c9c6558db8",
+        "id": "70b25b745a9d7163",
         "type": "tabs",
         "children": [
           {
-            "id": "bae46eff2d46b002",
+            "id": "6426a1b39a263a55",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/The Lost Art Of Thinking Historically.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Lost Art Of Thinking Historically"
             }
           }
         ]
@@ -181,18 +196,30 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "bae46eff2d46b002",
+  "active": "6426a1b39a263a55",
   "lastOpenFiles": [
-    "charlie-kirk-empathy-trap-democrats.md",
+    "journal/2025-09-12.md",
+    "Clippings/The Lost Art Of Thinking Historically.md",
+    "Clippings/Trump Gives Mindblowing Defense for Far-Right Radicals.md",
+    "Clippings/How Teacher Evaluations Broke the University.md",
     "journal/2025-09-11.md",
+    "Clippings/Gmail’s new tab keeps all your order delivery and purchase emails in one tidy place.md",
+    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
+    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
+    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
+    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3",
+    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm",
+    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm.part",
+    "Born to Run [Wu4_zVxmufY].mp3",
+    "Born to Run [Wu4_zVxmufY].webm",
+    "Born to Run [Wu4_zVxmufY].webm.part",
+    "charlie-kirk-empathy-trap-democrats.md",
     "Clippings/Appeals court judges publicly admonish Supreme Court justices ‘We’re out here flailing’.md",
     "Clippings/My new favorite note-taking app for MacOS and Linux checks this crucial box - and it's free.md",
     "Clippings/How David Hume split literature from philosophy  Aeon Essays.md",
     "proper-20c.md",
     "Things I know experientially.md",
     "Clippings",
-    "Untitled 1",
-    "Untitled",
     "proper-20c-outline.md",
     "proper-20c-brainstorming.md",
     "what is my goal for 20c.md",
@@ -200,7 +227,6 @@
     "ReadItLater Inbox/What Are Prophets For.md",
     "archive/Thunder in the Soul To Be Known by God - Abraham Joshua Heschel.md",
     "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
-    "Untitled.base",
     "goal of the sermon.md",
     "preaching.md",
     "inbox/MarkDownloads/kamala-harris-memoir.md",
@@ -208,20 +234,9 @@
     "journal/2025-09-10.md",
     "inbox/thought/How Originalism Killed the Constitution - The Atlantic.md",
     "ReadItLater Inbox/This free Obsidian plugin helps me save content and catch up with online reading.md",
-    "Read-it-later.base",
     "ReadItLater.md",
-    "ReadItLater Inbox/Plane to purgatory how Trump’s deportation program shuttles immigrants into lawless limbo.md",
     "assets/Pasted image 20250910094353.png",
-    "ReadItLater Inbox/Note 2025-07-03 06-49-37.md",
-    "ReadItLater Inbox/How to type special characters and symbols on a Chromebook.md",
-    "ReadItLater Inbox/Here, Now, and Always - MNMF.md",
-    "lisa-cook-firing-backfires.md",
-    "inbox/MarkDownloads/Does Society Have Too Many Rules  The New Yorker.md~",
-    "inbox/MarkDownloads/Unconfirmed 40674.crdownload",
-    "inbox/MarkDownloads",
-    "archive",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
-    "Recipes/RecipeImages",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-rRY5YXPl2U.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-3kEOQa0RsR.jpeg",
