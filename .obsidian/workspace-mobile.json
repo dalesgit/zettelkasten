@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38ab690d86685056",
+        "id": "84f49d2742296989",
         "type": "tabs",
         "children": [
           {
-            "id": "ff2961f139709ff9",
+            "id": "2c3e56407f6ad79f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-11"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -170,7 +155,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +174,19 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "ff2961f139709ff9",
+  "active": "2c3e56407f6ad79f",
   "lastOpenFiles": [
+    "journal/2025-09-10.md",
+    "journal/2025-09-09.md",
+    "journal/2025-09-11.md",
+    "ReadItLater Inbox/The chilling effect of Title VI investigations the professors accused of antisemitism.md",
+    "ReadItLater Inbox/Monthly homeownership costs now top $2,000, new data shows.md",
+    "ReadItLater Inbox/What Are Prophets For.md",
+    "ReadItLater Inbox/Why is China setting up a nature reserve in one of the world’s most contested waterways  CNN.md",
+    "ReadItLater Inbox/The Constant Battle.md",
+    "gender ideology and dictatorship.md",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-Fx37uY2cEq.png",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-7o1EDgcDdN.jpeg",
-    "journal/2025-09-10.md",
     "ReadItLater Inbox/Poland ‘closer to conflict than at any time since WW2’ as UK forces are asked to bolster Nato air defences – live.md",
     "AI rise of techno fascism.md",
     "journal/2025-09-05.md",
@@ -216,10 +209,6 @@
     "sacred space.md",
     "Untitled 3.base",
     "journal/2025-09-04.md",
-    "journal/2025-09-03.md",
-    "Untitled 1.base",
-    "Untitled Kanban.md",
-    "journal/2025-09-02.md",
-    "Glucose spike myth.md"
+    "Untitled 1.base"
   ]
 }
