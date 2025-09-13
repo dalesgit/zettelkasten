@@ -1,3 +1,0 @@
-- what is the priority of your life? 
-- What is your authority for listening?
-- I want to hear these passages with prophetic ears.
