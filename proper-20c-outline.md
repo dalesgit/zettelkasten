@@ -1,11 +1,21 @@
-1. remember Wm McNamara
-2. measure priorities: 
+1. [[remember Wm McNamara]]
+2. [[measure priorities]]: 
 	1. checkbook?, 
 	2. who is authority for information? to follow? to drop everything?
-3. Prophetic ears
-	1. Hebrew canon
-	2. Amos: a kind of quintessential "prophet"
-4. Overview of texts
+3. [[Prophetic ears]]
+	1. [[Hebrew canon]]
+	2. listen with prophetic ears?
+4. [[Overview of texts]]
+	2. [[Amos]]: a kind of quintessential "prophet"
+	3. [[Praying for leaders]]
+5. [[gospel difficult text]]
+	1. 2 kinds of **difficult**
+		1. make sense of?
+		2. put into practice
+	2. 2 pericopes
+	3. [[serve 2 masters]]
+		1. Cue: how one treats people to whom no deference or value is accrued
+6. Summary: Closing
 
 | lessons         |                                                                                      |
 | --------------- | ------------------------------------------------------------------------------------ |
