@@ -10,4 +10,4 @@ The mystic is not a special kind of person; every person is a special kind of my
 
 – [Father William McNamara](https://citydesert.wordpress.com/2013/03/29/father-william-mcnamara-controversial-earthy-mysticism-hermit/)
 
-In some ways, I suppose I have been trying to listen to his teaching, to his words, ever since. Trying to make them real in my life. Such is the impact of a profit when one listens with prophetic ears and heart.
+In some ways, I suppose I have been trying to listen to his teaching, to his words, ever since. Trying to make them real in my life. Such is the impact of a prophet when one listens with prophetic ears and heart.
