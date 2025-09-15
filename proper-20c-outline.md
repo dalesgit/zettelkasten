@@ -30,7 +30,7 @@
 			2. https://hudsonreview.com/2019/10/kierkegaards-leap/
 			3. https://en.wikipedia.org/wiki/Leap_of_faith
 		2. Tony Campolo's words at HIM & *Compassion International*
-			1. Birthday story https://www.preachingtoday.com/illustrations/2008/june/15742.html
+			1. Birthday story https://www.preachingtoday.com/illustrations/2008/june/15742.html 
 		3. https://www.lololyrics.com/lyrics/60449.html "The time is now"
 			1. (Buddhism) https://www.buddhistinformation.com/buddhism_and_the_illusion_of_time.htm
 
