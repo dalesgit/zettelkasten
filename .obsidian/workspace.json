@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proper-20c-brainstorming.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "proper-20c-brainstorming"
-            }
-          },
-          {
-            "id": "c8228ac485b6e60d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "proper-20c-outline.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "proper-20c-outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2e1a9f11dab2c83f",
@@ -85,33 +60,8 @@
               "icon": "lucide-file",
               "title": "2025-09-15"
             }
-          },
-          {
-            "id": "a775b54596c49557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test of a person's character.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test of a person's character"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,16 +226,17 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "a775b54596c49557",
+  "active": "6426a1b39a263a55",
   "lastOpenFiles": [
-    "test of a person's character.md",
-    "journal/2025-09-15.md",
-    "ReadItLater Inbox/Google Search.md",
+    "proper-20c-brainstorming.md",
+    "ReadItLater Inbox/Tony Campolo Throws a Party for a Prostitute.md",
     "proper-20c-outline.md",
+    "journal/2025-09-15.md",
+    "test of a person's character.md",
+    "ReadItLater Inbox/Google Search.md",
     "Things I know experientially.md",
     "20c - remember Wm McNamara.md",
     "proper-20c.md",
-    "proper-20c-brainstorming.md",
     "20c - Closing.md",
     "20c - serve 2 masters.md",
     "20c - Overview of texts.md",
@@ -303,7 +254,6 @@
     "Clippings/The Lost Art Of Thinking Historically.md",
     "journal/2025-09-12.md",
     "Clippings/Trump Gives Mindblowing Defense for Far-Right Radicals.md",
-    "Clippings/How Teacher Evaluations Broke the University.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",

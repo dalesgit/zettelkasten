@@ -2,20 +2,7 @@
 
 # [Tony Campolo Throws a Party for a Prostitute](http://www.preachingtoday.com/illustrations/2008/june/15742.html)
 
-[Jump directly to the Content](http://www.preachingtoday.com/illustrations/2008/june/15742.html#body)
-
 [![Preaching Today](http://www.preachingtoday.com/system/img/logos/pt_tagline.svg "Preaching Today")](http://www.preachingtoday.com/)
-
--   [Sermon Illustrations](http://www.preachingtoday.com/illustrations/)
--   [Sermons](http://www.preachingtoday.com/sermons/)
--   [Your Soul](http://www.preachingtoday.com/your-soul/)
--   [Exegesis](http://www.preachingtoday.com/exegesis/)
--   [Skill Builders](http://www.preachingtoday.com/skills/)
--   [Holidays](http://www.preachingtoday.com/holidays-events/)
--   Store
-    -   [Preaching Guides](http://www.preachingtoday.com/preaching-guides/)
-    -   [Biblical Preaching](https://www.preachingtoday.com/books/art-and-craft-of-biblical-preaching/)
-    -   [Books](https://store.christianitytoday.com/collections/books-other-resources)
 
 ### Tony Campolo Throws a Party for a Prostitute
 
