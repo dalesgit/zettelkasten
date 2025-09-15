@@ -15,3 +15,4 @@ tags: []
 - Knowledge is indirectly communicated
 - Stories … God loves Stories
 - Only things worthwhile are valuable only insofar as they are given away 
+- Non-dualism: "2 kinds of people: those who divide into 2 kinds of people and those who don't."

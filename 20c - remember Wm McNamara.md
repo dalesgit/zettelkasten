@@ -1,0 +1,1 @@
+https://mysticson.blogspot.com/2011/01/father-william-mcnamara.html for small biography

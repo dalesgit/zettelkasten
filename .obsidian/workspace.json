@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proper-20c.md",
+                "file": "proper-20c-brainstorming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "proper-20c"
+              "title": "proper-20c-brainstorming"
             }
-          }
-        ]
-      },
-      {
-        "id": "2e1a9f11dab2c83f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "164d055d55815fc4",
+            "id": "c8228ac485b6e60d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,14 +54,21 @@
               "icon": "lucide-file",
               "title": "proper-20c-outline"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2e1a9f11dab2c83f",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4a34d7a42773ee82",
+            "id": "164d055d55815fc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remember Wm McNamara.md",
+                "file": "journal/2025-09-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,10 +83,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "remember Wm McNamara"
+              "title": "2025-09-15"
+            }
+          },
+          {
+            "id": "a775b54596c49557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test of a person's character.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test of a person's character"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,20 +276,25 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "164d055d55815fc4",
+  "active": "a775b54596c49557",
   "lastOpenFiles": [
-    "serve 2 masters.md",
+    "test of a person's character.md",
+    "journal/2025-09-15.md",
+    "ReadItLater Inbox/Google Search.md",
     "proper-20c-outline.md",
-    "gospel difficult text.md",
-    "Praying for leaders.md",
-    "Amos.md",
-    "Overview of texts.md",
-    "Hebrew canon.md",
-    "Prophetic ears.md",
-    "measure priorities.md",
-    "remember Wm McNamara.md",
+    "Things I know experientially.md",
+    "20c - remember Wm McNamara.md",
     "proper-20c.md",
     "proper-20c-brainstorming.md",
+    "20c - Closing.md",
+    "20c - serve 2 masters.md",
+    "20c - Overview of texts.md",
+    "gospel difficult text.md",
+    "20c - Prophetic ears.md",
+    "measure priorities.md",
+    "Praying for leaders.md",
+    "Amos.md",
+    "Hebrew canon.md",
     "journal/2025-09-14.md",
     "democrats and working class.md",
     "ReadItLater Inbox/Charlie Kirk's allies warn Americans Mourn him properly or else.md",
@@ -273,8 +304,6 @@
     "journal/2025-09-12.md",
     "Clippings/Trump Gives Mindblowing Defense for Far-Right Radicals.md",
     "Clippings/How Teacher Evaluations Broke the University.md",
-    "journal/2025-09-11.md",
-    "Clippings/Gmail’s new tab keeps all your order delivery and purchase emails in one tidy place.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
@@ -284,9 +313,6 @@
     "Born to Run [Wu4_zVxmufY].mp3",
     "Born to Run [Wu4_zVxmufY].webm",
     "Born to Run [Wu4_zVxmufY].webm.part",
-    "charlie-kirk-empathy-trap-democrats.md",
-    "Clippings/Appeals court judges publicly admonish Supreme Court justices ‘We’re out here flailing’.md",
-    "Clippings/My new favorite note-taking app for MacOS and Linux checks this crucial box - and it's free.md",
     "Clippings",
     "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
     "assets/Pasted image 20250910094353.png",
