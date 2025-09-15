@@ -1,3 +1,6 @@
+[[proper-20c]]
+[[proper-20c-brainstorming]]
+
 1. [[remember Wm McNamara]]
 2. [[measure priorities]]: 
 	1. checkbook?, 

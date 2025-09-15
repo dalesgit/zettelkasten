@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-12.md",
+                "file": "proper-20c.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-12"
+              "title": "proper-20c"
             }
           }
         ],
@@ -121,7 +121,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "653280acb0d9c78c",
@@ -216,6 +216,8 @@
   },
   "active": "c634269968ad21f7",
   "lastOpenFiles": [
+    "proper-20c-outline.md",
+    "remember Wm McNamara.md",
     "ReadItLater Inbox/A new world order isn’t coming, it’s already here − and this is what it looks like.md",
     "journal/2025-09-12.md",
     "ReadItLater Inbox/Charlie Kirk in his own words ‘prowling Blacks’ and ‘the great replacement strategy’.md",
@@ -244,9 +246,7 @@
     "notes/Learning to create links naturally as in Obsidian.md",
     "Untitled Kanban 1.md",
     "notes/soups I like.md",
-    "inbox/Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson.md",
     "Untitled 4.base",
-    "Brooks on left right values.md",
     "Untitled.base",
     "Untitled 3.base",
     "Untitled 1.base"
