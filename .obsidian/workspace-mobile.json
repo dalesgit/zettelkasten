@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proper-20c.md",
+                "file": "proper-20c-outline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "proper-20c"
+              "title": "proper-20c-outline"
             }
           }
         ],
@@ -216,7 +216,9 @@
   },
   "active": "c634269968ad21f7",
   "lastOpenFiles": [
+    "20c - remember Wm McNamara.md",
     "proper-20c-outline.md",
+    "proper-20c.md",
     "remember Wm McNamara.md",
     "ReadItLater Inbox/A new world order isn’t coming, it’s already here − and this is what it looks like.md",
     "journal/2025-09-12.md",
@@ -244,8 +246,6 @@
     "Untitled 1.canvas",
     "pages/202509050747.md",
     "notes/Learning to create links naturally as in Obsidian.md",
-    "Untitled Kanban 1.md",
-    "notes/soups I like.md",
     "Untitled 4.base",
     "Untitled.base",
     "Untitled 3.base",
