@@ -1,3 +1,9 @@
+---
+id: proper-20c-draft1
+aliases: []
+tags: []
+---
+
 ## A long time ago
 A long time ago, in the 1970s, I was younger than than now. My priest, at the time thought that
 I would be interested in listening to a man, a Carmelite priest Who had recently published a
@@ -33,9 +39,7 @@ other prophets somehow carry human words.
 
 It’s useful to keep in mind the way the Hebrew Bible is divided, in contrast to the Christian
 divisions. In the Hebrew mind what really matters, what really carries weight, is the word of
-God. That’s the province of the prophet. And does the most important division of the Hebrew
-Bible is the **Torah**. The first five books. And the prophet who delivered the **Torah** was **Moses**.
-And thus he was understood to be the greatest of all the prophets.
+God. That’s the province of the prophet. And it is the greatest of all the prophets, Moses, who it was said delivered the most important word of God, The **Torah**. The first five books. 
 
 The next basic division of the Hebrew Bible are, surprisingly called, the **Prophets**. These books
 include what Christians call historical books. From the Hebrew point of view, there are not
@@ -47,10 +51,10 @@ everyone else. These are known in the Hebrew by the title ”**Writings**”. So
 divided into three parts: The **Torah**, the **Prophets**, and the **Writings**.
 
 If we turn our attention to Amos, one of the earliest of the prophets, the interpretation of his
-words are fairly straightforward. the earliest of the prophets, the interpretation of his words are
+words are fairly straightforward. The earliest of the prophets, the interpretation of his words are
 fairly straightforward.
 
-> are there those among you who take advantage of the poor? Are there those among you who push on the scales of justice to tilt in their favor? Are there those among you who place the economic gain above the human cost? God is not pleased.
+> Are there those among you who take advantage of the poor? Are there those among you who push on the scales of justice to tilt in their favor? Are there those among you who place the economic gain above the human cost? God is not pleased.
 
 If we hear such words with prophetic ears and prophetic hearts, we somehow recognize them
 as God‘s own words. We cannot resist.
@@ -68,7 +72,7 @@ I signed up right then and there to make a monthly offering to compassion intern
 support a young girl who lived in destitute poverty. That monthly commitment continued for
 many years, only changing when I recognized another opportunity that seemed more urgent.
 
-> you cannot serve God and wealth at the same time. 
+> You cannot serve both God and wealth at the same time. 
 
 You know, if it’s God speaking, we maybe should pay attention.
 
@@ -76,13 +80,13 @@ You know, if it’s God speaking, we maybe should pay attention.
 
 Of course, I’m paraphrasing Jesus words. And those earliest disciples of his experienced exactly
 what I’ve described happens when you hear or see a true prophet.
-surely , this man is a true prophet.
+Surely , this man is a true prophet.
 
 It’s curious to me when we turn our hearts and ears to the text from Luke‘s gospel that we hear
 today. The words sound at the very least peculiar being put into the mouth of Jesus by the
 gospel writer. As if you were to say:
 
-> admire the cleverness of the sneaky servant, the dishonest steward, Are there those among you who cook the books?be like them. Are there those among you who practice deceptive advertising for corporate gain? Be like them.
+> Admire the cleverness of the sneaky servant, the dishonest steward. Are there those among you who cook the books?be like them. Are there those among you who practice deceptive advertising for corporate gain? Be like them.
 
 ## Difficult texts
 These words from Luke’s gospel sound strange and difficult to us because they don’t fit what
@@ -94,16 +98,16 @@ that claimed to explain the difficult texts that we encounter in the Bible. Agai
 have thought I will get some clarity to help with my preaching. But just as invariably, The texts
 have fallen short of their promise.
 
-For one thing, the very word difficult has different meanings. Difficult could mean that we
+For one thing, the very word **difficult** has different meanings. **Difficult** could mean that we
 don’t understand the social or historical mileu that these words were directed towards.
-Difficult can mean that we don’t understand the language or the words that are used.
+**Difficult** can mean that we don’t understand the language or the words that are used.
 
-Difficult can be that the words don’t fit the picture of Jesus that we carry with us. I couldn’t
+**Difficult** can be that the words don’t fit the picture of Jesus that we carry with us. I couldn’t
 remember something of the picture of Jesus I carried in my childhood. It included a very
 Caucasian looking Jesus with children by his side. He looked and acted a good bit like my
-grandmother, who was the first to teach me about some of the gospel stories.
+grandmother, who was the first to teach me about those gospel stories.
 
-Difficult can also mean the challenge we feel in putting the words we hear into action. When
+**Difficult** can also mean the challenge we feel in putting the words we hear into action. When
 Jesus says very plainly if someone strikes you on the cheek, turn the other to let them strike it.
 Alas , we understand the words, but find putting them into practice to be difficult.
 
@@ -115,12 +119,9 @@ is that they may have been intended precisely not to be clear.
 
 Among the earliest passages in the gospels, as we have inherited them, are gatherings of
 sayings. In the years around the time of Jesus, there were other such collections of sayings. An
-example is found in the text called the **Pirke Aboth**, The "Sayings of the Fathers".
-One of them reads like this:
+example is found in the text called the **Pirke Aboth**, The "Sayings of the Fathers". From the generation before Jesus, Rabbi Hillel said, 
 
-(Rabbi Hillel said) "If I am not for myself,
-who will be for me? And when I am for myself alone, what am I? And if not now,
-when?" (Pirkei Avot 1:14). 
+"If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, when?" (**Pirkei Avot** 1:14). 
 
 This powerful statement emphasizes the importance of self-care
 and personal responsibility, while also cautioning against narcissism and the need for
@@ -129,7 +130,7 @@ communal engagement and timely action.
 It’s not intended to be solved. It’s intended to be lived with. Chewed on. Wrestled with. And
 put into practice.
 
-One cannot serve God and wealth at the same time.
+One cannot serve both God and wealth at the same time.
 
 ## Put into practice
 It’s not necessarily easy to put into practice words that we understand fairly directly. For example: 
@@ -141,23 +142,24 @@ and respect—when there is no benefit or social pressure to behave well.
 This singular observation can be broken down into several related actions and behaviors that
 offer insight into a person's character:
 
-[The waiter rule: A classic litmus test is how a person interacts with a restaurant server. Do
+[**The waiter rule**: A classic litmus test is how a person interacts with a restaurant server. Do
 they treat the server with respect and patience, or are they rude, demanding, or dismissive?
 Behavior under pressure: When a person is upset or under signifwicant stress, observe if
 they take it out on someone who can't fight back, like a subordinate or a call center
 employee. Genuinely good people manage their emotions without needing a verbal
 punching bag.
 
-[Kindness when it's inconvenient: It's easy to be kind when things are going well. A
+[**Kindness when it's inconvenient**: It's easy to be kind when things are going well. A
 person's true character is revealed when they stand up for what's right, even when it's costly
 or difficult for them to do so.
 
-[Humility in success: How someone handles success is as telling as how they handle
+[**Humility in success**: How someone handles success is as telling as how they handle
 failure. Do they become arrogant and entitled, or do they remain humble and remember to
 thank those who helped them get there?
-Actions, not words: In the end, actions speak louder than any claims of being a "good
+
+[**Actions not words**: In the end, actions speak louder than any claims of being a "good
 person". Observing how someone behaves when they think no one important is watching—
-or when they have nothing to gain—provides the most reliable insight.
+or when they have nothing to gain—provides the most reliable insight.]
 
 ## Closing
 
