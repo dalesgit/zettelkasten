@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proper-20c-outline.md",
+                "file": "journal/2025-09-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "proper-20c-outline"
+              "title": "2025-09-16"
+            }
+          },
+          {
+            "id": "6604c92b6281209d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.allrecipes.com/jamie-oliver-pappa-al-pomodoro-11807945",
+                "title": "The 5-Ingredient Soup Jamie Oliver Says 'Everyone Should Try'",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "The 5-Ingredient Soup Jamie Oliver Says 'Everyone Should Try'"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -196,10 +210,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "6426a1b39a263a55",
+  "active": "6604c92b6281209d",
   "lastOpenFiles": [
-    "20c - Overview of texts.md",
+    "journal/2025-09-16.md",
     "proper-20c-outline.md",
+    "20c - Overview of texts.md",
     "Hebrew canon.md",
     "20c - Prophetic ears.md",
     "20c - remember Wm McNamara.md",
@@ -223,7 +238,6 @@
     "ReadItLater Inbox/Charlie Kirk’s death raises fears of ‘beginning of a darker chapter’ for US violence.md",
     "Clippings/The Lost Art Of Thinking Historically.md",
     "journal/2025-09-12.md",
-    "Clippings/Trump Gives Mindblowing Defense for Far-Right Radicals.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
