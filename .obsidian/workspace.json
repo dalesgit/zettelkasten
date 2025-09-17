@@ -4,49 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "70b25b745a9d7163",
+        "id": "596fb0a60b5b5cf9",
         "type": "tabs",
         "children": [
           {
-            "id": "6426a1b39a263a55",
+            "id": "34449b58ad0e98a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-16"
-            }
-          },
-          {
-            "id": "6604c92b6281209d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.allrecipes.com/jamie-oliver-pappa-al-pomodoro-11807945",
-                "title": "The 5-Ingredient Soup Jamie Oliver Says 'Everyone Should Try'",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "The 5-Ingredient Soup Jamie Oliver Says 'Everyone Should Try'"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/2025-fall-Packing-list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-fall-Packing-list"
+              "title": "Outline"
             }
           },
           {
@@ -207,11 +176,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-kanban:Create new board": false,
-      "recipe-grabber:Recipe Grabber": false
+      "recipe-grabber:Recipe Grabber": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "6604c92b6281209d",
+  "active": "34449b58ad0e98a8",
   "lastOpenFiles": [
+    "journal/2025-09-17.md",
+    "proper-20c-draft1.md",
+    "reflections on life of the church.md",
     "journal/2025-09-16.md",
     "proper-20c-outline.md",
     "20c - Overview of texts.md",
@@ -235,9 +208,6 @@
     "democrats and working class.md",
     "ReadItLater Inbox/Charlie Kirk's allies warn Americans Mourn him properly or else.md",
     "charlie kirk legacy.md",
-    "ReadItLater Inbox/Charlie Kirk’s death raises fears of ‘beginning of a darker chapter’ for US violence.md",
-    "Clippings/The Lost Art Of Thinking Historically.md",
-    "journal/2025-09-12.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",

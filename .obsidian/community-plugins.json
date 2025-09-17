@@ -14,5 +14,6 @@
   "recipe-grabber",
   "extract-url",
   "obsidian-tasks-plugin",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "typewriter-mode"
 ]
