@@ -1,6 +1,5 @@
 -- -
 id: proper-20c-draft1
-
 aliases: []
 tags:
   - preaching
