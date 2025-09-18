@@ -1,0 +1,145 @@
+ [[ReadItLater]] [[Article]]
+
+# [After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr | CNN](https://www.cnn.com/2025/09/15/us/conservative-evangelical-leaders-charlie-kirk)
+
+At Sunday morning church services around the country, conservative religious leaders found the same word to describe [Charlie Kirk](https://www.cnn.com/2025/09/14/us/charlie-erika-kirk-tribute-vigils), the podcaster and political activist killed on Wednesday: martyr.
+
+“Today, we celebrate the life of Charlie Kirk, a 31-year-old God-fearing Christian man, a husband, father of two, a patriot, a civil rights activist, and now a Christian martyr,” said Rob McCoy, the pastor emeritus of Godspeak Calvary Chapel in California.
+
+Kirk, a prominent ally of President Donald Trump who attracted an ardent conservative following and criticism for his anti-feminist, anti-immigration views, [was fatally shot](https://www.cnn.com/2025/09/11/politics/video/conservative-activist-charlie-kirk-murder-unfolded-lah-digvid) Wednesday at Utah Valley University. He was [speaking to a crowd of thousands](https://www.cnn.com/2025/09/12/us/charlie-kirk-shooting-death-final-hours) as part of “The American Comeback Tour,” which featured Kirk’s signature event: debating college students about culture war topics.
+
+Several evangelical [megachurches](https://www.cnn.com/2019/04/27/us/what-is-a-megachurch-explainer/) – which Kirk often visited on weekends to pitch his vision of conservative politics – dedicated their Sunday services to the assassinated political commentator, complete with video compilations of [the viral moments](https://www.cnn.com/2025/09/11/politics/video/charlie-kirk-debate-moments-digvid) that helped propel Kirk to fame. Pastors mourned Kirk both as a friend who built close personal relationships with evangelical leaders and a bombastic advocate for conservative Christian causes, who openly mixed politics with religion.
+
+And although authorities haven’t announced [a motive in Kirk’s shooting](https://www.cnn.com/2025/09/12/us/tyler-robinson-charlie-kirk-shooting-suspect-invs) and he was speaking at a secular university when he was shot, several religious leaders framed his killing as an attack on the Christian church.
+
+“The attack on Charlie Kirk was much deeper than a political attack on the First Amendment,” said Jackson Lahmeyer, the pastor of Sheridan Church in Oklahoma and the founder of “Pastors for Trump,” a group of pastors who lobbied for Trump’s reelection, at his Sunday morning service. Some 5,631 people attended his 10 a.m. sermon, including both online and in person, he told CNN.
+
+“The attack on Charlie was spiritual in nature and an attack on the very institution of the church,” Lahmeyer said.
+
+Pastors echoed Trump, [who called Kirk](https://www.cnn.com/us/live-news/charlie-kirk-shot-utah-09-10-25#cmfepc8j500073b6px12tg6qy) a “martyr for truth and freedom” in an address Wednesday evening from the Oval Office and blamed “radical left political violence.”
+
+Several conservative pastors compared Kirk to the biblical figure Stephen, who was stoned to death and is regarded as the first Christian martyr of the New Testament.
+
+![Rob McCoy leads a service honoring Charlie Kirk on September 14, 2025.](https://media.cnn.com/api/v1/images/stellar/prod/usatsi-27084576.jpg?c=original&q=w_860,c_fill)
+
+“Make no mistake, this was not random,” said McCoy, who called himself Kirk’s “friend and his biggest fan,” and said Kirk called him his pastor. “We are in a spiritual battle. The same murderous spirit that raged against the prophets, that crucified Christ and that martyred Stephen is raging again in our day.”
+
+The death of Kirk – who often disparaged racial and religious minorities and the LGBTQ+ community – hasn’t been mourned by everyone. Social media posts expressing apathy or making jokes about Kirk’s death have led to users being targeted by [an anonymous doxxing website](https://www.cnn.com/2025/09/13/business/charlie-kirk-death-fired-comments) and have even led some employees [to be fired](https://www.cnn.com/2025/09/14/us/airlines-suspend-workers). And several Black pastors rejected the celebration of Kirk’s legacy during their Sunday sermons.
+
+But his killing has propelled interest in [Turning Point USA Faith](https://www.cnn.com/2025/09/11/politics/turning-point-charlie-kirk), the religious arm of Kirk’s right-wing youth organization, according to McCoy. He said the number of Turning Point USA Faith’s partner churches has doubled in the days since Kirk’s death.
+
+## A close friend of church leaders
+
+Sunday’s sermons reflected the intimate relationships Kirk built with Christian leaders, many of whom are also public advocates for Trump. White evangelicals [served as a crucial voter base](https://www.cnn.com/2023/02/14/politics/gop-voters-evangelicals-trump-2024-fault-lines) for Trump during both elections he won.
+
+Lahmeyer told CNN Kirk was a personal friend for years. “Obviously we’re mourning because we lost him,” he said. “It’s just tough.”
+
+His congregants have responded to the shooting with “a range of emotions,” including anger, he said. It’s “hard to believe, hard to process. You don’t think it’s real, but it’s real.”
+
+He told CNN he canceled a previously scheduled guest sermon to deliver a sermon himself Sunday dedicated to Kirk, titled “Turning Point.” He said that he hopes for listeners, the sermon can serve as “a turning point where they become even more devout in following Jesus.”
+
+“I hope that Charlie’s life would inspire people to live a life worth living,” Lahmeyer told CNN. “Beyond the political influence that Charlie made, the greater influence that Charlie made was upon the body of Christ.”
+
+![Charlie Kirk takes the stage during a Turning Point Action campaign rally in Las Vegas on October 24, 2024.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180004475-1.jpg?c=original&q=w_860,c_fill)
+
+McCoy, who says he met Kirk during a conservative event in 2019, also shared personal stories about their relationship. “I miss my friend,” he said. Godspeak Calvary was the first church at which Kirk ever spoke, he said.
+
+The two had recently traveled to Seoul, [South Korea](https://www.cnn.com/2025/01/07/asia/south-korea-stop-the-steal-yoon-intl-hnk), where they met with Mina Kim, a conservative activist.
+
+Kirk’s “life was scheduled in 15-minute increments, and everybody wanted a piece of him,” McCoy said. “I was so grateful to have that moment with him in Korea, hear his heart.”
+
+At Grace Church in St. Louis, lead pastor Wes Martin characterized Kirk as “one of the most humble, kind, generous and respectful young men that I had ever interacted with at the time.” He described how the pair built a friendship in 2022 and said Kirk would text him Bible verses during hard times.
+
+Justin Sparks, the men’s ministry director at Grace Church, said of Kirk, “When he was assassinated, I felt like I lost a member of my own family.”
+
+“He wasn’t just a man that was struck down and died, which is tragic, of course,” Sparks said. “What you saw was a righteous man martyred, and Americans haven’t seen that before. He was martyred because he had an explicit worldview of Jesus Christ, the Son of God, and he shared it everywhere he went.”
+
+![The American flag flies at half-staff in honor of Charlie Kirk at Dream City Church in Phoenix on September 10.](https://media.cnn.com/api/v1/images/stellar/prod/usatsi-27049429.jpg?c=original&q=w_860,c_fill)
+
+## ‘A spiritual war’
+
+Just hours after Kirk was fatally shot, Dream City Church in Phoenix, which had partnered with Turning Point, addressed his death. [Pastor Luke Barnett](https://www.youtube.com/watch?v=tLj4OC5p2a4&pp=ygUMbHVrZSBiYXJuZXR0) said Kirk “gave his life doing what the preachers of America oughta be doing, speaking the truth from the pulpits.”
+
+Like McCoy, Barnett framed the assassination as an attack on Christianity.
+
+“We really are in a spiritual war,” Barnett said. “And by the way, Charlie Kirk, what killed him today was not his political views. It was his biblical views, his biblical views of truth.”
+
+His comments mirror those of Kirk’s widow, Erika Kirk, who said “the spiritual warfare is palpable” in [her first address](https://www.cnn.com/2025/09/12/us/video/charlie-kirk-wife-erika-first-public-comments-digvid) after her husband’s death. Kirk himself often invoked similar language, calling the 2024 election a spiritual battle.
+
+Although Kirk started his career as a more secular conservative who highlighted [the separation of church and state](https://www.nbcnews.com/politics/2024-election/charlie-kirk-turning-point-donald-trump-christian-nationalism-rcna156565), during the Covid-19 pandemic he jumped to the defense of churches that rebuffed lockdown mandates and became more outwardly religious. In 2021, Kirk launched Turning Point USA Faith in coordination with McCoy, which hosted “Freedom Night in America,” a [monthly event series](https://www.dreamcitychurch.us/series/freedom-night-in-america/) of “rallies designed to address current cultural and political issues from a conservative perspective.”
+
+In the last few years, Kirk openly advocated for the US as a “[Christian state](https://apnews.com/article/charlie-kirk-shooting-utah-university-republicans-8357c3d102de09e3320fde761258131a)” and referenced the “[Seven Mountains Mandate](https://theoutline.com/post/8856/seven-mountain-mandate-trump-paula-white),” an evangelical ideology calling for the church to dominate seven sectors: family, religion, education, media, arts and entertainment, business and government.
+
+“There is no separation of church and state,” he said [on his podcast](https://www.mediamatters.org/charlie-kirk/charlie-kirk-there-no-separation-church-and-state) in 2022. “It’s a fabrication, it’s a fiction, it’s not in the Constitution. It’s made up by secular humanists.”
+
+Lahmeyer said Kirk’s death was evidence of the “persecution of Christians.” “Christianity is under attack in the United States of America,” he told CNN.
+
+For Sunday’s service, he chose to read from the Sermon on the Mount, he told CNN, in which Jesus says, “Blessed are those who are persecuted for righteousness’ sake.”
+
+Matthew D. Taylor, a senior scholar at the Institute for Islamic, Christian, and Jewish Studies in Baltimore, told CNN the “profound and visceral anger” felt after Kirk’s death has been channeled into calls to defend Christianity.
+
+The [evangelical movement](https://www.cnn.com/2024/09/07/politics/post-evangelicals-politics) has a long history of “a sense of embattlement,” despite the fact they have “unrivaled cultural power” compared to other religious groups, Taylor said.
+
+Although Christians are a majority in the US, many “still have a sense that culture is against them and that the world is against them and that they are the victims,” Taylor said. Kirk’s killing is “fueling that narrative,” he added.
+
+## Political arguments
+
+Pastors also took the opportunity to rail against common conservative targets, like same-sex marriage and [transgender rights](https://www.cnn.com/2025/09/04/politics/transgender-firearms-justice-department-second-amendment), which Kirk had openly opposed.
+
+Speaking on Wednesday, Barnett said in the aftermath of Kirk’s killing, the church would “double down and we’re gonna feed more people, we’re gonna see more people saved. We are also gonna call sin what it is.”
+
+![Pastor Luke Barnett speaks at Dream City Church in Phoenix on September 14.](https://media.cnn.com/api/v1/images/stellar/prod/still-21946981-2457706-3600000003-still.jpg?c=original&q=w_860,c_fill)
+
+He said Kirk’s death would serve as an opportunity for the church to oppose same-sex marriage and “proclaim like never before that there are only two sexes.”
+
+McCoy similarly denounced “transgender ideology,” which he said “radicalizes people into violence.” He described the alleged shooter as “indoctrinated” and said the attacker “pulled the trigger, but there were others behind him helping warp that mind.” Authorities are investigating whether Robinson’s romantic relationship with his roommate, who is transgender, could be connected to the shooting, Utah Gov. Spencer Cox told CNN. Trans people account for less than 1% of mass shooters over the past decade, according to the non-profit [Gun Violence Archive](https://www.gunviolencearchive.org/reports/mass-shooting).
+
+McCoy also called for more pastors to get involved in national politics after Kirk’s killing.
+
+“If you say, ‘I don’t do politics ‘cause politics is dirty,’ you’re a Gnostic and you need to repent,” he said, referring to an early Greco-Roman religious movement. “We’re gonna demand of our shepherds that they lead these young people into a land where they can own property, build homes, raise families, and enjoy what life is all about.”
+
+## Peace and hope
+
+But religious leaders also emphasized the importance of peace and civil dialogue in the aftermath of the killing.
+
+“We have to implement the words of Jesus in the hour that we live in in this nation,” said Lahmeyer during his sermon. “We must be as wise as serpents. Yet we also have to be as harmless as doves.”
+
+Speaking to CNN, he added, “We do not respond like those who are persecuting us. We don’t persecute.”
+
+![Mourners gather outside a memorial for political activist Charlie Kirk on the grounds of Utah Valley University on September 13, in Orem, Utah.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2234724875.jpg?c=original&q=w_860,c_fill)
+
+Speaking at his Sunday sermon, Barnett said, “Do not let this violence divide us further.”
+
+The “enemy wants chaos, fear and retaliation,” he said. “Don’t give it to them. Instead, double down on truth, double down on courage, double down on your faith and on your families.”
+
+McCoy called for his listeners to carry with them the same hope and fearlessness Kirk harbored. “Despair is no hope,” he said. “We have hope.”
+
+Lorenzo Sewell, the nondenominational pastor of Detroit-based 180 Church who delivered a prayer at Trump’s second inauguration, told CNN the church plans to hold a “Holy Ghost” party with “praise, worship, and prayer” in Kirk’s honor.
+
+Sewell and Kirk were friends, and Kirk was scheduled to speak at 180 Church Thursday night, Sewell said [in a video](https://www.youtube.com/watch?v=KgoRiyGJUD0) posted after the shooting. Like other faith leaders, Sewell compared Kirk to the biblical Stephen – and said he hopes Kirk’s death can help bring more people into the church.
+
+“We pray that there would be more that would come to salvation through Charlie Kirk’s death than even in his life,” Sewell said. “May this tragedy become a testimony, in Jesus’ name.”
+
+## Pushback
+
+While the White evangelical leaders with whom Kirk built relationships used their Sunday sermons to eulogize him and galvanize a fight for conservative causes, several pastors at Black churches pushed back.
+
+In [an emotional sermon](https://www.youtube.com/watch?v=nT8-hJAgrRs) at Alfred Street Baptist Church in Alexandria, Virginia, the Rev. Howard-John Wesley decried efforts to sanitize Kirk’s legacy.
+
+“Charlie Kirk did not deserve to be assassinated,” he said. “But **I’m overwhelmed seeing the flags of the United States of America at half-staff, calling this nation to honor and venerate a man who was an unapologetic racist and spent all of his life sowing seeds of division and hate into this land.**”
+
+Kirk vocally opposed [the Civil Rights Act](https://www.wired.com/story/charlie-kirk-tpusa-mlk-civil-rights-act/), the landmark 1964 legislation outlawing discrimination based on race, color, religion, sex and national origin, and he called Martin Luther King Jr. “not a good person” and “awful” at an event in January 2023. He often criticized affirmative action and made inflammatory comments about Black people and other racial minorities, including saying “In urban America, prowling Blacks go around for fun to go target White people” [on his podcast](https://www.mediamatters.org/charlie-kirk/charlie-kirk-goes-unhinged-racist-rant-prowling-blacks-go-around-fun-go-target-white) in 2023.
+
+Wesley criticized people with “selective rage” who condemned Kirk’s killing but not the killing of Minnesota state Sen. [Melissa Hortman](https://www.cnn.com/2025/06/14/us/melissa-hortman-minnesota-assassination) and her husband, Democrats who were shot dead in their home in June, as well as those who “tell me I oughta have compassion for the death of a man who had no respect for my own life.”
+
+“You do not become a hero in your death when you are a weapon of the enemy in your life,” Wesley said to raucous applause.
+
+[Jamal Bryant](https://www.cnn.com/2025/08/20/business/video/target-ceo-brian-cornell-pastor-jamal-h-bryant-dei-boycott-ebof-digvid), the senior pastor of New Birth Missionary Baptist Church in Stonecrest, Georgia, [similarly said](https://www.youtube.com/watch?v=6OjMWNw_mkg), “even in a tragic death, you cannot rewrite somebody’s life.”
+
+“I am all the more concerned about how America and the media is trying to remix a life of racism and white supremacy that went forth unchecked,” he said.
+
+He specifically called out other faith leaders who celebrate Kirk, saying, “My heart is mourning today from pastors and churches all over this country, who are going to have moments of silence and celebrate somebody who is trying to take the nation backwards.”
+
+This story has been updated with additional information.
+
+CNN’s Lily Hautau and Eva McKend contributed to this report.

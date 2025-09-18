@@ -11,9 +11,24 @@
             "id": "34449b58ad0e98a8",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "notes-last-touched-today.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "notes-last-touched-today"
             }
           }
         ]
@@ -136,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes-last-touched-today.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of notes-last-touched-today"
             }
           },
           {
@@ -176,12 +192,19 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-kanban:Create new board": false,
-      "recipe-grabber:Recipe Grabber": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+      "recipe-grabber:Recipe Grabber": false
     }
   },
   "active": "34449b58ad0e98a8",
   "lastOpenFiles": [
+    "journal/2025-09-18.md",
+    "ReadItLater Inbox/Opinion The death of Charlie Kirk did not make him a moderate.md",
+    "charlie kirk legacy.md",
+    "ReadItLater Inbox/Trump’s Revolution Has a Martyr  The Tyee.md",
+    "yesterdays-files.md",
+    "ReadItLater Inbox/After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr  CNN.md",
+    "notes-created-today.md",
+    "2nd American revolution.md",
     "journal/2025-09-17.md",
     "proper-20c-draft1.md",
     "reflections on life of the church.md",
@@ -200,14 +223,6 @@
     "proper-20c.md",
     "20c - Closing.md",
     "20c - serve 2 masters.md",
-    "gospel difficult text.md",
-    "measure priorities.md",
-    "Praying for leaders.md",
-    "Amos.md",
-    "journal/2025-09-14.md",
-    "democrats and working class.md",
-    "ReadItLater Inbox/Charlie Kirk's allies warn Americans Mourn him properly or else.md",
-    "charlie kirk legacy.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
