@@ -1,4 +1,4 @@
---- -- -
+---
 title: Proper 20c
 date: September 21
 author: Dale Hathaway
