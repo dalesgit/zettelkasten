@@ -1,15 +1,7 @@
--- -
-id: proper-20c-draft1
-aliases: []
-tags:
-  - preaching
-  - prophet
-  - priorities
-  - a-lifetime
+--- -- -
 title: Proper 20c
 date: September 21
-author:
-  - Dale Hathaway
+author: Dale Hathaway
 subtitle: Hearing the prophets in our midst
 ---
 
