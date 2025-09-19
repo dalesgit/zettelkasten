@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "45baa04c6711de7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spinozas-criticism-emotions-cancel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "spinozas-criticism-emotions-cancel"
+            }
+          },
+          {
             "id": "abe3b225c5ba4a62",
             "type": "leaf",
             "state": {
@@ -220,11 +244,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "abe3b225c5ba4a62",
+  "active": "45baa04c6711de7b",
   "lastOpenFiles": [
+    "spinozas-criticism-emotions-cancel.md",
     "journal/2025-09-19.md",
-    "jimmy-kimmel-free-speech.md",
     "ReadItLater Inbox/Hawaii group organizes to buy back ancestral land from billionaire.md",
+    "jimmy-kimmel-free-speech.md",
     "book review Kamala Harris.md",
     "ReadItLater Inbox/‘Angry and disappointed’ Kamala Harris critical of Joe Biden in new book.md",
     "ReadItLater Inbox/The US is at a dangerous crossroads after Charlie Kirk shooting.md",
@@ -247,7 +272,6 @@
     "20c - Prophetic ears.md",
     "20c - remember Wm McNamara.md",
     "proper-20c-brainstorming.md",
-    "ReadItLater Inbox/Tony Campolo Throws a Party for a Prostitute.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
