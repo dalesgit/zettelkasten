@@ -1,9 +1,9 @@
 ---
-id: proper-20c-draft3
+id: Proper 20c 
 aliases: []
 tags: []
 author: Dale Hathaway
-date: September 21
+date: September 21, 2025
 subtitle: Hearing the prophets in our midst
 ---
 
@@ -13,23 +13,33 @@ A long time ago, in the 1970s, I was younger then than now. My priest, at the ti
 
 Some things were different in those days and some things were the same. I had hair that ran down to the middle of my back then just like today. But it was brown then. There were great divisions in the country then just like there are now. One thing that was different than is that I knew far more things than I know today — At least I thought I knew. Today the list of things, important things, that I really know can be written on a paper napkin.
 
-There was also a spirit in the times then that was searching for a new way to experience the divine. William McNamara, that was he author'st name, and he seemed to be offering such a new experience the divine in our midst. 
+There was also a spirit in the times then that was searching for a new way to experience the divine. William McNamara, that was the author's name, and he seemed to be offering a new experience of the divine in our midst. 
+
+We gathered into a gymnasium attached to a Catholic school and took our place in the bleachers. When it was about time to begin, he walked into the space and sat down. I was completely taken aback by his presence. He looked for all the world to me as if Jeremiah or Amos had walked right out of the Old Testament and into this humble gymnasium in Pueblo, Colorado. 
 
 > The mystic is not a special kind of person; every person is a special kind of mystic. – Father William McNamara
 
-We gathered into a gymnasium attached to a Catholic school and took our place in the bleachers. When it was about time to begin, he walked into the space and sat down. I was completely taken aback by his presence. He looked for all the world to me as if Jeremiah or Amos had walked right out of the Old Testament and into this humble gymnasium in Pueblo, Colorado. I felt as if I was in the midst of a prophet, and I knew that this was someone I needed to pay attention to.
-
-In some ways, I suppose I have been trying to listen to his teaching, to his words, ever since. Trying to make them real in my life. Such is the impact of a prophet when one listens with prophetic ears and heart.
+I felt as if I was in the midst of a prophet, and I knew that this was someone I needed to pay attention to. In some ways, I suppose I have been trying to listen to his teaching, to his words, ever since. Trying to make them real in my life. Such is the impact of a prophet when one listens with prophetic ears and heart.
 
 ## A prophet
 
 The words of a true prophet carry a weight you cannot ignore. Even when you can’t put your fingers on it, you know the difference. A true prophet transmits the actual words of God. All the other prophets somehow carry human words -- perhaps mixed with God's words.
 
-To illustrate the importance of the prophet's ability to convey God's words, it’s useful to keep in mind the way the Hebrew Bible is divided. It's different from the way Christians divide the Bible. In the Hebrew mind what really matters, what really carries weight, is the word of God. That’s the province of the prophet. And it is the greatest of all the prophets, Moses, who it was said delivered the most important **word of God**, The **Torah**. The first five books of the Bible (Hebrew Bible that is.) The next basic division of the Hebrew Bible is, surprisingly called, the **Prophets**. These books include what Christians call historical books. From the Hebrew point of view, there are not historical and non-historical works, there are only words from prophets and words from everyone else. The 2nd basic division of the Hebrew Bible is, surprisingly called, **the prophets**. These books include what Christians call historical books. The 3rd division of the Hebrew Bible is called, then, ”**Writings**” -- from those who were not prophets. The **Torah**, the **Prophets**, and the **Writings**.
+To illustrate the importance of the prophet's ability to convey God's words, it’s useful to keep in mind the way the Hebrew Bible is divided. It's different from the way Christians divide the Bible. In the Hebrew mind what really matters, what really carries weight, is the word of God. That’s the province of the prophet. And it is the greatest of all the prophets, Moses, who it was said delivered the most important **word of God**, The **Torah**. The first five books of the Bible (Hebrew Bible that is.) 
+
+The next basic division of the Hebrew Bible is, surprisingly called, the **Prophets**. These books include what Christians call **historical books**. From the Hebrew point of view, there are not historical and non-historical works, there are only words from prophets and words from everyone else. 
+
+The 3rd division of the Hebrew Bible is called, then, ”**Writings**” -- from those who were not prophets. The **Torah**, the **Prophets**, and the **Writings**.
+
+In the Hebrew understanding it's all about hearing the words that God has for us -- right here, right now. 
+
+## Amos
 
 If we turn our attention to Amos, one of the earliest of the prophets, the interpretation of his words are fairly straightforward. 
 
-> Are there those among you who take advantage of the poor? Are there those among you who push on the scales of justice to tilt in their favor? Are there those among you who place economic gain above human cost? God is not pleased. If we hear such words with prophetic ears and prophetic hearts, we somehow recognize them as God‘s own words. We cannot resist.
+> Are there those among you who take advantage of the poor? Are there those among you who push on the scales of justice to tilt in their favor? Are there those among you who place economic gain above human cost? God is not pleased. 
+
+If we hear such words with prophetic ears and prophetic hearts, we somehow recognize them as God‘s own words. We cannot resist.
 
 ## An example of a prophet
 
@@ -53,13 +63,13 @@ It’s curious to me that when we turn our hearts and ears to the text from Luke
 
 > Admire the cleverness of the sneaky servant, the dishonest steward. Are there those among you who cook the books? be like them. Are there those among you who practice deceptive advertising for corporate gain? Be like them. 
 
-It's curious that if I look at the world around me, I more often see examples of the dishonest steward than I do the prodigal son. 
+This saying of Jesus follows directly on the parable that we think we understand: **The parable of the Prodigal Son**. 
 
-This saying of Jesus follows directly on the parable that think we understand: **The parable of the Prodigal Son**. What shall we make of this?
+What do we make of this? It's seems curious that if I look at the world around me, I more often see examples of the dishonest steward than I do the prodigal son. Do I get Jesus's message backwards?
 
 ## Difficult texts
 
-These words from Luke’s gospel sound strange and difficult to us because they don’t fit what we think we know about Jesus. This passage has been labeled notoriously one of the most difficult in the New Testament. We ask, how can Jesus be saying this?
+If today's words from Luke’s gospel sound strange and difficult, it may be because they don’t fit what we think we know about Jesus. This passage has been labeled among the most difficult in the New Testament. We ask, how can Jesus be saying this?
 
 More than once in my ministry I have bought books and read essays that claimed to explain the difficult texts that we encounter in the Bible. Again, and again I have thought I will get some clarity to help with my preaching. But just as invariably, the texts have fallen short of their promise.
 
@@ -69,27 +79,29 @@ For one thing, the very word **difficult** has different meanings. **Difficult**
 
 **Difficult** can also mean the challenge we feel in putting the words we hear into action. When Jesus says very plainly if someone strikes you on the cheek, turn the other to let them strike it. Alas , we understand the words, but find putting them into practice to be difficult.
 
-When one of the prophets says clearly, break your swords into plowshares and another prophet says beat your plowshares into swords, we exclaim, ha ha, the text is contradictory!
+## Putting prophetic words into action
 
-One of the reasons that Jesus words from the gospels can sound difficult to understand clearly is that they may have been intended precisely not to be clear.
+When one of the prophets says clearly, break your swords into plowshares and another prophet says beat your plowshares into swords, we exclaim, ha ha, the text is contradictory! And we don't hear God speaking to us.
+
+If another prophet says, "Treat the poor and neglected with respect", we may understand the words but decide they must apply to someone else. "Hear this, you that trample on the needy, and bring to ruin the poor of the land,…"
+
+One of the reasons that Jesus's words from the gospels can sound difficult to understand clearly is that they may have been intended precisely not to be clear. They may be intended to compel us to action or to being something new.
 
 Among the earliest passages in the gospels, as we have inherited them, are gatherings of sayings. In the years around the time of Jesus, there were other such collections of sayings. An example is found in the text called the **Pirke Aboth**, The "Sayings of the Fathers". From the generation before Jesus, Rabbi Hillel said, 
 
-> "If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, when?" (**Pirkei Avot** 1:14). 
+> "If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, when?" (**Pirke Avot** 1:14). 
 
 This powerful statement emphasizes the importance of self-care and personal responsibility, while also cautioning against narcissism and the need for communal engagement and timely action. It’s not intended to be solved. It’s intended to be lived with. Chewed on. Wrestled with. And put into practice.
 
-One cannot serve both God and wealth at the same time.
-
-Jesus' words are often intended not to give us answers but rather to lead us to wrestle with the Word of God.
+Many of Jesus's parables are just these sorts of sayings, gathered together. One cannot serve both God and wealth at the same time. Jesus' words are often intended not to give us answers but rather to lead us to wrestle with the Word of God.
 
 ## Put into practice
 
-It’s not necessarily easy to put into practice even words that we understand fairly directly. For example, quoting Google's AI: 
+If God's word to us is intended to get us to do something or to be something, the difficulty is in the doing not the understanding. It’s not necessarily easy to put into practice even words that we understand fairly directly.  
 
-> Many experts suggest that a single, powerful test of a person's character is how they treat people who can do nothing for them. This includes service workers, subordinates, and strangers. It reveals a person's true disposition—their core values of kindness and respect—when there is no benefit or social pressure to behave well. 
+It is said that a simple test can demonstrate a person's character. They say, "Look at how the person treats those who can do nothing for them." Service workers. Subordinates. Strangers. Amos says something about that to us today.
 
-Are Jesus's words difficult because we don't understand or because we don't have prophetic ears and hearts? To repeat a quote from GK Chesteron I said just a couple months ago:
+Are Jesus's words difficult because we don't understand or because we don't have prophetic ears and hearts to put them into action? To repeat a quote from GK Chesteron I said just a couple months ago:
 
 > “The Christian ideal has not been tried and found wanting. It has been found difficult; and left untried.” 
 
@@ -132,4 +144,5 @@ Let Campolo's words finish the story:
 > [The bartender] waited a moment and then almost sneered as he answered, "No you don't. There's no church like that. If there was, I'd join it. I'd join a church like that!" Wouldn't we all? Wouldn't we all like to join a church that throws birthday parties for whores at 3:30 in the morning?
 
 --- 
-> 
+
+Let us go forth today with a renewed commitment to listen to God's words to us with prophetic ears and hearts. And if we do, we shall be compelled to put God's words into action and being.
