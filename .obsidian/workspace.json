@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34449b58ad0e98a8",
+            "id": "bef61f41bdb1372c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-18.md",
+                "file": "journal/2025-09-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-18"
+              "title": "2025-09-19"
+            }
+          },
+          {
+            "id": "abe3b225c5ba4a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/Hawaii group organizes to buy back ancestral land from billionaire.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hawaii group organizes to buy back ancestral land from billionaire"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +220,16 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "34449b58ad0e98a8",
+  "active": "abe3b225c5ba4a62",
   "lastOpenFiles": [
-    "notes-last-touched-today.md",
+    "journal/2025-09-19.md",
+    "jimmy-kimmel-free-speech.md",
+    "ReadItLater Inbox/Hawaii group organizes to buy back ancestral land from billionaire.md",
+    "book review Kamala Harris.md",
+    "ReadItLater Inbox/‘Angry and disappointed’ Kamala Harris critical of Joe Biden in new book.md",
+    "ReadItLater Inbox/The US is at a dangerous crossroads after Charlie Kirk shooting.md",
     "journal/2025-09-18.md",
+    "notes-last-touched-today.md",
     "ReadItLater Inbox/Opinion The death of Charlie Kirk did not make him a moderate.md",
     "charlie kirk legacy.md",
     "ReadItLater Inbox/Trump’s Revolution Has a Martyr  The Tyee.md",
@@ -217,12 +248,6 @@
     "20c - remember Wm McNamara.md",
     "proper-20c-brainstorming.md",
     "ReadItLater Inbox/Tony Campolo Throws a Party for a Prostitute.md",
-    "journal/2025-09-15.md",
-    "test of a person's character.md",
-    "ReadItLater Inbox/Google Search.md",
-    "Things I know experientially.md",
-    "proper-20c.md",
-    "20c - Closing.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
