@@ -25,11 +25,17 @@ In some ways, I suppose I have been trying to listen to his teaching, to his wor
 
 The words of a true prophet carry a weight you cannot ignore. Even when you can’t put your fingers on it, you know the difference. A true prophet transmits the actual words of God. All the other prophets somehow carry human words -- perhaps mixed with God's words.
 
-To illustrate the importance of the prophet's ability to convey God's words, it’s useful to keep in mind the way the Hebrew Bible is divided. It's different from the way Christians divide the Bible. In the Hebrew mind what really matters, what really carries weight, is the word of God. That’s the province of the prophet. And it is the greatest of all the prophets, Moses, who it was said delivered the most important **word of God**, The **Torah**. The first five books of the Bible (Hebrew Bible that is.) The next basic division of the Hebrew Bible is, surprisingly called, the **Prophets**. These books include what Christians call historical books. From the Hebrew point of view, there are not historical and non-historical works, there are only words from prophets and words from everyone else. The 2nd basic division of the Hebrew Bible is, surprisingly called, **the prophets**. These books include what Christians call historical books. The 3rd division of the Hebrew Bible is called, then, ”**Writings**” -- from those who were not prophets. The **Torah**, the **Prophets**, and the **Writings**.
+To illustrate the importance of the prophet's ability to convey God's words, it’s useful to keep in mind the way the Hebrew Bible is divided. It's different from the way Christians divide the Bible. In the Hebrew mind what really matters, what really carries weight, is the word of God. That’s the province of the prophet. And it is the greatest of all the prophets, Moses, who it was said delivered the most important **word of God**, The **Torah**. The first five books of the Bible (Hebrew Bible that is.) 
+
+The next basic division of the Hebrew Bible is, surprisingly called, the **Prophets**. These books include what Christians call historical books. From the Hebrew point of view, there are not historical and non-historical works, there are only words from prophets and words from everyone else. 
+
+The 3rd division of the Hebrew Bible is called, then, ”**Writings**” -- from those who were not prophets. The **Torah**, the **Prophets**, and the **Writings**.
 
 If we turn our attention to Amos, one of the earliest of the prophets, the interpretation of his words are fairly straightforward. 
 
-> Are there those among you who take advantage of the poor? Are there those among you who push on the scales of justice to tilt in their favor? Are there those among you who place economic gain above human cost? God is not pleased. If we hear such words with prophetic ears and prophetic hearts, we somehow recognize them as God‘s own words. We cannot resist.
+> Are there those among you who take advantage of the poor? Are there those among you who push on the scales of justice to tilt in their favor? Are there those among you who place economic gain above human cost? God is not pleased. 
+
+If we hear such words with prophetic ears and prophetic hearts, we somehow recognize them as God‘s own words. We cannot resist.
 
 ## An example of a prophet
 

@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "cd6a0afe7020dd00",
+    "type": "split",
+    "children": [
+      {
+        "id": "596fb0a60b5b5cf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bef61f41bdb1372c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proper-20c-draft3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "proper-20c-draft3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4ee036ec5b05e6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6759c69f6a5a2ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a69238350bfdba9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f046a4203839886",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4cb65d3270a4fe7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db7a80e2846d5f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c395b3768dc7fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d7463a3ca027010",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal/2025-07-21-Monday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-07-21-Monday"
+            }
+          },
+          {
+            "id": "211ed59acbf3cbb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a48e19a949361ef4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "147158eeb6b41115",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes-last-touched-today.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of notes-last-touched-today"
+            }
+          },
+          {
+            "id": "e6329c7b863ef15d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "obsidian-kanban:Create new board": false,
+      "recipe-grabber:Recipe Grabber": false
+    }
+  },
+  "active": "bef61f41bdb1372c",
+  "lastOpenFiles": [
+    "journal/2025-09-19.md",
+    "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
+    "ReadItLater Inbox/Open carry is now legal in Florida. How many other states allow open or concealed carry.md",
+    "ReadItLater Inbox/3 Folk Ballads That’ll Put a Tear in Your Eye and Pain in Your Heart.md",
+    "ReadItLater Inbox/Quick Insert Is Your Chromebook's Hidden Superpower.md",
+    "ReadItLater Inbox/Hawaii group organizes to buy back ancestral land from billionaire.md",
+    "spinozas-criticism-emotions-cancel.md",
+    "jimmy-kimmel-free-speech.md",
+    "book review Kamala Harris.md",
+    "ReadItLater Inbox/‘Angry and disappointed’ Kamala Harris critical of Joe Biden in new book.md",
+    "ReadItLater Inbox/The US is at a dangerous crossroads after Charlie Kirk shooting.md",
+    "journal/2025-09-18.md",
+    "notes-last-touched-today.md",
+    "ReadItLater Inbox/Opinion The death of Charlie Kirk did not make him a moderate.md",
+    "charlie kirk legacy.md",
+    "ReadItLater Inbox/Trump’s Revolution Has a Martyr  The Tyee.md",
+    "yesterdays-files.md",
+    "ReadItLater Inbox/After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr  CNN.md",
+    "notes-created-today.md",
+    "2nd American revolution.md",
+    "journal/2025-09-17.md",
+    "proper-20c-draft1.md",
+    "reflections on life of the church.md",
+    "journal/2025-09-16.md",
+    "proper-20c-outline.md",
+    "20c - Overview of texts.md",
+    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
+    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
+    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
+    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3",
+    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm",
+    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm.part",
+    "Born to Run [Wu4_zVxmufY].mp3",
+    "Born to Run [Wu4_zVxmufY].webm",
+    "Born to Run [Wu4_zVxmufY].webm.part",
+    "Clippings",
+    "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
+    "assets/Pasted image 20250910094353.png",
+    "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
+    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
+    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-rRY5YXPl2U.jpeg",
+    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-3kEOQa0RsR.jpeg",
+    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-eDPHyZq9OM.jpeg",
+    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-XVZwnwhgzW.jpeg",
+    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-GkHohThxlo.jpeg",
+    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-o47VLKik8v.jpeg",
+    "Untitled.canvas",
+    "5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "5_Structure/Canvases/About - 2_Literature Notes.canvas",
+    "5_Structure/Canvases/About - 1_Fleeting Notes.canvas"
+  ]
+}
