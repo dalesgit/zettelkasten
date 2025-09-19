@@ -1,13 +1,15 @@
 ---
-title: Proper 20c
-date: September 21
+id: proper-20c-draft3
+aliases: []
+tags: []
 author: Dale Hathaway
+date: September 21
 subtitle: Hearing the prophets in our midst
 ---
 
 ## A long time ago
 
-A long time ago, in the 1970s, I was younger than than now. My priest, at the time thought that I would be interested in listening to a man, a Carmelite priest, who had recently published a book called *Mystical Passion*. We drove down to Pueblo from Colorado Springs — that’s pronounced Pe'ehbla not Pueblo.
+A long time ago, in the 1970s, I was younger then than now. My priest, at the time thought that I would be interested in listening to a man, a Carmelite priest, who had recently published a book called *Mystical Passion*. We drove down to Pueblo from Colorado Springs — that’s pronounced Pe'ehbla not Pueblo.
 
 Some things were different in those days and some things were the same. I had hair that ran down to the middle of my back then just like today. But it was brown then. There were great divisions in the country then just like there are now. One thing that was different than is that I knew far more things than I know today — At least I thought I knew. Today the list of things, important things, that I really know can be written on a paper napkin.
 
