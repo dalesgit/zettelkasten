@@ -107,7 +107,7 @@ In his book **The Kingdom of God Is a Party**, Tony Campolo relates an experienc
 
 It was in the middle of the night in Waikiki, after an energizing session at the Hawaiian Island Ministries conference. He went into a bar to get a cup of coffee and a donut.
 
-At about 3:30 am a group of "provocative and boisterous prostitutes" came in. He could help overhearing their animated conversation, and one of them said, "Tomorrow's my birthday. I'm going to be 39."
+At about 3:30 am a group of "provocative and boisterous prostitutes" came in. He couldn't help overhearing their animated conversation, and one of them said, "Tomorrow's my birthday. I'm going to be 39."
 
 One of the other women barked back, "What do you want me to do? Throw you a birthday party?" The first woman was hurt as she responded, "You don't have to be so mean. I don't want anything from you. I've never even had a birthday party."
 
