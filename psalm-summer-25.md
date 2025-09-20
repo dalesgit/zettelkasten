@@ -4,7 +4,7 @@ tags: []
 source: https://lectionarypage.net/YearC_RCL/Pentecost/CProp20_RCL.html#ps2
 author: 
 ---
-
+- [ ] 
 # Proper 20
 
 ---
@@ -24,6 +24,7 @@ let the Name of the Lord be **praised**.
 
 4 The Lord is high above all **nations**, \*  
 and his glory above the **heavens**.
+![[Pasted image 20250920134856.png]]
 ```music-abc
 X: 1
 T: Chant

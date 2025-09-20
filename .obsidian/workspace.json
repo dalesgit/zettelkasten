@@ -11,9 +11,24 @@
             "id": "77e25f885e50d2a7",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "psalm-summer-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "psalm-summer-25"
             }
           }
         ]
@@ -183,6 +198,7 @@
   },
   "active": "77e25f885e50d2a7",
   "lastOpenFiles": [
+    "assets/Pasted image 20250920134856.png",
     "proper-20c-draft4.md",
     "yesterdays-files.md",
     "journal/2025-09-20.md",
@@ -208,7 +224,6 @@
     "2nd American revolution.md",
     "journal/2025-09-17.md",
     "proper-20c-draft1.md",
-    "reflections on life of the church.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
