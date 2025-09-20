@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "psalm-summer-25"
             }
+          },
+          {
+            "id": "93e5ab38ae6ef5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-09-20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-20"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,15 +221,16 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "77e25f885e50d2a7",
+  "active": "93e5ab38ae6ef5cc",
   "lastOpenFiles": [
+    "ReadItLater Inbox/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
+    "psalm-summer-25.md",
     "assets/Pasted image 20250920134856.png",
     "proper-20c-draft4.md",
     "yesterdays-files.md",
     "journal/2025-09-20.md",
     "journal/2025-09-19.md",
     "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
-    "psalm-summer-25.md",
     "ReadItLater Inbox/Open carry is now legal in Florida. How many other states allow open or concealed carry.md",
     "ReadItLater Inbox/3 Folk Ballads That’ll Put a Tear in Your Eye and Pain in Your Heart.md",
     "ReadItLater Inbox/Quick Insert Is Your Chromebook's Hidden Superpower.md",
@@ -243,7 +269,6 @@
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-eDPHyZq9OM.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-XVZwnwhgzW.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-GkHohThxlo.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-o47VLKik8v.jpeg",
     "Untitled.canvas",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
