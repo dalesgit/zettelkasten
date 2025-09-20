@@ -4,71 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "596fb0a60b5b5cf9",
+        "id": "56b3410e5dac4e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "bef61f41bdb1372c",
+            "id": "77e25f885e50d2a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-19"
-            }
-          },
-          {
-            "id": "0f78d6d799a4bd06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards"
-            }
-          },
-          {
-            "id": "cd0bf894486a089f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -232,10 +181,14 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "cd0bf894486a089f",
+  "active": "77e25f885e50d2a7",
   "lastOpenFiles": [
+    "proper-20c-draft4.md",
+    "yesterdays-files.md",
+    "journal/2025-09-20.md",
     "journal/2025-09-19.md",
     "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
+    "psalm-summer-25.md",
     "ReadItLater Inbox/Open carry is now legal in Florida. How many other states allow open or concealed carry.md",
     "ReadItLater Inbox/3 Folk Ballads That’ll Put a Tear in Your Eye and Pain in Your Heart.md",
     "ReadItLater Inbox/Quick Insert Is Your Chromebook's Hidden Superpower.md",
@@ -250,16 +203,12 @@
     "ReadItLater Inbox/Opinion The death of Charlie Kirk did not make him a moderate.md",
     "charlie kirk legacy.md",
     "ReadItLater Inbox/Trump’s Revolution Has a Martyr  The Tyee.md",
-    "yesterdays-files.md",
     "ReadItLater Inbox/After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr  CNN.md",
     "notes-created-today.md",
     "2nd American revolution.md",
     "journal/2025-09-17.md",
     "proper-20c-draft1.md",
     "reflections on life of the church.md",
-    "journal/2025-09-16.md",
-    "proper-20c-outline.md",
-    "20c - Overview of texts.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
