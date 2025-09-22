@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psalm-summer-25.md",
+                "file": "pages/recipes-meal-planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "psalm-summer-25"
+              "title": "recipes-meal-planning"
             }
           },
           {
-            "id": "93e5ab38ae6ef5cc",
+            "id": "4fd22dbad1ece1fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-20.md",
+                "file": "journal/2025-09-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-20"
+              "title": "2025-09-22"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#type/note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes-last-touched-today.md",
+                "file": "journal/2025-09-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of notes-last-touched-today"
+              "title": "Outline of 2025-09-22"
             }
           },
           {
@@ -195,9 +195,29 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "8779a5af8fc9662c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "d32c28f5634dca6c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -221,35 +241,35 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "93e5ab38ae6ef5cc",
+  "active": "4fd22dbad1ece1fb",
   "lastOpenFiles": [
-    "ReadItLater Inbox/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
+    "pages/recipes-meal-planning.md",
+    "pages/2025-fall-Packing-list.md",
+    "pages/202509050747.md",
+    "notes/soups I like.md",
+    "my-files-inbox-7-30-25/major-events/mafia-presidency.md",
+    "my-files-inbox-7-30-25/diy/mistakes-children-chores.md",
+    "my-files-inbox-7-30-25/diy/index for diy.md",
+    "my-files-inbox-7-30-25/diy/The 9 Canned Foods You Should Always Be Buying At Costco.md",
+    "my-files-inbox-7-30-25/courts/sc-federal-workforce.md",
+    "journal/2025-08-05-Tuesday.md",
+    "journal/2025-08-05.md",
+    "Daily notes/2025-08-06.md",
+    "inbox/spiritual/baptism.md",
+    "history/The.md",
+    "journal/2025-09-22.md",
+    "pages/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
+    "proper-20c-draft2.md",
     "psalm-summer-25.md",
+    "journal/2025-09-20.md",
+    "ReadItLater Inbox/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
     "assets/Pasted image 20250920134856.png",
     "proper-20c-draft4.md",
     "yesterdays-files.md",
-    "journal/2025-09-20.md",
     "journal/2025-09-19.md",
     "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
     "ReadItLater Inbox/Open carry is now legal in Florida. How many other states allow open or concealed carry.md",
     "ReadItLater Inbox/3 Folk Ballads That’ll Put a Tear in Your Eye and Pain in Your Heart.md",
-    "ReadItLater Inbox/Quick Insert Is Your Chromebook's Hidden Superpower.md",
-    "ReadItLater Inbox/Hawaii group organizes to buy back ancestral land from billionaire.md",
-    "spinozas-criticism-emotions-cancel.md",
-    "jimmy-kimmel-free-speech.md",
-    "book review Kamala Harris.md",
-    "ReadItLater Inbox/‘Angry and disappointed’ Kamala Harris critical of Joe Biden in new book.md",
-    "ReadItLater Inbox/The US is at a dangerous crossroads after Charlie Kirk shooting.md",
-    "journal/2025-09-18.md",
-    "notes-last-touched-today.md",
-    "ReadItLater Inbox/Opinion The death of Charlie Kirk did not make him a moderate.md",
-    "charlie kirk legacy.md",
-    "ReadItLater Inbox/Trump’s Revolution Has a Martyr  The Tyee.md",
-    "ReadItLater Inbox/After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr  CNN.md",
-    "notes-created-today.md",
-    "2nd American revolution.md",
-    "journal/2025-09-17.md",
-    "proper-20c-draft1.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",

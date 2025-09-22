@@ -15,5 +15,6 @@
   "extract-url",
   "obsidian-tasks-plugin",
   "obsidian-advanced-uri",
-  "typewriter-mode"
+  "typewriter-mode",
+  "obsidian-checklist-plugin"
 ]
