@@ -1,6 +1,7 @@
 ---
 created: 2025-07-05T09:08:59 (UTC -04:00)
-tags: []
+tags:
+  - marriage
 source: https://vegoutmag.com/lifestyle/gen-6-daily-rituals-scientists-link-to-long-lasting-marriages/
 author: Jordan Cooper
 ---

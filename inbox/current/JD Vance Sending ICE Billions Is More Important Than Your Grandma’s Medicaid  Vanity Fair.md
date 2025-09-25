@@ -1,6 +1,8 @@
 ---
 created: 2025-07-03T17:28:01 (UTC -04:00)
-tags: [jd vance]
+tags:
+  - j-d-vance
+  - medicaid
 source: https://www.vanityfair.com/news/story/jd-vance-sending-ice-billions-is-more-important-than-your-grandmas-medicaid
 author: Bess Levin
 ---

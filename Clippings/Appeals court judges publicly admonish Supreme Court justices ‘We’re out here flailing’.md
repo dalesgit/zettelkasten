@@ -8,7 +8,6 @@ published: 2025-09-11
 created: 2025-09-11
 description: “They’re leaving the circuit courts, the district courts out in limbo,” one judge said during appeals court oral arguments that turned into a venting session about the high court’s terse emergency rulings.
 tags:
-  - clippings
   - supreme-court
   - justice
 ---

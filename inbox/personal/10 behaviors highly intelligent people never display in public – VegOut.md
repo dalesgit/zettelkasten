@@ -1,6 +1,7 @@
 ---
 created: 2025-07-03T07:16:00 (UTC -04:00)
-tags: []
+tags:
+  - intelligence
 source: https://vegoutmag.com/lifestyle/gen-10-behaviors-highly-intelligent-people-never-display-in-public/
 author: Jordan Cooper
 ---

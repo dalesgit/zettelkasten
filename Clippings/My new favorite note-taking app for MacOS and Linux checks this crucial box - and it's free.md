@@ -7,7 +7,6 @@ published: 2025-09-11
 created: 2025-09-11
 description: I've used a lot of note-taking apps over the years, but Trilium has reset the bar for what I expect in such tools.
 tags:
-  - clippings
   - tech
   - linux
   - notetaking

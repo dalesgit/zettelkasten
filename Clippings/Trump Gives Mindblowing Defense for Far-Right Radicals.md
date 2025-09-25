@@ -1,13 +1,14 @@
 ---
-title: "Trump Gives Mindblowing Defense for Far-Right Radicals"
-source: "https://newrepublic.com/post/200390/donald-trump-defense-far-right-radicals-violence"
+title: Trump Gives Mindblowing Defense for Far-Right Radicals
+source: https://newrepublic.com/post/200390/donald-trump-defense-far-right-radicals-violence
 author:
   - "[[Edith Olmsted]]"
 published: 2025-09-12
 created: 2025-09-12
-description: "Donald Trump claimed they were violent for good reason."
+description: Donald Trump claimed they were violent for good reason.
 tags:
-  - "clippings"
+  - violence
+  - radicals
 ---
 Trump Gives Mindblowing Defense for Far-Right Radicals | The New Republic
 

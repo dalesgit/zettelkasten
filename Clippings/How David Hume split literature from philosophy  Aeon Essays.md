@@ -7,7 +7,6 @@ published: 2025-09-11
 created: 2025-09-11
 description: Hume distrusted literature and worked to discredit character sketches as legitimate forms of philosophy
 tags:
-  - clippings
   - thought
   - literature
 ---

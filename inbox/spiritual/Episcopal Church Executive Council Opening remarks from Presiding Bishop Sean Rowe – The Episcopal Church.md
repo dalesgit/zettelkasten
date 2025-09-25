@@ -1,6 +1,7 @@
 ---
 created: 2025-07-03T06:30:39 (UTC -04:00)
-tags: []
+tags:
+  - episcopal-church
 source: https://www.episcopalchurch.org/publicaffairs/episcopal-church-executive-council-opening-remarks-from-presiding-bishop-sean-rowe-3/?utm_source=ENS+English&utm_campaign=3636366fbf-EMAIL_CAMPAIGN_2025_06_23_08_10&utm_medium=email&utm_term=0_-3636366fbf-136028141&fbclid=IwY2xjawLTOq1leHRuA2FlbQIxMQBicmlkETBWYzhHVHVSaWRhcG85ZGU3AR5zl255ad4zWMqz-GlL0Rqav_9FR4Avqg97mMjCsZ50pfKGvZPEr-ePxTDvVQ_aem_HqzuagK79m_3T28GKLg3Pg
 author: Office of Public Affairs
 ---

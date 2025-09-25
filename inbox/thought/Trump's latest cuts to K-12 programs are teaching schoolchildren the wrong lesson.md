@@ -1,6 +1,7 @@
 ---
 created: 2025-07-03T17:08:33 (UTC -04:00)
-tags: []
+tags:
+  - Education
 source: https://www.msnbc.com/top-stories/latest/trump-cuts-k12-after-school-programs-funding-rcna216803
 author: July 3, 2025, 2:31 PM EDTBy Ja'han Jones
 ---

@@ -1,13 +1,15 @@
 ---
-title: "How Teacher Evaluations Broke the University"
-source: "https://www.theatlantic.com/ideas/archive/2025/09/teacher-evaluations-grade-inflation/684185/"
+title: How Teacher Evaluations Broke the University
+source: https://www.theatlantic.com/ideas/archive/2025/09/teacher-evaluations-grade-inflation/684185/
 author:
   - "[[Rose Horowitch]]"
 published: 2025-09-12
 created: 2025-09-12
-description: "<span>“We give them all A’s, and they give us all fives.” </span>"
+description: <span>“We give them all A’s, and they give us all fives.” </span>
 tags:
-  - "clippings"
+  - Education
+  - teaching
+  - evaluations
 ---
 At the close of the fall semester, professors across the country will grade their students. Based on recent trends, those grades will be higher than ever. Around the same time, students will hand grades right back to their professors in the form of teacher evaluations. *Those* grades, too, will likely be higher than ever.
 

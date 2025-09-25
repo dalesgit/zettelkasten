@@ -7,7 +7,6 @@ published: 2025-09-11
 created: 2025-09-11
 description: Google is rolling out an update to Gmail that will introduce a new tab view and a new way to sort promo emails.
 tags:
-  - clippings
   - tech
   - email
 ---

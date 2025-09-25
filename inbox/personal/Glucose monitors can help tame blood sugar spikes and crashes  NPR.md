@@ -1,6 +1,8 @@
 ---
 created: 2025-07-05T06:42:33 (UTC -04:00)
-tags: []
+tags:
+  - health
+  - diabetes
 source: https://www.npr.org/2025/07/03/nx-s1-5448849/glucose-blood-sugar-diet-weight-loss
 author: Michaeleen Doucleff
 ---

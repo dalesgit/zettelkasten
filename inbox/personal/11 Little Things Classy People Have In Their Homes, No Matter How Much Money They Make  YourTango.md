@@ -1,6 +1,13 @@
 ---
 created: 2025-07-03T17:26:19 (UTC -04:00)
-tags: [Self,classy,money advice,home decor,decorations,home,class,income,income gap,personality]
+tags:
+  - Self
+  - classy
+  - decorations
+  - home
+  - class
+  - income
+  - personality
 source: https://www.yourtango.com/self/little-things-classy-people-have-homes-no-matter-how-much-money-make
 author: Zayda Slabbekoorn
 ---

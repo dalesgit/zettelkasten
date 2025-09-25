@@ -1,6 +1,8 @@
 ---
 created: 2025-07-03T17:24:27 (UTC -04:00)
-tags: []
+tags:
+  - reading
+  - must-read
 source: https://www.openculture.com/2025/07/neil-degrasse-tyson-lists-8-free-books-every-intelligent-person-should-read.html
 author: in Audio Books, Books, e-books |   July 3rd, 2025  10 Comments
 ---

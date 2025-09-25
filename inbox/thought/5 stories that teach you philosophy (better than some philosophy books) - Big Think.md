@@ -1,6 +1,8 @@
 ---
 created: 2025-07-02T04:49:34 (UTC -04:00)
-tags: []
+tags:
+  - philosophy
+  - stories
 source: https://bigthink.com/big-think-books/5-stories-that-teach-you-philosophy/
 author: Scotty Hendricks
 ---

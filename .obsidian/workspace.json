@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/recipes-meal-planning.md",
+                "file": "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "recipes-meal-planning"
-            }
-          },
-          {
-            "id": "4fd22dbad1ece1fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-22"
+              "title": "63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -241,35 +215,36 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "4fd22dbad1ece1fb",
+  "active": "77e25f885e50d2a7",
   "lastOpenFiles": [
-    "pages/recipes-meal-planning.md",
-    "pages/2025-fall-Packing-list.md",
-    "pages/202509050747.md",
-    "notes/soups I like.md",
-    "my-files-inbox-7-30-25/major-events/mafia-presidency.md",
-    "my-files-inbox-7-30-25/diy/mistakes-children-chores.md",
-    "my-files-inbox-7-30-25/diy/index for diy.md",
-    "my-files-inbox-7-30-25/diy/The 9 Canned Foods You Should Always Be Buying At Costco.md",
-    "my-files-inbox-7-30-25/courts/sc-federal-workforce.md",
-    "journal/2025-08-05-Tuesday.md",
-    "journal/2025-08-05.md",
-    "Daily notes/2025-08-06.md",
-    "inbox/spiritual/baptism.md",
-    "history/The.md",
-    "journal/2025-09-22.md",
-    "pages/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
-    "proper-20c-draft2.md",
-    "psalm-summer-25.md",
-    "journal/2025-09-20.md",
     "ReadItLater Inbox/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
+    "inbox/thought/Gilgamesh.md",
+    "inbox/thought/Neil deGrasse Tyson Lists 8 (Free) Books Every Intelligent Person Should Read  Open Culture.md",
+    "inbox/thought/5 stories that teach you philosophy (better than some philosophy books) - Big Think.md",
+    "inbox/thought/Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson.md",
+    "inbox/thought/Peter Thiel’s Palantir poses a grave threat to Americans  Robert Reich  The Guardian.md",
+    "inbox/thought/How Originalism Killed the Constitution - The Atlantic.md",
+    "inbox/tech/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
+    "inbox/spiritual/Fwd Richard Rohr’s Daily Meditation A Leading Voice for Liberation - dhath12@gmail.com - Gmail.md",
+    "inbox/spiritual/baptism.md",
+    "inbox/spiritual/Episcopal Church Executive Council Opening remarks from Presiding Bishop Sean Rowe – The Episcopal Church.md",
+    "inbox/spiritual/BCP note on death.md",
+    "inbox/spiritual/burial.md",
+    "inbox/personal/10 behaviors highly intelligent people never display in public – VegOut.md",
+    "inbox/personal/11 Little Things Classy People Have In Their Homes, No Matter How Much Money They Make  YourTango.md",
+    "inbox/personal/6 daily rituals scientists link to long-lasting marriages – VegOut.md",
+    "inbox/personal/How to Clean Blueberries With Baking Soda or Vinegar.md",
+    "inbox/personal/Glucose monitors can help tame blood sugar spikes and crashes  NPR.md",
+    "inbox/current/ICE detentions of non-criminal immigrants spike; about 8% have violent convictions, analysis of new data shows - CBS News.md",
+    "inbox/current/JD Vance Sending ICE Billions Is More Important Than Your Grandma’s Medicaid  Vanity Fair.md",
+    "inbox/current/After 47 years in the US, Ice took this Iranian mother from her yard. Her family just wants her home  US immigration  The Guardian.md",
+    "inbox/current/The David Frum Show Trump’s Betrayal of Ukraine - The Atlantic.md",
+    "courts/How.md",
+    "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
-    "proper-20c-draft4.md",
-    "yesterdays-files.md",
-    "journal/2025-09-19.md",
-    "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
-    "ReadItLater Inbox/Open carry is now legal in Florida. How many other states allow open or concealed carry.md",
-    "ReadItLater Inbox/3 Folk Ballads That’ll Put a Tear in Your Eye and Pain in Your Heart.md",
+    "journal/2025-09-24.md",
+    "Clippings/How David Hume split literature from philosophy  Aeon Essays.md",
+    "pages/recipes-meal-planning.md",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
@@ -281,7 +256,6 @@
     "Born to Run [Wu4_zVxmufY].webm.part",
     "Clippings",
     "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
-    "assets/Pasted image 20250910094353.png",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-rRY5YXPl2U.jpeg",

@@ -1,6 +1,9 @@
 ---
 created: 2025-07-03T06:35:49 (UTC -04:00)
-tags: []
+tags:
+  - ukraine
+  - Trump
+  - betrayal
 source: https://www.theatlantic.com/podcasts/archive/2025/07/david-frum-show-trump-ukraine-russia-bridget-brink/683399/
 author: David Frum
 ---

@@ -1,8 +1,11 @@
 ---
 created: 2025-09-08T16:26:06 (UTC -04:00)
-tags: []
+tags:
+  - notetaking
+  - clipper
+  - obsidian
 source: https://forum.obsidian.md/t/configuring-the-web-clipper-markdownload-for-a-seamless-workflow-with-obsidian/62441
-author: 
+author:
 ---
 
 # Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum

@@ -1,14 +1,11 @@
 ---
 created: 2025-07-03T06:37:55 (UTC -04:00)
-tags: []
+tags:
+  - kitchen
 source: https://www.marthastewart.com/how-to-wash-blueberries-11764159
-author: By
- Lynn Andriani
-
-
-Published on July 2, 2025
+author: By Lynn Andriani Published on July 2, 2025
 ---
-
+ 
 # How to Clean Blueberries With Baking Soda or Vinegar
 
 > ## Excerpt

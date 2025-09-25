@@ -1,6 +1,8 @@
 ---
 created: 2025-09-10T17:54:05 (UTC -04:00)
-tags: []
+tags:
+  - constitution
+  - originalism
 source: https://www.theatlantic.com/magazine/archive/2025/10/constitutional-originalism-amendment/683961/
 author: Jill Lepore
 ---

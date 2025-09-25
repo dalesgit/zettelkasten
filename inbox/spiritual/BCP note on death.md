@@ -1,3 +1,9 @@
+---
+tags:
+  - death
+  - prayer
+  - resurrection
+---
 **Note:**
 
 > The liturgy for the dead is an Easter liturgy. It finds all meaning in the resurrection. Because Jesus was raised from the dead, we too, shall be raised.

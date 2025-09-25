@@ -1,6 +1,9 @@
 ---
 created: 2025-07-05T07:00:20 (UTC -04:00)
-tags: []
+tags:
+  - thought
+  - control
+  - data
 source: https://www.theguardian.com/commentisfree/2025/jun/30/peter-thiel-palantir-threat-to-americans
 author: Robert Reich
 ---
