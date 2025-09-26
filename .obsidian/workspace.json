@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd2b7e1aa0ca7df",
+        "id": "2610418f26072a7c",
         "type": "tabs",
         "children": [
           {
-            "id": "024501af4472773a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-26"
-            }
-          },
-          {
-            "id": "3c18b05dfe63b257",
+            "id": "66befc4922bfc1f7",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -40,8 +16,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -226,17 +201,20 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "3c18b05dfe63b257",
+  "active": "66befc4922bfc1f7",
   "lastOpenFiles": [
     "journal/2025-09-26.md",
+    "Clippings/Empathy is under attack — but it remains vital for leadership and connection.md",
+    "psalm-summer-25.md",
+    "journal/2025-09-27.md",
+    "Clippings/A prayer for reconciliation  Friends of Silence.md",
+    "Clippings/5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken.md",
+    "Padraig O'Tuama.md",
     "Clippings/Psychologists Reveal 9 Things High-Level Thinkers Notice That the Average Person Misses.md",
     "Clippings/White House mass firing memo signals Trump would accelerate priorities in a shutdown. Democrats aren’t backing down  CNN Politics.md",
-    "psalm-summer-25.md",
     "notes/soups I like.md",
     "Recipes/Lentil Soup.md",
-    "Padraig O'Tuama.md",
     "journal/2025-09-25.md",
-    "Clippings/A prayer for reconciliation  Friends of Silence.md",
     "Read-it-later.base",
     "Clippings/Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
     "Clippings/How the First Amendment protects Americans’ speech − and how it does not.md",
@@ -252,9 +230,6 @@
     "inbox/thought/5 stories that teach you philosophy (better than some philosophy books) - Big Think.md",
     "inbox/thought/Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson.md",
     "inbox/thought/Peter Thiel’s Palantir poses a grave threat to Americans  Robert Reich  The Guardian.md",
-    "inbox/thought/How Originalism Killed the Constitution - The Atlantic.md",
-    "inbox/tech/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
-    "inbox/spiritual/Fwd Richard Rohr’s Daily Meditation A Leading Voice for Liberation - dhath12@gmail.com - Gmail.md",
     "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
