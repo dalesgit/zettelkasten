@@ -1,15 +1,17 @@
 ---
-title: "White House mass firing memo signals Trump would accelerate priorities in a shutdown. Democrats aren’t backing down | CNN Politics"
-source: "https://www.cnn.com/2025/09/26/politics/government-shutdown-trump-firing-memo-democrats"
+title: White House mass firing memo signals Trump would accelerate priorities in a shutdown. Democrats aren’t backing down | CNN Politics
+source: https://www.cnn.com/2025/09/26/politics/government-shutdown-trump-firing-memo-democrats
 author:
   - "[[Phil Mattingly]]"
   - "[[Adam Cancryn]]"
   - "[[Sarah Ferris]]"
 published: 2025-09-26
 created: 2025-09-26
-description: "A memo from the White House budget office telling federal agencies to prepare plans for mass firings should the government shut down signaled a dramatic escalation in a funding staredown with fewer  potential off-ramps as next week’s deadline nears."
+description: A memo from the White House budget office telling federal agencies to prepare plans for mass firings should the government shut down signaled a dramatic escalation in a funding staredown with fewer  potential off-ramps as next week’s deadline nears.
 tags:
-  - "clippings"
+  - retribution
+  - unthinkable
+  - autocracy
 ---
 Start the day here
 
