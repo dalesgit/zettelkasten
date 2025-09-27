@@ -1,0 +1,4 @@
+- [[A prayer for reconciliation  Friends of Silence]]
+- [[rite-1-prayers]]
+- [[rite-2-prayers]] 
+- [[blessings]]
