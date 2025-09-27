@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "21af46ea200263d8",
+    "id": "5301ab7f6e6e7099",
     "type": "split",
     "children": [
       {
-        "id": "7a3d7fd96f642a46",
+        "id": "e5c952a3368cbe65",
         "type": "tabs",
         "children": [
           {
-            "id": "f4558f98a5b69fb6",
+            "id": "ea56ea735758c40d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-26.md",
+                "file": "blessings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-26"
+              "title": "blessings"
             }
           }
         ]
@@ -37,11 +37,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "129278154ca5ce09",
+    "id": "800671f332c2a500",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cecf197cb6e2ab1f",
+        "id": "8de80e005ada3237",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -54,12 +54,12 @@
         }
       },
       {
-        "id": "d720b462c5a7d082",
+        "id": "a1572305870ad6cd",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#WitchTok",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -71,7 +71,7 @@
         }
       },
       {
-        "id": "861242897ad46f8d",
+        "id": "5b929d14681652cf",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -86,7 +86,7 @@
         }
       },
       {
-        "id": "5ea911b9fd72c586",
+        "id": "c5461bfd9a9da991",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,16 +99,17 @@
     "currentTab": 0
   },
   "right": {
-    "id": "653280acb0d9c78c",
+    "id": "f482e6ee9faa1c1d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8345b66c9e48a137",
+        "id": "44016ccb98bcac51",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "collapseAll": true,
+            "file": "blessings.md",
+            "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -121,12 +122,12 @@
         }
       },
       {
-        "id": "086ce713f8a9ae24",
+        "id": "cbe6813272eef2e4",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journal/2025-09-02.md",
+            "file": "blessings.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -135,12 +136,12 @@
         }
       },
       {
-        "id": "5349bf01f00a9d27",
+        "id": "8cbedece93a3ecd3",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "journal/2025-09-02.md",
+            "file": "blessings.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -150,7 +151,7 @@
         }
       },
       {
-        "id": "946eef08230cc76e",
+        "id": "6a1dea4d29eddac3",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -160,17 +161,7 @@
         }
       },
       {
-        "id": "0348512f475a57d4",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
-      },
-      {
-        "id": "078d340d4c15ad49",
+        "id": "52bebbc3beaa9cef",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -180,7 +171,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,284 +190,9 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "f4558f98a5b69fb6",
+  "active": "ea56ea735758c40d",
   "lastOpenFiles": [
-    "ReadItLater Inbox/From Kate Bush to Pentangle to T-Rex, the late Danny Thompson’s musical brilliance knew no bounds.md",
-=====
->>>>>>> origin/main
-    "journal/2025-09-24.md",
-    "ReadItLater Inbox/Precision Garage Door Service Clearwater.md",
-    "ReadItLater Inbox/Trump’s weird day at the UN, briefly explained.md",
-    "psalm-summer-25.md",
-    "ReadItLater Inbox/Charlie Kirk in his own words ‘prowling Blacks’ and ‘the great replacement strategy’.md",
-    "ReadItLater Inbox/Tony Campolo Throws a Party for a Prostitute.md",
-    "20c - Closing.md",
-    "proper-20c-outline.md",
-    "20c - serve 2 masters.md",
-    "test of a person's character.md",
-    "proper-20c-brainstorming.md",
-    "proper-20c.md",
-    "20c pirke aboth.md",
-    "gospel difficult text.md",
-    "20c - Overview of texts.md",
-    "Hebrew canon.md",
-    "20c - Prophetic ears.md",
-    "20c - remember Wm McNamara.md",
-    "remember Wm McNamara.md",
-    "ReadItLater Inbox/A new world order isn’t coming, it’s already here − and this is what it looks like.md",
-    "journal/2025-09-12.md",
-    "ReadItLater Inbox/Your Android phone's most powerful security feature is hidden and off by default - turn it on now.md",
-    "ReadItLater Inbox/America’s Greatest Threat to Democracy Comes From Within.md",
-    "journal/2025-09-10.md",
-    "journal/2025-09-09.md",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-Fx37uY2cEq.png",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-7o1EDgcDdN.jpeg",
-    "Untitled 2.base",
-    "Untitled 1.canvas",
-    "Untitled 4.base",
-    "Untitled.base",
-    "Untitled 3.base",
-    "Untitled 1.base"
-  ]
-}{
-  "main": {
-    "id": "21af46ea200263d8",
-    "type": "split",
-    "children": [
-      {
-        "id": "7a3d7fd96f642a46",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4558f98a5b69fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-26"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "129278154ca5ce09",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "cecf197cb6e2ab1f",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "byModifiedTime",
-            "autoReveal": false
-          },
-          "icon": "lucide-folder-closed",
-          "title": "Files"
-        }
-      },
-      {
-        "id": "d720b462c5a7d082",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "tag:#WitchTok",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          },
-          "icon": "lucide-search",
-          "title": "Search"
-        }
-      },
-      {
-        "id": "861242897ad46f8d",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-tags",
-          "title": "Tags"
-        }
-      },
-      {
-        "id": "5ea911b9fd72c586",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
-        }
-      }
-    ],
-    "currentTab": 0
-  },
-  "right": {
-    "id": "653280acb0d9c78c",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "8345b66c9e48a137",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": true,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-coming-in",
-          "title": "Backlinks"
-        }
-      },
-      {
-        "id": "086ce713f8a9ae24",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "journal/2025-09-02.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-going-out",
-          "title": "Outgoing links"
-        }
-      },
-      {
-        "id": "5349bf01f00a9d27",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "journal/2025-09-02.md",
-            "followCursor": false,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-list",
-          "title": "Outline"
-        }
-      },
-      {
-        "id": "946eef08230cc76e",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
-        }
-      },
-      {
-        "id": "0348512f475a57d4",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
-      },
-      {
-        "id": "078d340d4c15ad49",
-        "type": "leaf",
-        "state": {
-          "type": "todo",
-          "state": {},
-          "icon": "checkmark",
-          "title": "Todo List"
-        }
-      }
-    ],
-    "currentTab": 3
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "recipe-grabber:Recipe Grabber": false
-    }
-  },
-  "active": "f4558f98a5b69fb6",
-  "lastOpenFiles": [
-<<<<<<<+main
-    "ReadItLater Inbox/From Kate Bush to Pentangle to T-Rex, the late Danny Thompson’s musical brilliance knew no bounds.md",
-=====
->>>>>>> origin/main
-    "journal/2025-09-24.md",
-    "ReadItLater Inbox/Precision Garage Door Service Clearwater.md",
-    "ReadItLater Inbox/Trump’s weird day at the UN, briefly explained.md",
-    "psalm-summer-25.md",
-    "ReadItLater Inbox/Charlie Kirk in his own words ‘prowling Blacks’ and ‘the great replacement strategy’.md",
-    "ReadItLater Inbox/Tony Campolo Throws a Party for a Prostitute.md",
-    "20c - Closing.md",
-    "proper-20c-outline.md",
-    "20c - serve 2 masters.md",
-    "test of a person's character.md",
-    "proper-20c-brainstorming.md",
-    "proper-20c.md",
-    "20c pirke aboth.md",
-    "gospel difficult text.md",
-    "20c - Overview of texts.md",
-    "Hebrew canon.md",
-    "20c - Prophetic ears.md",
-    "20c - remember Wm McNamara.md",
-    "remember Wm McNamara.md",
-    "ReadItLater Inbox/A new world order isn’t coming, it’s already here − and this is what it looks like.md",
-    "journal/2025-09-12.md",
-    "ReadItLater Inbox/Your Android phone's most powerful security feature is hidden and off by default - turn it on now.md",
-    "ReadItLater Inbox/America’s Greatest Threat to Democracy Comes From Within.md",
-    "journal/2025-09-10.md",
-    "journal/2025-09-09.md",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-Fx37uY2cEq.png",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-7o1EDgcDdN.jpeg",
-    "Untitled 2.base",
-    "Untitled 1.canvas",
-    "Untitled 4.base",
-    "Untitled.base",
-    "Untitled 3.base",
-    "Untitled 1.base"
+    "extra-prayers-eucharist.md",
+    "prayers-at-PofP (Rite 2).md"
   ]
 }
