@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2610418f26072a7c",
+        "id": "c89b3734e861075b",
         "type": "tabs",
         "children": [
           {
-            "id": "66befc4922bfc1f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "I paired Obsidian Canvas with Zotero, and it's a game-changer"
-            }
-          },
-          {
-            "id": "c3435551bf933524",
+            "id": "06a8fefa13418e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poetry",
+                "query": "tag:#apocalyptic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,11 +84,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -219,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,9 +217,14 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "66befc4922bfc1f7",
+  "active": "06a8fefa13418e36",
   "lastOpenFiles": [
+    "sample-zotero.canvas",
     "journal/2025-09-27.md",
+    "pagelsMiraclesWonderHistorical2025.md",
+    "morrisonBeloved2010.md",
+    "psalm-summer-25.md",
+    "sample-canvas.canvas",
     "Clippings/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
     "Clippings/The Librarians review – the heroic women battling against book bans and censorship.md",
     "Clippings/The first domino Comey indictment sets MAGA retribution in motion.md",
@@ -250,7 +234,6 @@
     "MP.md",
     "journal/2025-09-26.md",
     "Clippings/Empathy is under attack — but it remains vital for leadership and connection.md",
-    "psalm-summer-25.md",
     "Clippings/A prayer for reconciliation  Friends of Silence.md",
     "Clippings/5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken.md",
     "Padraig O'Tuama.md",
@@ -265,9 +248,6 @@
     "Clippings/She Modeled Her Whole Life on Godly Purity. Then She Woke Up..md",
     "Clippings/Opinion  What the World Gets Wrong About Israel.md",
     "Clippings/Poetry Unbound.md",
-    "journal/2025-09-24.md",
-    "new-monasticism-2.md",
-    "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
     "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
