@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP.md",
+                "file": "Clippings/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MP"
+              "title": "I paired Obsidian Canvas with Zotero, and it's a game-changer"
+            }
+          },
+          {
+            "id": "c3435551bf933524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-09-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-27"
             }
           }
         ]
@@ -88,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -137,7 +160,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,12 +215,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +240,17 @@
   },
   "active": "66befc4922bfc1f7",
   "lastOpenFiles": [
+    "journal/2025-09-27.md",
+    "Clippings/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
+    "Clippings/The Librarians review – the heroic women battling against book bans and censorship.md",
+    "Clippings/The first domino Comey indictment sets MAGA retribution in motion.md",
+    "Clippings/The first domino Comey indictment sets MAGA retribution in motion 1.md",
+    "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
+    "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md",
+    "MP.md",
     "journal/2025-09-26.md",
     "Clippings/Empathy is under attack — but it remains vital for leadership and connection.md",
     "psalm-summer-25.md",
-    "journal/2025-09-27.md",
     "Clippings/A prayer for reconciliation  Friends of Silence.md",
     "Clippings/5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken.md",
     "Padraig O'Tuama.md",
@@ -239,12 +268,6 @@
     "journal/2025-09-24.md",
     "new-monasticism-2.md",
     "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
-    "ReadItLater Inbox/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
-    "inbox/thought/Gilgamesh.md",
-    "inbox/thought/Neil deGrasse Tyson Lists 8 (Free) Books Every Intelligent Person Should Read  Open Culture.md",
-    "inbox/thought/5 stories that teach you philosophy (better than some philosophy books) - Big Think.md",
-    "inbox/thought/Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson.md",
-    "inbox/thought/Peter Thiel’s Palantir poses a grave threat to Americans  Robert Reich  The Guardian.md",
     "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
@@ -255,7 +278,6 @@
     "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm.part",
     "Born to Run [Wu4_zVxmufY].mp3",
     "Born to Run [Wu4_zVxmufY].webm",
-    "Born to Run [Wu4_zVxmufY].webm.part",
     "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
