@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56b3410e5dac4e1b",
+        "id": "c89b3734e861075b",
         "type": "tabs",
         "children": [
           {
-            "id": "81886fc764960998",
+            "id": "06a8fefa13418e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-25.md",
+                "file": "extra-prayers-eucharist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-25"
+              "title": "extra-prayers-eucharist"
+            }
+          },
+          {
+            "id": "a754e277cb9563d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rite-1-prayers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "rite-1-prayers"
+            }
+          },
+          {
+            "id": "de52c58f38062077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blessings.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "blessings"
+            }
+          },
+          {
+            "id": "79cfad9d078c3ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-09-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-27"
             }
           }
         ]
@@ -63,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poetry",
+                "query": "tag:#apocalyptic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +208,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -215,34 +287,38 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "81886fc764960998",
+  "active": "06a8fefa13418e36",
   "lastOpenFiles": [
-    "Clippings/Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
+    "blessings.md",
+    "extra-prayers-eucharist.md",
+    "rite-1-prayers.md",
+    "prayers-at-PofP (Rite 2).md",
+    "Offertory Sentences (Rite 1).md",
+    "journal/2025-09-27.md",
+    "rfk-jr-obsession-with-past.md",
+    "sample-zotero.canvas",
+    "pagelsMiraclesWonderHistorical2025.md",
+    "morrisonBeloved2010.md",
+    "psalm-summer-25.md",
+    "sample-canvas.canvas",
+    "Clippings/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
+    "Clippings/The Librarians review – the heroic women battling against book bans and censorship.md",
+    "Clippings/The first domino Comey indictment sets MAGA retribution in motion.md",
+    "Clippings/The first domino Comey indictment sets MAGA retribution in motion 1.md",
+    "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
+    "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md",
+    "MP.md",
+    "journal/2025-09-26.md",
+    "Clippings/Empathy is under attack — but it remains vital for leadership and connection.md",
+    "Clippings/A prayer for reconciliation  Friends of Silence.md",
+    "Clippings/5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken.md",
+    "Padraig O'Tuama.md",
+    "Clippings/Psychologists Reveal 9 Things High-Level Thinkers Notice That the Average Person Misses.md",
+    "Clippings/White House mass firing memo signals Trump would accelerate priorities in a shutdown. Democrats aren’t backing down  CNN Politics.md",
+    "notes/soups I like.md",
+    "Recipes/Lentil Soup.md",
     "journal/2025-09-25.md",
-    "Clippings/How the First Amendment protects Americans’ speech − and how it does not.md",
-    "Clippings/She Modeled Her Whole Life on Godly Purity. Then She Woke Up..md",
-    "Clippings/Opinion  What the World Gets Wrong About Israel.md",
-    "Clippings/Poetry Unbound.md",
-    "journal/2025-09-24.md",
-    "new-monasticism-2.md",
-    "ReadItLater Inbox/63% of Americans drink fluoridated water. Here’s a science breakdown of its benefits and hazards.md",
-    "ReadItLater Inbox/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
-    "inbox/thought/Gilgamesh.md",
-    "inbox/thought/Neil deGrasse Tyson Lists 8 (Free) Books Every Intelligent Person Should Read  Open Culture.md",
-    "inbox/thought/5 stories that teach you philosophy (better than some philosophy books) - Big Think.md",
-    "inbox/thought/Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson.md",
-    "inbox/thought/Peter Thiel’s Palantir poses a grave threat to Americans  Robert Reich  The Guardian.md",
-    "inbox/thought/How Originalism Killed the Constitution - The Atlantic.md",
-    "inbox/tech/Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum.md",
-    "inbox/spiritual/Fwd Richard Rohr’s Daily Meditation A Leading Voice for Liberation - dhath12@gmail.com - Gmail.md",
-    "inbox/spiritual/baptism.md",
-    "inbox/spiritual/Episcopal Church Executive Council Opening remarks from Presiding Bishop Sean Rowe – The Episcopal Church.md",
-    "inbox/spiritual/BCP note on death.md",
-    "inbox/spiritual/burial.md",
-    "inbox/personal/10 behaviors highly intelligent people never display in public – VegOut.md",
-    "inbox/personal/11 Little Things Classy People Have In Their Homes, No Matter How Much Money They Make  YourTango.md",
-    "inbox/personal/6 daily rituals scientists link to long-lasting marriages – VegOut.md",
-    "inbox/personal/How to Clean Blueberries With Baking Soda or Vinegar.md",
+    "Read-it-later.base",
     "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
@@ -253,8 +329,6 @@
     "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm.part",
     "Born to Run [Wu4_zVxmufY].mp3",
     "Born to Run [Wu4_zVxmufY].webm",
-    "Born to Run [Wu4_zVxmufY].webm.part",
-    "Clippings",
     "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",

@@ -4,27 +4,32 @@ tags: []
 source: https://lectionarypage.net/YearC_RCL/Pentecost/CProp20_RCL.html#ps2
 author: 
 ---
-- [ ] 
-# Proper 20
+### Psalm 146
 
----
-### Psalm 113
+*Lauda, anima mea*
 
-*Laudate, pueri*
+1 Hallelujah!  
+Praise the Lord, O my **soul**! *  
+I will praise the Lord as long as I live;  
+I will sing praises to my God while I have my **being**.
 
-1 Hallelujah!  
-Give praise, you servants of the **Lord**; \*  
-praise the Name of the **Lord**.
+2 Put not your trust in rulers, nor in any child of **earth**, *  
+for there is no **help in them**.
 
-2 Let the Name of the Lord be **blessed**, \*  
-from this time forth for ever**more**.
+3 When they breathe their last, they return to **earth**, *  
+and in that day their thoughts **perish**.
 
-3 From the rising of the sun to its going **down** \*  
-let the Name of the Lord be **praised**.
+4 Happy are they who have the God of Jacob for their **help**! *  
+whose hope is in the Lord their **God**;
 
-4 The Lord is high above all **nations**, \*  
-and his glory above the **heavens**.
-![[Pasted image 20250920134856.png]]
+5 Who made heaven and earth, the seas, and all that is **in them**; *  
+who keeps his promise for **ever**;
+
+6 Who gives justice to those who are **oppressed**, *  
+and food to those who **hunger**.
+
+
+[[Pasted image 20250920134856.png]]
 ```music-abc
 X: 1
 T: Chant
@@ -32,18 +37,19 @@ C: Jerome Webster Meachen (b. 1930)
 K: D
 L: 1/4
 V: 1 clef=treble
-[A,D]4 ] !shortphrase!  [B,E] | [CE]4 !shortphrase! [CF] || [D F]4!shortphrase!  [CA] | [DB,]4 !shortphrase!  [FD] |]
+[A,D]4 ] !shortphrase!  [FD] | [CF]4 !shortphrase! [DA] || [D B]4!shortphrase!  [DA] | [DE]4 !shortphrase!  [A,D] |]
 V: 2 clef=bass
-[D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
+[D, F,]4  [B,B,,] | [F,A,]4 [F,B,] || [G,B,]4 [CA,] | [G,B,]4 [D,F,] |]
 ```
-5 Who is like the Lord our God, who sits enthroned on **high** \*  
-but stoops to behold the heavens and the **earth**?
+7 The Lord sets the prisoners free;  
+the Lord opens the eyes of the **blind**; *  
+the Lord lifts up those who are bowed **down**;
 
-6 He takes up the weak out of the **dust** \*  
-and lifts up the poor from the **ashes**.
+8 The Lord loves the righteous;  
+the Lord cares for the **stranger**; *  
+he sustains the orphan and widow,  
+but frustrates the way of the **wicked**.
 
-7 He sets them with the **princes**, \*  
-with the princes of his **people**.
-
-8 He makes the woman of a **childless house** \*  
-to be a joyful mother of **children**.
+9 The Lord shall reign for **ever**, *  
+your God, O Zion, throughout all generations.  
+Halle**lujah**!
