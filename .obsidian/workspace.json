@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "2025-09-28"
             }
+          },
+          {
+            "id": "012c756d77b7be10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotterdam-museum-rebirth.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rotterdam-museum-rebirth"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,10 +288,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "47b7dff18ff4b4e8",
+  "active": "012c756d77b7be10",
   "lastOpenFiles": [
-    "Clippings/Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful.md",
+    "Rotterdam-museum-rebirth.md",
     "journal/2025-09-28.md",
+    "Clippings/Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful.md",
     "Clippings/If Someone Says Any Of These 11 Phrases Casually, They're Struggling More Than They Want To Admit.md",
     "dutch-retreating-from-sea.md",
     "Clippings/Space-time doesn’t exist — but it’s a useful framework for understanding our reality.md",
@@ -294,7 +319,6 @@
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md",
     "MP.md",
     "journal/2025-09-26.md",
-    "Clippings/Empathy is under attack — but it remains vital for leadership and connection.md",
     "Read-it-later.base",
     "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
