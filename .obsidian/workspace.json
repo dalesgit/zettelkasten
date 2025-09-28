@@ -4,107 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fcf93fd038af6550",
+        "id": "fc9d71f0620bacc2",
         "type": "tabs",
         "children": [
           {
-            "id": "b573a308fa58f4fd",
+            "id": "09e66b25de5004f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/If Someone Says Any Of These 11 Phrases Casually, They're Struggling More Than They Want To Admit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "If Someone Says Any Of These 11 Phrases Casually, They're Struggling More Than They Want To Admit"
-            }
-          },
-          {
-            "id": "344fcba190c40823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful"
-            }
-          },
-          {
-            "id": "47b7dff18ff4b4e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-28"
-            }
-          },
-          {
-            "id": "012c756d77b7be10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rotterdam-museum-rebirth.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rotterdam-museum-rebirth"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,12 +200,13 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "012c756d77b7be10",
+  "active": "09e66b25de5004f1",
   "lastOpenFiles": [
-    "Rotterdam-museum-rebirth.md",
+    "on political violence than and now.md",
     "journal/2025-09-28.md",
     "Clippings/Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful.md",
     "Clippings/If Someone Says Any Of These 11 Phrases Casually, They're Struggling More Than They Want To Admit.md",
+    "Rotterdam-museum-rebirth.md",
     "dutch-retreating-from-sea.md",
     "Clippings/Space-time doesn’t exist — but it’s a useful framework for understanding our reality.md",
     "what makes a novel successful.md",
@@ -318,7 +231,6 @@
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md",
     "MP.md",
-    "journal/2025-09-26.md",
     "Read-it-later.base",
     "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
