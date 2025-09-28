@@ -15,33 +15,8 @@
               "state": {},
               "title": "New tab"
             }
-          },
-          {
-            "id": "0c66efbaa77c5b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +200,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "0c66efbaa77c5b7a",
+  "active": "09e66b25de5004f1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "ReadItLater Inbox/Why I gave the world wide web away for free  Tim Berners-Lee.md",
