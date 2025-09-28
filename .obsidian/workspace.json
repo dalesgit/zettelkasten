@@ -11,9 +11,24 @@
             "id": "ac45121059b44a82",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-09-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-27"
             }
           }
         ]
@@ -73,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -203,6 +217,7 @@
   },
   "active": "ac45121059b44a82",
   "lastOpenFiles": [
+    "Clippings/You’re Comparing Trump to the Wrong Fascist Dictator.md",
     "journal/2025-09-27.md",
     "blessings.md",
     "rite-1-prayers.md",
@@ -231,7 +246,6 @@
     "Clippings/White House mass firing memo signals Trump would accelerate priorities in a shutdown. Democrats aren’t backing down  CNN Politics.md",
     "notes/soups I like.md",
     "Recipes/Lentil Soup.md",
-    "journal/2025-09-25.md",
     "Read-it-later.base",
     "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
