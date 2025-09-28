@@ -1,0 +1,39 @@
+[[ReadItLater]] [[Article]]
+
+# [Why I gave the world wide web away for free | Tim Berners-Lee](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free?CMP=Share_iOSApp_Other)
+
+I was 34 years old when I first had the idea for the world wide web. I took every opportunity to talk about it: pitching it in meetings, sketching it out on a whiteboard for anyone who was interested, even drawing the web in the snow with a ski pole for my friend on what was meant to be a peaceful day out.
+
+I relentlessly petitioned bosses at the European Organization for Nuclear Research (Cern), where I worked at the time, who initially found the idea *“*a little eccentric*”* but eventually gave in and let me work on it. I was seized by the idea of combining two pre-existing computer technologies: the internet and hypertext, which takes an ordinary document and brings it to life by adding “links”.
+
+I believed that giving users such a simple way to navigate the internet would unlock creativity and collaboration on a global scale. If you could put anything on it, then after a while, it would have everything on it.
+
+But for the web to have everything on it, everyone had to be able to use it, and want to do so. This was already asking a lot. I couldn’t also ask that they pay for each search or upload they made. In order to succeed, therefore, it would have to be free. That’s why, in 1993, I convinced my Cern managers to donate the intellectual property of the world wide web, putting it into the public domain. We gave the web away to everyone.
+
+Today, I look at my invention and I am forced to ask: is the web still free today? No, not all of it. We see a handful of large platforms harvesting users’ private data to share with commercial brokers or even repressive governments. We see ubiquitous algorithms that are addictive by design and damaging to our teenagers’ mental health. Trading personal data for use certainly does not fit with my vision for a free web.
+
+On many platforms, we are no longer the customers, but instead have become the product. Our data, even if anonymised, is sold on to actors we never intended it to reach, who can then target us with content and advertising. This includes deliberately harmful content that leads to real-world violence, spreads misinformation, wreaks havoc on our psychological wellbeing and seeks to undermine social cohesion.
+
+We have the technical capability to give that power back to the individual. [Solid](https://solidproject.org/) is an open-source interoperable standard that I and my team developed at MIT more than a decade ago. Apps running on Solid don’t implicitly own your data – they have to request it from you and you choose whether to agree, or not. Rather than being in countless separate places on the internet in the hands of whomever it had been resold to, your data is in one place, controlled by you.
+
+Sharing your information in a smart way can also liberate it. Why is your smartwatch writing your biological data to one silo in one format? Why is your credit card writing your financial data to a second silo in a different format? Why are your YouTube comments, Reddit posts, Facebook updates and tweets all stored in different places? Why is the default expectation that you aren’t supposed to be able to look at any of this stuff? You generate all this data – your actions, your choices, your body, your preferences, your decisions. You should own it. You should be empowered by it.
+
+Somewhere between my original vision for web 1.0 and the rise of social media as part of web 2.0, we took the wrong path. We’re now at a new crossroads, one where we must decide if AI will be used for the betterment or to the detriment of society. How can we learn from the mistakes of the past? First of all, we must ensure policymakers do not end up playing the same decade-long game of catchup they have done over social media. The time to decide the governance model for AI was yesterday, so we must act with urgency.
+
+In 2017, I wrote a thought experiment about an AI that works for *you*. I called it [Charlie](https://www.w3.org/DesignIssues/Works.html). Charlie works for you like your doctor or your lawyer, bound by law, regulation and codes of conduct. Why can’t the same frameworks be adopted for AI? We have learned from social media that power rests with the monopolies who control and harvest personal data. We can’t let the same thing happen with AI.
+
+So how do we move forward? Part of the frustration with democracy in the 21st century is that governments have been too slow to meet the demands of digital citizens. The AI industry landscape is fiercely competitive, and development and governance are dictated by companies. The lesson from social media is that this will not create value for the individual.
+
+I coded the world wide web on a single computer in a small room. But that small room didn’t belong to me, it was at Cern. Cern was created in the aftermath of the second world war by the UN and European governments who identified a historic, scientific turning point that required international collaboration. It is hard to imagine a big tech company agreeing to share the world wide web for no commercial reward like Cern allowed me to. That’s why we need a Cern-like not-for-profit body driving forward international AI research.
+
+I gave the world wide web away for free because I thought that it would only work if it worked for everyone. Today, I believe that to be truer than ever. Regulation and global governance are technically feasible, but reliant on political willpower. If we are able to muster it, we have the chance to restore the web as a tool for collaboration, creativity and compassion across cultural borders. We can re-empower individuals, and take the web back. It’s not too late.
+
+Tim Berners-Lee is the author of [This Is for Everyone](https://thisisforeveryone.timbl.com/) *(Macmillan**).*
+
+## **Further reading**
+
+[The Innovators](https://guardianbookshop.com/innovators-9781471138805/?utm_source=editoriallink&amp;utm_medium=merch&amp;utm_campaign=article) by Walter Isaacson (Simon & Schuster, £10.99)
+
+[The Web We Weave](https://guardianbookshop.com/the-web-we-weave-9781541604124/?utm_source=editoriallink&amp;utm_medium=merch&amp;utm_campaign=article) by Jeff Jarvis (Basic, £25)
+
+[The History of the Internet in Byte-Sized Chunks](https://guardianbookshop.com/the-history-of-the-internet-in-byte-sized-chunks-9781789295597/?utm_source=editoriallink&amp;utm_medium=merch&amp;utm_campaign=article) by Chris Stokel-Walker (Michael O’Mara, £12.99)
