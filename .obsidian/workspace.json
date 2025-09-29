@@ -11,9 +11,24 @@
             "id": "6d018e81e2a42997",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Spice Cabinet Essentials.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Spice Cabinet Essentials"
             }
           }
         ]
@@ -202,6 +217,7 @@
   },
   "active": "6d018e81e2a42997",
   "lastOpenFiles": [
+    "Clippings/Spice Cabinet Essentials.md",
     "ReadItLater Inbox/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
     "Recipes/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
     "journal/2025-09-29.md",
@@ -230,7 +246,6 @@
     "morrisonBeloved2010.md",
     "psalm-summer-25.md",
     "sample-canvas.canvas",
-    "Clippings/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
     "Read-it-later.base",
     "assets/Pasted image 20250910094353.png",
