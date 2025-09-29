@@ -11,9 +11,24 @@
             "id": "09e66b25de5004f1",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-09-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-29"
             }
           }
         ]
@@ -202,6 +217,8 @@
   },
   "active": "09e66b25de5004f1",
   "lastOpenFiles": [
+    "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
+    "journal/2025-09-29.md",
     "conflict-files-obsidian-git.md",
     "ReadItLater Inbox/Why I gave the world wide web away for free  Tim Berners-Lee.md",
     "on political violence than and now.md",
@@ -228,8 +245,6 @@
     "sample-canvas.canvas",
     "Clippings/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
     "Clippings/The Librarians review – the heroic women battling against book bans and censorship.md",
-    "Clippings/The first domino Comey indictment sets MAGA retribution in motion.md",
-    "Clippings/The first domino Comey indictment sets MAGA retribution in motion 1.md",
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
     "Read-it-later.base",
     "assets/Pasted image 20250910094353.png",
