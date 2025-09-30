@@ -8,15 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c778f6217a05be76",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
             "id": "1f4a5e56d6e50ac7",
             "type": "leaf",
             "state": {
@@ -224,10 +215,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "c778f6217a05be76",
+  "active": "1f4a5e56d6e50ac7",
   "lastOpenFiles": [
-    "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md",
+    "Clippings/The divide who really profits in today’s economy.md",
     "journal/2025-09-30.md",
+    "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md",
     "Clippings/Extremely offline what happened when a Pacific island was cut off from the internet  Samanth Subramanian.md",
     "assets/Pasted image 20250930103231.png",
     "raisins-with-almonds/raisins-contents.md",
@@ -254,7 +246,6 @@
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "conflict-files-obsidian-git.md",
     "ReadItLater Inbox/Why I gave the world wide web away for free  Tim Berners-Lee.md",
-    "on political violence than and now.md",
     "sample-zotero.canvas",
     "sample-canvas.canvas",
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
