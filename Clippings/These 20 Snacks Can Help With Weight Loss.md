@@ -1,13 +1,15 @@
 ---
-title: "These 20 Snacks Can Help With Weight Loss"
-source: "https://www.health.com/weight-loss/best-snacks-for-weight-loss?hid=d1cbc8b1a4cf7083f710f944dd8cd9470901f507&did=19657437-20250929&utm_campaign=hth-nonewsubs_relationship-builder&utm_source=hth&utm_medium=email&utm_content=092925&lctg=d1cbc8b1a4cf7083f710f944dd8cd9470901f507&lr_input=1fa531cc0b7041764ed755ddf170671d0527b8e1b9e7ebd7131ef8427f7384e1"
+title: These 20 Snacks Can Help With Weight Loss
+source: https://www.health.com/weight-loss/best-snacks-for-weight-loss?hid=d1cbc8b1a4cf7083f710f944dd8cd9470901f507&did=19657437-20250929&utm_campaign=hth-nonewsubs_relationship-builder&utm_source=hth&utm_medium=email&utm_content=092925&lctg=d1cbc8b1a4cf7083f710f944dd8cd9470901f507&lr_input=1fa531cc0b7041764ed755ddf170671d0527b8e1b9e7ebd7131ef8427f7384e1
 author:
   - "[[K. Aleisha Fetters]]"
 published: 2015-03-04
 created: 2025-09-30
-description: "Snacks that support weight loss are rich in fiber and protein. Opt for foods like bananas and peanut butter, oatmeal and berries, or apple slices and cheese."
+description: Snacks that support weight loss are rich in fiber and protein. Opt for foods like bananas and peanut butter, oatmeal and berries, or apple slices and cheese.
 tags:
-  - "clippings"
+  - health
+  - food
+  - snacks
 ---
 ![Person eating fruit and crackers on a yellow couch.](https://www.health.com/thmb/fygLEAFM_QJcAwRQEP0SqyHhqKk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Health-GettyImages-1365638798-9dd21bc8b15b401a8f9efa67b46285e0.jpg)
 
