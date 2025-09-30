@@ -1,7 +1,11 @@
 ---
 created: 2025-09-30T09:57:38
 source: https://www.newscientist.com/article/2497097-the-most-important-mathematician-youve-probably-never-heard-of/
-author: #author.fullName}
+author:
+tags:
+  - mathematics
+  - algebra
+  - geometry
 ---
 
 # The most important mathematician you’ve (probably) never heard of

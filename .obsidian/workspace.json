@@ -4,59 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cee4bcac71303948",
+        "id": "345572d8036d2f23",
         "type": "tabs",
         "children": [
           {
-            "id": "847e01ea02b4ac6f",
+            "id": "ca8667e49771dbd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-30"
-            }
-          },
-          {
-            "id": "268dce3c497bbb63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unheard-of-mathematician.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "unheard-of-mathematician"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,8 +200,9 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "268dce3c497bbb63",
+  "active": "ca8667e49771dbd8",
   "lastOpenFiles": [
+    "raisins-with-almonds/raisins-contents.md",
     "unheard-of-mathematician.md",
     "journal/2025-09-30.md",
     "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
@@ -269,7 +230,6 @@
     "on political violence than and now.md",
     "journal/2025-09-28.md",
     "Clippings/Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful.md",
-    "Clippings/If Someone Says Any Of These 11 Phrases Casually, They're Struggling More Than They Want To Admit.md",
     "sample-zotero.canvas",
     "sample-canvas.canvas",
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
