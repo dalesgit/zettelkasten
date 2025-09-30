@@ -11,9 +11,24 @@
             "id": "ca8667e49771dbd8",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Extremely offline what happened when a Pacific island was cut off from the internet  Samanth Subramanian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Extremely offline what happened when a Pacific island was cut off from the internet  Samanth Subramanian"
             }
           }
         ]
@@ -202,6 +217,7 @@
   },
   "active": "ca8667e49771dbd8",
   "lastOpenFiles": [
+    "Clippings/Extremely offline what happened when a Pacific island was cut off from the internet  Samanth Subramanian.md",
     "raisins-with-almonds/raisins-contents.md",
     "unheard-of-mathematician.md",
     "journal/2025-09-30.md",
@@ -229,7 +245,6 @@
     "ReadItLater Inbox/Why I gave the world wide web away for free  Tim Berners-Lee.md",
     "on political violence than and now.md",
     "journal/2025-09-28.md",
-    "Clippings/Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful.md",
     "sample-zotero.canvas",
     "sample-canvas.canvas",
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
