@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b164fbd6cd842876",
+        "id": "cee4bcac71303948",
         "type": "tabs",
         "children": [
           {
-            "id": "264292c42c83af39",
+            "id": "847e01ea02b4ac6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-30"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -191,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -215,10 +200,13 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "264292c42c83af39",
+  "active": "847e01ea02b4ac6f",
   "lastOpenFiles": [
-    "Clippings/I was born and raised in Hawaii. I don't advise moving here, but here's what you need to know if you insist on trying..md",
+    "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
+    "Silversword story.md",
+    "index.md",
     "journal/2025-09-30.md",
+    "Clippings/I was born and raised in Hawaii. I don't advise moving here, but here's what you need to know if you insist on trying..md",
     "Storage/Storage index.md",
     "Storage/Spice Cabinet.md",
     "Storage/Rice and Grains.md",
@@ -242,9 +230,6 @@
     "Clippings/Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful.md",
     "Clippings/If Someone Says Any Of These 11 Phrases Casually, They're Struggling More Than They Want To Admit.md",
     "Rotterdam-museum-rebirth.md",
-    "dutch-retreating-from-sea.md",
-    "Clippings/Space-time doesn’t exist — but it’s a useful framework for understanding our reality.md",
-    "what makes a novel successful.md",
     "sample-zotero.canvas",
     "sample-canvas.canvas",
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
