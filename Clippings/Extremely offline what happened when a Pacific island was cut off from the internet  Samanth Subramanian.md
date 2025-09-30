@@ -1,13 +1,17 @@
 ---
 title: "Extremely offline: what happened when a Pacific island was cut off from the internet | Samanth Subramanian"
-source: "https://www.theguardian.com/news/2025/sep/30/tonga-pacific-island-internet-underwater-cables-volcanic-eruption"
+source: https://www.theguardian.com/news/2025/sep/30/tonga-pacific-island-internet-underwater-cables-volcanic-eruption
 author:
   - "[[Samanth Subramanian]]"
 published: 2025-09-30
 created: 2025-09-30
-description: "A colossal volcanic eruption in January 2022 ripped apart the underwater cables that connect Tonga to the world – and exposed the fragility of 21st-century life"
+description: A colossal volcanic eruption in January 2022 ripped apart the underwater cables that connect Tonga to the world – and exposed the fragility of 21st-century life
 tags:
-  - "clippings"
+  - world
+  - Tonga
+  - internet
+  - vulnerability
+  - fragility
 ---
 A colossal volcanic eruption in January 2022 ripped apart the underwater cables that connect Tonga to the world – and exposed the fragility of 21st-century life
 
@@ -20,6 +24,8 @@ Vea and his wife live in Tofoa, which, if you squint and picture Tonga’s main 
 The volcano, with the grand, rolling name of Hunga Tonga-Hunga Ha‘apai, lies 40 miles north of Tongatapu – mostly under the Pacific Ocean but with two spits of land showing above the water, like the ears of a drowned cat. Since its several brief eruptions the previous month, December 2021, Hunga Tonga-Hunga Ha‘apai had continued to gurgle and churn. On that Saturday, 15 January, 2.4 cubic miles of sediment and molten rock shot through its mouth with the force of what scientists call a “magma hammer”, sending a plume of ash at least 35 miles up into the atmosphere. It was the largest atmospheric explosion that modern instruments had recorded, outdoing any nuclear bomb ever detonated. They heard the sound in Alaska. Seven and a half thousand miles away, in the south Indian city of Chennai, meteorologists measured an abrupt spike in atmospheric pressure. It was Hunga Tonga-Hunga Ha‘apai, doing its thing.
 
 On his drive home, Vea had called relatives in the US through Facebook Messenger to let them know he was all right. At some point during their conversation, the line cut out. He assumed the network was overloaded by everybody getting online at the same time. “This is usually a problem for us,” he told me. Vea, DHL’s agent in Tonga, is the president of the Tonga Chamber of Commerce & Industry, and we met in his spare, sunny office in the capital of Nuku’alofa, three streets from the Pacific. The curtains were red, and the sun filtered through in a dull watermelon light.
+
+![[Pasted image 20250930103231.png]]
 
 Vea wears a perpetual expression of mirth, and it was difficult to imagine him as worried as he was on the day the volcano blew up, sitting in his van in the middle of a rain of ash, staring at his suddenly useless phone. He decided he’d try his relatives later, after the traffic online subsided. At home, though, the power was out, and he couldn’t charge his phone, so it was only the next morning, when he tuned in to Radio Tonga, that he learned the country had lost its internet altogether – and with it, all its means of reaching the world beyond the wide, silent water.
 
