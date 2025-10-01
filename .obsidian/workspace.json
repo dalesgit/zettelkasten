@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f4a5e56d6e50ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/The Spellers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Spellers"
-            }
-          },
-          {
             "id": "526a09e55c49b725",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-30.md",
+                "file": "Naples-planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-30"
+              "title": "Naples-planning"
             }
           }
         ]
@@ -87,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#apocalyptic",
+                "query": "tag:#travel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,9 +216,14 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "1f4a5e56d6e50ac7",
+  "active": "526a09e55c49b725",
   "lastOpenFiles": [
     "journal/2025-09-30.md",
+    "Clippings/Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
+    "Geoff Williams.md",
+    "my-files-inbox-7-30-25/diy/20 of the Most Popular Sandwiches From All Over the World.md",
+    "Naples-planning.md",
+    "orlando-checklist.md",
     "Clippings/The Spellers.md",
     "Clippings/These 20 Snacks Can Help With Weight Loss.md",
     "Clippings/The divide who really profits in today’s economy.md",
@@ -264,11 +246,6 @@
     "Storage/Baking.md",
     "Storage/Refrigerator.md",
     "Storage",
-    "Clippings/16 Spice Rack Essentials.md",
-    "Clippings/Spice Cabinet Essentials.md",
-    "ReadItLater Inbox/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
-    "Recipes/20 Hearty Soup Recipes That Will Fill You up Every Time.md",
-    "journal/2025-09-29.md",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "sample-zotero.canvas",
     "sample-canvas.canvas",
