@@ -26,6 +26,7 @@ tags:
 - [ ] bedside cords
 - bike stuff: stool, front bag, helmet, pump
 - tablet, e-screen, acer, phone
+- journal
 
 ## kitchen
 
