@@ -2,7 +2,6 @@
 id: Oct-2,-2025-A-critique-of-pure-stupidity-understanding-Trump-2.0--Donald-Trump--The-Guardian
 aliases: []
 tags:
-  - Stage,Instagram
 author: William Davies
 created: Oct 2, 2025, 11:35 AM
 description: If the first term of Donald Trump provoked anxiety over the fate of objective knowledge, the second has led to claims we live in a world-historical age of stupid, accelerated by big tech. But might there be a way out?
@@ -60,6 +59,54 @@ In the early 21st century, similar arguments have been made for “big data” 
 Thus when people look to the bond markets to rescue us from stupidity, they are not expecting the return of “common sense”, but merely that certain behaviours and policies will receive lower scores than others. Similarly, large language models, which promise so much today, do not offer judgment, let alone intelligence, but unrivalled pattern-processing power, based on a vast corpus of precedents. (Large language models such as ChatGPT are intelligent within their own limits, but comically stupid when stretched beyond them. Google’s AI-generated search feature has been asked to explain the meaning of nonsensical made-up idioms – such as “you can’t lick a badger twice” and “erase twice, plank once” – which it confidently proceeded to do, producing torrents of bullshit. Professors will also be familiar with the experience of reading student essays that are neither very good nor very bad, but that uncanny combination of the intelligent and the stupid that is the mark of AI writing.)
 
 From the neoliberal critique of planning in the 1970s to Elon Musk’s Doge, political attacks on governmental and professional forms of human authority serve the parallel project of opening space for overarching technologies of quantification, comparison and evaluation. Yet the technological quest to “go meta” on the rest of society, thus reducing the role of human judgment, is not new. In The Human Condition, Arendt identified the launch of Sputnik in 1957 as a historical turning point, offering the possibility of an unworldly perspective on worldly affairs, downgrading the latter in the process. The cold war, which gave birth to the internet and myriad tools of control and surveillance, was a battle to achieve the most complete global viewpoint. No behaviour or movement was deemed irrelevant to uncovering the enemy’s intentions. Musk’s fixation on space (Starlink now has about 8,000 satellites in orbit) is of a piece with his flippant approach to human judgment. Pressed on why he falsely claimed, as a pretext for slashing its budget, that USAID spent $50m on condoms for Gaza, Musk casually responded: “Some of the things I say will be incorrect.
+
+From the neoliberal critique of planning in the 1970s to Elon Musk’s Doge, political attacks on governmental and professional forms of human authority serve the parallel project of opening space for overarching technologies of quantification, comparison and evaluation. Yet the technological quest to “go meta” on the rest of society, thus reducing the role of human judgment, is not new. In The Human Condition, Arendt identified the launch of Sputnik in 1957 as a historical turning point, offering the possibility of an unworldly perspective on worldly affairs, downgrading the latter in the process. The cold war, which gave birth to the internet and myriad tools of control and surveillance, was a battle to achieve the most complete global viewpoint. No behaviour or movement was deemed irrelevant to uncovering the enemy’s intentions. Musk’s fixation on space (Starlink now has about 8,000 satellites in orbit) is of a piece with his flippant approach to human judgment. Pressed on why he falsely claimed, as a pretext for slashing its budget, that USAID spent $50m on condoms for Gaza, Musk casually responded: “Some of the things I say will be incorrect.”
+
+The transition of human activities on to surveillance platforms means that truth and falsehood, fact and rumour, become mere data points of equal value. False information and stupid policies can move markets at least as much as accurate information and smart policies, and so offer equal opportunity to speculators. One morning in April, the S&P 500 jumped 6% after a viral rumour that Trump’s tariff policy was being paused – a rumour the Financial Times traced back to a pseudonymous X user named Walter Bloomberg, based in Switzerland, with no offline credentials whatsoever. A Hayekian might point out that the error was quickly corrected – the market dropped 6% again within the hour – but this was a manifestly stupid turn of events.
+
+In a fully platform-based world, everything shrinks to the status of behaviours and patterns; meaning, intention and explanation become irrelevant. One of the most incisive accounts of this tendency in contemporary [US politics](https://www.theguardian.com/us-news/us-politics) comes from political scientists Nancy Rosenblum and Russell Muirhead, in their analysis of the “new conspiracism”.
+
+Classic conspiracy theory (regarding, say, the JFK assassination) rests on an overelaborate theoretical imagination, with complex causal chains, strategies and alliances. Its demands for coherence and meaning are excessive, while its tolerance for contingency is stunted. By contrast, “The new conspiracism dispenses with the burden of explanation. Instead, we have innuendo and verbal gesture … not evidence but repetition … The new conspiracism – all accusation, no evidence – substitutes social validation for scientific validation: if a lot of people are saying it, to use Trump’s signature phrase, then it is true enough.”
+
+The new conspiracism has its technological basis in digital platforms and the rise of reactionary influencers and “conspiracy entrepreneurs”. Outlandish and pointless fantasies, such as the conspiracies circulated by QAnon or the alleged staging of the Sandy Hook school shooting, exist to be recited and shared, acting as instruments of online influence and coordination rather than narratives to make sense of the world. They may identify enemies and reinforce prejudices, but they don’t explain anything or provide a political plan. The only injunction of the new conspiracist is that their claims get liked, shared and repeated. Engagement – and revenue – is all.
+
+![A besuited man, Robert F Kennedy Jr, speaks at a lecturn, with trump looking on](https://i.guim.co.uk/img/media/ed6a9c736c0f3c01cc19186543a9ea7af8ca4f9d/258_0_4165_3333/master/4165.jpg?width=445&dpr=1&s=none&crop=none)[View image in fullscreen](https://www.theguardian.com/news/2025/oct/02/critique-pure-stupidity-understanding-donald-trump-2#img-4)
+
+Robert F Kennedy Jr speaks at the White House, September 2025. Photograph: ABACA/Shutterstock
+
+This analysis takes us beyond the 2016-era panic over “truth” to help us chart the current political flood waters of “stupidity”. When Republican politicians go on TV and make absurd claims about tariffs, vaccines or immigration, is it best understood as “lying”, or as something else altogether? Often they are simply repeating lines that have already been circulating, filtering outward from nodes – Trump and RFK Jr especially – in the conspiracist network. Some claims act as loyalty oaths (affirmations that the 2020 election was stolen), but more are just deranged and bizarre, not to mention sick, such as the claim that DEI hiring policies were responsible for the fires that devastated Los Angeles in January, and the fatal aircraft collision that killed 67 people that same month. Taken as judgments or explanations, they raise questions about the cognitive faculties of the speaker, but perhaps they are better seen as memes. The individuals might sound stupid, but they are not the architects of a media sphere in which causal explanation has been sacrificed for symbolic mimicry, to fill time and generate content.
+
+---
+
+In the same essay reflecting on stupidity, Arendt distinguished between “preliminary” and “true” understanding. Because it involves applying existing concepts to particular situations, preliminary understanding has a kind of circularity. It can be clever and correct, but it falls short when confronting the genuine novelty of human actions. One can escape the most brute form of stupidity, yet not truly understand the significance of the political and historical moment. Even the cleverest person or system can get trapped in a “preliminary” understanding of events.
+
+Arendt argued that there was a second human faculty, in addition to judgment, that allowed understanding to progress to a truer grasp of meaning: imagination. Imagination, for Arendt, is the uniquely human capacity to grasp truth via speculative leaps, drawing on empathy and creativity in the process, as opposed to scientific methods. Politics requires us to navigate situations which are incomparable and immeasurable, because they are genuinely new. This in turn requires something closer to aesthetic judgment than to scientific judgment.
+
+[
+
+![Bratislav Milenkovic illustration.](https://i.guim.co.uk/img/media/3fa8485174d433bbc2ce318533edccf01b8915bd/1362_1136_2578_1547/master/2578.jpg?width=460&quality=85&auto=format&fit=max&s=f394499071845837660ec42d85bc7f91)
+
+Neoliberalism: the idea that swallowed the world
+
+Read more
+
+
+
+
+
+](https://www.theguardian.com/news/2017/aug/18/neoliberalism-the-idea-that-changed-the-world)
+
+“Imagination alone,” Arendt wrote, “enables us to see things in their proper perspective.” The challenge Arendt poses to us is to think of truth and meaning not from the perspective of the economist, financial analyst, data scientist or sociologist, but of the historian, the kind who sees human events as a series of breaks, anomalies and initiations.
+
+This is what the “closed world” of platform and market surveillance can’t provide: a kind of understanding that is not reducible to empirical data. Artificial or market “intelligence” has the capacity to learn at ultra-high speed from existing data, but its range of possible outcomes, while extremely large, is nevertheless enumerable and therefore finite. In the gamified space of such “closed worlds”, history is finished, and all that remains is lots and lots of behaviours. Every conceivable event, utterance or idea is already out there, whether in the real-time computer of the market or the archival one of the data bank, waiting to be discovered.
+
+Trump and his administration are undoubtedly stupid. They don’t know what they are doing, don’t understand the precedents or facts involved and lack any curiosity about consequences, human and non-human. The tariffs fiasco has been the greatest fillip to the legitimacy of the economics profession in living memory, showing by a series of brute experimental results that international trade does, on balance, enhance prosperity and efficiency. It turns out that the foundational concepts of macroeconomics do have some empirical grip upon the world after all, and that to ignore them is an act of stupidity. Tragically, a similar process is under way in public health.
+
+But if our only alternative to stupidity is to reinstall the “preliminary understanding” of expert orthodoxy (welcome as that might be in some areas), then there will be no reflection on the wider historical conditions of stupidity, nor on the extent of stupid policy and process not only tolerated but valued by contemporary capitalism. The outsourcing of judgment to financial markets, digital platforms and fusions of the two is also an invitation for people to behave stupidly, albeit within systems that are governed by some esoteric form of mathematical reason. It would be absurd to seek hope in Trump and Trumpism, but perhaps stupidity on such a world-historical level can at least offer an opportunity for “true” understanding. Nothing – markets, bots or machines – can rescue us, except our imagination.
+
+_A longer version of this essay appeared in [n+1 magazine](https://www.nplusonemag.com/)_
+
+ Listen to our podcasts [here](https://www.theguardian.com/news/series/the-long-read) and sign up to the long read weekly email [here](https://www.theguardian.com/info/ng-interactive/2017/may/05/sign-up-for-the-long-read-email).
 
 ”Explore more on these topics
 
