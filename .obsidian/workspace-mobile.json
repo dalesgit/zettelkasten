@@ -1,36 +1,19 @@
 {
   "main": {
-    "id": "5301ab7f6e6e7099",
+    "id": "b0f6ce8ee7177e63",
     "type": "split",
     "children": [
       {
-        "id": "7a3821471db727b6",
+        "id": "a15a6dee878127c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce9cdda355ffb053",
+            "id": "2898f7bff40d3917",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "psalm-summer-25.md",
-                "file": "journal/2025-09-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "psalm-summer-25"
-              "title": "2025-09-29"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -39,16 +22,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "800671f332c2a500",
+    "id": "e9bb86912096dfa1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8de80e005ada3237",
+        "id": "30aacfde49afeb85",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -56,7 +39,7 @@
         }
       },
       {
-        "id": "a1572305870ad6cd",
+        "id": "202602deac2c9bc0",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -73,7 +56,7 @@
         }
       },
       {
-        "id": "5b929d14681652cf",
+        "id": "97dc075a83c34cd5",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -88,7 +71,7 @@
         }
       },
       {
-        "id": "c5461bfd9a9da991",
+        "id": "54789bb73218661f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -101,16 +84,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "f482e6ee9faa1c1d",
+    "id": "63573f43e626be80",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "44016ccb98bcac51",
+        "id": "921883f12c57ea74",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "rfk-jr-obsession-with-past.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,12 +106,11 @@
         }
       },
       {
-        "id": "cbe6813272eef2e4",
+        "id": "ad88be5f4f72f157",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "blessings.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -138,12 +119,11 @@
         }
       },
       {
-        "id": "8cbedece93a3ecd3",
+        "id": "4475d44033a42db8",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "blessings.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,7 +133,7 @@
         }
       },
       {
-        "id": "6a1dea4d29eddac3",
+        "id": "f915e8f7f200ee0c",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -163,7 +143,7 @@
         }
       },
       {
-        "id": "52bebbc3beaa9cef",
+        "id": "e071ee95bd40938e",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -173,7 +153,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,18 +172,6 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "ce9cdda355ffb053",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "journal/2025-09-27.md",
-    "Clippings/A prayer for reconciliation  Friends of Silence.md",
-    "yesterdays-files.md",
-    "journal/2025-09-28.md",
-    "ReadItLater Inbox/Why I gave the world wide web away for free  Tim Berners-Lee.md",
-    "rfk-jr-obsession-with-past.md",
-    "ReadItLater Inbox/Opinion  More than a narcissist’s rant, Trump’s UN address marked a disturbing turn towards a new world order — Guardian US.md",
-    "blessings.md",
-    "extra-prayers-eucharist.md",
-    "prayers-at-PofP (Rite 2).md"
-  ]
+  "active": "e071ee95bd40938e",
+  "lastOpenFiles": []
 }
