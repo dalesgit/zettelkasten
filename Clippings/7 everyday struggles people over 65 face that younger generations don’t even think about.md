@@ -1,13 +1,14 @@
 ---
-title: "7 everyday struggles people over 65 face that younger generations don’t even think about"
-source: "https://vegoutmag.com/lifestyle/z-7-everyday-struggles-people-over-65-face-that-younger-generations-dont-even-think-about/"
+title: 7 everyday struggles people over 65 face that younger generations don’t even think about
+source: https://vegoutmag.com/lifestyle/z-7-everyday-struggles-people-over-65-face-that-younger-generations-dont-even-think-about/
 author:
   - "[[VegOut]]"
 published: 2025-10-01
 created: 2025-10-02
-description: "The hardest part of aging isn’t always health or money—it’s the subtle, everyday shifts that slowly redefine independence and connection."
+description: The hardest part of aging isn’t always health or money—it’s the subtle, everyday shifts that slowly redefine independence and connection.
 tags:
-  - "clippings"
+  - aging
+  - health
 ---
 The hardest part of aging isn’t always health or money—it’s the subtle, everyday shifts that slowly redefine independence and connection.
 

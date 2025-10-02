@@ -8,12 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "321ac7f7d997ef33",
+            "id": "caa29919fe207330",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-10-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-02"
             }
           }
         ]
@@ -201,8 +216,10 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "321ac7f7d997ef33",
+  "active": "caa29919fe207330",
   "lastOpenFiles": [
+    "Clippings/7 everyday struggles people over 65 face that younger generations don’t even think about.md",
+    "journal/2025-10-02.md",
     "Naples-planning.md",
     "journal/2025-09-30.md",
     "Clippings/Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
@@ -228,8 +245,6 @@
     "Storage/Pantry.md",
     "Storage/Freezer.md",
     "Clippings/A Complete Checklist of Pantry, Refrigerator and Freezer Essentials.md",
-    "Storage/Baking.md",
-    "Storage/Refrigerator.md",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "sample-zotero.canvas",
