@@ -39,9 +39,21 @@
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "5677ef9c6989cd84",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "f93805c654384140",
+  "active": "5677ef9c6989cd84",
   "lastOpenFiles": [
     "journal/2025-10-02.md",
     "how-to-season-a-cast-iron-pan.md",
