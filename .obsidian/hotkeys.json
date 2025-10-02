@@ -79,5 +79,23 @@
       ],
       "key": "F"
     }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

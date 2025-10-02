@@ -13,8 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "psalm-summer-25.md",
+=======
                 "file": "journal/2025-09-29.md",
+>>>>>>> 58de02073c18e2d148235ef6dda65bd3b6df28ee
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,8 +32,11 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "psalm-summer-25"
+=======
               "title": "2025-09-29"
+>>>>>>> 58de02073c18e2d148235ef6dda65bd3b6df28ee
             }
           }
         ]
@@ -198,6 +204,8 @@
     "journal/2025-09-27.md",
     "Clippings/A prayer for reconciliation  Friends of Silence.md",
     "yesterdays-files.md",
+=======
+>>>>>>> 58de02073c18e2d148235ef6dda65bd3b6df28ee
     "journal/2025-09-28.md",
     "ReadItLater Inbox/Why I gave the world wide web away for free  Tim Berners-Lee.md",
     "rfk-jr-obsession-with-past.md",
