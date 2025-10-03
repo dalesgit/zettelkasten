@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c711eb6b6df2778a",
+        "id": "1d772dbefe664b05",
         "type": "tabs",
         "children": [
           {
-            "id": "a644bf533e823bfe",
+            "id": "8b0f4e97549e32da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "2025-10-03"
-            }
-          },
-          {
-            "id": "8d30ab5280f7c4ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Apple removes ICE tracking apps after pressure by Trump administration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Apple removes ICE tracking apps after pressure by Trump administration"
             }
           }
         ]
@@ -239,7 +215,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "a644bf533e823bfe",
+  "active": "8b0f4e97549e32da",
   "lastOpenFiles": [
     "Clippings/Apple removes ICE tracking apps after pressure by Trump administration.md",
     "journal/2025-10-03.md",
