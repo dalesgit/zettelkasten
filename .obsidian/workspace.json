@@ -32,27 +32,12 @@
             }
           },
           {
-            "id": "6e48e257ab6fe92d",
+            "id": "2f62076c6ffef6e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jane-goodall-legacy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "jane-goodall-legacy"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ],
@@ -240,9 +225,10 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "6e48e257ab6fe92d",
+  "active": "2f62076c6ffef6e2",
   "lastOpenFiles": [
     "journal/2025-10-03.md",
+    "Clippings/Senior Tories dismayed at Badenoch’s ‘catastrophic’ vow to repeal Climate Change Act.md",
     "jane-goodall-legacy.md",
     "Clippings/Apple removes ICE tracking apps after pressure by Trump administration.md",
     "A-critique-of-pure-stupidity-understanding-Trump-2.0--Donald-Trump--The-Guardian.md",
@@ -268,7 +254,6 @@
     "assets/Pasted image 20250930103231.png",
     "raisins-with-almonds/raisins-contents.md",
     "unheard-of-mathematician.md",
-    "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "sample-zotero.canvas",
