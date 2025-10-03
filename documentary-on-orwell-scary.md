@@ -1,0 +1,37 @@
+---
+created: 2025-10-03T08:11:38
+source: https://www.rollingstone.com/tv-movies/tv-movie-reviews/george-orwell-documentary-review-1235433561/
+author: David Fear
+---
+
+# The Scariest Movie of 2025 Is Here — and It's a Doc on George Orwell
+
+Clipped from: https://www.rollingstone.com/tv-movies/tv-movie-reviews/george-orwell-documentary-review-1235433561/
+
+# How Did a Documentary on George Orwell Become the Scariest Movie of 2025?
+
+Raoul Peck's _Orwell: 2+2=5_ looks at the writer who gave us a modern dystopian classic — and doubles as a portrait of how authoritarianism works that feels way too familiar
+
+When he was 19 years old, still eons away from the essays, the novels, and the pseudonym that would grant him literary immortality, Eric Arthur Blair went east and joined the Indian Imperial Police in Burma. The country was still under British colonial rule — “an outpost of empire” — and the young man was stationed in various cities in and around Rangoon. It was there that Blair began to notice how the authorities within this occupied territory operated with the express goal of maintaining cultural supremacy and keeping the native populace under Her Majesty’s thumb. He not only grew to despise the violence he and his fellow officers perpetrated, but to acknowledge that “in order to hate imperialism, you’ve got to be part of it. But it is not possible to be part of such a system without recognizing it as an unjustifiable tyranny.” **Unlike in England, there was no upper class and lower class. There were only the oppressors and the oppressed.**
+
+The veil having been brusquely lifted from his eyes, Blair eventually left the service. He would publish a book based on his experiences as part of “the actual machinery of despotism,” titled _Burmese Days._ Between that work of fiction and the gonzo-journalistic _Down and Out in Paris and London,_ in which he detailed a first-person experiment in extreme poverty, the former policeman was beginning to make a name for himself as a writer. Or rather, a pen name for himself, given that Blair took on a new moniker upon becoming a man of letters: George Orwell.
+
+Raoul Peck’s _Orwell: 2+2=5_ devotes some brief but crucial screen time to this chapter of the author’s life, filling out the scenes with faded snapshots and Orwell’s prose being read on the soundtrack by Damian Lewis. (The noted filmmaker takes issue with these audio tracks being referred to as voiceovers, which simply suggests someone providing useful narration to events; Peck prefers to describe them as “performances,” and much like Samuel L. Jackson’s similar work in 2016’s _I Am Not Your Negro,_ Lewis’ raspy-voiced take on Orwell’s writings is less a recitation and more an inhabitation.) It’s presented as a pivotal moment in its subject’s life and given the usual [Documentary](https://www.rollingstone.com/t/documentary/) 101 treatment, one of several signposts that the film uses to mark territory. Here is where Orwell became radicalized by empathy, inching one step closer to being a sharp chronicler of misery, humanity, and his era.
+
+## Editor’s picks
+
+There’s an _American Masters_ version of this portrait of an artist where, this box having been checked off the list of key events, it simply moves down the timeline — a womb-to-tomb-and-back-again tour, book-ended by an extraordinary photo of Orwell as a baby, being held by an Indian nanny. But then Peck begins to thread in scenes of strife from modern-day Myanmar, which depict dissidents beaten and detained, propaganda fueling outrage and chaos, government doublespeak being used in the name of justifying “pacification” — one of several terms the movie identifies as euphemisms for far more sinister, state-sanctioned endeavors. (See also: “vocational training centers,” “legal use of force,” a certain U.S. administration’s use of “Antisemitism” in regards to college campuses and silencing critics.) The past eerily melts into the present. History does not repeat itself, but it often rhymes. We have always been at war with Eastasia.
+
+Soon, other hot spots, war zones and historical low points began to weave their way into the film: Ukraine, Gaza, Jan. 6th. Contemporary leaders and still-in-progress totalitarian regimes bump up against Ralph Steadman’s caricature sketches for an edition of _Animal Farm,_ Orwell’s second most famous book, and clips from three different screen adaptations of _1984,_ his most famous work. Using the slogans from that novel’s Ministry of Truth — “War Is Peace,” “Freedom Is Slavery,” “Ignorance Is Strength” — as chapter heads, Peck begins to drop montages of journalists being arrested, billionaires parading around and pulling power plays, examples of the ways in which the media has become defanged and monopolized, reality has become hijacked and distorted. “The very concept of objective truth is fading out of this world,” the author wrote, and the fact that he committed this thought to paper in 1946 in his essay “Why I Write,” another of the doc’s key through lines, is both sobering and nauseating. We do not need to wonder what Orwell would think of our world today. He’s already written in depth about it.
+
+## Trending Stories
+
+## Related Content
+
+![](https://www.rollingstone.com/wp-content/uploads/2025/10/R_ORWELL-Pyramid-COURTESY-OF-NEON.jpg?w=1024)
+
+Neon
+
+It immediately becomes apparent that _Orwell: 2+2=5_ — the subtitle itself attesting to the distortion of fact and the breaking of wills — is not just about a 20th century literary figure. It’s also about 21st century authoritarianism, presented in the same mural-like, connect-the-dots fashion with which Peck constructed his towering, multi-part 2021 documentary on colonialism, _Exterminate All Brutes._ If it sounds like a rough watch, the equivalent of _Doomscrolling: The Movie,_ it is. But it’s also a testament to the fact that Orwell wasn’t only writing about his age or addressing temporary injustices. The author understood how power works, and the lengths that people, classes, political parties and dictators would go to keep it. He also had keen insights on the manipulations involved and the damage done. So much of this is not new. Only the means, the conduits of misinformation, and the overall enshittification have changed.
+
+Peck has long cratfed impeccable, politically charged fictions, docs, and docudramas, whether it’s his 2000 biopic on Patrice Lumumba or his peerless portrait of James Baldwin (the aforementioned _I Am Not a Negro_). With this latest magnum opus, the Haitian filmmaker has given us not just an invaluable, iris-out look at our present moment but the scariest movie of 2025 by a wide margin. It ends on noting the need for collective actions, paying lip service to the BLM protests and the turnout for Alexei Navalny’s funeral as a signifier for defiance in the face of tyranny. Yet the film is smart enough not to suggest easy optimism or offer false hope. Still, by the time he reprises that photo of Orwell and his Indian nanny, he’s given you a clear sense of how the baby in that woman’s arms would spend his life battling tides of indifference and emphasizing empathy as a necessity rather than a luxury. The writer became inspired to counteract his complicity in a corrupt system. The film inspires you to do the same.
