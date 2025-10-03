@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1727c21cd6c9a069",
+        "id": "c711eb6b6df2778a",
         "type": "tabs",
         "children": [
           {
-            "id": "910e3b63cb8cad08",
+            "id": "a644bf533e823bfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/A critique of pure stupidity understanding Trump 2.0.md",
+                "file": "journal/2025-10-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A critique of pure stupidity understanding Trump 2.0"
+              "title": "2025-10-03"
             }
           },
           {
-            "id": "f93805c654384140",
+            "id": "8d30ab5280f7c4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-02.md",
+                "file": "Clippings/Apple removes ICE tracking apps after pressure by Trump administration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,59 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-02"
-            }
-          },
-          {
-            "id": "d0176209acfe920d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Historian uses AI to help identify Nazi in notorious Holocaust murder image.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Historian uses AI to help identify Nazi in notorious Holocaust murder image"
-            }
-          },
-          {
-            "id": "5677ef9c6989cd84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-critique-of-pure-stupidity-understanding-Trump-2.0--Donald-Trump--The-Guardian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A-critique-of-pure-stupidity-understanding-Trump-2.0--Donald-Trump--The-Guardian"
+              "title": "Apple removes ICE tracking apps after pressure by Trump administration"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,13 +239,15 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "d0176209acfe920d",
+  "active": "a644bf533e823bfe",
   "lastOpenFiles": [
+    "Clippings/Apple removes ICE tracking apps after pressure by Trump administration.md",
+    "journal/2025-10-03.md",
+    "A-critique-of-pure-stupidity-understanding-Trump-2.0--Donald-Trump--The-Guardian.md",
+    "Clippings/A critique of pure stupidity understanding Trump 2.0.md",
     "journal/2025-10-02.md",
     "Clippings/Historian uses AI to help identify Nazi in notorious Holocaust murder image.md",
-    "Clippings/A critique of pure stupidity understanding Trump 2.0.md",
     "Clippings/Democrats finally have some leverage in the shutdown fight. They should use it  Robert Reich.md",
-    "A-critique-of-pure-stupidity-understanding-Trump-2.0--Donald-Trump--The-Guardian.md",
     "how-to-season-a-cast-iron-pan.md",
     "Clippings/Pope Leo hits out at critics of global warming.md",
     "Clippings/Three Great Documentaries to Stream.md",
@@ -315,8 +268,6 @@
     "unheard-of-mathematician.md",
     "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
     "Silversword story.md",
-    "index.md",
-    "Clippings/I was born and raised in Hawaii. I don't advise moving here, but here's what you need to know if you insist on trying..md",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "sample-zotero.canvas",
