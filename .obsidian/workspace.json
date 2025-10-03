@@ -32,7 +32,31 @@
             }
           },
           {
-            "id": "2f62076c6ffef6e2",
+            "id": "0e779aba82fd451a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Process Theology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Process Theology"
+            }
+          },
+          {
+            "id": "cea8daeaee3dbdb1",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -41,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,8 +249,10 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "2f62076c6ffef6e2",
+  "active": "cea8daeaee3dbdb1",
   "lastOpenFiles": [
+    "Process Theology.md",
+    "Clippings/Orwell 2+2=5.md",
     "journal/2025-10-03.md",
     "Clippings/Senior Tories dismayed at Badenoch’s ‘catastrophic’ vow to repeal Climate Change Act.md",
     "jane-goodall-legacy.md",
@@ -252,8 +278,6 @@
     "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md",
     "Clippings/Extremely offline what happened when a Pacific island was cut off from the internet  Samanth Subramanian.md",
     "assets/Pasted image 20250930103231.png",
-    "raisins-with-almonds/raisins-contents.md",
-    "unheard-of-mathematician.md",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "sample-zotero.canvas",

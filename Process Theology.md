@@ -1,0 +1,2 @@
+- God is relational (Peter Lane)
+- God is change (Oliver Butler)
