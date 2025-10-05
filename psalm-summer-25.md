@@ -4,31 +4,24 @@ tags: []
 source: https://lectionarypage.net/YearC_RCL/Pentecost/CProp20_RCL.html#ps2
 author: 
 ---
-### Psalm 146
+### Psalm 37:1-10
 
-*Lauda, anima mea*
+*Noli aemulari*
 
-1 Hallelujah!  
-Praise the Lord, O my **soul**! *  
-I will praise the Lord as long as I live;  
-I will sing praises to my God while I have my **being**.
+1 Do not fret yourself because of *evildoers*; *  
+do not be jealous of those who do *wrong*.
 
-2 Put not your trust in rulers, nor in any child of **earth**, *  
-for there is no **help in them**.
+2 For they shall soon wither like the *grass*, *  
+and like the green grass fade a*way*.
 
-3 When they breathe their last, they return to **earth**, *  
-and in that day their thoughts **perish**.
+3 Put your trust in the Lord and do *good*; *  
+dwell in the land and feed on its *riches*.
 
-4 Happy are they who have the God of Jacob for their **help**! *  
-whose hope is in the Lord their **God**;
+4 Take delight in the *Lord*, *  
+and he shall give you your heart's de*sire*.
 
-5 Who made heaven and earth, the seas, and all that is **in them**; *  
-who keeps his promise for **ever**;
-
-6 Who gives justice to those who are **oppressed**, *  
-and food to those who **hunger**.
-
-
+5 Commit your way to the Lord and put your *trust in him*, *  
+and he will bring it to *pass*.
 [[Pasted image 20250920134856.png]]
 ```music-abc
 X: 1
@@ -41,15 +34,17 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [B,B,,] | [F,A,]4 [F,B,] || [G,B,]4 [CA,] | [G,B,]4 [D,F,] |]
 ```
-7 The Lord sets the prisoners free;  
-the Lord opens the eyes of the **blind**; *  
-the Lord lifts up those who are bowed **down**;
+6 He will make your righteousness as clear as the *light* *  
+and your just dealing as the *noonday*.
 
-8 The Lord loves the righteous;  
-the Lord cares for the **stranger**; *  
-he sustains the orphan and widow,  
-but frustrates the way of the **wicked**.
+7 Be still before the *Lord* *  
+and wait patiently *for him*.
 
-9 The Lord shall reign for **ever**, *  
-your God, O Zion, throughout all generations.  
-Halle**lujah**!
+8 Do not fret yourself over the one who *prospers*, *  
+the one who succeeds in evil *schemes*.
+
+9 Refrain from anger, leave rage a*lone*; *  
+do not fret yourself; it leads only to *evil*.
+
+10 For evildoers shall be *cut off*, *  
+but those who wait upon the Lord shall possess the *land*.
