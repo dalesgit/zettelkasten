@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0733911baf73ff9a",
+        "id": "31ed0a7f029be2a9",
         "type": "tabs",
         "children": [
           {
-            "id": "29d4602f2f4f501f",
+            "id": "508adf89fc456552",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-10-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-08"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -216,11 +201,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "29d4602f2f4f501f",
+  "active": "508adf89fc456552",
   "lastOpenFiles": [
     "Clippings/Boom time for US billionaires why the system perpetuates wealth inequality.md",
-    "journal/2025-10-06.md",
     "journal/2025-10-08.md",
+    "journal/2025-10-06.md",
     "journal/2025-10-04.md",
     "Clippings/Here's How I Batch Install All My Old Apps When Switching Linux Distros.md",
     "Clippings/Are We Headed for Apocalypse This Book Says It’s a 1-in-3 Chance..md",

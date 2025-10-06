@@ -1,13 +1,15 @@
 ---
 title: "Boom time for US billionaires: why the system perpetuates wealth inequality"
-source: "https://www.theguardian.com/news/2025/oct/06/billionaire-class-us-inequality"
+source: https://www.theguardian.com/news/2025/oct/06/billionaire-class-us-inequality
 author:
   - "[[Lauren Aratani]]"
 published: 2025-10-06
 created: 2025-10-06
-description: "As the super rich grow even richer, inequality expert Chuck Collins says the system is broken – but it can be fixed"
+description: As the super rich grow even richer, inequality expert Chuck Collins says the system is broken – but it can be fixed
 tags:
-  - "clippings"
+  - wealth
+  - wealth-distribution
+  - system
 ---
 ![two men sit in red car](https://i.guim.co.uk/img/media/bbd73b76dd85c68d6b427026693ab78bbfc746e5/938_0_6880_5504/master/6880.jpg?width=620&dpr=2&s=none&crop=none)
 
