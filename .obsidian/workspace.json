@@ -4,107 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1d772dbefe664b05",
+        "id": "0733911baf73ff9a",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0f4e97549e32da",
+            "id": "29d4602f2f4f501f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Are We Headed for Apocalypse This Book Says It’s a 1-in-3 Chance..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Are We Headed for Apocalypse This Book Says It’s a 1-in-3 Chance."
-            }
-          },
-          {
-            "id": "0e779aba82fd451a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Process Theology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Process Theology"
-            }
-          },
-          {
-            "id": "cea8daeaee3dbdb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-10-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-03"
-            }
-          },
-          {
-            "id": "65b679234bde26f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-10-04.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-04"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -239,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -249,8 +162,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -259,8 +172,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -273,7 +186,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
@@ -284,12 +196,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "65b679234bde26f7",
+  "active": "29d4602f2f4f501f",
   "lastOpenFiles": [
+    "journal/2025-10-04.md",
     "Clippings/Here's How I Batch Install All My Old Apps When Switching Linux Distros.md",
     "Clippings/Are We Headed for Apocalypse This Book Says It’s a 1-in-3 Chance..md",
     "journal/2025-10-03.md",
@@ -315,7 +229,6 @@
     "my-files-inbox-7-30-25/diy/20 of the Most Popular Sandwiches From All Over the World.md",
     "orlando-checklist.md",
     "Clippings/The Spellers.md",
-    "Clippings/These 20 Snacks Can Help With Weight Loss.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
