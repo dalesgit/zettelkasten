@@ -1,13 +1,17 @@
 ---
-title: "Chief justice says rule of law, judicial independence protect Canada from autocracy | CBC News"
-source: "https://www.cbc.ca/news/politics/supreme-court-of-canada-150-years-1.7652687"
+title: Chief justice says rule of law, judicial independence protect Canada from autocracy | CBC News
+source: https://www.cbc.ca/news/politics/supreme-court-of-canada-150-years-1.7652687
 author:
   - "[[Jim Bronskill]]"
 published: 2025-10-06
 created: 2025-10-07
-description: "While Canada is not a superpower in the traditional sense of the word, it's \"certainly a democratic superpower,\" Chief Justice Richard Wagner said Monday at a ceremony to open the Supreme Court's judicial year."
+description: While Canada is not a superpower in the traditional sense of the word, it's "certainly a democratic superpower," Chief Justice Richard Wagner said Monday at a ceremony to open the Supreme Court's judicial year.
 tags:
-  - "clippings"
+  - democracy
+  - freedom
+  - supreme-court
+  - law
+  - rule-of-law
 ---
 [Politics](https://www.cbc.ca/news/politics)
 

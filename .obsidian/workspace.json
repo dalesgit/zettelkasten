@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e8b4612f0a9b181",
+        "id": "3d935879f939f4bf",
         "type": "tabs",
         "children": [
           {
-            "id": "4914f6eebc052536",
+            "id": "543f246edaa0ca08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Chief justice says rule of law, judicial independence protect Canada from autocracy  CBC News.md",
+                "file": "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chief justice says rule of law, judicial independence protect Canada from autocracy  CBC News"
+              "title": "This $45 Item Can Actually Make Walking Easier And Boost Heart Health"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2025-07-21-Monday.md",
+                "file": "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-07-21-Monday"
+              "title": "Backlinks for This $45 Item Can Actually Make Walking Easier And Boost Heart Health"
             }
           },
           {
@@ -191,13 +190,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,14 +213,19 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "4914f6eebc052536",
+  "active": "543f246edaa0ca08",
   "lastOpenFiles": [
-    "Clippings/Chief justice says rule of law, judicial independence protect Canada from autocracy  CBC News.md",
+    "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md",
+    "journal/2025-10-06.md",
+    "journal/2025-10-07.md",
     "Clippings/Was prehistory a feminist paradise.md",
     "Clippings/Boom time for US billionaires why the system perpetuates wealth inequality.md",
-    "journal/2025-10-08.md",
-    "journal/2025-10-06.md",
+    "Clippings/You’re Comparing Trump to the Wrong Fascist Dictator.md",
+    "journal/2025-10-05.md",
     "journal/2025-10-04.md",
+    "Clippings/Does left-wing authoritarianism need to be re-examined New research from Serbia suggests so.md",
+    "Clippings/Chief justice says rule of law, judicial independence protect Canada from autocracy  CBC News.md",
+    "journal/2025-10-08.md",
     "Clippings/Here's How I Batch Install All My Old Apps When Switching Linux Distros.md",
     "Clippings/Are We Headed for Apocalypse This Book Says It’s a 1-in-3 Chance..md",
     "journal/2025-10-03.md",
@@ -239,11 +241,6 @@
     "Clippings/Historian uses AI to help identify Nazi in notorious Holocaust murder image.md",
     "Clippings/Democrats finally have some leverage in the shutdown fight. They should use it  Robert Reich.md",
     "how-to-season-a-cast-iron-pan.md",
-    "Clippings/Pope Leo hits out at critics of global warming.md",
-    "Clippings/Three Great Documentaries to Stream.md",
-    "Clippings/7 everyday struggles people over 65 face that younger generations don’t even think about.md",
-    "Naples-planning.md",
-    "journal/2025-09-30.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
