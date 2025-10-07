@@ -1,13 +1,15 @@
 ---
-title: "This Gmail trick will keep your messages and clear your storage"
-source: "https://mashable.com/article/gmail-inbox-storage-clear-messages-save"
+title: This Gmail trick will keep your messages and clear your storage
+source: https://mashable.com/article/gmail-inbox-storage-clear-messages-save
 author:
   - "[[Tim Marcin]]"
 published: 2025-10-06
 created: 2025-10-07
-description: "There's a pretty cool trick for clearing up your Gmail inbox's storage."
+description: There's a pretty cool trick for clearing up your Gmail inbox's storage.
 tags:
-  - "clippings"
+  - gmail
+  - storage
+  - archive
 ---
 ![gmail logo, blurred, against a blue background](https://helios-i.mashable.com/imagery/articles/0764Ls9xdDLw8Ks11vVWRXV/hero-image.fill.size_1248x702.v1759764428.jpg)
 

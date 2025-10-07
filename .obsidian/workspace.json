@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d935879f939f4bf",
+        "id": "fe7f8cc265202306",
         "type": "tabs",
         "children": [
           {
-            "id": "543f246edaa0ca08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Why does the supreme court keep bending the knee to Trump  Steven Greenhouse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Why does the supreme court keep bending the knee to Trump  Steven Greenhouse"
-            }
-          },
-          {
-            "id": "0cac4da8652c7db9",
+            "id": "280c3769f4060cbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "2025-10-07"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,14 +214,14 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "0cac4da8652c7db9",
+  "active": "280c3769f4060cbe",
   "lastOpenFiles": [
-    "Clippings/This Gmail trick will keep your messages and clear your storage.md",
     "Clippings/Why does the supreme court keep bending the knee to Trump  Steven Greenhouse.md",
+    "Clippings/This Gmail trick will keep your messages and clear your storage.md",
+    "journal/2025-10-07.md",
     "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
     "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md",
     "journal/2025-10-06.md",
-    "journal/2025-10-07.md",
     "Clippings/Was prehistory a feminist paradise.md",
     "Clippings/Boom time for US billionaires why the system perpetuates wealth inequality.md",
     "Clippings/You’re Comparing Trump to the Wrong Fascist Dictator.md",
