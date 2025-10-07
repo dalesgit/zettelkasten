@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
+                "file": "Clippings/Why does the supreme court keep bending the knee to Trump  Steven Greenhouse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "This $45 Item Can Actually Make Walking Easier And Boost Heart Health"
+              "title": "Why does the supreme court keep bending the knee to Trump  Steven Greenhouse"
+            }
+          },
+          {
+            "id": "0cac4da8652c7db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-10-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-07"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
+                "file": "journal/2025-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for This $45 Item Can Actually Make Walking Easier And Boost Heart Health"
+              "title": "Backlinks for 2025-10-07"
             }
           },
           {
@@ -213,8 +238,10 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "543f246edaa0ca08",
+  "active": "0cac4da8652c7db9",
   "lastOpenFiles": [
+    "Clippings/Why does the supreme court keep bending the knee to Trump  Steven Greenhouse.md",
+    "Clippings/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
     "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md",
     "journal/2025-10-06.md",
     "journal/2025-10-07.md",
@@ -239,8 +266,6 @@
     "Clippings/A critique of pure stupidity understanding Trump 2.0.md",
     "journal/2025-10-02.md",
     "Clippings/Historian uses AI to help identify Nazi in notorious Holocaust murder image.md",
-    "Clippings/Democrats finally have some leverage in the shutdown fight. They should use it  Robert Reich.md",
-    "how-to-season-a-cast-iron-pan.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
