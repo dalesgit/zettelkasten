@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31ed0a7f029be2a9",
+        "id": "9e8b4612f0a9b181",
         "type": "tabs",
         "children": [
           {
-            "id": "508adf89fc456552",
+            "id": "4914f6eebc052536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Was prehistory a feminist paradise.md",
+                "file": "Clippings/Chief justice says rule of law, judicial independence protect Canada from autocracy  CBC News.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Was prehistory a feminist paradise"
+              "title": "Chief justice says rule of law, judicial independence protect Canada from autocracy  CBC News"
             }
           }
         ]
@@ -216,8 +216,9 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "508adf89fc456552",
+  "active": "4914f6eebc052536",
   "lastOpenFiles": [
+    "Clippings/Chief justice says rule of law, judicial independence protect Canada from autocracy  CBC News.md",
     "Clippings/Was prehistory a feminist paradise.md",
     "Clippings/Boom time for US billionaires why the system perpetuates wealth inequality.md",
     "journal/2025-10-08.md",
@@ -243,7 +244,6 @@
     "Clippings/7 everyday struggles people over 65 face that younger generations don’t even think about.md",
     "Naples-planning.md",
     "journal/2025-09-30.md",
-    "Clippings/Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
