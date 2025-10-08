@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7c196e524c85f8e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/A New Movie About George Orwell and 1984 Has a Unique Way of Telling Its Story. It May Haunt You..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A New Movie About George Orwell and 1984 Has a Unique Way of Telling Its Story. It May Haunt You."
+            }
+          },
+          {
             "id": "7913080d3c8ed484",
             "type": "leaf",
             "state": {
@@ -225,7 +249,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "7913080d3c8ed484",
+  "active": "7c196e524c85f8e0",
   "lastOpenFiles": [
     "journal/2025-10-08.md",
     "Clippings/A New Movie About George Orwell and 1984 Has a Unique Way of Telling Its Story. It May Haunt You..md",
