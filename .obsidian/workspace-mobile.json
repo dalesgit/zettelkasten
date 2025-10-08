@@ -11,9 +11,24 @@
             "id": "929b48af0fd4d24b",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-10-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-07"
             }
           }
         ]
@@ -175,6 +190,7 @@
   },
   "active": "929b48af0fd4d24b",
   "lastOpenFiles": [
+    "ReadItLater Inbox/Beef Barley Soup.md",
     "ReadItLater Inbox/Justice Ketanji Brown Jackson is trying to warn us about something. Are we listening.md",
     "ReadItLater Inbox/The 3 Catchiest Songs Ever Written, According to Science.md",
     "psalm-summer-25.md",
