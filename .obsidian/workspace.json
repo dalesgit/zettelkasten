@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45b85d6bce8c5e20",
+        "id": "6a524bb16bb66249",
         "type": "tabs",
         "children": [
           {
-            "id": "1a82761b254b977f",
+            "id": "98326e93019fb451",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "7c196e524c85f8e0",
+            "id": "3341c723cc1d127a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/7 Main Streets Where Hawaii Comes Alive.md",
+                "file": "Clippings/Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,19 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7 Main Streets Where Hawaii Comes Alive"
-            }
-          },
-          {
-            "id": "7913080d3c8ed484",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "title": "Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -248,11 +239,15 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "1a82761b254b977f",
+  "active": "3341c723cc1d127a",
   "lastOpenFiles": [
-    "Clippings/7 Main Streets Where Hawaii Comes Alive.md",
-    "Clippings/A New Movie About George Orwell and 1984 Has a Unique Way of Telling Its Story. It May Haunt You..md",
     "journal/2025-10-08.md",
+    "Clippings/Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says.md",
+    "Clippings/7 Main Streets Where Hawaii Comes Alive.md",
+    "Clippings/e.md",
+    "Clippings/Thomas Pynchon Has Been Warning Us About American Fascism the Whole Time.md",
+    "Clippings/Raoul Peck grew up under dictatorship. His new film on Orwell warns us what comes next.md",
+    "Clippings/A New Movie About George Orwell and 1984 Has a Unique Way of Telling Its Story. It May Haunt You..md",
     "Clippings/Orwell 2+2=5.md",
     "Clippings/With One Damning Question, Ketanji Brown Jackson Defined the Supreme Court’s New Term.md",
     "journal/2025-10-07.md",
@@ -272,10 +267,6 @@
     "Clippings/Are We Headed for Apocalypse This Book Says It’s a 1-in-3 Chance..md",
     "journal/2025-10-03.md",
     "Process Theology.md",
-    "documentary-on-orwell-scary.md",
-    "Clippings/Senior Tories dismayed at Badenoch’s ‘catastrophic’ vow to repeal Climate Change Act.md",
-    "jane-goodall-legacy.md",
-    "Clippings/Apple removes ICE tracking apps after pressure by Trump administration.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
