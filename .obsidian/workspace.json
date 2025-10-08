@@ -4,59 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6a524bb16bb66249",
+        "id": "c55aaeff4f410c64",
         "type": "tabs",
         "children": [
           {
-            "id": "98326e93019fb451",
+            "id": "e57665985b2339bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-10-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-08"
-            }
-          },
-          {
-            "id": "3341c723cc1d127a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +199,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "3341c723cc1d127a",
+  "active": "e57665985b2339bd",
   "lastOpenFiles": [
     "journal/2025-10-08.md",
     "Clippings/Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says.md",
