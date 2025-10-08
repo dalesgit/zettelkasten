@@ -6,11 +6,11 @@ author:
 published: 2025-10-07
 created: 2025-10-08
 description: "Orwell: 2+2=5 takes on the Orwellian quality of A.I.—and uses the technology to do it."
-tags: 
-  - AI 
-  - movies 
-  - 1984 
+tags:
+  - AI
+  - movies
   - Orwell
+  - novel-1984
 ---
 ![The inside of a train station that contains neon signs featuring George Orwell quotes: "War Is Peace, Freedom Is Slavery."](https://compote.slate.com/images/8a53cd4a-4111-4864-900a-68b7b3438679.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=320)
 

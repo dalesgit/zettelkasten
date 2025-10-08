@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe7f8cc265202306",
+        "id": "45b85d6bce8c5e20",
         "type": "tabs",
         "children": [
           {
-            "id": "280c3769f4060cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/A New Movie About George Orwell and 1984 Has a Unique Way of Telling Its Story. It May Haunt You..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A New Movie About George Orwell and 1984 Has a Unique Way of Telling Its Story. It May Haunt You."
-            }
-          },
-          {
-            "id": "9b08da184f8aeefc",
+            "id": "1a82761b254b977f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,6 +29,15 @@
               },
               "icon": "lucide-file",
               "title": "2025-10-08"
+            }
+          },
+          {
+            "id": "7913080d3c8ed484",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ],
@@ -240,11 +225,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "9b08da184f8aeefc",
+  "active": "7913080d3c8ed484",
   "lastOpenFiles": [
-    "Clippings/With One Damning Question, Ketanji Brown Jackson Defined the Supreme Court’s New Term.md",
     "journal/2025-10-08.md",
     "Clippings/A New Movie About George Orwell and 1984 Has a Unique Way of Telling Its Story. It May Haunt You..md",
+    "Clippings/Orwell 2+2=5.md",
+    "Clippings/With One Damning Question, Ketanji Brown Jackson Defined the Supreme Court’s New Term.md",
     "journal/2025-10-07.md",
     "Clippings/Why does the supreme court keep bending the knee to Trump  Steven Greenhouse.md",
     "Clippings/This Gmail trick will keep your messages and clear your storage.md",
@@ -263,7 +249,6 @@
     "journal/2025-10-03.md",
     "Process Theology.md",
     "documentary-on-orwell-scary.md",
-    "Clippings/Orwell 2+2=5.md",
     "Clippings/Senior Tories dismayed at Badenoch’s ‘catastrophic’ vow to repeal Climate Change Act.md",
     "jane-goodall-legacy.md",
     "Clippings/Apple removes ICE tracking apps after pressure by Trump administration.md",
