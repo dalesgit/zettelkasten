@@ -11,9 +11,48 @@
             "id": "e57665985b2339bd",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Jonathan Lear, Philosopher Who Embraced Freud, Dies at 76.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Jonathan Lear, Philosopher Who Embraced Freud, Dies at 76"
+            }
+          },
+          {
+            "id": "959a8d26234ddad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-10-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-09"
             }
           }
         ]
@@ -201,6 +240,9 @@
   },
   "active": "e57665985b2339bd",
   "lastOpenFiles": [
+    "journal/2025-10-09.md",
+    "Clippings/12 Contradictions In Life That Only Make Sense With Age.md",
+    "Clippings/Jonathan Lear, Philosopher Who Embraced Freud, Dies at 76.md",
     "journal/2025-10-08.md",
     "Clippings/Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says.md",
     "Clippings/7 Main Streets Where Hawaii Comes Alive.md",
@@ -224,9 +266,6 @@
     "Clippings/Does left-wing authoritarianism need to be re-examined New research from Serbia suggests so.md",
     "Clippings/Chief justice says rule of law, judicial independence protect Canada from autocracy  CBC News.md",
     "Clippings/Here's How I Batch Install All My Old Apps When Switching Linux Distros.md",
-    "Clippings/Are We Headed for Apocalypse This Book Says It’s a 1-in-3 Chance..md",
-    "journal/2025-10-03.md",
-    "Process Theology.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
