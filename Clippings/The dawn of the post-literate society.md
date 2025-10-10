@@ -1,13 +1,15 @@
 ---
-title: "The dawn of the post-literate society"
-source: "https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1"
+title: The dawn of the post-literate society
+source: https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1
 author:
   - "[[James Marriott]]"
 published: 2025-09-19
 created: 2025-10-10
-description: "And the end of civilisation"
+description: And the end of civilisation
 tags:
-  - "clippings"
+  - reading
+  - iphones
+  - end-of-civilization
 ---
 ### And the end of civilisation
 
