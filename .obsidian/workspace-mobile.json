@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f97f9a3e8496a797",
+        "id": "4af0091b4c0b71e8",
         "type": "tabs",
         "children": [
           {
-            "id": "929b48af0fd4d24b",
+            "id": "02faab1d3cb63143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US.md",
+                "file": "journal/2025-10-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US"
+              "title": "2025-10-10"
             }
           }
         ]
@@ -188,10 +188,10 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "929b48af0fd4d24b",
+  "active": "02faab1d3cb63143",
   "lastOpenFiles": [
-    "journal/2025-10-10.md",
     "ReadItLater Inbox/He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US.md",
+    "journal/2025-10-10.md",
     "journal/2025-10-07.md",
     "ReadItLater Inbox/Beef Barley Soup.md",
     "ReadItLater Inbox/Justice Ketanji Brown Jackson is trying to warn us about something. Are we listening.md",
