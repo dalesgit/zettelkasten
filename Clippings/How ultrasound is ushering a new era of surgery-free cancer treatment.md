@@ -1,13 +1,15 @@
 ---
-title: "How ultrasound is ushering a new era of surgery-free cancer treatment"
-source: "https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment"
+title: How ultrasound is ushering a new era of surgery-free cancer treatment
+source: https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment
 author:
   - "[[Jamie Ducharme]]"
 published: 2025-10-08
 created: 2025-10-10
-description: "Ultrasound has long been used for helping doctors see inside the body, but focused high frequency sound waves are offering new ways of targeting cancer."
+description: Ultrasound has long been used for helping doctors see inside the body, but focused high frequency sound waves are offering new ways of targeting cancer.
 tags:
-  - "clippings"
+  - cancer
+  - ultra-sound
+  - treatment
 ---
 ![Erica Bass/ Rogel Cancer Center/ Michigan Medicine The treatment head of a histotripsy platform produced by HistoSonics (Credit: Erica Bass/ Rogel Cancer Center/ Michigan Medicine)](https://ichef.bbci.co.uk/images/ic/160xn/p0m77p7w.jpg.webp)
 
