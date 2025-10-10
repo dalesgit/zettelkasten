@@ -1,4 +1,10 @@
-[[ReadItLater]] [[Article]]
+---
+tags:
+  - Antifa
+  - threat
+  - police-state
+---
+#[[ReadItLater]] [[Article]]
 
 # [He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US](https://www.wired.com/story/mark-bray-book-antifa-death-threats/)
 
