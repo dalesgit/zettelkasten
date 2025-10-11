@@ -4,24 +4,26 @@ tags: []
 source: https://lectionarypage.net/YearC_RCL/Pentecost/CProp20_RCL.html#ps2
 author: 
 ---
-### Psalm 37:1-10
+## Psalm 111
+_Confitebor tibi_
 
-*Noli aemulari*
+1 Hallelujah!
+I will give thanks to the Lord with my **whole heart**, *
+in the assembly of the upright, in the congre**gation**.
 
-1 Do not fret yourself because of *evildoers*; *  
-do not be jealous of those who do *wrong*.
+2 Great are the deeds of the **Lord!** *
+they are studied by all who de**light in them**.
 
-2 For they shall soon wither like the *grass*, *  
-and like the green grass fade a*way*.
+3 His work is full of majesty and **splendor**, *
+and his righteousness endures for **ever**.
 
-3 Put your trust in the Lord and do *good*; *  
-dwell in the land and feed on its *riches*.
+4 He makes his marvelous works to be re**membered**; *
+the Lord is gracious and full of com**passion**.
 
-4 Take delight in the *Lord*, *  
-and he shall give you your heart's de*sire*.
+5 He gives food to those who **fear him**; *
+he is ever mindful of his **covenant**.
 
-5 Commit your way to the Lord and put your *trust in him*, *  
-and he will bring it to *pass*.
+
 [[Pasted image 20250920134856.png]]
 ```music-abc
 X: 1
@@ -34,17 +36,20 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [B,B,,] | [F,A,]4 [F,B,] || [G,B,]4 [CA,] | [G,B,]4 [D,F,] |]
 ```
-6 He will make your righteousness as clear as the *light* *  
-and your just dealing as the *noonday*.
 
-7 Be still before the *Lord* *  
-and wait patiently *for him*.
+6 He has shown his people the power of his **works** *
+in giving them the lands of the **nations**.
 
-8 Do not fret yourself over the one who *prospers*, *  
-the one who succeeds in evil *schemes*.
+7 The works of his hands are faithfulness and **justice**; *
+all his commandments are **sure**.
 
-9 Refrain from anger, leave rage a*lone*; *  
-do not fret yourself; it leads only to *evil*.
+8 They stand fast for ever and **ever**, *
+because they are done in truth and **equity**.
 
-10 For evildoers shall be *cut off*, *  
-but those who wait upon the Lord shall possess the *land*.
+9 He sent redemption to his people;
+he commanded his covenant for **ever**; *
+holy and awesome is his **Name**.
+
+10 The fear of the Lord is the beginning of **wisdom**; *
+those who act accordingly have a good understanding;
+his praise endures for **ever**.
