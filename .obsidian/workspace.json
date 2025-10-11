@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/The dawn of the post-literate society.md",
+                "file": "journal/2025-10-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The dawn of the post-literate society"
+              "title": "2025-10-11"
             }
           }
         ],
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2025-10-07.md",
+                "file": "journal/2025-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-07"
+              "title": "Backlinks for 2025-10-11"
             }
           },
           {
@@ -215,7 +216,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -241,8 +243,9 @@
   },
   "active": "4545bf6266a8adb9",
   "lastOpenFiles": [
-    "journal/2025-10-10.md",
     "Clippings/The dawn of the post-literate society.md",
+    "journal/2025-10-11.md",
+    "journal/2025-10-10.md",
     "Clippings/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
     "Clippings/How ultrasound is ushering a new era of surgery-free cancer treatment.md",
     "journal/2025-10-09.md",
@@ -266,7 +269,6 @@
     "journal/2025-10-06.md",
     "Clippings/Was prehistory a feminist paradise.md",
     "Clippings/Boom time for US billionaires why the system perpetuates wealth inequality.md",
-    "Clippings/You’re Comparing Trump to the Wrong Fascist Dictator.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
