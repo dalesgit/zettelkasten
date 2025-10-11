@@ -1,13 +1,15 @@
 ---
-title: "Peter Thiel’s off-the-record antichrist lectures reveal more about him than Armageddon"
-source: "https://www.theguardian.com/technology/ng-interactive/2025/oct/10/peter-thiel-antichrist-lectures"
+title: Peter Thiel’s off-the-record antichrist lectures reveal more about him than Armageddon
+source: https://www.theguardian.com/technology/ng-interactive/2025/oct/10/peter-thiel-antichrist-lectures
 author:
   - "[[Adrian Daub]]"
 published: 2025-10-10
 created: 2025-10-11
-description: "Silicon Valley titan desperately tries to detach self from power in amateurish talks attempting to ape his favorite philosopher"
+description: Silicon Valley titan desperately tries to detach self from power in amateurish talks attempting to ape his favorite philosopher
 tags:
-  - "clippings"
+  - anti-education
+  - apocalyptic
+  - Education
 ---
 ![a man in a religious frame](https://i.guim.co.uk/img/media/6bbb64e8db0fa9012ba0508c3bb0d71b85ddddce/0_0_1461_2000/master/1461.png?width=620&dpr=2&s=none&crop=none)
 

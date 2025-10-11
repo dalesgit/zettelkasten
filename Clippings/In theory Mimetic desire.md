@@ -1,13 +1,16 @@
 ---
 title: "In theory: Mimetic desire"
-source: "https://www.theguardian.com/books/booksblog/2010/feb/08/theory-mimetic-desire"
+source: https://www.theguardian.com/books/booksblog/2010/feb/08/theory-mimetic-desire
 author:
   - "[[Andrew Gallix]]"
 published: 2010-02-08
 created: 2025-10-11
 description: "<p><strong>Andrew Gallix: </strong>Nearly 50 years on, René Girard's theory remains a powerfully illuminating insight into both literature and the world</p>"
 tags:
-  - "clippings"
+  - mimetic-theory
+  - philosophy
+  - literature
+  - anthropology
 ---
 ![Madame Bovary](https://i.guim.co.uk/img/static/sys-images/Books/Pix/pictures/2009/10/13/1255448287499/Madame-Bovary-001.jpg?width=620&dpr=2&s=none&crop=none)
 

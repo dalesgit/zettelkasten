@@ -1,13 +1,15 @@
 ---
-title: "René Girard - Wikipedia"
-source: "https://en.wikipedia.org/wiki/Ren%C3%A9_Girard"
+title: René Girard - Wikipedia
+source: https://en.wikipedia.org/wiki/Ren%C3%A9_Girard
 author:
   - "[[Contributors to Wikimedia projects]]"
 published: 2004-12-30
 created: 2025-10-11
 description:
 tags:
-  - "clippings"
+  - rene-girard
+  - philosophy
+  - mimetic-theory
 ---
 **René Noël Théophile Girard** ([/ ʒ ɪəˈr ɑːr d /](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English");[^3] French:[\[ʒiʁaʁ\]](https://en.wikipedia.org/wiki/Help:IPA/French "Help:IPA/French"); 25 December 1923 – 4 November 2015) was a French-American academic, [literary critic](https://en.wikipedia.org/wiki/Literary_critic "Literary critic") and [philosopher of social science](https://en.wikipedia.org/wiki/Philosophy_of_social_science "Philosophy of social science") whose work belongs to the tradition of [philosophical anthropology](https://en.wikipedia.org/wiki/Philosophical_anthropology "Philosophical anthropology"). Holding mostly appointments in French literature, Girard was the author of nearly thirty books with writings spanning many academic domains. His work influenced [critical theory](https://en.wikipedia.org/wiki/Critical_theory "Critical theory"), [anthropology](https://en.wikipedia.org/wiki/Anthropology "Anthropology"), [theology](https://en.wikipedia.org/wiki/Theology "Theology"), [mythology](https://en.wikipedia.org/wiki/Myth "Myth"), [sociology](https://en.wikipedia.org/wiki/Sociology "Sociology"), [economics](https://en.wikipedia.org/wiki/Economics "Economics"), [cultural studies](https://en.wikipedia.org/wiki/Cultural_studies "Cultural studies"), and [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"). Girard was elected as one of the 40 members of [Académie Française](https://en.wikipedia.org/wiki/Acad%C3%A9mie_Fran%C3%A7aise "Académie Française") in 2005.[^4]
 
