@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4af0091b4c0b71e8",
+        "id": "e8430de3bd482731",
         "type": "tabs",
         "children": [
           {
-            "id": "02faab1d3cb63143",
+            "id": "c4781606a4d33933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-10.md",
+                "file": "psalm-summer-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-10"
+              "title": "psalm-summer-25"
             }
           }
         ]
@@ -188,10 +188,10 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "02faab1d3cb63143",
+  "active": "c4781606a4d33933",
   "lastOpenFiles": [
-    "ReadItLater Inbox/He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US.md",
     "journal/2025-10-10.md",
+    "ReadItLater Inbox/He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US.md",
     "journal/2025-10-07.md",
     "ReadItLater Inbox/Beef Barley Soup.md",
     "ReadItLater Inbox/Justice Ketanji Brown Jackson is trying to warn us about something. Are we listening.md",
