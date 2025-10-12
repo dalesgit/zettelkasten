@@ -1,13 +1,16 @@
 ---
-title: "Opinion | What Ted Lasso, the Bhargava Gita and Derrida Can Teach Us About Ourselves"
-source: "https://www.nytimes.com/2025/10/12/opinion/derrida-trump-ted-lasso-binaries.html?searchResultPosition=1"
+title: Opinion | What Ted Lasso, the Bhargava Gita and Derrida Can Teach Us About Ourselves
+source: https://www.nytimes.com/2025/10/12/opinion/derrida-trump-ted-lasso-binaries.html?searchResultPosition=1
 author:
   - "[[By Mark Edmundson]]"
 published: 2025-10-12
 created: 2025-10-12
-description: "Our culture is amok with binaries. We have two major parties, just two, and they are forever opposed."
+description: Our culture is amok with binaries. We have two major parties, just two, and they are forever opposed.
 tags:
-  - "clippings"
+  - dualism
+  - political-division
+  - Derrida
+  - monism
 ---
 America’s deep division just keeps deepening. [A new Times/Siena poll](https://www.nytimes.com/2025/10/02/us/politics/times-siena-poll-political-polarization.html) shows a stark increase in the number of people who believe our country is too polarized to solve its problems. We may not have needed a poll for this. Look around: Binary thinking (often informing binary rage) is everywhere in our country.
 
