@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Don’t fall for the authoritarian hype – Reform and the hard right can be stopped in their tracks  Gordon Brown.md",
+                "file": "Clippings/Opinion  What Ted Lasso, the Bhargava Gita and Derrida Can Teach Us About Ourselves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Don’t fall for the authoritarian hype – Reform and the hard right can be stopped in their tracks  Gordon Brown"
+              "title": "Opinion  What Ted Lasso, the Bhargava Gita and Derrida Can Teach Us About Ourselves"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-11.md",
+                "file": "journal/2025-10-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-11"
+              "title": "2025-10-12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -239,11 +241,14 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "05c6545f9c1ed73b",
+  "active": "790873a8a1d40418",
   "lastOpenFiles": [
-    "Clippings/‘It’s a question of humanity’ how a small Spanish town made headlines over its immigration stance.md",
     "journal/2025-10-11.md",
+    "journal/2025-10-12.md",
+    "yesterdays-files.md",
+    "Clippings/Opinion  What Ted Lasso, the Bhargava Gita and Derrida Can Teach Us About Ourselves.md",
     "Clippings/Don’t fall for the authoritarian hype – Reform and the hard right can be stopped in their tracks  Gordon Brown.md",
+    "Clippings/‘It’s a question of humanity’ how a small Spanish town made headlines over its immigration stance.md",
     "Clippings/The dawn of the post-literate society.md",
     "Clippings/Peter Thiel’s off-the-record antichrist lectures reveal more about him than Armageddon.md",
     "Clippings/In theory Mimetic desire.md",
@@ -264,9 +269,6 @@
     "Clippings/A New Movie About George Orwell and 1984 Has a Unique Way of Telling Its Story. It May Haunt You..md",
     "Clippings/Orwell 2+2=5.md",
     "Clippings/With One Damning Question, Ketanji Brown Jackson Defined the Supreme Court’s New Term.md",
-    "journal/2025-10-07.md",
-    "Clippings/Why does the supreme court keep bending the knee to Trump  Steven Greenhouse.md",
-    "Clippings/This Gmail trick will keep your messages and clear your storage.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
