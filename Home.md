@@ -1,12 +1,6 @@
 ---
 tags:
-  - type/structure
-  - structure/moc
-  - structure/index
-  - target/project
-  - target/github
-  - target/starterkit
-aliases: 
+aliases:
 created: 2023-11-21, 20:38
 modified: 2025-03-30, 16:03
 banner: "![[IMG_0319.png]]"
