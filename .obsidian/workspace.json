@@ -40,8 +40,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +225,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "8e5e11448cfabc38",
+  "active": "a9e0974c6b2e37ba",
   "lastOpenFiles": [
     "journal/2025-10-13.md",
     "Clippings/Scientists Completed a Toxicity Report on This Forever Chemical. The EPA Hasn’t Released It..md",
