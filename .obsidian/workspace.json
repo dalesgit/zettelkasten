@@ -35,12 +35,28 @@
             "id": "8e5e11448cfabc38",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Opinion  We Need to Think Straight About God and Politics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Opinion  We Need to Think Straight About God and Politics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,10 +241,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "a9e0974c6b2e37ba",
+  "active": "8e5e11448cfabc38",
   "lastOpenFiles": [
-    "Clippings/GitHub Will Prioritize Migrating to Azure Over Feature Development.md",
+    "Clippings/Opinion  We Need to Think Straight About God and Politics.md",
     "journal/2025-10-13.md",
+    "Clippings/GitHub Will Prioritize Migrating to Azure Over Feature Development.md",
     "Clippings/Scientists Completed a Toxicity Report on This Forever Chemical. The EPA Hasn’t Released It..md",
     "index.md",
     "Home.md",
@@ -252,7 +269,6 @@
     "Clippings/12 Contradictions In Life That Only Make Sense With Age.md",
     "journal/2025-10-08.md",
     "Clippings/Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says.md",
-    "Clippings/7 Main Streets Where Hawaii Comes Alive.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
