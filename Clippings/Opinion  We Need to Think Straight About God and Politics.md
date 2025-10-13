@@ -21,13 +21,13 @@ Some people are made nervous by this mingling of God talk with politics. They le
 
 I wonder how much such people know about American history. The founders believed that democracy could survive only if citizens could restrain their passions, be obedient to a shared moral order and point their lives toward virtue. They relied on religious institutions to do that moral formation. As John Adams put it, “Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.”
 
-Alexis de Tocqueville observed, “For the Americans, the idea of Christianity and liberty are so completely mingled that it is almost impossible to get them to conceive of one without the other.”
+Alexis de Tocqueville observed, “For the Americans, **the idea of Christianity and liberty are so completely mingled** that it is almost impossible to get them to conceive of one without the other.”
 
 I’d add only that a naked public square is a morally ignorant public square. American public debate was healthier and the conversation more profound when religious leaders like Reinhold Niebuhr, Abraham Joshua Heschel, Martin Luther King Jr. and Fulton Sheen brought their faith to bear on public questions. Today morality has been privatized and left up to the individual. The shared moral order is shredded, and many people, morally alone, have come to feel that their lives are meaningless.
 
 My friend Jonathan Rauch likes to remind people that he is a gay atheist Jew, but in his recent book “Cross Purposes: Christianity’s Broken Bargain With Democracy,” he argues that faith and politics do not exist independently of each other: “I came to realize that in American civic life, Christianity is a load-bearing wall. When it buckles, all the institutions around it come under stress, and some of them buckle, too.” A crisis within Christianity is a crisis for all Americans.
 
-He goes on to argue that far from being separate, spirituality and liberal democracy need and rely on each other. Human life revolves around four big questions: What is the meaning of life? What is the ultimate source of right and wrong? How can we reduce the amount of suffering and injustice in the world? How can we understand the world without resorting to magic, using reason and evidence instead?
+He goes on to argue that far from being separate, **spirituality and liberal democracy need and rely on each other**. Human life revolves around four big questions: What is the meaning of life? What is the ultimate source of right and wrong? How can we reduce the amount of suffering and injustice in the world? How can we understand the world without resorting to magic, using reason and evidence instead?
 
 Rauch argues that spiritualism (religion plus the other moral philosophies) helps us answer the first two questions and that secularism helps us answer the last two. He writes, “My claim is not just that secular liberalism and religious faith are instrumentally interdependent but that each is intrinsically reliant on the other to build a morally and epistemically complete and coherent account of the world.”
 
