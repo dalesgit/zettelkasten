@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c55aaeff4f410c64",
+        "id": "8a14edac1c50e6c8",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e0974c6b2e37ba",
+            "id": "75c6b4171379c04e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-13.md",
+                "file": "Preaching/Proper 12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-13"
+              "title": "Proper 12"
             }
           },
           {
-            "id": "8e5e11448cfabc38",
+            "id": "6c8342c1adb826f0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250628101730.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250628101730"
+            }
+          },
+          {
+            "id": "a62a2dba89b03510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Opinion  We Need to Think Straight About God and Politics.md",
+                "file": "archive/t_me.Telegram View Kyivpostofficial.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +64,39 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Opinion  We Need to Think Straight About God and Politics"
+              "title": "t_me.Telegram View Kyivpostofficial"
+            }
+          },
+          {
+            "id": "86f37e01a20ee8cd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.kyivpost.com/",
+                "title": "Get the Latest Ukraine News Today - Kyiv Post",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Get the Latest Ukraine News Today - Kyiv Post"
+            }
+          },
+          {
+            "id": "ee142ee81673e178",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://t.me/Kyivpost_official",
+                "title": "Telegram: View @Kyivpost_official",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Telegram: View @Kyivpost_official"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +115,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -109,12 +149,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -241,34 +281,38 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "8e5e11448cfabc38",
+  "active": "86f37e01a20ee8cd",
   "lastOpenFiles": [
-    "Clippings/Opinion  We Need to Think Straight About God and Politics.md",
+    "archive/t_me.Telegram View Kyivpostofficial.md",
+    "archive/www_tomshardware_com.How to transfer and share files over a network without a USB flash drive  and with just one line of code  Toms Hardware.md",
+    "archive/www_noemamag_com.Religious Architecture Is Vanishing - NOEMA.md",
+    "archive/Thunder in the Soul To Be Known by God - Abraham Joshua Heschel.md",
+    "inbox/current/After 47 years in the US, Ice took this Iranian mother from her yard. Her family just wants her home  US immigration  The Guardian.md",
+    "courts/How.md",
+    "history/The.md",
+    "inbox/personal/6 daily rituals scientists link to long-lasting marriages – VegOut.md",
+    "inbox/spiritual/baptism.md",
+    "Preaching/Helder Camara.md",
+    "Zach Lambert.md",
+    "Preaching/Tony Campalo story.md",
+    "assets/Pasted image 20250628101828.png",
+    "assets/Pasted image 20250628101730.png",
+    "pagelsMiraclesWonderHistorical2025.md",
+    "Preaching/feddeler funeral.md",
+    "Preaching/Copy of Copy of proper-12-draft-3-late.md",
+    "Preaching/20c - Closing.md",
+    "Preaching/proper-20c-outline.md",
+    "Preaching",
+    "On This Day.md",
+    "Preaching/Proper 12.md",
+    "Preaching/proper-12-draft-1.md",
+    "preaching",
     "journal/2025-10-13.md",
+    "Clippings/Opinion  We Need to Think Straight About God and Politics.md",
     "Clippings/GitHub Will Prioritize Migrating to Azure Over Feature Development.md",
     "Clippings/Scientists Completed a Toxicity Report on This Forever Chemical. The EPA Hasn’t Released It..md",
     "index.md",
     "Home.md",
-    "+Bob.md",
-    "Clippings/Opinion  What Ted Lasso, the Bhargava Gita and Derrida Can Teach Us About Ourselves.md",
-    "journal/2025-10-12.md",
-    "journal/2025-10-11.md",
-    "yesterdays-files.md",
-    "Clippings/Don’t fall for the authoritarian hype – Reform and the hard right can be stopped in their tracks  Gordon Brown.md",
-    "Clippings/‘It’s a question of humanity’ how a small Spanish town made headlines over its immigration stance.md",
-    "Clippings/The dawn of the post-literate society.md",
-    "Clippings/Peter Thiel’s off-the-record antichrist lectures reveal more about him than Armageddon.md",
-    "Clippings/In theory Mimetic desire.md",
-    "Clippings/René Girard - Wikipedia.md",
-    "journal/2025-10-10.md",
-    "Clippings/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
-    "Clippings/How ultrasound is ushering a new era of surgery-free cancer treatment.md",
-    "journal/2025-10-09.md",
-    "Clippings/The Novelist Who Knows What Millennials Want.md",
-    "Clippings/Jonathan Lear, Philosopher Who Embraced Freud, Dies at 76.md",
-    "Clippings/12 Contradictions In Life That Only Make Sense With Age.md",
-    "journal/2025-10-08.md",
-    "Clippings/Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says.md",
     "assets/Pasted image 20250930103231.png",
     "Storage",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
@@ -282,15 +326,11 @@
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
     "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3",
-    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm",
-    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm.part",
     "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-rRY5YXPl2U.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-3kEOQa0RsR.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-eDPHyZq9OM.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-XVZwnwhgzW.jpeg",
     "Untitled.canvas",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",

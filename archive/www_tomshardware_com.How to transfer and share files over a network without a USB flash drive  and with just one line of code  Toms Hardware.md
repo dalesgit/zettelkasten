@@ -1,3 +1,9 @@
+---
+tags:
+  - file-sharing
+  - server
+  - python
+---
 # [How to transfer and share files over a network without a USB flash drive — and with just one line of code | Tom's Hardware](https://www.tomshardware.com/software/how-to-transfer-and-share-files-over-a-network-without-a-usb-flash-drive-and-with-just-one-line-of-code)
 Transferring files is something that we take for granted thanks to super-cheap USB storage and fast network connections. Every single reader has had an occasion where they needed to transfer files, and I bet most of us have just reached for a USB flash drive (perhaps one of the [best flash drives](https://www.tomshardware.com/best-picks/best-flash-drives)).
 
