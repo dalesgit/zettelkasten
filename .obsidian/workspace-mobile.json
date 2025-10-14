@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7e71138c0cd4db6",
+        "id": "09cc4955b12c1b14",
         "type": "tabs",
         "children": [
           {
-            "id": "95c2bc2a7721aee6",
+            "id": "85e182b30be3f0d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trump effort to erase jan 6.md",
+                "file": "journal/2025-10-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trump effort to erase jan 6"
+              "title": "2025-10-14"
             }
           }
         ]
@@ -188,10 +188,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "95c2bc2a7721aee6",
+  "active": "85e182b30be3f0d9",
   "lastOpenFiles": [
-    "journal/2025-10-13.md",
+    "journal/2025-10-14.md",
     "Trump effort to erase jan 6.md",
+    "journal/2025-10-13.md",
     "journal/2025-10-12.md",
     "psalm-summer-25.md",
     "journal/2025-10-10.md",
