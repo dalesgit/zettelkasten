@@ -11,9 +11,24 @@
             "id": "2bb9c37a3ec5a627",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News"
             }
           }
         ]
@@ -202,6 +217,7 @@
   },
   "active": "2bb9c37a3ec5a627",
   "lastOpenFiles": [
+    "Clippings/Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News.md",
     "Preaching/Proper 12.md",
     "assets/Pasted image 20250628101730.png",
     "archive/t_me.Telegram View Kyivpostofficial.md",
