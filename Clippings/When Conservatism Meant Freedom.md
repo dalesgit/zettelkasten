@@ -10,6 +10,9 @@ tags:
   - freedom
   - politics
   - Thatcher
+  - Zweig
+  - suicide
+  - despair
 ---
 ![A photograph of Prime Minister Margaret Thatcher, bordered by an illustration](https://cdn.theatlantic.com/thumbor/ryu3I_OVG1X-qVCiMjo2oR_k8Qo=/294x0:985x691/80x80/media/img/mt/2025/10/2025_10_14_The_David_Frum_Show_EP28_Promo_1280x720_/original.jpg)
 
@@ -23,7 +26,7 @@ Then Frum is joined by Lord Charles Moore, the authorized biographer of Margaret
 
 In the book segment, Frum discusses Stefan Zweig’s *The World of Yesterday*, and reflects on exile, despair, and why holding on to hope, rather than despair, matters when history suddenly turns dark.
 
-*The following is a transcript of the episode:*
+*The following is a transcript of the episode:   *
 
 **David Frum:**  Hello and welcome back to *The David Frum Show*. I’m David Frum, a staff writer at *The Atlantic*. My guest this week will be Charles Moore, the authorized biographer of Margaret Thatcher, and we’ll be discussing the life of British Prime Minister Margaret Thatcher in this, her 100th-anniversary birthday month. At the end of the conversation, in the final segment of the show, I’ll discuss the book *The World of Yesterday* by the Austrian Jewish writer Stefan Zweig.
 
@@ -237,7 +240,7 @@ He has a vivid image of the passing of that world. By a strange coincidence, he 
 
 He is able to summon up the rise of fascism in a few telling details as well. And in those few telling details, he puts his finger on some of the enduring mysteries of the politics of fascism that we grapple with to this day. He notices how trucks will pull up in a village, and men will jump out and, with truncheons and other instruments of violence, attack people, jump back into the truck, and drive off. And he noticed with horror, he observed with horror, the incidents of violence. But he said, *Who had paid for the uniforms on these men?* This is before the Nazis have taken over either the German or the Austrian state. *Who paid for the uniforms? Who paid for the trucks? How did these men get so well drilled? How did they know to jump off the truck and jump back on again?* And those are, in microcosm, the questions that historians of fascism still grapple with, was: “What kind of movement was this? Who paid for it? What sources of social strength did it draw from?” And Zweig is able to conjure all this up in a line or two.
 
-The theme in the book that haunted me most, though, as I reread it after an interval of so many years, was the theme of despair. And this is the theme that may be relevant to those of you who are listening to me talk about it, who are thinking about returning or visiting this book for the first time. Zweig had reasons for despair. The world he had grown up in was destroyed. The liberalism and democracy he believed in were destroyed. He lost his beautiful home in Salzburg. He lost the collection of autographed manuscripts that he cherished, into which he poured so much of the wealth he’d earned from a successful career. His books could no longer be published in his native country, either in Germany or in Austria, in his native language. And he had suffered so many personal losses, friends and families consumed by the violence and hatred of Nazism. And so, in far-off Brazil, he took his life and let his second wife take her life alongside him.
+**The theme in the book that haunted me most, though, as I reread it after an interval of so many years, was the theme of despair. And this is the theme that may be relevant to those of you who are listening to me talk about it, who are thinking about returning or visiting this book for the first time. Zweig had reasons for despair. The world he had grown up in was destroyed.** The liberalism and democracy he believed in were destroyed. He lost his beautiful home in Salzburg. He lost the collection of autographed manuscripts that he cherished, into which he poured so much of the wealth he’d earned from a successful career. His books could no longer be published in his native country, either in Germany or in Austria, in his native language. And he had suffered so many personal losses, friends and families consumed by the violence and hatred of Nazism. And so, in far-off Brazil, he took his life and let his second wife take her life alongside him.
 
 But it occurred to me as I read this: If Zweig had just held on to his faith a little bit longer, Nazism was doomed. And although he would never get back the world of yesterday, he could have played an important part in building the role of tomorrow. He would’ve returned to Austria—he could have returned to Austria and been acclaimed. He would’ve discovered his works again published, his memories rediscovered, and the world that he tried to keep alive in memory would become a source of inspiration and strength to the new world, the new world of democracy and liberalism that was returning in the Europe he loved and to the German lands whose language he spoke.
 
