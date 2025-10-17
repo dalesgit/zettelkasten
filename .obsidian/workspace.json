@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12166060b9d7889a",
+        "id": "d7371aa7f24fde51",
         "type": "tabs",
         "children": [
           {
-            "id": "bbc5e9994f1540cd",
+            "id": "06b8e3e62f0dc252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-16.md",
+                "file": "journal/2025-10-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-16"
+              "title": "2025-10-17"
             }
           }
         ]
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +214,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "bbc5e9994f1540cd",
+  "active": "06b8e3e62f0dc252",
   "lastOpenFiles": [
-    "Clippings/When Conservatism Meant Freedom.md",
+    "millerCanticleLeibowitz2007.md",
+    "journal/2025-10-17.md",
     "journal/2025-10-16.md",
+    "Clippings/When Conservatism Meant Freedom.md",
     "Clippings/Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News 2.md",
     "Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News.md",
     "Clippings/Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News.md",
@@ -244,8 +245,6 @@
     "Preaching/20c - Closing.md",
     "Preaching/proper-20c-outline.md",
     "Preaching",
-    "On This Day.md",
-    "Preaching/proper-12-draft-1.md",
     "preaching",
     "assets/Pasted image 20250930103231.png",
     "Storage",
