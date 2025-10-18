@@ -30,7 +30,7 @@ tags:
 
 ## kitchen
 
-- coffee & filters
+- [ ] coffee & filters
 - wine & cork screw
 - snacks
 - cooling pack for mounjaro

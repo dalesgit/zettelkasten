@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "2025-10-18"
             }
-          },
-          {
-            "id": "2cf662ce761e27dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "packing/Naples-planning Oct 20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Naples-planning Oct 20"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:target/github",
+                "query": "naples",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -239,16 +215,17 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "2cf662ce761e27dc",
+  "active": "7f54ba459fe425f2",
   "lastOpenFiles": [
+    "packing/Naples-planning Oct 20.md",
+    "journal/2025-10-18.md",
+    "journal/2025-09-30.md",
+    "packing/Naples-planning-Sept-2025.md",
     "Clippings/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
     "pages/recipes-meal-planning.md",
     "Read-it-later.base",
-    "packing/Naples-planning Oct 20.md",
     "Untitled 1.base",
     "packing",
-    "journal/2025-10-18.md",
-    "Naples-planning.md",
     "pages/2025-fall-Packing-list.md",
     "journal/2025-10-17.md",
     "millerCanticleLeibowitz2007.md",
@@ -270,7 +247,6 @@
     "inbox/personal/6 daily rituals scientists link to long-lasting marriages – VegOut.md",
     "inbox/spiritual/baptism.md",
     "Preaching/Helder Camara.md",
-    "Zach Lambert.md",
     "assets/Pasted image 20250628101828.png",
     "Preaching",
     "preaching",
