@@ -5,7 +5,7 @@ tags:
 #travel 
 
 [[packing checklist]]
-- [x]  **Extra**
+- [ ]  **Extra**
 	- [x] Pagels book
 	- [x] gifts for Scott
 	- [x] check on delivery Wednesday
@@ -35,12 +35,13 @@ tags:
 	- [ ] bike stuff: stool, front bag, helmet, pump
 	- [ ] tablet, e-screen, acer, phone
 	- [ ] journal
+	- [ ] Gym bag with head phones
 
 - [ ] **kitchen**
 	- [ ] coffee & filters
 	- [ ] wine & cork screw
 	- [ ] oatmeal: seeds, flaxseed, nuts, cinnamon
-	- [x] snacks
+	- [ ] snacks
 	- [x] cooling pack for mounjaro
 	- [ ] cooling packs
 	- [ ] cheese sticks
@@ -49,3 +50,9 @@ tags:
 	- [ ] trail mix
 	- [ ] measuring cups/spoons
 	- [ ] plastic bags
+	- [ ] Red and white for Trish and Mac
+	- [ ] Scotch good
+	- [ ] Scotch crappy
+	- [ ] Gin 
+	- [ ] Bottle of wine
+	- [ ] 
