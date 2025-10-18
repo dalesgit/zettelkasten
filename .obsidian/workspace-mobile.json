@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-18.md",
+                "file": "ReadItLater Inbox/Bungee cords are an oddball hack for traveling – here are 10 clever ways to use them.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-18"
+              "title": "Bungee cords are an oddball hack for traveling – here are 10 clever ways to use them"
+            }
+          },
+          {
+            "id": "6013908fc829d416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/A prophetic 1933 novel has found a surprising second life – it holds lessons for us all  Charlotte Higgins.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A prophetic 1933 novel has found a surprising second life – it holds lessons for us all  Charlotte Higgins"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,9 +237,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "38a56edf87a63292",
+  "active": "6013908fc829d416",
   "lastOpenFiles": [
     "journal/2025-10-18.md",
+    "ReadItLater Inbox/A prophetic 1933 novel has found a surprising second life – it holds lessons for us all  Charlotte Higgins.md",
+    "ReadItLater Inbox/Bungee cords are an oddball hack for traveling – here are 10 clever ways to use them.md",
     "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
     "ReadItLater Inbox/Opinion  A Lesson From the German Resistance That Applies Today.md",
     "ReadItLater Inbox/I tried this calming seven-minute beginner&rsquo;s Tai Chi flow and I&rsquo;m going to do it whenever I feel stressed.md",
@@ -237,7 +264,6 @@
     "ReadItLater Inbox/4 Unforgettable Closing Songs From Standout Classic Rock Albums of the 70s.md",
     "ReadItLater Inbox/15,000 churches could close this year amid religious shift in U.S..md",
     "Clippings/A prayer for reconciliation  Friends of Silence.md",
-    "journal/2025-09-27.md",
-    "journal/2025-09-28.md"
+    "journal/2025-09-27.md"
   ]
 }

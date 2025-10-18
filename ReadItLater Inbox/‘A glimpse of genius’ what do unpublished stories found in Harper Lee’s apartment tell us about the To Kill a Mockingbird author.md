@@ -1,5 +1,7 @@
 ---
 tags:
+  - harper-lee
+  - writing
 ---
 [[ReadItLater]] [[Article]]
 
