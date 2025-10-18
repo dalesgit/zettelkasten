@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09cc4955b12c1b14",
+        "id": "2f130d3898c3efa2",
         "type": "tabs",
         "children": [
           {
-            "id": "85e182b30be3f0d9",
+            "id": "38a56edf87a63292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/Opinion  A Lesson From the German Resistance That Applies Today.md",
+                "file": "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Opinion  A Lesson From the German Resistance That Applies Today"
+              "title": "‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author"
+            }
+          },
+          {
+            "id": "a6796c30f91fbaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-10-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-18"
             }
           }
         ]
@@ -188,10 +212,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "85e182b30be3f0d9",
+  "active": "38a56edf87a63292",
   "lastOpenFiles": [
-    "ReadItLater Inbox/I tried this calming seven-minute beginner&rsquo;s Tai Chi flow and I&rsquo;m going to do it whenever I feel stressed.md",
+    "journal/2025-10-18.md",
+    "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
     "ReadItLater Inbox/Opinion  A Lesson From the German Resistance That Applies Today.md",
+    "ReadItLater Inbox/I tried this calming seven-minute beginner&rsquo;s Tai Chi flow and I&rsquo;m going to do it whenever I feel stressed.md",
     "journal/2025-10-14.md",
     "ReadItLater Inbox/6 reasons Syncthing is still the best peer-to-peer file sync tool.md",
     "Trump effort to erase jan 6.md",
