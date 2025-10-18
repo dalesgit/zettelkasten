@@ -4,38 +4,48 @@ tags:
 ---
 #travel 
 
-## extra
-- Pagels book
-- gifts for Scott
-- check on delivery Wednesday
-## clothes
+[[packing checklist]]
+- [x]  **Extra**
+	- [x] Pagels book
+	- [x] gifts for Scott
+	- [x] check on delivery Wednesday
+ - [ ] **clothes**
+	- [ ] slacks
+	- [ ] casual shorts (2)
+	- [ ] polo (2)
+	- [ ] aloha (2)
+	- [ ] lounge wear
+	- [ ] biking shoes
 
-- [ ] semi-formal
-- [ ] sleep
-- [ ] lounge
-- biking shoes
+ - [ ] **bathroom**
+	- [ ] Black bag
+	- [ ] water pic portable
+	- [ ] wipes
+	- [ ] toothbrush
+	- [x] shampoos
+	- [ ] cloth
+	- [ ] electric clipper
+	- [ ] Bathroom bag separate 
+		- [ ] first aid bag
+- [ ]  **tech**
+	- [ ] hearing aids & charger
+	- [ ] computer/tablet charger
+	- [ ] bedside cords
+	- [ ] splitter extension cord
+	- [ ] bike stuff: stool, front bag, helmet, pump
+	- [ ] tablet, e-screen, acer, phone
+	- [ ] journal
 
-## bathroom
-
-- [ ] cf. previous 
-
-## tech
-
-- [ ] hearing aids
-- [ ] which computer? charger
-- [ ] bedside cords
-- bike stuff: stool, front bag, helmet, pump
-- tablet, e-screen, acer, phone
-- journal
-
-## kitchen
-
-- [ ] coffee & filters
-- wine & cork screw
-- snacks
-- cooling pack for mounjaro
-- cooling pack for cooler
-- cheese sticks
-- hard-boiled eggs?
-- cheese
-- trail mix
+- [ ] **kitchen**
+	- [ ] coffee & filters
+	- [ ] wine & cork screw
+	- [ ] oatmeal: seeds, flaxseed, nuts, cinnamon
+	- [x] snacks
+	- [x] cooling pack for mounjaro
+	- [ ] cooling packs
+	- [ ] cheese sticks
+	- [ ] hard-boiled eggs?
+	- [ ] cheese
+	- [ ] trail mix
+	- [ ] measuring cups/spoons
+	- [ ] plastic bags
