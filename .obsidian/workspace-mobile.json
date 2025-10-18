@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c58c24737dabba72",
+        "id": "57e7da6c93c7a9a1",
         "type": "tabs",
         "children": [
           {
-            "id": "db8d626d96ba030b",
+            "id": "9f0870ef013ce2ea",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -173,8 +173,9 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "db8d626d96ba030b",
+  "active": "9f0870ef013ce2ea",
   "lastOpenFiles": [
+    "packing checklist.md",
     "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md",
     "journal/2025-10-18.md",
     "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
@@ -199,7 +200,6 @@
     "journal/2025-10-04.md",
     "ReadItLater Inbox/The 5 Most Populous European Cities During the Renaissance  TheCollector.md",
     "ReadItLater Inbox/4 Unforgettable Closing Songs From Standout Classic Rock Albums of the 70s.md",
-    "ReadItLater Inbox/15,000 churches could close this year amid religious shift in U.S..md",
-    "Clippings/A prayer for reconciliation  Friends of Silence.md"
+    "ReadItLater Inbox/15,000 churches could close this year amid religious shift in U.S..md"
   ]
 }
