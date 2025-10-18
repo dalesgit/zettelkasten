@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "packing/Naples-planning Oct 20.md",
+                "file": "packing checklist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Naples-planning Oct 20"
+              "title": "packing checklist"
             }
           }
         ]
@@ -60,8 +60,33 @@
               "icon": "lucide-file",
               "title": "packing checklist"
             }
+          },
+          {
+            "id": "583b15f04df29af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "packing/Naples-planning Oct 20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Naples-planning Oct 20"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,9 +273,9 @@
   },
   "active": "7f54ba459fe425f2",
   "lastOpenFiles": [
-    "journal/2025-10-18.md",
-    "packing checklist.md",
     "packing/Naples-planning Oct 20.md",
+    "packing checklist.md",
+    "journal/2025-10-18.md",
     "packing checklist 1.md",
     "packing-old/2025-fall-Packing-list.md",
     "packing-old/2025-fall-Packing-list-changed.md",
