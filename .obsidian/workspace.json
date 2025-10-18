@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/recipes-meal-planning.md",
+                "file": "packing/Naples-planning Oct 20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "recipes-meal-planning"
+              "title": "Naples-planning Oct 20"
             }
           }
         ],
@@ -201,8 +201,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -241,6 +241,8 @@
   },
   "active": "2cf662ce761e27dc",
   "lastOpenFiles": [
+    "Clippings/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
+    "pages/recipes-meal-planning.md",
     "Read-it-later.base",
     "packing/Naples-planning Oct 20.md",
     "Untitled 1.base",
@@ -269,7 +271,6 @@
     "inbox/spiritual/baptism.md",
     "Preaching/Helder Camara.md",
     "Zach Lambert.md",
-    "Preaching/Tony Campalo story.md",
     "assets/Pasted image 20250628101828.png",
     "Preaching",
     "preaching",

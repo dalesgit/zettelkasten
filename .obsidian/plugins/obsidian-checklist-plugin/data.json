@@ -11,6 +11,8 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "_collapsedSections": [
+    "notes/soups I like.md"
+  ],
   "_hiddenTags": []
 }
