@@ -23,7 +23,7 @@ tags:
 	- [ ] wipes
 	- [ ] toothbrush
 	- [x] shampoos
-	- [ ] cloth
+	- [ ] black cloth
 	- [ ] electric clipper
 	- [ ] Bathroom bag separate 
 		- [ ] first aid bag
