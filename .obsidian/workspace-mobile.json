@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "57e7da6c93c7a9a1",
+        "id": "8d8643ed5e9d2d6b",
         "type": "tabs",
         "children": [
           {
-            "id": "9f0870ef013ce2ea",
+            "id": "00e33387d13995c2",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "packing checklist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "packing checklist"
             }
           }
         ]
@@ -173,11 +188,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "9f0870ef013ce2ea",
+  "active": "00e33387d13995c2",
   "lastOpenFiles": [
+    "journal/2025-10-18.md",
+    "packing-old/Naples-planning-Sept-2025.md",
     "packing checklist.md",
     "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md",
-    "journal/2025-10-18.md",
     "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
     "ReadItLater Inbox/Bungee cords are an oddball hack for traveling – here are 10 clever ways to use them.md",
     "ReadItLater Inbox/A prophetic 1933 novel has found a surprising second life – it holds lessons for us all  Charlotte Higgins.md",
@@ -199,7 +215,6 @@
     "end of civilization novels.md",
     "journal/2025-10-04.md",
     "ReadItLater Inbox/The 5 Most Populous European Cities During the Renaissance  TheCollector.md",
-    "ReadItLater Inbox/4 Unforgettable Closing Songs From Standout Classic Rock Albums of the 70s.md",
-    "ReadItLater Inbox/15,000 churches could close this year amid religious shift in U.S..md"
+    "ReadItLater Inbox/4 Unforgettable Closing Songs From Standout Classic Rock Albums of the 70s.md"
   ]
 }

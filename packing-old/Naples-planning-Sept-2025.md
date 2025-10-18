@@ -4,10 +4,11 @@ tags:
 ---
 
 
-## extra
+- [ ] ## extra
 - Pagels book
 - gifts for Scott
 - check on delivery Wednesday
+- [ ] Strength chord
 ## clothes
 
 - [ ] semi-formal
