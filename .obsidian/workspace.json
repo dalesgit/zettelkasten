@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "packing checklist"
             }
-          },
-          {
-            "id": "4bd25366b3d7ba46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/6 Simple Tips to Free Up Space in Google Drive.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "6 Simple Tips to Free Up Space in Google Drive"
-            }
-          },
-          {
-            "id": "525506190c3180e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-10-19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-19"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "99b3a7bbd279881b",
@@ -92,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "packing checklist.md",
+                "file": "packing/Naples-planning Oct 20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,35 +58,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "packing checklist"
-            }
-          },
-          {
-            "id": "583b15f04df29af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Critical thinking is one of the most important aspects of being human, according to Stoicism. So why are we handing it over to a machine  Brigid Delaney.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Critical thinking is one of the most important aspects of being human, according to Stoicism. So why are we handing it over to a machine  Brigid Delaney"
+              "title": "Naples-planning Oct 20"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,14 +246,15 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "525506190c3180e5",
+  "active": "3a08ab5a529f0c89",
   "lastOpenFiles": [
-    "Clippings/6 Simple Tips to Free Up Space in Google Drive.md",
+    "packing checklist.md",
     "journal/2025-10-19.md",
     "Clippings/Critical thinking is one of the most important aspects of being human, according to Stoicism. So why are we handing it over to a machine  Brigid Delaney.md",
+    "Clippings/6 Simple Tips to Free Up Space in Google Drive.md",
+    "Clippings/‘Disorder, fright and confusion’ looking back at the devastating Wall Street crash of 1929.md",
     "Clippings/Techno-capitalists think innovation can save the planet. But that same thinking is what got us here.md",
     "packing/Naples-planning Oct 20.md",
-    "packing checklist.md",
     "journal/2025-10-18.md",
     "packing checklist 1.md",
     "packing-old/2025-fall-Packing-list.md",
@@ -352,7 +279,6 @@
     "Preaching/Proper 12.md",
     "assets/Pasted image 20250628101730.png",
     "archive/t_me.Telegram View Kyivpostofficial.md",
-    "archive/www_tomshardware_com.How to transfer and share files over a network without a USB flash drive  and with just one line of code  Toms Hardware.md",
     "assets/Pasted image 20250628101828.png",
     "Preaching",
     "preaching",
