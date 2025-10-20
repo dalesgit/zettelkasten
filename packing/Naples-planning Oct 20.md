@@ -16,6 +16,7 @@ tags:
 - [x] Pump
 - [x] Helmet 
 - [ ] Water bottle
+- [ ] Computer bag
 
 - [ ] **clothes**
 - [ ] slacks
@@ -35,8 +36,8 @@ tags:
 - [x] shampoos
 - [ ] black cloth
 - [ ] electric clipper
-- [ ] Bathroom **bag** separate 
-- [ ] Meds **bag**
+- [ ] Meds **bag** separate 
+- [x] Meds **bag**
 - [ ] first aid **bag**
 - [ ]  **tech**
 - [x] hearing aids & charger
