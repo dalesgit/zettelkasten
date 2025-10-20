@@ -1,13 +1,13 @@
 ---
-title: "Stop Using Docker and Try One of These 4 Alternatives Instead"
-source: "https://www.howtogeek.com/stop-using-docker-and-try-one-of-these-alternatives-instead/"
+title: Stop Using Docker and Try One of These 4 Alternatives Instead
+source: https://www.howtogeek.com/stop-using-docker-and-try-one-of-these-alternatives-instead/
 author:
   - "[[Patrick Campanale]]"
 published: 2025-10-19
 created: 2025-10-19
-description: "Don't put all your chips on Docker just yet."
+description: Don't put all your chips on Docker just yet.
 tags:
-  - "clippings"
+  - tech
 ---
 Are you looking for an alternative to Docker that’s fully open source and doesn’t have any vendor-lock in? Well, there are four tools that you can use which are completely free of Docker’s influence.
 
