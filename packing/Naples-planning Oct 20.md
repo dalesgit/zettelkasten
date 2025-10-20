@@ -16,16 +16,17 @@ tags:
 - [x] Pump
 - [x] Helmet 
 - [ ] Water bottle
-- [ ] Computer bag
+- [x] Computer bag
+- [ ] Meds (weekly)
 
 - [ ] **clothes**
 - [ ] slacks
-- [ ] casual shorts (2)
+- [x] casual shorts (2)
 - [ ] polo (2)
 - [ ] aloha (2)
-- [ ] lounge wear
-- [ ] Underwear 4
-- [ ] biking shoes
+- [x] lounge wear
+- [x] Underwear 4
+- [x] biking shoes
 - [ ] Belt
 
 - [ ] **bathroom**
