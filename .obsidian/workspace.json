@@ -60,8 +60,33 @@
               "icon": "lucide-file",
               "title": "Stop Using Docker and Try One of These 4 Alternatives Instead"
             }
+          },
+          {
+            "id": "74ebd9b5d2ed3194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/The Risk That Built America.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Risk That Built America"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,12 +271,13 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "3a08ab5a529f0c89",
+  "active": "74ebd9b5d2ed3194",
   "lastOpenFiles": [
-    "packing/Naples-planning Oct 20.md",
-    "Clippings/Stop Using Docker and Try One of These 4 Alternatives Instead.md",
-    "packing checklist.md",
     "journal/2025-10-19.md",
+    "Clippings/The Risk That Built America.md",
+    "Clippings/Stop Using Docker and Try One of These 4 Alternatives Instead.md",
+    "packing/Naples-planning Oct 20.md",
+    "packing checklist.md",
     "Clippings/Critical thinking is one of the most important aspects of being human, according to Stoicism. So why are we handing it over to a machine  Brigid Delaney.md",
     "Clippings/6 Simple Tips to Free Up Space in Google Drive.md",
     "Clippings/‘Disorder, fright and confusion’ looking back at the devastating Wall Street crash of 1929.md",
@@ -277,7 +303,6 @@
     "Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News.md",
     "Clippings/Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News.md",
     "Clippings/Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News 1.md",
-    "Preaching/Proper 12.md",
     "assets/Pasted image 20250628101730.png",
     "assets/Pasted image 20250628101828.png",
     "Preaching",
