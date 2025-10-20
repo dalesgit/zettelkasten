@@ -5,41 +5,56 @@ tags:
 #travel 
 
 [[packing checklist]]
+
 - [ ]  **Extra**
 - [x] Pagels book
 - [x] gifts for Scott
 - [x] check on delivery Wednesday
- - [ ] **clothes**
+- [ ] Bike stuff
+- [ ] Bike bag
+- [ ] Stool 
+- [ ] Pump
+- [ ] Helmet 
+
+- [ ] **clothes**
 - [ ] slacks
 - [ ] casual shorts (2)
 - [ ] polo (2)
 - [ ] aloha (2)
 - [ ] lounge wear
+- [ ] Underwear 4
 - [ ] biking shoes
+- [ ] Belt
 
- - [ ] **bathroom**
-- [ ] Black bag
+- [ ] **bathroom**
+- [ ] Black **bag**
 - [ ] water pic portable
 - [ ] wipes
 - [ ] toothbrush
 - [x] shampoos
 - [ ] black cloth
 - [ ] electric clipper
-- [ ] Bathroom bag separate 
-	- [ ] first aid bag
+- [ ] Bathroom **bag** separate 
+- [ ] Meds **bag**
+- [ ] first aid **bag**
 - [ ]  **tech**
 - [ ] hearing aids & charger
 - [ ] computer/tablet charger
 - [ ] bedside cords
+- [ ] Watch, hearing aids
 - [ ] splitter extension cord
-- [ ] bike stuff: stool, front bag, helmet, pump
 - [ ] tablet, e-screen, acer, phone
 - [ ] journal
 - [ ] Gym bag with head phones
+- [ ] New butts for USBC
+- [ ] Tablet
+- [ ] Acer
+- [ ] E reader
+- [ ] Phone holder
 
 - [ ] **kitchen**
 - [ ] coffee & filters
-- [ ] wine & cork screw
+- [x] wine & cork screw
 - [ ] oatmeal: seeds, flaxseed, nuts, cinnamon
 - [ ] snacks
 - [x] cooling pack for mounjaro
