@@ -15,31 +15,31 @@ tags:
 - [x] Stool 
 - [x] Pump
 - [x] Helmet 
-- [ ] Water bottle
+- [x] Water bottle
 - [x] Computer bag
-- [ ] Meds (weekly)
+- [x] Meds (weekly)
 
 - [ ] **clothes**
-- [ ] slacks
+- [x] slacks
 - [x] casual shorts (2)
-- [ ] polo (2)
-- [ ] aloha (2)
+- [x] polo (2)
+- [x] aloha (2)
 - [x] lounge wear
 - [x] Underwear 4
 - [x] biking shoes
-- [ ] Belt
+- [x] Belt
 
 - [ ] **bathroom**
-- [ ] Black **bag**
-- [ ] water pic portable
+- [x] Black **bag**
+- [x] water pic portable
 - [ ] wipes
-- [ ] toothbrush
+- [x] toothbrush
 - [x] shampoos
 - [ ] black cloth
-- [ ] electric clipper
-- [ ] Meds **bag** separate 
+- [x] electric clipper
+- [x] Meds **bag** separate 
 - [x] Meds **bag**
-- [ ] first aid **bag**
+- [x] first aid **bag**
 - [ ]  **tech**
 - [x] hearing aids & charger
 - [x] computer/tablet charger
@@ -48,11 +48,11 @@ tags:
 - [x] splitter extension cord
 - [x] tablet, e-screen, acer, phone
 - [x] journal
-- [ ] Gym bag with head phones
+- [x] Gym bag with head phones
 - [x] New butts for USBC
 - [x] Tablet
 - [x] Acer
-- [ ] E reader
+- [x] E reader
 - [x] Phone holder
 
 - [ ] **kitchen**
@@ -61,9 +61,9 @@ tags:
 - [x] oatmeal: seeds, flaxseed, nuts, cinnamon
 - [x] snacks
 - [x] cooling pack for mounjaro
-- [ ] cooling packs
+- [x] cooling packs
 - [x] cheese sticks
-- [ ] hard-boiled eggs?
+- [x] hard-boiled eggs?
 - [ ] cheese
 - [x] trail mix
 - [x] measuring cups/spoons
