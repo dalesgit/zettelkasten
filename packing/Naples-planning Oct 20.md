@@ -10,11 +10,12 @@ tags:
 - [x] Pagels book
 - [x] gifts for Scott
 - [x] check on delivery Wednesday
-- [ ] Bike stuff
-- [ ] Bike bag
-- [ ] Stool 
-- [ ] Pump
-- [ ] Helmet 
+- [x] Bike stuff
+- [x] Bike bag
+- [x] Stool 
+- [x] Pump
+- [x] Helmet 
+- [ ] Water bottle
 
 - [ ] **clothes**
 - [ ] slacks
@@ -38,36 +39,36 @@ tags:
 - [ ] Meds **bag**
 - [ ] first aid **bag**
 - [ ]  **tech**
-- [ ] hearing aids & charger
-- [ ] computer/tablet charger
-- [ ] bedside cords
-- [ ] Watch, hearing aids
-- [ ] splitter extension cord
-- [ ] tablet, e-screen, acer, phone
-- [ ] journal
+- [x] hearing aids & charger
+- [x] computer/tablet charger
+- [x] bedside cords
+- [x] Watch, hearing aids
+- [x] splitter extension cord
+- [x] tablet, e-screen, acer, phone
+- [x] journal
 - [ ] Gym bag with head phones
-- [ ] New butts for USBC
-- [ ] Tablet
-- [ ] Acer
+- [x] New butts for USBC
+- [x] Tablet
+- [x] Acer
 - [ ] E reader
-- [ ] Phone holder
+- [x] Phone holder
 
 - [ ] **kitchen**
-- [ ] coffee & filters
+- [x] coffee & filters
 - [x] wine & cork screw
-- [ ] oatmeal: seeds, flaxseed, nuts, cinnamon
-- [ ] snacks
+- [x] oatmeal: seeds, flaxseed, nuts, cinnamon
+- [x] snacks
 - [x] cooling pack for mounjaro
 - [ ] cooling packs
-- [ ] cheese sticks
+- [x] cheese sticks
 - [ ] hard-boiled eggs?
 - [ ] cheese
-- [ ] trail mix
-- [ ] measuring cups/spoons
+- [x] trail mix
+- [x] measuring cups/spoons
 - [ ] plastic bags
-- [ ] Red and white for Trish and Mac
-- [ ] Scotch good
-- [ ] Scotch crappy
-- [ ] Gin 
-- [ ] Bottle of wine
-- [ ] knife sharpener
+- [x] Red and white for Trish and Mac
+- [x] Scotch good
+- [x] Scotch crappy
+- [x] Gin 
+- [x] Bottle of wine
+- [x] knife sharpener
