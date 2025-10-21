@@ -13,36 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Zoë Wicomb, the South African-Scottish writer who told powerful stories about belonging.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zoë Wicomb, the South African-Scottish writer who told powerful stories about belonging"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f353c606d26d26d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "285cc3d16ecd54f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "journal/2025-10-21.md",
                 "mode": "source",
                 "source": false,
@@ -118,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -222,12 +191,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,35 +214,35 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "285cc3d16ecd54f4",
+  "active": "1e341c67077683fe",
   "lastOpenFiles": [
-    "notes-last-touched-today.md",
-    "journal/2025-10-21.md",
-    "notes-created-today.md",
-    "Clippings/Zoë Wicomb, the South African-Scottish writer who told powerful stories about belonging.md",
-    "Clippings/I linked my messy notes and built a universe of ideas in Obsidian — it all makes sense now.md",
-    "yesterdays-files.md",
-    "Clippings/I made Obsidian smarter with 3 simple plugins.md",
-    "Clippings/The Obsidian plugin that automates daily notes in under 60 seconds.md",
-    "journal/2025-10-04.md",
-    "ReadItLater Inbox/15,000 churches could close this year amid religious shift in U.S..md",
-    "ReadItLater Inbox/3 Folk Ballads That’ll Put a Tear in Your Eye and Pain in Your Heart.md",
-    "millerCanticleLeibowitz2007.md",
-    "spiritual director.md",
-    "stress.md",
-    "sample-reading.md",
-    "index.md",
-    "Untitled 1.base",
-    "Clippings/I’m still globetrotting at 76. New people and new places are what keep me alive.md",
-    "Clippings/Feel like your mind and body are separate Here’s how life changes when we become whole.md",
-    "Clippings/The Risk That Built America.md",
-    "Clippings/Stop Using Docker and Try One of These 4 Alternatives Instead.md",
-    "Clippings/6 Simple Tips to Free Up Space in Google Drive.md",
     "journal/2025-10-19.md",
-    "packing/Naples-planning Oct 20.md",
-    "packing checklist.md",
-    "Clippings/Critical thinking is one of the most important aspects of being human, according to Stoicism. So why are we handing it over to a machine  Brigid Delaney.md",
-    "Clippings/‘Disorder, fright and confusion’ looking back at the devastating Wall Street crash of 1929.md",
+    "journal/2025-10-18.md",
+    "journal/2025-10-17.md",
+    "journal/2025-10-16.md",
+    "journal/2025-10-14.md",
+    "journal/2025-10-13.md",
+    "journal/2025-10-12.md",
+    "journal/2025-10-11.md",
+    "journal/2025-10-10.md",
+    "journal/2025-10-09.md",
+    "journal/2025-10-08.md",
+    "journal/2025-10-07.md",
+    "journal/2025-10-06.md",
+    "journal/2025-10-05.md",
+    "journal/2025-10-04.md",
+    "journal/2025-10-03.md",
+    "journal/2025-10-02.md",
+    "journal/2025-09-30.md",
+    "journal/2025-09-29.md",
+    "journal/2025-09-28.md",
+    "journal/2025-09-27.md",
+    "journal/2025-09-26.md",
+    "journal/2025-09-25.md",
+    "journal/2025-09-24.md",
+    "journal/2025-09-22.md",
+    "journal/2025-09-20.md",
+    "Untitled 1.base",
     "packing-old",
     "Read-it-later.base",
     "packing",
