@@ -11,9 +11,24 @@
             "id": "c35f0840e0e39e57",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-10-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-21"
             }
           }
         ]
@@ -203,10 +218,11 @@
   },
   "active": "c35f0840e0e39e57",
   "lastOpenFiles": [
-    "United Health Care`.md",
-    "Pension Fund Insurance.md",
-    "assets/health-ae-retiree-annual-enrollment-website-instructions.pdf",
+    "Clippings/The Obsidian plugin that automates daily notes in under 60 seconds.md",
     "journal/2025-10-21.md",
+    "Pension Fund Insurance.md",
+    "United Health Care`.md",
+    "assets/health-ae-retiree-annual-enrollment-website-instructions.pdf",
     "MP.md",
     "Mary Pat.md",
     "journal/2025-10-19.md",
