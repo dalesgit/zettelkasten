@@ -7,9 +7,9 @@ published: 2025-10-20
 created: 2025-10-21
 description: When I was younger, I valued my body only for what it could do for me. A quick jog was enough to make me see where I’d been going wrong
 tags:
-  - health
-  - mind-body
-  - integration
+  - travel
+  - retirement
+  - joie-de-vivre
 ---
 ![Composite of a woman running.](https://i.guim.co.uk/img/media/3fee5d4a2d9b4fc3640bcfd7ca31cf25091c50f0/0_0_2953_2362/master/2953.jpg?width=1300&dpr=2&s=none&crop=none)
 

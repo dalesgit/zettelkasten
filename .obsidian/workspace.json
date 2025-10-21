@@ -4,94 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7371aa7f24fde51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7f54ba459fe425f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "packing checklist.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "packing checklist"
-            }
-          }
-        ]
-      },
-      {
         "id": "99b3a7bbd279881b",
         "type": "tabs",
         "children": [
-          {
-            "id": "3a08ab5a529f0c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Stop Using Docker and Try One of These 4 Alternatives Instead.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stop Using Docker and Try One of These 4 Alternatives Instead"
-            }
-          },
-          {
-            "id": "74ebd9b5d2ed3194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/The Risk That Built America.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Risk That Built America"
-            }
-          },
           {
             "id": "1e341c67077683fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Feel like your mind and body are separate Here’s how life changes when we become whole.md",
+                "file": "journal/2025-10-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,11 +28,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Feel like your mind and body are separate Here’s how life changes when we become whole"
+              "title": "2025-10-21"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "f353c606d26d26d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285cc3d16ecd54f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sample-reading.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sample-reading"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "naples",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -295,13 +245,20 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "1e341c67077683fe",
+  "active": "285cc3d16ecd54f4",
   "lastOpenFiles": [
-    "Clippings/6 Simple Tips to Free Up Space in Google Drive.md",
+    "stress.md",
+    "spiritual director.md",
+    "millerCanticleLeibowitz2007.md",
+    "index.md",
+    "Untitled 1.base",
+    "Clippings/I’m still globetrotting at 76. New people and new places are what keep me alive.md",
     "Clippings/Feel like your mind and body are separate Here’s how life changes when we become whole.md",
-    "journal/2025-10-19.md",
+    "journal/2025-10-21.md",
     "Clippings/The Risk That Built America.md",
     "Clippings/Stop Using Docker and Try One of These 4 Alternatives Instead.md",
+    "Clippings/6 Simple Tips to Free Up Space in Google Drive.md",
+    "journal/2025-10-19.md",
     "packing/Naples-planning Oct 20.md",
     "packing checklist.md",
     "Clippings/Critical thinking is one of the most important aspects of being human, according to Stoicism. So why are we handing it over to a machine  Brigid Delaney.md",
@@ -318,15 +275,8 @@
     "Clippings/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
     "pages/recipes-meal-planning.md",
     "Read-it-later.base",
-    "Untitled 1.base",
     "packing",
     "journal/2025-10-17.md",
-    "millerCanticleLeibowitz2007.md",
-    "journal/2025-10-16.md",
-    "Clippings/When Conservatism Meant Freedom.md",
-    "Clippings/Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News 2.md",
-    "Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News.md",
-    "Clippings/Judge dismisses activists' lawsuit against Trump, but concedes 'very real' climate harm  CBC News.md",
     "assets/Pasted image 20250628101730.png",
     "assets/Pasted image 20250628101828.png",
     "Preaching",
