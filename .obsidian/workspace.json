@@ -37,12 +37,26 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.cpg.org/services/mycpg",
-                "title": "Church Pension Group | TCSM",
+                "url": "https://www.cpg.org/redirects/annual-enrollment/retiree-resources/",
+                "title": "Church Pension Group | Retiree Resources",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Church Pension Group | TCSM"
+              "title": "Church Pension Group | Retiree Resources"
+            }
+          },
+          {
+            "id": "c5d853ee6d6085cf",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.cpg.org/globalassets/documents/publications/health-ae-retiree-annual-enrollment-website-instructions.pdf",
+                "title": "health-ae-retiree-annual-enrollment-website-instructions.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "health-ae-retiree-annual-enrollment-website-instructions.pdf"
             }
           },
           {
@@ -94,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -279,8 +293,9 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "87ddf382cd10eea6",
+  "active": "c5d853ee6d6085cf",
   "lastOpenFiles": [
+    "assets/health-ae-retiree-annual-enrollment-website-instructions.pdf",
     "Pension Fund Insurance.md",
     "journal/2025-10-21.md",
     "United Health Care`.md",
@@ -306,7 +321,6 @@
     "journal/2025-09-30.md",
     "journal/2025-09-29.md",
     "journal/2025-09-28.md",
-    "journal/2025-09-27.md",
     "Untitled 1.base",
     "packing-old",
     "Read-it-later.base",
