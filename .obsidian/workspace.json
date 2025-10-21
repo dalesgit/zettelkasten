@@ -4,111 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "99b3a7bbd279881b",
+        "id": "be07c691c0134c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "1e341c67077683fe",
+            "id": "c35f0840e0e39e57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pension Fund Insurance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pension Fund Insurance"
-            }
-          },
-          {
-            "id": "87ddf382cd10eea6",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.cpg.org/redirects/annual-enrollment/retiree-resources/",
-                "title": "Church Pension Group | Retiree Resources",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Church Pension Group | Retiree Resources"
-            }
-          },
-          {
-            "id": "c5d853ee6d6085cf",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.cpg.org/globalassets/documents/publications/health-ae-retiree-annual-enrollment-website-instructions.pdf",
-                "title": "health-ae-retiree-annual-enrollment-website-instructions.pdf",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "health-ae-retiree-annual-enrollment-website-instructions.pdf"
-            }
-          },
-          {
-            "id": "db555f46e9b07ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pension Fund Insurance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pension Fund Insurance"
-            }
-          },
-          {
-            "id": "3468dc939b6ad82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "United Health Care`.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "United Health Care`"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,12 +201,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "c5d853ee6d6085cf",
+  "active": "c35f0840e0e39e57",
   "lastOpenFiles": [
-    "assets/health-ae-retiree-annual-enrollment-website-instructions.pdf",
-    "Pension Fund Insurance.md",
-    "journal/2025-10-21.md",
     "United Health Care`.md",
+    "Pension Fund Insurance.md",
+    "assets/health-ae-retiree-annual-enrollment-website-instructions.pdf",
+    "journal/2025-10-21.md",
     "MP.md",
     "Mary Pat.md",
     "journal/2025-10-19.md",
@@ -337,7 +245,6 @@
     "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
     "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
-    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
     "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
