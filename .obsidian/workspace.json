@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sample-reading.md",
+                "file": "journal/2025-10-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sample-reading"
+              "title": "2025-10-04"
             }
           }
         ]
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -247,9 +248,12 @@
   },
   "active": "285cc3d16ecd54f4",
   "lastOpenFiles": [
-    "stress.md",
-    "spiritual director.md",
+    "ReadItLater Inbox/15,000 churches could close this year amid religious shift in U.S..md",
+    "ReadItLater Inbox/3 Folk Ballads That’ll Put a Tear in Your Eye and Pain in Your Heart.md",
     "millerCanticleLeibowitz2007.md",
+    "spiritual director.md",
+    "stress.md",
+    "sample-reading.md",
     "index.md",
     "Untitled 1.base",
     "Clippings/I’m still globetrotting at 76. New people and new places are what keep me alive.md",
@@ -272,11 +276,8 @@
     "yesterdays-files.md",
     "journal/2025-09-30.md",
     "packing-old/Naples-planning-Sept-2025.md",
-    "Clippings/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
-    "pages/recipes-meal-planning.md",
     "Read-it-later.base",
     "packing",
-    "journal/2025-10-17.md",
     "assets/Pasted image 20250628101730.png",
     "assets/Pasted image 20250628101828.png",
     "Preaching",
