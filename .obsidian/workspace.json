@@ -192,12 +192,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +215,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "c35f0840e0e39e57",
+  "active": "a48e19a949361ef4",
   "lastOpenFiles": [
     "MP.md",
     "journal/2025-10-21.md",
