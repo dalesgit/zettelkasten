@@ -13,6 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Clippings/Zoë Wicomb, the South African-Scottish writer who told powerful stories about belonging.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zoë Wicomb, the South African-Scottish writer who told powerful stories about belonging"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f353c606d26d26d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285cc3d16ecd54f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "journal/2025-10-21.md",
                 "mode": "source",
                 "source": false,
@@ -29,36 +59,6 @@
               },
               "icon": "lucide-file",
               "title": "2025-10-21"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f353c606d26d26d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "285cc3d16ecd54f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/I linked my messy notes and built a universe of ideas in Obsidian — it all makes sense now.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "I linked my messy notes and built a universe of ideas in Obsidian — it all makes sense now"
             }
           }
         ]
@@ -246,11 +246,14 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "1e341c67077683fe",
+  "active": "285cc3d16ecd54f4",
   "lastOpenFiles": [
-    "yesterdays-files.md",
+    "notes-last-touched-today.md",
     "journal/2025-10-21.md",
+    "notes-created-today.md",
+    "Clippings/Zoë Wicomb, the South African-Scottish writer who told powerful stories about belonging.md",
     "Clippings/I linked my messy notes and built a universe of ideas in Obsidian — it all makes sense now.md",
+    "yesterdays-files.md",
     "Clippings/I made Obsidian smarter with 3 simple plugins.md",
     "Clippings/The Obsidian plugin that automates daily notes in under 60 seconds.md",
     "journal/2025-10-04.md",
@@ -272,9 +275,6 @@
     "packing checklist.md",
     "Clippings/Critical thinking is one of the most important aspects of being human, according to Stoicism. So why are we handing it over to a machine  Brigid Delaney.md",
     "Clippings/‘Disorder, fright and confusion’ looking back at the devastating Wall Street crash of 1929.md",
-    "Clippings/Techno-capitalists think innovation can save the planet. But that same thinking is what got us here.md",
-    "journal/2025-10-18.md",
-    "packing checklist 1.md",
     "packing-old",
     "Read-it-later.base",
     "packing",
