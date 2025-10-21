@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-21.md",
+                "file": "Pension Fund Insurance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,73 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-21"
+              "title": "Pension Fund Insurance"
+            }
+          },
+          {
+            "id": "87ddf382cd10eea6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.cpg.org/services/mycpg",
+                "title": "Church Pension Group | TCSM",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Church Pension Group | TCSM"
+            }
+          },
+          {
+            "id": "db555f46e9b07ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pension Fund Insurance.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pension Fund Insurance"
+            }
+          },
+          {
+            "id": "3468dc939b6ad82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "United Health Care`.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "United Health Care`"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -195,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +279,13 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "1e341c67077683fe",
+  "active": "87ddf382cd10eea6",
   "lastOpenFiles": [
+    "Pension Fund Insurance.md",
+    "journal/2025-10-21.md",
+    "United Health Care`.md",
+    "MP.md",
+    "Mary Pat.md",
     "journal/2025-10-19.md",
     "journal/2025-10-18.md",
     "journal/2025-10-17.md",
@@ -237,11 +307,6 @@
     "journal/2025-09-29.md",
     "journal/2025-09-28.md",
     "journal/2025-09-27.md",
-    "journal/2025-09-26.md",
-    "journal/2025-09-25.md",
-    "journal/2025-09-24.md",
-    "journal/2025-09-22.md",
-    "journal/2025-09-20.md",
     "Untitled 1.base",
     "packing-old",
     "Read-it-later.base",

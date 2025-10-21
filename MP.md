@@ -1,6 +1,7 @@
 ---
 id: MP
-aliases: []
+aliases:
+  - Mary Pat
 tags: []
 ---
 
