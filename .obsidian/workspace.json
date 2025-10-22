@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-21.md",
+                "file": "journal/2025-10-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-21"
+              "title": "2025-10-22"
             }
           }
         ]
@@ -215,10 +215,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "a48e19a949361ef4",
+  "active": "c35f0840e0e39e57",
   "lastOpenFiles": [
-    "MP.md",
+    "Clippings/Here's How I Beautified Markdown Reading in the Terminal.md",
     "journal/2025-10-21.md",
+    "journal/2025-10-22.md",
+    "MP.md",
     "Mary Pat.md",
     "Clippings/The Obsidian plugin that automates daily notes in under 60 seconds.md",
     "Pension Fund Insurance.md",
@@ -242,8 +244,6 @@
     "journal/2025-10-03.md",
     "journal/2025-10-02.md",
     "journal/2025-09-30.md",
-    "journal/2025-09-29.md",
-    "journal/2025-09-28.md",
     "Untitled 1.base",
     "packing-old",
     "Read-it-later.base",
