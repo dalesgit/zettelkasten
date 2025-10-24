@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-23.md",
+                "file": "journal/2025-10-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-23"
+              "title": "2025-10-24"
             }
           }
         ]
@@ -217,8 +217,9 @@
   },
   "active": "c35f0840e0e39e57",
   "lastOpenFiles": [
-    "journal/2025-10-22.md",
     "journal/2025-10-23.md",
+    "journal/2025-10-24.md",
+    "journal/2025-10-22.md",
     "Clippings/Here's How I Beautified Markdown Reading in the Terminal.md",
     "journal/2025-10-21.md",
     "MP.md",
@@ -243,7 +244,6 @@
     "journal/2025-10-05.md",
     "journal/2025-10-04.md",
     "journal/2025-10-03.md",
-    "journal/2025-10-02.md",
     "Untitled 1.base",
     "packing-old",
     "Read-it-later.base",
