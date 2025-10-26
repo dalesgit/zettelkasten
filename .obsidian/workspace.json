@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Writing/poetry-10-21.md",
+                "file": "Poetry/Poetry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-10-21"
+              "title": "Poetry"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,19 +239,20 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "5a69238350bfdba9",
+  "active": "4869ac6123d248b0",
   "lastOpenFiles": [
-    "pages/Writing/poetry-10-24.md",
-    "pages/Poetry.md",
-    "pages/Writing/poetry-10-21.md",
-    "pages/202509050747.md",
+    "Poetry/Poetry.md",
     "journal/2025-10-25.md",
+    "Poetry/poetry-10-21.md",
+    "Poetry",
+    "Poetry/poetry-10-24.md",
+    "pages/202509050747.md",
     "notes-created-today.md",
     "yesterdays-files.md",
-    "pages/Writing/poetry-10-22.md",
+    "Poetry/poetry-10-22.md",
     "pages/Writing/10-22.md",
-    "pages/Writing/poetry-10-23.md",
-    "pages/Writing/Poetry-10-25.md",
+    "Poetry/poetry-10-23.md",
+    "Poetry/Poetry-10-25.md",
     "journal/2025-10-24.md",
     "Writing/poetry-10-24.md",
     "Writing",
@@ -269,7 +269,6 @@
     "journal/2025-10-19.md",
     "journal/2025-10-18.md",
     "journal/2025-10-17.md",
-    "journal/2025-10-16.md",
     "Untitled 1.base",
     "packing-old",
     "Read-it-later.base",
@@ -280,7 +279,6 @@
     "preaching",
     "assets/Pasted image 20250930103231.png",
     "Storage",
-    "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "sample-zotero.canvas",
     "sample-canvas.canvas",
     "assets/Pasted image 20250910094353.png",

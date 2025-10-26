@@ -7,5 +7,5 @@ longitude: -81.79331501
 altitude: 9.395
 ---
 ```dataview
-List FROM "pages/Writing" WHERE file.cday =  date(today) SORT file.ctime asc
+List FROM "Poetry" WHERE file.cday =  date(today) SORT file.ctime asc
 ```
