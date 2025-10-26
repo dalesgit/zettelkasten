@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8643ed5e9d2d6b",
+        "id": "f4271771932f1c17",
         "type": "tabs",
         "children": [
           {
-            "id": "00e33387d13995c2",
+            "id": "063387d481495596",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "packing checklist.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "packing checklist"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -188,10 +173,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "00e33387d13995c2",
+  "active": "063387d481495596",
   "lastOpenFiles": [
-    "packing/Naples-planning Oct 20.md",
+    "journal/2025-10-26.md",
+    "Untitled 1.canvas",
     "packing checklist.md",
+    "packing/Naples-planning Oct 20.md",
     "journal/2025-10-18.md",
     "packing-old/Naples-planning-Sept-2025.md",
     "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md",
@@ -214,7 +201,6 @@
     "ReadItLater Inbox/The 3 Catchiest Songs Ever Written, According to Science.md",
     "journal/2025-10-05.md",
     "end of civilization novels.md",
-    "journal/2025-10-04.md",
-    "ReadItLater Inbox/The 5 Most Populous European Cities During the Renaissance  TheCollector.md"
+    "journal/2025-10-04.md"
   ]
 }
