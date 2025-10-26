@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-25.md",
+                "file": "journal/2025-10-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-25"
+              "title": "2025-10-26"
             }
           },
           {
@@ -241,8 +241,9 @@
   },
   "active": "4869ac6123d248b0",
   "lastOpenFiles": [
-    "Poetry/Poetry.md",
     "journal/2025-10-25.md",
+    "journal/2025-10-26.md",
+    "Poetry/Poetry.md",
     "Poetry/poetry-10-21.md",
     "Poetry",
     "Poetry/poetry-10-24.md",
