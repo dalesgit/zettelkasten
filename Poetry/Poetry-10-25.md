@@ -1,3 +1,9 @@
+---
+id: Poetry-10-25
+aliases: []
+tags: []
+---
+
 **Kiss**
 
 kiss kiss kiss sang the 12 steps\
@@ -9,7 +15,7 @@ Ockham's ancient offering to rationality.\
 
 No assurance the simple way is the easy way.\
 Yurt\
-Encyclopedic of Unknowing
+Cloud of Unknowing
 
 cycle from birth to death\
 a circle -- simple\
