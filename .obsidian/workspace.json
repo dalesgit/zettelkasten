@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-26.md",
+                "file": "journal/2025-10-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-26"
-            }
-          },
-          {
-            "id": "af11573131fa8de3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poetry/Poetry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Poetry"
+              "title": "2025-10-27"
             }
           }
         ]
@@ -241,10 +217,11 @@
   },
   "active": "4869ac6123d248b0",
   "lastOpenFiles": [
-    "Clippings/MPRL  The Globalization of Knowledge in History  The Creation of Second-Order Knowledge in Ancient Greek Science as a Process in the Globalization of Knowledge.md",
-    "journal/2025-10-25.md",
-    "journal/2025-10-26.md",
     "Poetry/Poetry.md",
+    "journal/2025-10-27.md",
+    "Clippings/MPRL  The Globalization of Knowledge in History  The Creation of Second-Order Knowledge in Ancient Greek Science as a Process in the Globalization of Knowledge.md",
+    "journal/2025-10-26.md",
+    "journal/2025-10-25.md",
     "Poetry/poetry-10-21.md",
     "Poetry",
     "Poetry/poetry-10-24.md",
@@ -269,7 +246,6 @@
     "United Health Care`.md",
     "assets/health-ae-retiree-annual-enrollment-website-instructions.pdf",
     "journal/2025-10-19.md",
-    "journal/2025-10-18.md",
     "Untitled 1.base",
     "packing-old",
     "Read-it-later.base",
