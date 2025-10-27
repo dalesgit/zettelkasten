@@ -32,7 +32,7 @@ Ancient Greece understood a hierarchy of knowledge:\
 - mathematics
 - wisdom
 
-To know [What we do not know](https://iep.utm.edu/ancient-greek-philosophy/)\
+To know [what we do not know](https://iep.utm.edu/ancient-greek-philosophy/)\
 Is a lost art\
 Can you imagine?\
 Should our leaders have **wisdom**?\
