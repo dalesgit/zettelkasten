@@ -23,7 +23,7 @@
  - [Copy of proper-12-draft-3-early.md](./Copy of proper-12-draft-3-early.md)
  - [Dialogue within the fractured American society.md](./Dialogue within the fractured American society.md)
  - [Forum Obsidian.md](./Forum Obsidian.md)
- - [Foucauld.md](./Foucauld.md)
+  - [Foucauld.md](./Foucauld.md)
  - [Genesis 18.20-32.md](./Genesis 18.20-32.md)
  - [God-talk.md](./God-talk.md)
  - [Helder Camara.md](./Helder Camara.md)
