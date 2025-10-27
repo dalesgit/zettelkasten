@@ -1,3 +1,9 @@
+---
+id: Inbox
+aliases: []
+tags: []
+---
+
 [[preaching]]
 
 [[Post - Luhmann vs Digital Zettelkasten]]
