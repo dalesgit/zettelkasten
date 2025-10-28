@@ -29,7 +29,42 @@ tags: []
 ### Caribbean 
 - (St. Martin)
 ### South America cruise
-
+- Sail from Fort Lauderdale, Florida, US
+- Puerto Limon (San Jose), Costa Rica
+- Enter Panama Canal Cristobal
+- Fuerte Amador, Panama
+- Manta, Ecuador
+- Callao (Lima), Peru
+- General San Martin (Pisco), Peru
+- Coquimbo (La Serena), Chile
+- San Antonio (Santiago), Chile
+- Isla Robinson Crusoe, Chile
+- Puerto Montt, Chile
+- Punta Arenas, Chile
+- Ushuaia, Argentina
+- Antarctic Experience
+- Puerto Madryn, Argentina
+- Punta del Este, Uruguay
+- Montevideo, Uruguay
+- Buenos Aires, Argentina
+- Santos (Sao Paulo), Brazil
+- Rio de Janeiro, Brazil
+- Rio de Janeiro, Brazil
+- Salvador da Bahia, Brazil
+- Recife, Brazil
+- Fortaleza, Brazil
+- Icoaraci (Belem), Brazil
+- Santarem, Brazil
+- Boca da Valeria, Brazil
+- Manaus, Brazil
+- Parintins, Brazil
+- Alter Do Chao, Brazil
+- Devils Island, French Guiana
+- Bridgetown, Barbados
+- Roseau, Dominica
+- San Juan, Puerto Rico
+- Half Moon Cay, Bahamas
+- Debark Ship Fort Lauderdale, Florida, US
 ### Baltic cruise
 ### South Pacific cruise
 
