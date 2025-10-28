@@ -66,6 +66,7 @@ tags: []
 - Half Moon Cay, Bahamas
 - Debark Ship Fort Lauderdale, Florida, US
 ### Baltic cruise
+![[2023-baltic-cruise.png]]
 ### South Pacific cruise
 
 - DAY 1 - AUCKLAND, NEW ZEALAND
