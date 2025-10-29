@@ -20,4 +20,4 @@ Michelangelo's touch has been bred out of us:
 - algorithms for power and control
 - opinion replaces gnosis
 
-Who am I? Where am **I?**
+Who am I? Where am I?
