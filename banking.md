@@ -1,10 +1,12 @@
 ---
-date: '2022-12-15T15:44:38.000Z'
-title: banking-info
+id: banking
+aliases: []
 tags:
   - security
   - finance
   - banking
+date: 2022-12-15T15:44:38.000Z
+title: banking-info
 ---
 
 ## added june 25
@@ -14,6 +16,14 @@ mph2South$ [South State]
 mpshoe  
 mph2CitiCosco% [Citibank Visa]  
 
+Chrome on Acer is set up to accept her login. 10/29/25
+
+(from Gdrive)
+~~hathashoe~~
+~~mbh2SouthState~~
+
+hathashoe2 (5/2025)
+dch2Southstate!
 
 ## Citibank (Costco)
 
@@ -46,6 +56,8 @@ mpshoe
 ~mph2dch2019 (10/6/19)~
 ~password: gini29~
 ~as of Jan 2020 mph2AmericanExpress~
+
+
 
 Look for icon to click indicating "download"  
 
