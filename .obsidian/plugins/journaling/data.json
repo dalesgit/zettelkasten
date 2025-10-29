@@ -1,6 +1,6 @@
 {
   "dateFormat": "YYYY-MM-DD",
-  "paths": "journal",
+  "paths": "journal,",
   "fileName": "Journaling.md",
   "filterValue": "new",
   "updateInterval": 15
