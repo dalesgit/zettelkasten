@@ -1,13 +1,19 @@
 ---
 id: vim-delete-double-lines
 aliases: []
-tags: []
+tags:
+  - vim
 ---
+## blank lines to single blank lines
 To replace double blank lines with single blank lines in Vim, the following command can be used:
 Code
 
+```
 :%s/\n\n\n\+/\r\r/g
+```
+
 Here's a breakdown of the command:
+
 :%s: This initiates a substitute command across the entire file (%).
 /\n\n\n\+/: This is the search pattern.
 \n: Represents a newline character.
@@ -20,7 +26,10 @@ Alternative for replacing multiple empty lines with a single empty line:
 If the goal is to replace any number of consecutive empty lines with just one empty line, the following command can be used:
 Code
 
+```
 :%s/^\s*$\n^\s*$/\r/
+```
+
 ^\s*
 $\n^\s*$
 \n\+: This searches for:
@@ -28,5 +37,16 @@ $\n^\s*$
 \n: A newline character.
 ^\s*$: Another empty line.
 \n\+: One or more additional newline characters (to catch sequences of more than two empty lines).
-\r: This replaces the matched pattern with a single newline, effectively reducing multiple empty lines to one.
+\r: This replaces the matched pattern with a single newline, effectively reducing multiple empty lggjjjjjjjjkggines to one.
 Choose the command that best fits the specific pattern of "double lines" you are trying to replace.
+
+## single line to double lines
+To convert single line spacing to double line spacing in Vim, use the command 
+
+```
+:%s/^$/\\r/g
+```
+
+in command mode.
+ This command replaces every single blank line (matched by ^$) with a carriage return (\\r), effectively creating double spacing between lines.
+ After executing this command, save and exit the file as usual to retain the changes.
