@@ -11,6 +11,10 @@ title: banking-info
 
 ## added june 25
 
+## South State
+
+https://www.southstatebank.com/personal
+
 mph2South$ [South State]
 
 mpshoe  
