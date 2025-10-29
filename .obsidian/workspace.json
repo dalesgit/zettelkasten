@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travels of DH & MPH.md",
+                "file": "journal/2025-10-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Travels of DH & MPH"
+              "title": "2025-10-29"
             }
           }
         ]
@@ -217,6 +217,7 @@
   },
   "active": "59d4ed739d10764b",
   "lastOpenFiles": [
+    "Travels of DH & MPH.md",
     "Travels of DH & MPH.md~",
     "pages/south-america-cruise.md~",
     "journal/2025-10-28.md~",
@@ -224,7 +225,6 @@
     "pages/vim-delete-double-lines.md",
     "pages/south-america-cruise.md",
     "journal/2025-10-28.md",
-    "Travels of DH & MPH.md",
     "Poetry/poetry-10-27.md",
     "journal/2025-10-27.md",
     "templates/Daily-note-plain.md",
@@ -241,7 +241,6 @@
     "journal/2025-10-26.md",
     "journal/2025-10-25.md",
     "Poetry/poetry-10-21.md",
-    "Poetry",
     "Poetry/poetry-10-24.md",
     "pages/202509050747.md",
     "notes-created-today.md",
