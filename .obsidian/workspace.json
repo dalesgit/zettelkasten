@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travels of DH & MPH.md",
+                "file": "journal/2025-10-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Travels of DH & MPH"
+              "title": "2025-10-30"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -218,6 +217,7 @@
   },
   "active": "d01c6325cf79c1ab",
   "lastOpenFiles": [
+    "Travels of DH & MPH.md",
     "journal/Journaling.md",
     "Journaling.md",
     "journal/2025-10-29.md",
@@ -226,7 +226,6 @@
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "The man behind Trump's for dictatorship.md",
     "journal/2025-09-27.md",
-    "Travels of DH & MPH.md",
     "Travels of DH & MPH.md~",
     "pages/south-america-cruise.md~",
     "journal/2025-10-28.md~",
