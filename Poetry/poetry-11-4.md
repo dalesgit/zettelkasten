@@ -20,8 +20,5 @@ brass candlestick in hand
 I hold creation itself in hand
 a brief unmeasurable moment
 of awareness
-/קראטוןםפ
-שדגכ לדלגחעיחלךף
-זסבהנמצתץץ
-ךךדחגך
-?חלדך
+ירשא
+blessed happiness.
