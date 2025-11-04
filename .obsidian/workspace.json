@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec105407495a7308",
+        "id": "dc793318e2547fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "d01c6325cf79c1ab",
+            "id": "0e363ad36a6c4986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-30.md",
+                "file": "journal/2025-09-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-30"
+              "title": "2025-09-28"
             }
           }
         ]
@@ -215,10 +215,19 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "d01c6325cf79c1ab",
+  "active": "0e363ad36a6c4986",
   "lastOpenFiles": [
-    "Travels of DH & MPH.md",
     "journal/Journaling.md",
+    "packing-old/Naples-planning-Sept-2025.md",
+    "MP.md",
+    "journal/2025-11-04.md",
+    "journal/2025-11-03.md",
+    "ReadItLater Inbox/These 4 Google Keep features will help you build perfect grocery lists.md",
+    "ReadItLater Inbox/These fzf tricks will transform how you use the Linux terminal.md",
+    "ReadItLater Inbox/Opinion  Bernie Sanders ‘There Ain’t Much of a Democratic Party’.md",
+    "ReadItLater Inbox/Opinion  These Israeli Dissidents Can Show Americans How to Be a Good Citizen of a Bad Country.md",
+    "journal/2025-10-30.md",
+    "Travels of DH & MPH.md",
     "Journaling.md",
     "journal/2025-10-29.md",
     "journal/2025-09-28.md",
@@ -244,15 +253,6 @@
     "home/dale/Repositories",
     "home/dale",
     "Poetry/Poetry.md",
-    "Clippings/MPRL  The Globalization of Knowledge in History  The Creation of Second-Order Knowledge in Ancient Greek Science as a Process in the Globalization of Knowledge.md",
-    "journal/2025-10-26.md",
-    "journal/2025-10-25.md",
-    "Poetry/poetry-10-21.md",
-    "Poetry/poetry-10-24.md",
-    "pages/202509050747.md",
-    "notes-created-today.md",
-    "yesterdays-files.md",
-    "Poetry/poetry-10-22.md",
     "assets/Pasted image 20250628101730.png",
     "assets/Pasted image 20250628101828.png",
     "assets/Pasted image 20250930103231.png",
