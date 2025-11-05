@@ -11,9 +11,48 @@
             "id": "673847d3abceec99",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/poetry-11-3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "poetry-11-3"
+            }
+          },
+          {
+            "id": "66e699f755705d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-11-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-03"
             }
           }
         ]
@@ -203,14 +242,17 @@
   },
   "active": "673847d3abceec99",
   "lastOpenFiles": [
-    "pages/gun-policy.md",
+    "journal/2025-11-03.md",
     "journal/2025-11-04.md",
+    "journal/2025-11-05.md",
+    "Poetry/poetry-11-3.md",
+    "Poetry/Poetry.md",
+    "pages/gun-policy.md",
     "Clippings/8 essential shell functions to improve your Linux command line.md",
     "journal/2025-09-28.md",
     "journal/Journaling.md",
     "packing-old/Naples-planning-Sept-2025.md",
     "MP.md",
-    "journal/2025-11-03.md",
     "ReadItLater Inbox/These 4 Google Keep features will help you build perfect grocery lists.md",
     "ReadItLater Inbox/These fzf tricks will transform how you use the Linux terminal.md",
     "ReadItLater Inbox/Opinion  Bernie Sanders ‘There Ain’t Much of a Democratic Party’.md",
@@ -231,9 +273,6 @@
     "pages/south-america-cruise.md",
     "journal/2025-10-28.md",
     "Poetry/poetry-10-27.md",
-    "journal/2025-10-27.md",
-    "templates/Daily-note-plain.md",
-    "templates/Daily note template 1.md",
     "assets/edited-2026 GMA enrollment form.pdf",
     "home/dale/Repositories/zettelkasten/assets",
     "home/dale/Repositories/zettelkasten",
