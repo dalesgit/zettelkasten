@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-28.md",
+                "file": "pages/gun-policy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-28"
+              "title": "gun-policy"
             }
           }
         ]
@@ -217,11 +217,12 @@
   },
   "active": "0e363ad36a6c4986",
   "lastOpenFiles": [
+    "journal/2025-11-04.md",
     "Clippings/8 essential shell functions to improve your Linux command line.md",
+    "journal/2025-09-28.md",
     "journal/Journaling.md",
     "packing-old/Naples-planning-Sept-2025.md",
     "MP.md",
-    "journal/2025-11-04.md",
     "journal/2025-11-03.md",
     "ReadItLater Inbox/These 4 Google Keep features will help you build perfect grocery lists.md",
     "ReadItLater Inbox/These fzf tricks will transform how you use the Linux terminal.md",
@@ -231,7 +232,6 @@
     "Travels of DH & MPH.md",
     "Journaling.md",
     "journal/2025-10-29.md",
-    "journal/2025-09-28.md",
     "journal/2025-09-29.md",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "The man behind Trump's for dictatorship.md",

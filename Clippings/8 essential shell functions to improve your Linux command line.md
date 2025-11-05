@@ -1,13 +1,15 @@
 ---
-title: "8 essential shell functions to improve your Linux command line"
-source: "https://www.howtogeek.com/essential-shell-functions-to-improve-your-linux-command-line/"
+title: 8 essential shell functions to improve your Linux command line
+source: https://www.howtogeek.com/essential-shell-functions-to-improve-your-linux-command-line/
 author:
   - "[[Bobby Jack]]"
 published: 2025-11-04
 created: 2025-11-04
-description: "There’s a function for everyone."
+description: There’s a function for everyone.
 tags:
-  - "clippings"
+  - tech
+  - shell
+  - commands
 ---
 Once you’ve gained a solid understanding of Linux and mastered the various commands available, your next big win comes in the form of shell functions. Code wrapped in a function can be reused by your shell scripts, but you can also make it available on your command line, just like you’d use any program, built-in command, or alias.
 
