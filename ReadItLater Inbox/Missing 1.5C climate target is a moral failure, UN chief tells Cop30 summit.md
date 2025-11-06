@@ -1,6 +1,7 @@
 ---
 tags:
   - environment
+  - moral-failure
 ---
 [[ReadItLater]] [[Article]]
 

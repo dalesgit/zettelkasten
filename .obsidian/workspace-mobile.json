@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aced2563a4ae0a8b",
+            "id": "d98584bae66a3820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/Missing 1.5C climate target is a moral failure, UN chief tells Cop30 summit.md",
+                "file": "ReadItLater Inbox/The food stamp fight signals an era of unprecedented cruelty in America  Katrina vanden Heuvel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Missing 1.5C climate target is a moral failure, UN chief tells Cop30 summit"
+              "title": "The food stamp fight signals an era of unprecedented cruelty in America  Katrina vanden Heuvel"
             }
           },
           {
-            "id": "d98584bae66a3820",
+            "id": "7c970426792a7078",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,7 +55,8 @@
               "title": "2025-11-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,9 +213,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "aced2563a4ae0a8b",
+  "active": "7c970426792a7078",
   "lastOpenFiles": [
+    "ReadItLater Inbox/The food stamp fight signals an era of unprecedented cruelty in America  Katrina vanden Heuvel.md",
     "journal/2025-11-06.md",
+    "ReadItLater Inbox/Workers decry Trump officials as ‘out of control’ as longest shutdown drags on.md",
+    "ReadItLater Inbox/Europeans recognize Zohran Mamdani’s supposedly radical policies as ‘normal’.md",
     "ReadItLater Inbox/Missing 1.5C climate target is a moral failure, UN chief tells Cop30 summit.md",
     "ReadItLater Inbox/Opinion  Did Women Ruin the Workplace.md",
     "Things I know experientially.md",
@@ -237,9 +241,6 @@
     "ReadItLater Inbox/A prophetic 1933 novel has found a surprising second life – it holds lessons for us all  Charlotte Higgins.md",
     "ReadItLater Inbox/Opinion  A Lesson From the German Resistance That Applies Today.md",
     "ReadItLater Inbox/I tried this calming seven-minute beginner&rsquo;s Tai Chi flow and I&rsquo;m going to do it whenever I feel stressed.md",
-    "journal/2025-10-14.md",
-    "ReadItLater Inbox/6 reasons Syncthing is still the best peer-to-peer file sync tool.md",
-    "Trump effort to erase jan 6.md",
-    "journal/2025-10-13.md"
+    "journal/2025-10-14.md"
   ]
 }
