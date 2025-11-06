@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a28e8d8cd300da3",
+        "id": "b4de8bb27b9c9e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "673847d3abceec99",
+            "id": "fcd1257b533db6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-11-3.md",
+                "file": "pages/Is_our_democracy_on_the_verge_of_committing_suicide__The_Hill.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-11-3"
-            }
-          },
-          {
-            "id": "66e699f755705d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-11-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-03"
+              "title": "Is_our_democracy_on_the_verge_of_committing_suicide__The_Hill"
             }
           }
         ]
@@ -112,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -240,17 +215,18 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "673847d3abceec99",
+  "active": "fcd1257b533db6e7",
   "lastOpenFiles": [
+    "journal/Journaling.md",
+    "journal/2025-11-06.md",
     "journal/2025-11-03.md",
+    "Poetry/poetry-11-3.md",
     "journal/2025-11-04.md",
     "journal/2025-11-05.md",
-    "Poetry/poetry-11-3.md",
     "Poetry/Poetry.md",
     "pages/gun-policy.md",
     "Clippings/8 essential shell functions to improve your Linux command line.md",
     "journal/2025-09-28.md",
-    "journal/Journaling.md",
     "packing-old/Naples-planning-Sept-2025.md",
     "MP.md",
     "ReadItLater Inbox/These 4 Google Keep features will help you build perfect grocery lists.md",
@@ -272,7 +248,6 @@
     "pages/vim-delete-double-lines.md",
     "pages/south-america-cruise.md",
     "journal/2025-10-28.md",
-    "Poetry/poetry-10-27.md",
     "assets/edited-2026 GMA enrollment form.pdf",
     "home/dale/Repositories/zettelkasten/assets",
     "home/dale/Repositories/zettelkasten",
