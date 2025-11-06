@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e932aeac4aacccd5",
+        "id": "11f679d2c5e4c475",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a15b2ec70c05ed",
+            "id": "722480752339605c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-11-05.md",
+                "file": "Things I know experientially.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-05"
+              "title": "Things I know experientially"
             }
           }
         ]
@@ -188,8 +188,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "a9a15b2ec70c05ed",
+  "active": "722480752339605c",
   "lastOpenFiles": [
+    "ReadItLater Inbox/Is Waking Up to Pee Normal.md",
+    "journal/2025-11-06.md",
+    "journal/2025-11-05.md",
     "journal/2025-11-03.md",
     "pages/Mission for an Evolutionary Christianity  Center for Christogenesis.md",
     "journal/2025-11-02.md",
@@ -213,9 +216,6 @@
     "journal/2025-10-13.md",
     "journal/2025-10-12.md",
     "psalm-summer-25.md",
-    "journal/2025-10-10.md",
-    "ReadItLater Inbox/He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US.md",
-    "journal/2025-10-07.md",
-    "ReadItLater Inbox/Beef Barley Soup.md"
+    "journal/2025-10-10.md"
   ]
 }

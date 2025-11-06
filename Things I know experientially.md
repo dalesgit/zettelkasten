@@ -13,6 +13,8 @@ tags: []
 
 - Paradox
 - Knowledge is indirectly communicated
-- Stories … God loves Stories
+- Stories … God loves Stories. All stories are true. Some actually happened. 
 - Only things worthwhile are valuable only insofar as they are given away 
 - Non-dualism: "2 kinds of people: those who divide into 2 kinds of people and those who don't."
+- Everybody thinks they are right
+- All of us only have today, 24 hours, 1440 minutes. Before or after is gone or not here. The issue is only what we do with these 1440 minutes. 
