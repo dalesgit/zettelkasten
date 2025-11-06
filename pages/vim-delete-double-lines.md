@@ -44,7 +44,10 @@ Choose the command that best fits the specific pattern of "double lines" you are
 To convert single line spacing to double line spacing in Vim, use the command 
 
 ```
-:%s/^$/\\r/g
+~~:%s/^$/\\r/g~~
+or
+:$s/\n/\r\r/g
+
 ```
 
 in command mode.
