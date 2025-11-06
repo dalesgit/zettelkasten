@@ -1,0 +1,22 @@
+## I walked into living room 
+
+- first thing I saw was the message on the _crosh window_, "If you got here by mistake …"
+- it made me think of Eliot. "Where?" 
+- pretty quickly I thought "4 quartets", but which? I was reduced to **Googling**
+- discovered in fairly short order it was _Little Gidding_
+
+If you came this way,\
+Taking any route, starting from anywhere,\
+At any time or at any season,\
+It would always be the same: you would have to put off\
+Sense and notion. You are not here to verify,\
+Instruct yourself, or inform curiosity\
+Or carry report. You are here to kneel\
+Where prayer has been valid. And prayer is more\
+Than an order of words, the conscious occupation\
+Of the praying mind, or the sound of the voice praying.\
+And what the dead had no speech for, when living,\
+They can tell you, being dead: the communication\
+Of the dead is tongued with fire beyond the language of the living.\
+Here, the intersection of the timeless moment
+Is England and nowhere. Never and always.

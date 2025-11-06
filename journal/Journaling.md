@@ -1,3 +1,15 @@
+![[journal/2025-11-05.md]]
+
+![[journal/2025-11-04.md]]
+
+![[journal/2025-11-03.md]]
+
+![[journal/2025-11-02.md]]
+
+![[journal/2025-11-01.md]]
+
+![[journal/2025-10-31.md]]
+
 ![[journal/2025-10-30.md]]
 
 ![[journal/2025-10-29.md]]
