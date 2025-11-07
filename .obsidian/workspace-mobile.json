@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e91d8a253227308",
+        "id": "572579b28b8a9fdf",
         "type": "tabs",
         "children": [
           {
-            "id": "23e6c70f5d7f3f4d",
+            "id": "777405f80b86fb3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/Journaling.md",
+                "file": "journal/2025-11-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Journaling"
+              "title": "2025-11-05"
             }
           }
         ]
@@ -188,16 +188,16 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "23e6c70f5d7f3f4d",
+  "active": "777405f80b86fb3f",
   "lastOpenFiles": [
-    "ReadItLater Inbox/This is the best way for beginners to build strength, according to an expert trainer.md",
-    "journal/Journaling.md",
+    "journal/2025-11-06.md",
     "journal/2025-11-08.md",
+    "journal/Journaling.md",
+    "ReadItLater Inbox/This is the best way for beginners to build strength, according to an expert trainer.md",
     "MP.md",
     "journal/2025-11-07.md",
     "ReadItLater Inbox/The food stamp fight signals an era of unprecedented cruelty in America  Katrina vanden Heuvel.md",
     "ReadItLater Inbox/Trump is weaponizing the welfare state to attack healthcare  Moira Donegan.md",
-    "journal/2025-11-06.md",
     "ReadItLater Inbox/Workers decry Trump officials as ‘out of control’ as longest shutdown drags on.md",
     "ReadItLater Inbox/Europeans recognize Zohran Mamdani’s supposedly radical policies as ‘normal’.md",
     "ReadItLater Inbox/Missing 1.5C climate target is a moral failure, UN chief tells Cop30 summit.md",
