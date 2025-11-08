@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcd1257b533db6e7",
+            "id": "5bccc63af67d2590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-11-7.md",
+                "file": "journal/2025-11-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-11-7"
+              "title": "2025-11-07"
             }
           }
         ]
@@ -216,10 +216,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "fcd1257b533db6e7",
+  "active": "5bccc63af67d2590",
   "lastOpenFiles": [
     "Clippings/Out-of-touch Trump talks up economy among sycophants and stars in Miami.md",
     "journal/2025-11-07.md",
+    "Poetry/poetry-11-7.md",
     "Clippings/Ursula K Le Guin, by Margaret Atwood ‘One of the literary greats of the 20th century’.md",
     "pages/Is_our_democracy_on_the_verge_of_committing_suicide__The_Hill.md",
     "journal/Journaling.md",
@@ -244,7 +245,6 @@
     "journal/2025-10-29.md",
     "journal/2025-09-29.md",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
-    "The man behind Trump's for dictatorship.md",
     "Travels of DH & MPH.md~",
     "pages/south-america-cruise.md~",
     "journal/2025-10-28.md~",

@@ -1,13 +1,15 @@
 ---
-title: "Out-of-touch Trump talks up economy among sycophants and stars in Miami"
-source: "https://www.theguardian.com/us-news/2025/nov/07/trump-miami-american-business-forum"
+title: Out-of-touch Trump talks up economy among sycophants and stars in Miami
+source: https://www.theguardian.com/us-news/2025/nov/07/trump-miami-american-business-forum
 author:
   - "[[Richard Luscombe]]"
 published: 2025-11-07
 created: 2025-11-07
-description: "President jets in to speak at ritzy American Business Forum as millions see their food aid slashed – crisis, what crisis?"
+description: President jets in to speak at ritzy American Business Forum as millions see their food aid slashed – crisis, what crisis?
 tags:
-  - "clippings"
+  - Trump
+  - aging
+  - out-of-touch
 ---
 ![Man behind lectern](https://i.guim.co.uk/img/media/33885ed9cff770192395f7796b0ac727608583fd/0_0_3781_2520/master/3781.jpg?width=620&dpr=2&s=none&crop=none)
 
