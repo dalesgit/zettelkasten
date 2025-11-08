@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8165aa8126aae4e",
+        "id": "47f499ed288756ae",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6c2f818f736d5f",
+            "id": "bafb4d60a7b225ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-11-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-08"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -188,10 +173,10 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "8f6c2f818f736d5f",
+  "active": "bafb4d60a7b225ad",
   "lastOpenFiles": [
-    "ReadItLater Inbox/Therapist shares 3 quotes she uses 'almost daily' with patients.md",
     "journal/2025-11-08.md",
+    "ReadItLater Inbox/Therapist shares 3 quotes she uses 'almost daily' with patients.md",
     "ReadItLater Inbox/I found the best open-source note-taking app with drawing tools and I can’t stop raving about it.md",
     "ReadItLater Inbox/Article 2025-11-08 13-58-08.md",
     "ReadItLater Inbox/If you want your 70s to feel fulfilling and joyful, psychology says to focus on these 6 daily choices.md",
