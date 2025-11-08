@@ -11,9 +11,24 @@
             "id": "fee83ed4c3956ab8",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Julian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Julian"
             }
           }
         ]
@@ -176,6 +191,7 @@
   "active": "fee83ed4c3956ab8",
   "lastOpenFiles": [
     "journal/2025-11-08.md",
+    "Julian.md",
     "journal/2025-11-05.md",
     "journal/2025-11-06.md",
     "journal/Journaling.md",
@@ -200,7 +216,6 @@
     "packing checklist.md",
     "packing/Naples-planning Oct 20.md",
     "journal/2025-10-18.md",
-    "packing-old/Naples-planning-Sept-2025.md",
-    "Clippings/They were lost in the wild and on the verge of death. This is how they survived.md"
+    "packing-old/Naples-planning-Sept-2025.md"
   ]
 }
