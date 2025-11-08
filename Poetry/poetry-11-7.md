@@ -19,6 +19,16 @@ Others are interested in the movie stars.
 I'm interested in the story.
 I remember the period in the 70's when I was so interested in the genre
 **Melodrama**.
+Cripple Creek. One of the musicians.
+The Broadmoor.
 
 Margaret Atwood's TV series
-Stretches beyond the book  -- the sequel?
+Stretches beyond the book  -- the sequel and more --
+Her imagination ranges from early 80's remote inspirations 
+to manifestations of the current New York Times.
+
+But it's her imagination that fancies my imagination.
+Telling her story with deepest seriousness
+Slipping into fantasy and hardened logic.
+Harvesting pig's organs for human transplant.
+Unimaginable or old news?
