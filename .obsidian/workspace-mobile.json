@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fee83ed4c3956ab8",
+            "id": "b55e98e9c641769a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/3 handy Linux apps you must try this weekend (November 7 - 9).md",
+                "file": "ReadItLater Inbox/I found the best open-source note-taking app with drawing tools and I can’t stop raving about it.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 handy Linux apps you must try this weekend (November 7 - 9)"
+              "title": "I found the best open-source note-taking app with drawing tools and I can’t stop raving about it"
             }
           },
           {
-            "id": "8d180787978b9f14",
+            "id": "6395105e4a91ef9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,11 +213,15 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "8d180787978b9f14",
+  "active": "6395105e4a91ef9f",
   "lastOpenFiles": [
+    "ReadItLater Inbox/I found the best open-source note-taking app with drawing tools and I can’t stop raving about it.md",
+    "ReadItLater Inbox/Article 2025-11-08 13-58-08.md",
+    "ReadItLater Inbox/If you want your 70s to feel fulfilling and joyful, psychology says to focus on these 6 daily choices.md",
+    "journal/2025-11-08.md",
+    "ReadItLater Inbox/The 5 Best Soups to Eat for Better Blood Sugar, According to Dietitians.md",
     "ReadItLater Inbox/3 handy Linux apps you must try this weekend (November 7 - 9).md",
     "Julian.md",
-    "journal/2025-11-08.md",
     "journal/2025-11-05.md",
     "journal/2025-11-06.md",
     "journal/Journaling.md",
@@ -237,10 +241,6 @@
     "journal/2025-11-02.md",
     "pages/‘The Interview’ Anthony Hopkins on Quitting Drinking and Finding God - The New York Times.md",
     "Poetry/poetry-10-26.md",
-    "journal/2025-10-26.md",
-    "Untitled 1.canvas",
-    "packing checklist.md",
-    "packing/Naples-planning Oct 20.md",
-    "journal/2025-10-18.md"
+    "Untitled 1.canvas"
   ]
 }
