@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a118c7d361d0b243",
+            "id": "18b7e3c626712013",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/What’s Missing in Margaret Atwood’s New Memoir.md",
+                "file": "Clippings/What Happens to Your Blood Sugar When You Eat Sweet Potatoes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What’s Missing in Margaret Atwood’s New Memoir"
+              "title": "What Happens to Your Blood Sugar When You Eat Sweet Potatoes"
             }
           }
         ]
@@ -216,12 +216,18 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "a118c7d361d0b243",
+  "active": "18b7e3c626712013",
   "lastOpenFiles": [
+    "Clippings/If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul.md",
+    "Clippings/What Happens to Your Blood Sugar When You Eat Sweet Potatoes.md",
+    "Clippings/what-men-do-to-deserve-this.md~",
+    "Clippings/what-men-do-to-deserve-this.md",
+    "journal/2025-11-09.md",
     "Clippings/What’s Missing in Margaret Atwood’s New Memoir.md",
+    "ReadItLater Inbox/The best meditation apps to quit doomscrolling and find peace instead.md",
+    "Clippings/josh-shapiros-democratic-party.md",
     "Clippings/‘It is the scariest of times’ Margaret Atwood on defying Trump, banned books – and her score-settling memoir.md",
     "Clippings/Here's How I Beautified Markdown Reading in the Terminal.md",
-    "journal/2025-11-09.md",
     "Clippings/Margaret Atwood Leans Into Her Dark Side in a New Memoir.md",
     "Clippings/Historian uses AI to help identify Nazi in notorious Holocaust murder image.md",
     "Clippings/MPRL  The Globalization of Knowledge in History  The Creation of Second-Order Knowledge in Ancient Greek Science as a Process in the Globalization of Knowledge.md",
@@ -229,7 +235,6 @@
     "Clippings/Out-of-touch Trump talks up economy among sycophants and stars in Miami.md",
     "Clippings/Ursula K Le Guin, by Margaret Atwood ‘One of the literary greats of the 20th century’.md",
     "Poetry/poetry-11-09.md",
-    "Clippings/If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul.md",
     "journal/2025-11-08.md",
     "Poetry/poetry-11-08.md",
     "journal/2025-11-07.md",
@@ -240,10 +245,6 @@
     "journal/2025-11-03.md",
     "Poetry/poetry-11-3.md",
     "journal/2025-11-04.md",
-    "journal/2025-11-05.md",
-    "Poetry/Poetry.md",
-    "pages/gun-policy.md",
-    "journal/2025-09-28.md",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "Travels of DH & MPH.md~",
     "pages/south-america-cruise.md~",
@@ -253,7 +254,6 @@
     "home/dale/Repositories/zettelkasten/assets",
     "home/dale/Repositories/zettelkasten",
     "home/dale/Repositories",
-    "home/dale",
     "assets/Pasted image 20250628101730.png",
     "assets/Pasted image 20250628101828.png",
     "assets/Pasted image 20250930103231.png",

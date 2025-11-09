@@ -1,13 +1,15 @@
 ---
-title: "What’s Missing in Margaret Atwood’s New Memoir"
-source: "https://thewalrus.ca/whats-missing-in-margaret-atwoods-new-memoir/"
+title: What’s Missing in Margaret Atwood’s New Memoir
+source: https://thewalrus.ca/whats-missing-in-margaret-atwoods-new-memoir/
 author:
   - "[[Amarah Hasham-Steele]]"
 published: 2025-11-04
 created: 2025-11-09
-description: "Her book promises the “flesh-and-blood person” behind her fiction but delivers something far more cautious"
+description: Her book promises the “flesh-and-blood person” behind her fiction but delivers something far more cautious
 tags:
-  - "clippings"
+  - writing
+  - reading
+  - story-telling
 ---
 [![Photo of Canadian author Margaret Atwood](https://walrus-assets.s3.amazonaws.com/img/HashamSteele_AtwoodMemoir_1800-735x490.jpg)](https://walrus-assets.s3.amazonaws.com/img/HashamSteele_AtwoodMemoir_1800-scaled.jpg)
 
