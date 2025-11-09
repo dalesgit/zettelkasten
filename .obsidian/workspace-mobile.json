@@ -11,9 +11,24 @@
             "id": "bafb4d60a7b225ad",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-11-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-09"
             }
           }
         ]
@@ -175,6 +190,8 @@
   },
   "active": "bafb4d60a7b225ad",
   "lastOpenFiles": [
+    "Timestamps/2025/07-July/2025-07-06-Sunday.md",
+    "chuGoodSoil2025.md",
     "journal/2025-11-08.md",
     "ReadItLater Inbox/Therapist shares 3 quotes she uses 'almost daily' with patients.md",
     "ReadItLater Inbox/I found the best open-source note-taking app with drawing tools and I can’t stop raving about it.md",
@@ -199,8 +216,6 @@
     "ReadItLater Inbox/Is Waking Up to Pee Normal.md",
     "journal/2025-11-03.md",
     "pages/Mission for an Evolutionary Christianity  Center for Christogenesis.md",
-    "journal/2025-11-02.md",
-    "pages/‘The Interview’ Anthony Hopkins on Quitting Drinking and Finding God - The New York Times.md",
     "Untitled 1.canvas"
   ]
 }
