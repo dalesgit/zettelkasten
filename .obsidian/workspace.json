@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7010c94622708b9c",
+        "id": "d74b6d9beeec9a41",
         "type": "tabs",
         "children": [
           {
-            "id": "18b7e3c626712013",
+            "id": "782ad9e4f1410af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/What Happens to Your Blood Sugar When You Eat Sweet Potatoes.md",
+                "file": "personal/Family/Julian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,251 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What Happens to Your Blood Sugar When You Eat Sweet Potatoes"
+              "title": "Julian"
+            }
+          },
+          {
+            "id": "816170aa894cc1f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "travel/orlando-checklist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "orlando-checklist"
+            }
+          },
+          {
+            "id": "4e9d8912844ab1c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "church/psalm-summer-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "psalm-summer-25"
+            }
+          },
+          {
+            "id": "a5230504be084a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "church/rite-1-prayers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "rite-1-prayers"
+            }
+          },
+          {
+            "id": "61b7d81d64d43e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "church/sacred space.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sacred space"
+            }
+          },
+          {
+            "id": "621a7f902aaeac68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "church/sacred space.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sacred space"
+            }
+          },
+          {
+            "id": "fe87f586cd13efbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "church/Preaching/goal of the sermon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "goal of the sermon"
+            }
+          },
+          {
+            "id": "6c27cfc2f7e4d5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "church/extra-prayers-eucharist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "extra-prayers-eucharist"
+            }
+          },
+          {
+            "id": "386aa105315c943b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "church/citizens of the kingdom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "citizens of the kingdom"
+            }
+          },
+          {
+            "id": "e17ae1e5fddd4273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thought/unheard-of-mathematician.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "unheard-of-mathematician"
+            }
+          },
+          {
+            "id": "ddb085f2335d1a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/morrisonBeloved2010.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "morrisonBeloved2010"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -88,8 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -216,57 +456,58 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "18b7e3c626712013",
+  "active": "5a69238350bfdba9",
   "lastOpenFiles": [
-    "Clippings/I’m as capitalist as they get but Medicare for all is the best hope for US healthcare  Gene Marks.md",
-    "journal/2025-11-09.md",
-    "Clippings/What Happens to Your Blood Sugar When You Eat Sweet Potatoes.md",
-    "Clippings/If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul.md",
-    "Clippings/what-men-do-to-deserve-this.md~",
-    "Clippings/what-men-do-to-deserve-this.md",
-    "Clippings/What’s Missing in Margaret Atwood’s New Memoir.md",
-    "ReadItLater Inbox/The best meditation apps to quit doomscrolling and find peace instead.md",
-    "Clippings/josh-shapiros-democratic-party.md",
-    "Clippings/‘It is the scariest of times’ Margaret Atwood on defying Trump, banned books – and her score-settling memoir.md",
-    "Clippings/Here's How I Beautified Markdown Reading in the Terminal.md",
-    "Clippings/Margaret Atwood Leans Into Her Dark Side in a New Memoir.md",
-    "Clippings/Historian uses AI to help identify Nazi in notorious Holocaust murder image.md",
-    "Clippings/MPRL  The Globalization of Knowledge in History  The Creation of Second-Order Knowledge in Ancient Greek Science as a Process in the Globalization of Knowledge.md",
-    "Clippings/8 essential shell functions to improve your Linux command line.md",
-    "Clippings/Out-of-touch Trump talks up economy among sycophants and stars in Miami.md",
-    "Clippings/Ursula K Le Guin, by Margaret Atwood ‘One of the literary greats of the 20th century’.md",
-    "Poetry/poetry-11-09.md",
-    "journal/2025-11-08.md",
-    "Poetry/poetry-11-08.md",
-    "journal/2025-11-07.md",
-    "Poetry/poetry-11-7.md",
-    "pages/Is_our_democracy_on_the_verge_of_committing_suicide__The_Hill.md",
-    "journal/Journaling.md",
-    "journal/2025-11-06.md",
-    "journal/2025-11-03.md",
-    "Poetry/poetry-11-3.md",
-    "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
-    "Travels of DH & MPH.md~",
-    "pages/south-america-cruise.md~",
-    "journal/2025-10-28.md~",
-    "pages/vim-delete-double-lines.md~",
-    "assets/edited-2026 GMA enrollment form.pdf",
-    "home/dale/Repositories/zettelkasten/assets",
-    "home/dale/Repositories/zettelkasten",
-    "home/dale/Repositories",
+    "resistance.md",
+    "thought/thought.md",
+    "tyranny.md",
+    "personal/test of a person's character.md",
+    "thought/spinozas-criticism-emotions-cancel.md",
+    "thought/unheard-of-mathematician.md",
+    "thought/wake-up-call-to-higher-ed.md",
+    "thought/Nov-5,-2025-Archaeologists-discover-how-oldest-American-civilisation-survived-a-climate-catastrophe--Archaeology.md",
+    "millerCanticleLeibowitz2007.md",
+    "thought",
+    "tech/Forum Obsidian.md",
+    "On This Day.md",
+    "tech/Kanban Board.md",
+    "ReadItLater.md",
+    "tech/Untitled 1.md",
+    "tech/Untitled 2.base",
+    "critical thinking.md",
+    "personal/health.md",
+    "tech/index-1.md",
+    "personal/say thank you.md",
+    "personal/banking.md",
+    "tech/Untitled 1.base",
+    "tech/sample-zotero.canvas",
+    "my-files-inbox-7-30-25/index-7-30-25 1.md",
+    "my-files-inbox-7-30-25/index-7-30-25.md",
+    "tech/index.md",
+    "church/power of words.md",
+    "tech/notes-created-today.md",
+    "church/spiritual director.md",
+    "church/+Bob.md",
+    "tech",
+    "personal/health",
+    "personal",
+    "assets/silversword.png",
+    "church",
+    "travel",
+    "tech/Untitled 1.canvas",
+    "personal/Family",
+    "Clippings",
     "assets/Pasted image 20250628101730.png",
     "assets/Pasted image 20250628101828.png",
     "assets/Pasted image 20250930103231.png",
-    "sample-zotero.canvas",
-    "sample-canvas.canvas",
+    "tech/sample-canvas.canvas",
     "assets/Pasted image 20250910094353.png",
     "assets/Pasted image 20250920134856.png",
     "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
     "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
     "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-rRY5YXPl2U.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-3kEOQa0RsR.jpeg",
-    "Untitled.canvas",
+    "tech/Untitled.canvas",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "5_Structure/Canvases/About - 4_Project Notes.canvas",
