@@ -1,15 +1,17 @@
 ---
-title: "What Happens to Your Blood Sugar When You Eat Sweet Potatoes"
-source: "https://www.eatingwell.com/benefits-of-sweet-potatoes-for-blood-sugar-11845616"
+title: What Happens to Your Blood Sugar When You Eat Sweet Potatoes
+source: https://www.eatingwell.com/benefits-of-sweet-potatoes-for-blood-sugar-11845616
 author:
   - "[[Isabel Vasquez]]"
   - "[[RD]]"
   - "[[LDN]]"
 published: 2025-11-09
 created: 2025-11-09
-description: "Sweet potatoes raise blood sugars, but their fiber helps prevent rapid blood sugar spikes. Learn more about sweet potatoes’ effects on blood sugars."
+description: Sweet potatoes raise blood sugars, but their fiber helps prevent rapid blood sugar spikes. Learn more about sweet potatoes’ effects on blood sugars.
 tags:
-  - "clippings"
+  - diabetes
+  - glucose
+  - health
 ---
 ![A baked sweet potato on a plate topped with black beans salsa and a dollop of guacamole](https://www.eatingwell.com/thmb/VPK0QOJN9VatCkPD-w_5gwd3EoI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatHappenstoYourBloodSugarWhenYouEatSweetPotatoes-9a41c1dbd58540d3a16b1cd39c884144.jpg)
 
