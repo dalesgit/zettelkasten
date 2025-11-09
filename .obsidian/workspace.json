@@ -11,9 +11,24 @@
             "id": "a118c7d361d0b243",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/What’s Missing in Margaret Atwood’s New Memoir.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What’s Missing in Margaret Atwood’s New Memoir"
             }
           }
         ]
@@ -203,6 +218,7 @@
   },
   "active": "a118c7d361d0b243",
   "lastOpenFiles": [
+    "Clippings/What’s Missing in Margaret Atwood’s New Memoir.md",
     "Clippings/‘It is the scariest of times’ Margaret Atwood on defying Trump, banned books – and her score-settling memoir.md",
     "Clippings/Here's How I Beautified Markdown Reading in the Terminal.md",
     "journal/2025-11-09.md",
@@ -228,7 +244,6 @@
     "Poetry/Poetry.md",
     "pages/gun-policy.md",
     "journal/2025-09-28.md",
-    "packing-old/Naples-planning-Sept-2025.md",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "Travels of DH & MPH.md~",
     "pages/south-america-cruise.md~",
