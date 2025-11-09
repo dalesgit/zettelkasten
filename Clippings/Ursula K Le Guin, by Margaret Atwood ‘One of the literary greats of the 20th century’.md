@@ -1,13 +1,14 @@
 ---
 title: "Ursula K Le Guin, by Margaret Atwood: ‘One of the literary greats of the 20th century’"
-source: "https://www.theguardian.com/books/2018/jan/24/ursula-k-le-guin-margaret-atwood-tribute"
+source: https://www.theguardian.com/books/2018/jan/24/ursula-k-le-guin-margaret-atwood-tribute
 author:
   - "[[Margaret Atwood]]"
 published: 2018-01-24
 created: 2025-11-07
-description: "The author of The Handmaid’s Tale bids hail, farewell and thank you to the revered sci-fi and fantasy author, who has died aged 88"
+description: The author of The Handmaid’s Tale bids hail, farewell and thank you to the revered sci-fi and fantasy author, who has died aged 88
 tags:
-  - "clippings"
+  - reading
+  - writing
 ---
 ![Ursula K Le Guin, photographed in Portland in 2008.](https://i.guim.co.uk/img/media/e964bb5ea24e538cbfb60057084bd525c091b7ce/0_0_4800_3326/master/4800.jpg?width=620&dpr=2&s=none&crop=none)
 

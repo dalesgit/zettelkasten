@@ -1,13 +1,14 @@
 ---
-title: "If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul"
-source: "https://vegoutmag.com/lifestyle/gen-if-youre-a-boomer-and-you-can-still-do-these-7-things-youre-a-once-in-a-lifetime-soul/"
+title: If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul
+source: https://vegoutmag.com/lifestyle/gen-if-youre-a-boomer-and-you-can-still-do-these-7-things-youre-a-once-in-a-lifetime-soul/
 author:
   - "[[VegOut]]"
 published: 2025-11-08
 created: 2025-11-09
-description: "If you’re a boomer and you can still do these seven things, you’re one of the rare ones. You’re living proof that aging doesn’t have to mean shrinking — it can mean expanding."
+description: If you’re a boomer and you can still do these seven things, you’re one of the rare ones. You’re living proof that aging doesn’t have to mean shrinking — it can mean expanding.
 tags:
-  - "clippings"
+  - aging
+  - wonder
 ---
 If you’re a boomer and you can still do these seven things, you’re one of the rare ones. You’re living proof that aging doesn’t have to mean shrinking — it can mean expanding.
 

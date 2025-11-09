@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b4de8bb27b9c9e2a",
+        "id": "999a8b94d70335fc",
         "type": "tabs",
         "children": [
           {
-            "id": "5bccc63af67d2590",
+            "id": "3f41be189514f685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul.md",
+                "file": "Clippings/Margaret Atwood Leans Into Her Dark Side in a New Memoir.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul"
+              "title": "Margaret Atwood Leans Into Her Dark Side in a New Memoir"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:clippings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -216,15 +216,21 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "5bccc63af67d2590",
+  "active": "3f41be189514f685",
   "lastOpenFiles": [
-    "journal/2025-11-08.md",
+    "Clippings/Historian uses AI to help identify Nazi in notorious Holocaust murder image.md",
+    "Clippings/Margaret Atwood Leans Into Her Dark Side in a New Memoir.md",
+    "Clippings/MPRL  The Globalization of Knowledge in History  The Creation of Second-Order Knowledge in Ancient Greek Science as a Process in the Globalization of Knowledge.md",
+    "Clippings/8 essential shell functions to improve your Linux command line.md",
+    "Clippings/Out-of-touch Trump talks up economy among sycophants and stars in Miami.md",
+    "Clippings/Ursula K Le Guin, by Margaret Atwood ‘One of the literary greats of the 20th century’.md",
+    "Poetry/poetry-11-09.md",
     "Clippings/If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul.md",
+    "journal/2025-11-09.md",
+    "journal/2025-11-08.md",
     "Poetry/poetry-11-08.md",
     "journal/2025-11-07.md",
-    "Clippings/Out-of-touch Trump talks up economy among sycophants and stars in Miami.md",
     "Poetry/poetry-11-7.md",
-    "Clippings/Ursula K Le Guin, by Margaret Atwood ‘One of the literary greats of the 20th century’.md",
     "pages/Is_our_democracy_on_the_verge_of_committing_suicide__The_Hill.md",
     "journal/Journaling.md",
     "journal/2025-11-06.md",
@@ -234,16 +240,10 @@
     "journal/2025-11-05.md",
     "Poetry/Poetry.md",
     "pages/gun-policy.md",
-    "Clippings/8 essential shell functions to improve your Linux command line.md",
     "journal/2025-09-28.md",
     "packing-old/Naples-planning-Sept-2025.md",
     "MP.md",
     "ReadItLater Inbox/These 4 Google Keep features will help you build perfect grocery lists.md",
-    "ReadItLater Inbox/These fzf tricks will transform how you use the Linux terminal.md",
-    "ReadItLater Inbox/Opinion  Bernie Sanders ‘There Ain’t Much of a Democratic Party’.md",
-    "ReadItLater Inbox/Opinion  These Israeli Dissidents Can Show Americans How to Be a Good Citizen of a Bad Country.md",
-    "journal/2025-10-30.md",
-    "Travels of DH & MPH.md",
     "assets/TheAnti-AutocracyHandbook(A4)-1.pdf",
     "Travels of DH & MPH.md~",
     "pages/south-america-cruise.md~",
