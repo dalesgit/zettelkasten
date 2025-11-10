@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c2fa796414b084e0",
+        "id": "db9f11603033400d",
         "type": "tabs",
         "children": [
           {
-            "id": "2fbfb88f153501ba",
+            "id": "87a4b3f09ee62491",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-11-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-10"
             }
           }
         ]
@@ -173,16 +188,18 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "2fbfb88f153501ba",
+  "active": "87a4b3f09ee62491",
   "lastOpenFiles": [
-    "Poetry/poetry-11-10.md",
+    "Progressive Christianity.md",
     "journal/2025-11-10.md",
+    "ReadItLater Inbox/Therapist shares 3 quotes she uses 'almost daily' with patients.md",
+    "ReadItLater Inbox/Resources.md",
+    "Poetry/poetry-11-10.md",
     "journal/2025-11-09.md",
     "ReadItLater Inbox/The best meditation apps to quit doomscrolling and find peace instead.md",
     "Timestamps/2025/07-July/2025-07-06-Sunday.md",
     "chuGoodSoil2025.md",
     "journal/2025-11-08.md",
-    "ReadItLater Inbox/Therapist shares 3 quotes she uses 'almost daily' with patients.md",
     "ReadItLater Inbox/I found the best open-source note-taking app with drawing tools and I can’t stop raving about it.md",
     "ReadItLater Inbox/Article 2025-11-08 13-58-08.md",
     "ReadItLater Inbox/If you want your 70s to feel fulfilling and joyful, psychology says to focus on these 6 daily choices.md",
@@ -199,8 +216,6 @@
     "ReadItLater Inbox/Trump is weaponizing the welfare state to attack healthcare  Moira Donegan.md",
     "ReadItLater Inbox/Workers decry Trump officials as ‘out of control’ as longest shutdown drags on.md",
     "ReadItLater Inbox/Europeans recognize Zohran Mamdani’s supposedly radical policies as ‘normal’.md",
-    "ReadItLater Inbox/Missing 1.5C climate target is a moral failure, UN chief tells Cop30 summit.md",
-    "ReadItLater Inbox/Opinion  Did Women Ruin the Workplace.md",
     "Untitled 1.canvas"
   ]
 }
