@@ -1,15 +1,15 @@
 ---
-title: A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back
-source: https://www.fitandwell.com/exercise/strength-workouts/a-trainer-says-this-is-the-most-underrated-move-for-building-strength-in-your-core-shoulders-arms-and-back
+id: What inspired the outfits in Margaret Atwood's The Handmaid's Tale
+aliases: []
+tags:
+  - clippings
 author:
   - "[[Ruth Gaukrodger]]"
-published: 2025-11-10
 created: 2025-11-10
 description: This one compound exercise will challenge multiple upper-body muscles
-tags:
-  - health
-  - strength
-  - exercise
+published: 2025-11-10
+source: https://www.fitandwell.com/exercise/strength-workouts/a-trainer-says-this-is-the-most-underrated-move-for-building-strength-in-your-core-shoulders-arms-and-back
+title: A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back
 ---
 ![Woman in high plank position at home holding dumbbells](https://cdn.mos.cms.futurecdn.net/JswzG3PSP2x4hEpGGn5VWi-1920-80.jpg.webp)
 

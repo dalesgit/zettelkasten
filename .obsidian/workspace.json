@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d74b6d9beeec9a41",
+        "id": "a077d5dc8cb722b2",
         "type": "tabs",
         "children": [
           {
-            "id": "782ad9e4f1410af5",
+            "id": "f346ed402c7a720a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Family/Julian.md",
+                "file": "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,275 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Julian"
-            }
-          },
-          {
-            "id": "816170aa894cc1f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "travel/orlando-checklist.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "orlando-checklist"
-            }
-          },
-          {
-            "id": "4e9d8912844ab1c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "church/psalm-summer-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "psalm-summer-25"
-            }
-          },
-          {
-            "id": "a5230504be084a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "church/rite-1-prayers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "rite-1-prayers"
-            }
-          },
-          {
-            "id": "61b7d81d64d43e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "church/sacred space.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sacred space"
-            }
-          },
-          {
-            "id": "621a7f902aaeac68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "church/sacred space.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sacred space"
-            }
-          },
-          {
-            "id": "fe87f586cd13efbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "church/Preaching/goal of the sermon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "goal of the sermon"
-            }
-          },
-          {
-            "id": "6c27cfc2f7e4d5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "church/extra-prayers-eucharist.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "extra-prayers-eucharist"
-            }
-          },
-          {
-            "id": "386aa105315c943b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "church/citizens of the kingdom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "citizens of the kingdom"
-            }
-          },
-          {
-            "id": "e17ae1e5fddd4273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thought/unheard-of-mathematician.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "unheard-of-mathematician"
-            }
-          },
-          {
-            "id": "ddb085f2335d1a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thought/Judaism was not a religion. It was living out what it means to be God's chosen. Paul's insight was to affirm the chosen of Jews, but to say that all people are chosen. This is from Steve caulk..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Judaism was not a religion. It was living out what it means to be God's chosen. Paul's insight was to affirm the chosen of Jews, but to say that all people are chosen. This is from Steve caulk."
-            }
-          },
-          {
-            "id": "6429094ee47e1304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back"
+              "title": "What inspired the outfits in Margaret Atwood's The Handmaid's Tale"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -480,10 +215,24 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "6429094ee47e1304",
+  "active": "f346ed402c7a720a",
   "lastOpenFiles": [
-    "current/sample-reading.md",
+    "journal/2025-11-10.md~",
+    "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md~",
+    "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md",
     "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
+    "journal/2025-11-10.md",
+    "personal/Family/Julian.md",
+    "travel/orlando-checklist.md",
+    "church/psalm-summer-25.md",
+    "church/rite-1-prayers.md",
+    "church/sacred space.md",
+    "church/Preaching/goal of the sermon.md",
+    "church/extra-prayers-eucharist.md",
+    "church/citizens of the kingdom.md",
+    "thought/unheard-of-mathematician.md",
+    "thought/Judaism was not a religion. It was living out what it means to be God's chosen. Paul's insight was to affirm the chosen of Jews, but to say that all people are chosen. This is from Steve caulk..md",
+    "current/sample-reading.md",
     "missed-links-to-save.md",
     "thought/On This Day.md",
     "thought/tyranny.md",
@@ -494,21 +243,8 @@
     "thought/Dialogue within the fractured American society.md",
     "thought/Former nra..md",
     "church/Padraig O'Tuama.md",
-    "thought/Judaism was not a religion. It was living out what it means to be God's chosen. Paul's insight was to affirm the chosen of Jews, but to say that all people are chosen. This is from Steve caulk..md",
     "thought/Olivebranchcommunity.org Ken Medema about a Lutheran church in Minnesota. New ways to worship..md",
     "tech/Read-it-later.base",
-    "church/Rosemerry Wahtola Trommer.md",
-    "thought/book bans satire Atwood.md",
-    "current/Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md",
-    "current/Tom Li.md",
-    "thought/analogical thinking.md",
-    "church/bargaining with God.md",
-    "thought/critical thinking.md",
-    "thought/d-miller-obituary.md",
-    "thought/documentary-on-orwell-scary.md",
-    "personal/dietician-online-presentation.md",
-    "thought/jane-goodall-legacy.md",
-    "thought/lisa-cook-firing-backfires.md",
     "current",
     "thought",
     "tech/Untitled 2.base",
@@ -519,7 +255,6 @@
     "personal",
     "assets/silversword.png",
     "church",
-    "travel",
     "tech/Untitled 1.canvas",
     "assets/Pasted image 20250628101730.png",
     "assets/Pasted image 20250628101828.png",
