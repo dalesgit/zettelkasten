@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a077d5dc8cb722b2",
+        "id": "c1c78dcf1f5befe2",
         "type": "tabs",
         "children": [
           {
-            "id": "f346ed402c7a720a",
+            "id": "4a175369cd4ec8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md",
+                "file": "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What inspired the outfits in Margaret Atwood's The Handmaid's Tale"
+              "title": "A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back"
             }
           }
         ]
@@ -215,11 +215,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "f346ed402c7a720a",
+  "active": "4a175369cd4ec8ab",
   "lastOpenFiles": [
+    "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md",
     "journal/2025-11-10.md~",
     "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md~",
-    "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md",
     "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
     "journal/2025-11-10.md",
     "personal/Family/Julian.md",
@@ -254,7 +254,6 @@
     "personal/health",
     "personal",
     "assets/silversword.png",
-    "church",
     "tech/Untitled 1.canvas",
     "assets/Pasted image 20250628101730.png",
     "assets/Pasted image 20250628101828.png",

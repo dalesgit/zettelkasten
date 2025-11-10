@@ -2,7 +2,8 @@
 id: What inspired the outfits in Margaret Atwood's The Handmaid's Tale
 aliases: []
 tags:
-  - clippings
+  - writing
+  - reading
 author:
   - "[[Ruth Gaukrodger]]"
 created: 2025-11-10
