@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "current/sample-reading.md",
+                "file": "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sample-reading"
+              "title": "A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back"
             }
           }
         ],
@@ -480,10 +480,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "5a69238350bfdba9",
+  "active": "6429094ee47e1304",
   "lastOpenFiles": [
-    "missed-links-to-save.md",
     "current/sample-reading.md",
+    "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
+    "missed-links-to-save.md",
     "thought/On This Day.md",
     "thought/tyranny.md",
     "thought/resistance.md",
@@ -508,7 +509,6 @@
     "personal/dietician-online-presentation.md",
     "thought/jane-goodall-legacy.md",
     "thought/lisa-cook-firing-backfires.md",
-    "thought/on political violence than and now.md",
     "current",
     "thought",
     "tech/Untitled 2.base",
