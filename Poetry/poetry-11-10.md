@@ -1,7 +1,8 @@
 ---
 id: poetry-11-10
 aliases: []
-tags: []
+tags:
+  - politics
 ---
 
 8 Democrats broke ranks today.
@@ -11,7 +12,7 @@ since my conviction that
 all political solutions
 are over-priced and over-hyped
 but most certainly in light of eternity
-and even in with much shorter frame.
+and even with much shorter frame.
 
 Our tyrant in residence
 commands the stage and
