@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c1c78dcf1f5befe2",
+        "id": "f9f3dee8c8b1d1f4",
         "type": "tabs",
         "children": [
           {
-            "id": "4a175369cd4ec8ab",
+            "id": "0ac3e97f0f309964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
+                "file": "Poetry/poetry-11-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back"
+              "title": "poetry-11-10"
             }
           }
         ]
@@ -215,12 +215,22 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "4a175369cd4ec8ab",
+  "active": "0ac3e97f0f309964",
   "lastOpenFiles": [
+    "Poetry/poetry-11-09.md",
+    "Poetry/poetry-11-07.md",
+    "Poetry/poetry-11-06.md",
+    "Poetry/poetry-11-05.md",
+    "Poetry/poetry-11-04.md",
+    "Poetry/poetry-11-03.md",
+    "Poetry/poetry-11-02.md",
+    "Poetry/poetry-10-29.md",
+    "Poetry/poetry-11-01.md",
+    "Poetry/poetry-11-10.md",
+    "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
     "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md",
     "journal/2025-11-10.md~",
     "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md~",
-    "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
     "journal/2025-11-10.md",
     "personal/Family/Julian.md",
     "travel/orlando-checklist.md",
@@ -235,15 +245,6 @@
     "current/sample-reading.md",
     "missed-links-to-save.md",
     "thought/On This Day.md",
-    "thought/tyranny.md",
-    "thought/resistance.md",
-    "thought/A-critique-of-pure-stupidity-understanding-Trump-2.0--Donald-Trump--The-Guardian.md",
-    "tech/7 Days Created List.md",
-    "thought/Aug-14,-2025-Troy’s-fall-was-partly-due-to-environmental-strain-–-and-it-holds-lessons-for-today.md",
-    "thought/Dialogue within the fractured American society.md",
-    "thought/Former nra..md",
-    "church/Padraig O'Tuama.md",
-    "thought/Olivebranchcommunity.org Ken Medema about a Lutheran church in Minnesota. New ways to worship..md",
     "tech/Read-it-later.base",
     "current",
     "thought",

@@ -1,5 +1,5 @@
 ---
-id: poetry-11-6
+id: poetry-11-06
 aliases: []
 tags:
   - writing
