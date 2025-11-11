@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-11-10.md",
+                "file": "aarp-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-11-10"
+              "title": "aarp-2025"
             }
           }
         ]
@@ -212,11 +212,14 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "recipe-grabber:Recipe Grabber": false
+      "recipe-grabber:Recipe Grabber": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "0ac3e97f0f309964",
   "lastOpenFiles": [
+    "aarp-2025.md~",
+    "Poetry/poetry-11-10.md",
     "Progressive Christianity.md",
     "Poetry/poetry-11-09.md",
     "Poetry/poetry-11-07.md",
@@ -227,7 +230,6 @@
     "Poetry/poetry-11-02.md",
     "Poetry/poetry-10-29.md",
     "Poetry/poetry-11-01.md",
-    "Poetry/poetry-11-10.md",
     "Clippings/A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back.md",
     "Clippings/What inspired the outfits in Margaret Atwood's The Handmaid's Tale.md",
     "journal/2025-11-10.md~",
@@ -244,7 +246,6 @@
     "thought/unheard-of-mathematician.md",
     "thought/Judaism was not a religion. It was living out what it means to be God's chosen. Paul's insight was to affirm the chosen of Jews, but to say that all people are chosen. This is from Steve caulk..md",
     "current/sample-reading.md",
-    "missed-links-to-save.md",
     "tech/Read-it-later.base",
     "current",
     "thought",
