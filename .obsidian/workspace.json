@@ -15,20 +15,9 @@
               "state": {
                 "file": "journal/2025-11-11.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-11"
+                "source": false
+              }
             }
           }
         ]
@@ -50,11 +39,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "byModifiedTime"
+              }
             }
           },
           {
@@ -69,9 +55,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -79,9 +63,15 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
+            }
+          },
+          {
+            "id": "8f0e1e3d6b45d437",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2025-10-11.md",
+                "file": "journal/2025-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +102,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-11"
+              }
             }
           },
           {
@@ -123,11 +111,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journal/2025-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -137,12 +124,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -151,13 +134,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2025-09-22.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2025-09-22"
+                "file": "journal/2025-11-11.md"
+              }
             }
           },
           {
@@ -165,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "state": {}
             }
           },
           {
@@ -175,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "state": {}
             }
           },
           {
@@ -185,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "state": {}
             }
           },
           {
@@ -195,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "state": {}
             }
           },
           {
@@ -205,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "state": {}
             }
           }
         ],
@@ -219,7 +187,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,

@@ -6,5 +6,6 @@
   "interfaceFontFamily": "Cambria,Baskerville",
   "enabledCssSnippets": [
     "myfont"
-  ]
+  ],
+  "accentColor": ""
 }
