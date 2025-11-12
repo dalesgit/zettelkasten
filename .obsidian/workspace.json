@@ -8,7 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f2244012cd0cf47",
+            "id": "ffe262188c98e5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/The Striking Similarities Between Aphorisms and Poetry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Striking Similarities Between Aphorisms and Poetry"
+            }
+          },
+          {
+            "id": "01f1f15bcbb51050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled"
+            }
+          },
+          {
+            "id": "d5fb84bec75765b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +78,9 @@
               "icon": "lucide-file",
               "title": "2025-11-12"
             }
-          },
-          {
-            "id": "57dcd55938009697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -139,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection.md",
+                "file": "journal/2025-11-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection"
+              "title": "Backlinks for 2025-11-12"
             }
           },
           {
@@ -158,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection.md",
+                "file": "journal/2025-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection"
+              "title": "Outgoing links from 2025-11-12"
             }
           },
           {
@@ -187,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection.md",
+                "file": "journal/2025-11-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection"
+              "title": "Outline of 2025-11-12"
             }
           },
           {
@@ -251,7 +276,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,8 +297,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57dcd55938009697",
+  "active": "d5fb84bec75765b9",
   "lastOpenFiles": [
+    "Clippings/US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled.md",
+    "journal/2025-11-12.md",
+    "Clippings/The Striking Similarities Between Aphorisms and Poetry.md",
     "Clippings/What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection.md",
     "journal/2025-11-11.md",
     "Clippings/In the Wake of the Edmund Fitzgerald.md",

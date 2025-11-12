@@ -1,13 +1,15 @@
 ---
-title: "What is time? Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection"
-source: "https://theconversation.com/what-is-time-rather-than-something-that-flows-a-philosopher-suggests-time-is-a-psychological-projection-266634"
+title: What is time? Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection
+source: https://theconversation.com/what-is-time-rather-than-something-that-flows-a-philosopher-suggests-time-is-a-psychological-projection-266634
 author:
   - "[[Adrian Bardon]]"
 published: 2025-11-12
 created: 2025-11-12
 description: "Is time real, or an illusion? The best answer may be neither: Both physics and philosophy suggest that time is a projection of the mind onto a timeless reality."
 tags:
-  - "clippings"
+  - space-time
+  - thought
+  - philosophy
 ---
 ![Several circles made of smaller ovals arranged in a grid, in a way that looks like they're slowly rotating. ](https://images.theconversation.com/files/700901/original/file-20251106-56-xbn9nm.jpg?ixlib=rb-4.1.0&rect=0%2C430%2C3630%2C1815&q=75&auto=format&w=1336&h=668&fit=crop&dpr=1)
 
