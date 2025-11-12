@@ -1,13 +1,14 @@
 ---
-title: "Opinion | Use A.I. to Reinvigorate Democracy — Not Replace It"
-source: "https://www.nytimes.com/2025/11/11/opinion/ai-democracy-government-authoritarianism.html"
+title: Opinion | Use A.I. to Reinvigorate Democracy — Not Replace It
+source: https://www.nytimes.com/2025/11/11/opinion/ai-democracy-government-authoritarianism.html
 author:
   - "[[By Eric Schmidt and Andrew Sorota]]"
 published: 2025-11-11
 created: 2025-11-11
-description: "Governments shouldn’t hand over decision-making to A.I."
+description: Governments shouldn’t hand over decision-making to A.I.
 tags:
-  - "clippings"
+  - democracy
+  - AI
 ---
 Albania is the first country to take a real step toward “algocracy”: government by algorithm. In September its prime minister [announced](https://www.bbc.com/news/articles/cm2znzgwj3xo) that all decisions concerning which private suppliers will provide goods and services to Albania’s government — over $1 billion annually — will be made by an A.I. avatar named Diella. Albania has long suffered from corruption, particularly in this realm. The unbiased, competent, algorithmic Diella is thought to be the solution.
 

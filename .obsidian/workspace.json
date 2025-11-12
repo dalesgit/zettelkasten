@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ac3e97f0f309964",
+            "id": "0f2244012cd0cf47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/In the Wake of the Edmund Fitzgerald.md",
+                "file": "journal/2025-11-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "In the Wake of the Edmund Fitzgerald"
-            }
-          },
-          {
-            "id": "9f66cbc1dccaacae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Opinion  Use A.I. to Reinvigorate Democracy — Not Replace It.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Opinion  Use A.I. to Reinvigorate Democracy — Not Replace It"
+              "title": "2025-11-11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,10 +235,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f66cbc1dccaacae",
+  "active": "0f2244012cd0cf47",
   "lastOpenFiles": [
-    "Clippings/Opinion  Use A.I. to Reinvigorate Democracy — Not Replace It.md",
     "Clippings/In the Wake of the Edmund Fitzgerald.md",
+    "journal/2025-11-11.md",
+    "Clippings/Opinion  Use A.I. to Reinvigorate Democracy — Not Replace It.md",
     "aarp-2025.md",
     "Clippings/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
     "aarp-2025.md~",
@@ -290,7 +266,6 @@
     "church/sacred space.md",
     "church/Preaching/goal of the sermon.md",
     "church/extra-prayers-eucharist.md",
-    "church/citizens of the kingdom.md",
     "tech/Read-it-later.base",
     "current",
     "thought",
