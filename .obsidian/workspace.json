@@ -78,9 +78,23 @@
               "icon": "lucide-file",
               "title": "2025-11-13"
             }
+          },
+          {
+            "id": "76d4a25b16170225",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://obsidian.md/download#os=linux&arch=x64",
+                "title": "Download - Obsidian",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Download - Obsidian"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -297,10 +310,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55f34689233aa4f6",
+  "active": "76d4a25b16170225",
   "lastOpenFiles": [
-    "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
     "journal/2025-11-13.md",
+    "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
     "Clippings/Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers.md",
     "journal/2025-11-12.md",
     "Clippings/US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled.md",
