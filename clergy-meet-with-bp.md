@@ -1,3 +1,11 @@
+---
+id: clergy-meet-with-bp
+aliases: []
+tags:
+  - church
+  - diocese
+  - legal
+---
 ## agenda
 Open carry
 canonical change
@@ -23,4 +31,8 @@ COM process and vocatin info day
 ## canonical change
 - ... duty of (vestry) to take charge of "and hold in trust for benefit of congregation … (diocese?)" …
 - intention to make clear how property should be titled. Possibility of opening congregation to liabilities when mortgage or sales.
-- Greg also erpresents the Methodist church in Florida. Cf. their fight over church property re. sexuality.
+- Greg also represents the Methodist church in Florida. Cf. their fight over church property re. sexuality.
+- Diocese has 5 chancellors
+- FL SW was out of line in some cases with National Church.
+- Bp. anticipating canonical changes in upcoming years. Earlier canons were focused on ecumenical relations. Cleaning up? Counsel for our Lutheran partners.
+- Chat saved in Beelink
