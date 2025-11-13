@@ -1,13 +1,14 @@
 ---
-title: "Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers"
-source: "https://www.sciencealert.com/venting-doesnt-reduce-anger-but-something-else-does-study-discovers"
+title: Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers
+source: https://www.sciencealert.com/venting-doesnt-reduce-anger-but-something-else-does-study-discovers
 author:
   - "[[Russell McLendon]]"
 published: 2025-11-12
 created: 2025-11-13
-description: "Venting when angry seems sensible."
+description: Venting when angry seems sensible.
 tags:
-  - "clippings"
+  - health
+  - anger
 ---
 [Venting](https://www.sciencealert.com/sorry-but-venting-online-just-makes-you-angrier-scientists-find) when angry seems sensible. Conventional wisdom suggests expressing anger can help us quell it, like releasing steam from a pressure cooker.
 

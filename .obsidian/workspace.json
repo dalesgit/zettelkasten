@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffe262188c98e5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/The Striking Similarities Between Aphorisms and Poetry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Striking Similarities Between Aphorisms and Poetry"
-            }
-          },
-          {
-            "id": "01f1f15bcbb51050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled"
-            }
-          },
-          {
             "id": "d5fb84bec75765b9",
             "type": "leaf",
             "state": {
@@ -77,6 +29,54 @@
               },
               "icon": "lucide-file",
               "title": "Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers"
+            }
+          },
+          {
+            "id": "412f4728852c2261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person"
+            }
+          },
+          {
+            "id": "55f34689233aa4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-11-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-13"
             }
           }
         ],
@@ -297,10 +297,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5fb84bec75765b9",
+  "active": "55f34689233aa4f6",
   "lastOpenFiles": [
-    "journal/2025-11-12.md",
+    "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
+    "journal/2025-11-13.md",
     "Clippings/Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers.md",
+    "journal/2025-11-12.md",
     "Clippings/US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled.md",
     "Clippings/The Striking Similarities Between Aphorisms and Poetry.md",
     "Clippings/What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection.md",
