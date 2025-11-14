@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5fb84bec75765b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers"
-            }
-          },
-          {
-            "id": "412f4728852c2261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person"
-            }
-          },
-          {
             "id": "55f34689233aa4f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-11-13.md",
+                "file": "Poetry/poetry-11-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,25 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-13"
-            }
-          },
-          {
-            "id": "76d4a25b16170225",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://obsidian.md/download#os=linux&arch=x64",
-                "title": "Download - Obsidian",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Download - Obsidian"
+              "title": "poetry-11-13"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -310,9 +248,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76d4a25b16170225",
+  "active": "55f34689233aa4f6",
   "lastOpenFiles": [
     "journal/2025-11-13.md",
+    "Poetry/poetry-11-13.md",
     "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
     "Clippings/Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers.md",
     "journal/2025-11-12.md",
