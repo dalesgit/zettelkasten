@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a950de49f3a5e5ee",
+        "id": "76559450c6284b67",
         "type": "tabs",
         "children": [
           {
-            "id": "b9746c6471716333",
+            "id": "34b9a23e1a8cbd48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Why American Trains Suck.md",
+                "file": "journal/2025-11-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Why American Trains Suck"
+              "title": "2025-11-14"
             }
           }
         ]
@@ -247,10 +247,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9746c6471716333",
+  "active": "34b9a23e1a8cbd48",
   "lastOpenFiles": [
-    "Poetry/Poetry-11-13.md",
+    "Clippings/Opinion  I’m a Psychoanalyst. This Is What Technology Is Doing to Us..md",
+    "journal/2025-11-14.md",
+    "ReadItLater Inbox/Note 2025-11-14 15-27-35.md",
+    "ReadItLater Inbox/‘Angry and disappointed’ Kamala Harris critical of Joe Biden in new book.md",
+    "tech/Textsnippet.md",
     "Clippings/Why American Trains Suck.md",
+    "Poetry/Poetry-11-13.md",
     "Poetry/poetry-11-13.md",
     "journal/2025-11-13.md",
     "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
