@@ -8,61 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87a4b3f09ee62491",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What feeds me  From MP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What feeds me  From MP"
-            }
-          },
-          {
-            "id": "2e9655a0fd0d5d75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poetry/poetry-11-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "poetry-11-12"
-            }
-          },
-          {
             "id": "17298d2d0424a2c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-11-14.md",
-                "mode": "source",
+                "file": "Poverty by America.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-14"
+              "title": "Poverty by America"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,9 +191,11 @@
   },
   "active": "17298d2d0424a2c0",
   "lastOpenFiles": [
-    "Poetry/Poetry-11-13.md",
-    "What feeds me  From MP.md",
     "Poetry/poetry-11-12.md",
+    "What feeds me  From MP.md",
+    "Poverty by America.md",
+    "journal/2025-11-14.md",
+    "Poetry/Poetry-11-13.md",
     "journal/2025-11-13.md",
     "journal/2025-11-10.md",
     "Clippings/In the Wake of the Edmund Fitzgerald.md",
@@ -265,8 +218,6 @@
     "ReadItLater Inbox/Resources.md",
     "Poetry/poetry-11-10.md",
     "journal/2025-11-09.md",
-    "ReadItLater Inbox/The best meditation apps to quit doomscrolling and find peace instead.md",
-    "Timestamps/2025/07-July/2025-07-06-Sunday.md",
     "Untitled 1.canvas"
   ]
 }
