@@ -20,6 +20,7 @@
 - [ ] hat 
 - [ ] bicycle equipment
 - [ ] bike stuff: stool, front bag, helmet, pump
+- [ ] exercise bag with headphones
 ## bathroom
  
 - [ ] Black bag
