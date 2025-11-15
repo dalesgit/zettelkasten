@@ -12,6 +12,8 @@ tags: []
 - perfect form of transportation
 - except in US
 
-I have by executive judgment often exclaimed that
-Trains are the best way to travel.
+I have by executive proclamation 
+often pronounced that
+Trains are the best way to travel
 Not in the US, of course.
+	

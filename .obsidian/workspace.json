@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-11-14.md",
+                "file": "journal/2025-11-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-14"
+              "title": "2025-11-15"
+            }
+          },
+          {
+            "id": "1c33ec1892541045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/poetry-11-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "poetry-11-15"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +272,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34b9a23e1a8cbd48",
+  "active": "1c33ec1892541045",
   "lastOpenFiles": [
-    "Clippings/Opinion  I’m a Psychoanalyst. This Is What Technology Is Doing to Us..md",
+    "journal/2025-11-15.md",
     "journal/2025-11-14.md",
+    "Clippings/Opinion  I’m a Psychoanalyst. This Is What Technology Is Doing to Us..md",
     "ReadItLater Inbox/Note 2025-11-14 15-27-35.md",
     "ReadItLater Inbox/‘Angry and disappointed’ Kamala Harris critical of Joe Biden in new book.md",
     "tech/Textsnippet.md",
