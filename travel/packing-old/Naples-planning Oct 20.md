@@ -7,7 +7,7 @@ tags:
 [[packing checklist]]
 
 - [ ]  **Extra**
-- [x] Pagels book
+- [ ] Pagels book
 - [x] gifts for Scott
 - [x] check on delivery Wednesday
 - [x] Bike stuff

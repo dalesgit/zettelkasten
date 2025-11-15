@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34b9a23e1a8cbd48",
+            "id": "0f208a37274db05c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-11-15.md",
+                "file": "travel/packing-hilton-head.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-15"
+              "title": "packing-hilton-head"
             }
           },
           {
-            "id": "1c33ec1892541045",
+            "id": "336858f182503790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-11-15.md",
+                "file": "travel/packing checklist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-11-15"
+              "title": "packing checklist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -272,33 +272,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c33ec1892541045",
+  "active": "0f208a37274db05c",
   "lastOpenFiles": [
+    "travel/packing checklist.md",
+    "travel/packing-hilton-head.md",
+    "travel/packing-old/2025-fall-Packing-list.md",
+    "travel/packing-old/orlando-checklist.md",
+    "travel/packing-old/Naples-planning-Sept-2025.md",
     "journal/2025-11-15.md",
-    "journal/2025-11-14.md",
-    "Clippings/Opinion  I’m a Psychoanalyst. This Is What Technology Is Doing to Us..md",
-    "ReadItLater Inbox/Note 2025-11-14 15-27-35.md",
-    "ReadItLater Inbox/‘Angry and disappointed’ Kamala Harris critical of Joe Biden in new book.md",
-    "tech/Textsnippet.md",
-    "Clippings/Why American Trains Suck.md",
-    "Poetry/Poetry-11-13.md",
-    "Poetry/poetry-11-13.md",
-    "journal/2025-11-13.md",
-    "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
-    "Clippings/Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers.md",
-    "journal/2025-11-12.md",
-    "Clippings/US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled.md",
-    "Clippings/The Striking Similarities Between Aphorisms and Poetry.md",
-    "Clippings/What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection.md",
-    "journal/2025-11-11.md",
-    "Clippings/In the Wake of the Edmund Fitzgerald.md",
-    "Clippings/Opinion  Use A.I. to Reinvigorate Democracy — Not Replace It.md",
-    "aarp-2025.md",
-    "Clippings/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
-    "aarp-2025.md~",
-    "Poetry/poetry-11-10.md",
-    "Progressive Christianity.md",
-    "Poetry/poetry-11-09.md",
-    "Poetry/poetry-11-07.md"
+    "travel/packing-old/Naples-planning Oct 20.md",
+    "Poetry/poetry-11-15.md",
+    "travel/packing/packing-hilton-head",
+    "grocy-app/web-md-Recipes/recipes10/speisen/sweet-potato-chili.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/white_russian.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/whiskysour.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/virgin_colada.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/tschunk.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/tropical_cooler.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/pg-13_singapore_sling.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/moskito.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/martini.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/gin_tonic.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/daviscup.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/cucumber_mint_basil_soda.md",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/Leche_de_Tigre.md",
+    "grocy-app/web-md-Recipes/recipes10/speisen",
+    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
+    "grocy-app/web-md-Recipes/recipes10/2019-11-09_GB.md",
+    "grocy-app/web-md-Recipes/recipes04/starter_french-garlic-soup.md",
+    "grocy-app/web-md-Recipes/recipes04/side-dish_sweet-potato-purree.md",
+    "grocy-app/web-md-Recipes/recipes04/side-dish_cris-topping-tofu.md",
+    "grocy-app/web-md-Recipes/recipes04/salad_watermelon-salad.md",
+    "grocy-app/web-md-Recipes/recipes10",
+    "grocy-app/web-md-Recipes/recipes04",
+    "grocy-app/web-md-Recipes/recipes03",
+    "grocy-app/web-md-Recipes",
+    "grocy-app/templates",
+    "grocy-app/pantry-inventory/storage.md.orig",
+    "grocy-app/assets/grocy-pics/tasks.png",
+    "grocy-app/assets/grocy-pics/stock-overview.png",
+    "grocy-app/assets/grocy-pics/shopping-list.png",
+    "grocy-app/assets/grocy-pics/recipes.png",
+    "grocy-app/assets/grocy-pics/meal-plan.png",
+    "grocy-app/assets/grocy-pics/equipment.png",
+    "grocy-app/assets/grocy-pics/chores-overview.png",
+    "grocy-app/assets/grocy-pics/batteries-overview.png"
   ]
 }

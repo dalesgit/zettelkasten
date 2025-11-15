@@ -1,6 +1,6 @@
-[[Naples-planning Oct 20]]
+from [[packing-hilton-head]]
 ```dataview
-task
-from "packing" 
-where !fullyCompleted
+task 
+from "travel/packing-hilton-head"
+where  !fullyCompleted
 ```
