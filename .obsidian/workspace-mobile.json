@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae5e2688b1fd6ae",
+        "id": "96e460bd943695e3",
         "type": "tabs",
         "children": [
           {
-            "id": "26cd8740fe120ad8",
+            "id": "f4375bcc0037acd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
-                "mode": "source",
+                "file": "travel/packing-hilton-head.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times"
-            }
-          },
-          {
-            "id": "d7840dcabfa20555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-11-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-15"
+              "title": "packing-hilton-head"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +189,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "d7840dcabfa20555",
+  "active": "f4375bcc0037acd4",
   "lastOpenFiles": [
-    "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
+    "journal/2025-11-16.md",
     "journal/2025-11-15.md",
+    "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
+    "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
     "travel/packing-hilton-head.md",
     "/Poetry/poetry-11-15.md",
     "/Poetry",
@@ -242,8 +219,6 @@
     "aarp-2025.md",
     "Google-drive-rclone.md",
     "Poetry/poetry-11-11.md",
-    "journal/2025-11-11.md",
-    "journal/2025-11-12.md",
     "Untitled 1.canvas"
   ]
 }

@@ -2,22 +2,22 @@
 
 ## clothes
 
-- [ ] 2 long training pants
-- [ ] 2 long sleeve cotton
-- [ ] 1 cotton short sleeve
-- [ ] Aloha shirt
+- [x] 2 long training pants
+- [x] 2 long sleeve cotton
+- [x] 1 cotton short sleeve
+- [x] Aloha shirt
 - [ ] training shoes
-- [ ] underwear
-- [ ] socks
+- [x] underwear
+- [x] socks
 - [ ] crocs
-- [ ] pull-on shorts (2)
+- [x] pull-on shorts (2)
 ### Dressy
 
-- [ ] good shirt & slacks?
+- [x] good shirt & slacks?
 
 ### Variable temperature
 
-- [ ] jacket
+- [x] jacket
 - [ ] hat 
 - [ ] bicycle equipment
 - [ ] bike stuff: 
@@ -25,8 +25,8 @@
 - [ ] exercise bag with headphones
 ## bathroom
  
-- [ ] Black bag
-- [ ] water pic portable
+- [x] Black bag
+- [x] water pic portable
 - [ ] wipes
 - [ ] toothbrush
 - [ ] shampoos
