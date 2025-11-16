@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/Note 2025-11-15 23-23-04.md",
+                "file": "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Note 2025-11-15 23-23-04"
+              "title": "Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times"
+            }
+          },
+          {
+            "id": "d7840dcabfa20555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-11-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-15"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,14 +214,14 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "26cd8740fe120ad8",
+  "active": "d7840dcabfa20555",
   "lastOpenFiles": [
-    "ReadItLater Inbox/Note 2025-11-15 23-23-04.md",
+    "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
+    "journal/2025-11-15.md",
     "travel/packing-hilton-head.md",
     "/Poetry/poetry-11-15.md",
     "/Poetry",
     "travel/packing checklist.md",
-    "journal/2025-11-15.md",
     "journal/2025-11-14.md",
     "Poverty by America.md",
     "Poetry/poetry-11-12.md",
