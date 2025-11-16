@@ -5,14 +5,15 @@
 - [ ] 2 long training pants
 - [ ] 2 long sleeve cotton
 - [ ] 1 cotton short sleeve
+- [ ] Aloha shirt
 - [ ] training shoes
 - [ ] underwear
+- [ ] socks
 - [ ] crocs
 - [ ] pull-on shorts (2)
-- [ ] low socks
 ### Dressy
 
-- [ ] good shirt & slacks
+- [ ] good shirt & slacks?
 
 ### Variable temperature
 
