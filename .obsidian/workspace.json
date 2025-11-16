@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/packing-hilton-head.md",
+                "file": "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "packing-hilton-head"
+              "title": "Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut"
             }
           },
           {
@@ -53,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "packing checklist"
+            }
+          },
+          {
+            "id": "b0b488cb5300afc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-11-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-16"
             }
           }
         ]
@@ -281,10 +305,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d91e49921bcdffed",
+  "active": "0f208a37274db05c",
   "lastOpenFiles": [
-    "travel/packing checklist.md",
+    "journal/2025-11-16.md",
+    "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
     "travel/packing-hilton-head.md",
+    "travel/packing checklist.md",
     "travel/packing-old/2025-fall-Packing-list.md",
     "travel/packing-old/orlando-checklist.md",
     "travel/packing-old/Naples-planning-Sept-2025.md",
@@ -311,8 +337,6 @@
     "grocy-app/web-md-Recipes/recipes10/2019-11-09_GB.md",
     "grocy-app/web-md-Recipes/recipes04/starter_french-garlic-soup.md",
     "grocy-app/web-md-Recipes/recipes04/side-dish_sweet-potato-purree.md",
-    "grocy-app/web-md-Recipes/recipes04/side-dish_cris-topping-tofu.md",
-    "grocy-app/web-md-Recipes/recipes04/salad_watermelon-salad.md",
     "grocy-app/web-md-Recipes/recipes10",
     "grocy-app/web-md-Recipes/recipes04",
     "grocy-app/web-md-Recipes/recipes03",
