@@ -6,11 +6,12 @@
 - [x] 2 long sleeve cotton
 - [x] 1 cotton short sleeve
 - [x] Aloha shirt
-- [ ] training shoes
+- [x] training shoes
 - [x] underwear
 - [x] socks
 - [ ] crocs
 - [x] pull-on shorts (2)
+- [x] swimsuit 
 ### Dressy
 
 - [x] good shirt & slacks?
@@ -18,7 +19,7 @@
 ### Variable temperature
 
 - [x] jacket
-- [ ] hat 
+- [x] hat
 - [ ] bicycle equipment
 - [ ] bike stuff: 
 - [ ] stool, front bag, helmet, pump
@@ -28,17 +29,17 @@
 - [x] Black bag
 - [x] water pic portable
 - [ ] wipes
-- [ ] toothbrush
+- [x] toothbrush
 - [ ] shampoos
-- [ ] scrunchy cloth
+- [x] scrunchy cloth
 - [ ] electric clipper
-- [ ] second Bathroom bag  
+- [x] second Bathroom bag  
 ## Meds
 
-- [ ] first aid
-- [ ] fungal
+- [x] first aid
+- [x] fungal
 - [ ] eczema
-- [ ] Regular meds 
+- [x] Regular meds 
 
 ## Other
 
@@ -46,17 +47,17 @@
 
 - [x] coffee & filters
 - [x] wine & cork screw
-- [ ] snacks
-- [ ] cheese
-- [ ] trail mix
+- [x] snacks
+- [x] cheese
+- [x] trail mix
 - [ ] Strength chord
 
 ### tech
 
-- [ ] bookx
-- [ ] new keyboard
-- [ ] tablet
+- [x] bookx
+- [x] new keyboard
+- [x] tablet
 - [ ] chargers: hearing, watch, iphone, usb a, usb c, computer
-- [ ] combo cube -- and/or new cord
-- [ ] hearing aid
-- [ ] journal
+- [x] combo cube -- and/or new cord
+- [x] hearing aid
+- [x] journal
