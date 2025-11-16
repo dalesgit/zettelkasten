@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db9f11603033400d",
+        "id": "8ae5e2688b1fd6ae",
         "type": "tabs",
         "children": [
           {
-            "id": "17298d2d0424a2c0",
+            "id": "26cd8740fe120ad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "travel/packing-hilton-head.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "packing-hilton-head"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -189,10 +174,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "17298d2d0424a2c0",
+  "active": "26cd8740fe120ad8",
   "lastOpenFiles": [
-    "travel/packing checklist.md",
     "travel/packing-hilton-head.md",
+    "/Poetry/poetry-11-15.md",
+    "/Poetry",
+    "travel/packing checklist.md",
     "journal/2025-11-15.md",
     "journal/2025-11-14.md",
     "Poverty by America.md",
@@ -217,7 +204,6 @@
     "journal/2025-11-11.md",
     "journal/2025-11-12.md",
     "Progressive Christianity.md",
-    "ReadItLater Inbox/Therapist shares 3 quotes she uses 'almost daily' with patients.md",
     "Untitled 1.canvas"
   ]
 }
