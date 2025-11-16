@@ -11,9 +11,24 @@
             "id": "26cd8740fe120ad8",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/Note 2025-11-15 23-23-04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Note 2025-11-15 23-23-04"
             }
           }
         ]
@@ -176,6 +191,7 @@
   },
   "active": "26cd8740fe120ad8",
   "lastOpenFiles": [
+    "ReadItLater Inbox/Note 2025-11-15 23-23-04.md",
     "travel/packing-hilton-head.md",
     "/Poetry/poetry-11-15.md",
     "/Poetry",
@@ -203,7 +219,6 @@
     "Poetry/poetry-11-11.md",
     "journal/2025-11-11.md",
     "journal/2025-11-12.md",
-    "Progressive Christianity.md",
     "Untitled 1.canvas"
   ]
 }
