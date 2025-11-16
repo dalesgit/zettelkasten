@@ -23,7 +23,7 @@
 - [ ] bicycle equipment
 - [ ] bike stuff: 
 - [ ] stool, front bag, helmet, pump
-- [ ] exercise bag with headphones
+- [x] exercise bag with headphones
 ## bathroom
  
 - [x] Black bag
@@ -50,7 +50,7 @@
 - [x] snacks
 - [x] cheese
 - [x] trail mix
-- [ ] Strength chord
+- [x] Strength chord
 
 ### tech
 
