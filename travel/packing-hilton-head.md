@@ -20,7 +20,8 @@
 - [ ] jacket
 - [ ] hat 
 - [ ] bicycle equipment
-- [ ] bike stuff: stool, front bag, helmet, pump
+- [ ] bike stuff: 
+- [ ] stool, front bag, helmet, pump
 - [ ] exercise bag with headphones
 ## bathroom
  
@@ -29,24 +30,22 @@
 - [ ] wipes
 - [ ] toothbrush
 - [ ] shampoos
-- [ ] cloth
+- [ ] scrunchy cloth
 - [ ] electric clipper
-- [ ] Bathroom bag separate 
+- [ ] second Bathroom bag  
 ## Meds
 
 - [ ] first aid
 - [ ] fungal
 - [ ] eczema
 - [ ] Regular meds 
-- [ ] Shampoo etc. 
-- [ ] scrub cloth 
 
-## kitchen
+## Other
 
 ### Hotel rooms
 
-- [ ] coffee & filters
-- [ ] wine & cork screw
+- [x] coffee & filters
+- [x] wine & cork screw
 - [ ] snacks
 - [ ] cheese
 - [ ] trail mix
@@ -59,5 +58,5 @@
 - [ ] tablet
 - [ ] chargers: hearing, watch, iphone, usb a, usb c, computer
 - [ ] combo cube -- and/or new cord
-- [ ] hearing aids (2 sets)
+- [ ] hearing aid
 - [ ] journal
