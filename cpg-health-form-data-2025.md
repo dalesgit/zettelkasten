@@ -35,5 +35,6 @@ tags: []
 
 ---
 
-Note: I (Dale) have been enrolled in the CPG plan for some years now. This is the first year I want to enroll my wife, Mary Pat. We want to enroll her in the Comprehensive plan and the Delta basic plan. A copy of my current UHC card is included as well as a copy of Mary Pat's Medicare card.
+Note: I (Dale) have been enrolled in the CPG plan for some years now. This is the first year I want to enroll my wife, Mary Pat. We want to enroll her in the Comprehensive plan and the Delta basic plan A copy of my current UHC card is included as well as a copy of Mary Pat's Medicare card.
+
 
