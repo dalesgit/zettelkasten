@@ -9,7 +9,7 @@
 - [x] training shoes
 - [x] underwear
 - [x] socks
-- [ ] crocs
+- [x] crocs
 - [x] pull-on shorts (2)
 - [x] swimsuit 
 ### Dressy
@@ -20,9 +20,9 @@
 
 - [x] jacket
 - [x] hat
-- [ ] bicycle equipment
-- [ ] bike stuff: 
-- [ ] stool, front bag, helmet, pump
+- [x] bicycle equipment
+- [x] bike stuff: 
+- [x] stool, front bag, helmet, pump
 - [x] exercise bag with headphones
 ## bathroom
  
@@ -34,6 +34,7 @@
 - [x] scrunchy cloth
 - [ ] electric clipper
 - [x] second Bathroom bag  
+- [x] nightlight 
 ## Meds
 
 - [x] first aid
@@ -57,7 +58,7 @@
 - [x] bookx
 - [x] new keyboard
 - [x] tablet
-- [ ] chargers: hearing, watch, iphone, usb a, usb c, computer
+- [x] chargers: hearing, watch, iphone, usb a, usb c, computer
 - [x] combo cube -- and/or new cord
 - [x] hearing aid
 - [x] journal
