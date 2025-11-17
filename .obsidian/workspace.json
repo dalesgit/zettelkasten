@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
+                "file": "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ken Burns' 'The American Revolution' revisits the country's founding  NPR"
+              "title": "Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -283,12 +281,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3619969f7dfee4ac",
+  "active": "0f208a37274db05c",
   "lastOpenFiles": [
-    "Poetry/poetry-11-16.md",
-    "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
-    "Poetry/poetry-11-17.md",
+    "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times.md",
     "journal/2025-11-17.md",
+    "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times 1.md",
+    "Clippings/Ken Burns’ ‘The American Revolution’ explores the beginnings of the nation’s democracy  PBS News.md",
+    "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
+    "Poetry/poetry-11-16.md",
+    "Poetry/poetry-11-17.md",
     "Clippings/Americans’ religious profile, visualized as 100 people  Pew Research Center.md",
     "conflict-files-obsidian-git.md",
     "travel/packing checklist.md",
@@ -309,9 +310,6 @@
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/whiskysour.md",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/virgin_colada.md",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/tschunk.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/tropical_cooler.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/pg-13_singapore_sling.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/moskito.md",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
     "grocy-app/web-md-Recipes/recipes10/speisen",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
