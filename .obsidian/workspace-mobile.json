@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db9f11603033400d",
+        "id": "96e460bd943695e3",
         "type": "tabs",
         "children": [
           {
-            "id": "17298d2d0424a2c0",
+            "id": "f4375bcc0037acd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/packing-hilton-head.md",
+                "file": "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "packing-hilton-head"
+              "title": "The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman"
+            }
+          },
+          {
+            "id": "906be7e8d41bef81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-11-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,11 +214,17 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "17298d2d0424a2c0",
+  "active": "906be7e8d41bef81",
   "lastOpenFiles": [
-    "travel/packing checklist.md",
+    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
     "travel/packing-hilton-head.md",
+    "travel/packing checklist.md",
+    "journal/2025-11-16.md",
     "journal/2025-11-15.md",
+    "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
+    "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
+    "/Poetry/poetry-11-15.md",
+    "/Poetry",
     "journal/2025-11-14.md",
     "Poverty by America.md",
     "Poetry/poetry-11-12.md",
@@ -213,11 +244,6 @@
     "meeting_11-13-saved_new_chat.txt",
     "aarp-2025.md",
     "Google-drive-rclone.md",
-    "Poetry/poetry-11-11.md",
-    "journal/2025-11-11.md",
-    "journal/2025-11-12.md",
-    "Progressive Christianity.md",
-    "ReadItLater Inbox/Therapist shares 3 quotes she uses 'almost daily' with patients.md",
     "Untitled 1.canvas"
   ]
 }

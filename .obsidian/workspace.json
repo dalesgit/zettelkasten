@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Americans’ religious profile, visualized as 100 people  Pew Research Center"
             }
-          },
-          {
-            "id": "336858f182503790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "travel/packing checklist.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "packing checklist"
-            }
           }
         ]
       }
@@ -122,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -283,9 +260,16 @@
   },
   "active": "0f208a37274db05c",
   "lastOpenFiles": [
-    "travel/packing-hilton-head.md",
+    "journal/2025-11-17.md",
     "Clippings/Americans’ religious profile, visualized as 100 people  Pew Research Center.md",
+    "conflict-files-obsidian-git.md",
     "travel/packing checklist.md",
+    "journal/2025-11-16.md",
+    "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
+    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
+    "Poetry/poetry-11-16.md",
+    "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
+    "travel/packing-hilton-head.md",
     "travel/packing-old/2025-fall-Packing-list.md",
     "travel/packing-old/orlando-checklist.md",
     "travel/packing-old/Naples-planning-Sept-2025.md",
@@ -304,15 +288,8 @@
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/martini.md",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/gin_tonic.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/daviscup.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/cucumber_mint_basil_soda.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/Leche_de_Tigre.md",
     "grocy-app/web-md-Recipes/recipes10/speisen",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
-    "grocy-app/web-md-Recipes/recipes10/2019-11-09_GB.md",
-    "grocy-app/web-md-Recipes/recipes04/starter_french-garlic-soup.md",
-    "grocy-app/web-md-Recipes/recipes04/side-dish_sweet-potato-purree.md",
-    "grocy-app/web-md-Recipes/recipes04/side-dish_cris-topping-tofu.md",
     "grocy-app/web-md-Recipes/recipes10",
     "grocy-app/web-md-Recipes/recipes04",
     "grocy-app/web-md-Recipes/recipes03",

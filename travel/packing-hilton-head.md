@@ -2,43 +2,45 @@
 
 ## clothes
 
-- [ ] 2 long training pants
-- [ ] 2 long sleeve cotton
-- [ ] 1 cotton short sleeve
-- [ ] Aloha shirt
-- [ ] training shoes
-- [ ] underwear
-- [ ] socks
-- [ ] crocs
-- [ ] pull-on shorts (2)
+- [x] 2 long training pants
+- [x] 2 long sleeve cotton
+- [x] 1 cotton short sleeve
+- [x] Aloha shirt
+- [x] training shoes
+- [x] underwear
+- [x] socks
+- [x] crocs
+- [x] pull-on shorts (2)
+- [x] swimsuit 
 ### Dressy
 
-- [ ] good shirt & slacks?
+- [x] good shirt & slacks?
 
 ### Variable temperature
 
-- [ ] jacket
-- [ ] hat 
-- [ ] bicycle equipment
-- [ ] bike stuff: 
-- [ ] stool, front bag, helmet, pump
-- [ ] exercise bag with headphones
+- [x] jacket
+- [x] hat
+- [x] bicycle equipment
+- [x] bike stuff: 
+- [x] stool, front bag, helmet, pump
+- [x] exercise bag with headphones
 ## bathroom
  
-- [ ] Black bag
-- [ ] water pic portable
+- [x] Black bag
+- [x] water pic portable
 - [ ] wipes
-- [ ] toothbrush
+- [x] toothbrush
 - [ ] shampoos
-- [ ] scrunchy cloth
+- [x] scrunchy cloth
 - [ ] electric clipper
-- [ ] second Bathroom bag  
+- [x] second Bathroom bag  
+- [x] nightlight 
 ## Meds
 
-- [ ] first aid
-- [ ] fungal
+- [x] first aid
+- [x] fungal
 - [ ] eczema
-- [ ] Regular meds 
+- [x] Regular meds 
 
 ## Other
 
@@ -46,17 +48,17 @@
 
 - [x] coffee & filters
 - [x] wine & cork screw
-- [ ] snacks
-- [ ] cheese
-- [ ] trail mix
-- [ ] Strength chord
+- [x] snacks
+- [x] cheese
+- [x] trail mix
+- [x] Strength chord
 
 ### tech
 
-- [ ] bookx
-- [ ] new keyboard
-- [ ] tablet
-- [ ] chargers: hearing, watch, iphone, usb a, usb c, computer
-- [ ] combo cube -- and/or new cord
-- [ ] hearing aid
-- [ ] journal
+- [x] bookx
+- [x] new keyboard
+- [x] tablet
+- [x] chargers: hearing, watch, iphone, usb a, usb c, computer
+- [x] combo cube -- and/or new cord
+- [x] hearing aid
+- [x] journal

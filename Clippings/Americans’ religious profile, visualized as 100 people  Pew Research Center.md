@@ -1,6 +1,9 @@
 ---
 created: 2025-11-17T07:58:37 (UTC -05:00)
-tags: []
+tags:
+  - religion
+  - america
+  - Christianity
 source: https://www.pewresearch.org/short-reads/2025/11/13/if-the-u-s-had-100-people-charting-americans-religious-affiliations/
 author: Becka A. Alper
 ---
