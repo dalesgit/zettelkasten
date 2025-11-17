@@ -30,6 +30,109 @@
               "icon": "lucide-file",
               "title": "Weekly Template"
             }
+          },
+          {
+            "id": "a5563cd66ee2fa99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-11-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-17"
+            }
+          },
+          {
+            "id": "e7229697ad3d83cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Daily Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily Template"
+            }
+          },
+          {
+            "id": "509771887fa25af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Daily-note-plain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily-note-plain"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "555f52b5fd697fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d14c72d8971340e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Monthly Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Monthly Template"
+            }
           }
         ]
       }
@@ -236,7 +339,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,23 +356,25 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "recipe-grabber:Recipe Grabber": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "00e9f3a2e3dae2d3",
+  "active": "509771887fa25af4",
   "lastOpenFiles": [
+    "templates/Daily Template.md",
+    "templates/Daily-note-plain.md",
+    "templates/Daily note template.md",
+    "Daily notes/2025-11-17.md",
     "templates/Monthly Template.md",
     "templates/Weekly Template.md",
-    "templates/Daily Template.md",
     "Daily notes/2025-11-18.md",
-    "Daily notes/2025-11-17.md",
     "Daily notes/2025-11-13.md",
     "Daily notes/2025-11-14.md",
     "Daily notes/2025-11-15.md",
     "Daily notes/2025-11-16.md",
     "2025-11-18.md",
     "Daily Notes/2025-11-17.md",
-    "templates/Daily-note-plain.md",
     "journal/2025-11-17.md",
     "Weekly notes/2025-W47.md",
     "Monthly notes/2025-11.md",
@@ -284,7 +390,6 @@
     "Weekly notes",
     "yesterdays-files.md",
     "missed-links-to-save.md",
-    "journal/2025-10-08.md",
     "travel/packing/packing-hilton-head",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
     "grocy-app/web-md-Recipes/recipes10/speisen",

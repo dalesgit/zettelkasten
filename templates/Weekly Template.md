@@ -5,6 +5,7 @@ type: weekly
 ---  
 # Week -  
 ## Daily Notes  
+
 ```dataviewjs  
 let wk = dv.current().week;  
 let yr = wk.substring(0,4);  
