@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-07-12.md",
+                "file": "Daily Notes/2025-11-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-12"
+              "title": "2025-11-16"
             }
           }
         ]
@@ -236,8 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,15 +252,23 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "recipe-grabber:Recipe Grabber": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b2b7710158770c66",
   "lastOpenFiles": [
-    "Weekly notes/2025-W47.md",
-    "journal/2025-11-17.md",
-    "journal/2025-07-12.md",
+    "Daily Notes/2025-11-17.md",
     "templates/Daily Template.md",
+    "2025-11-18.md",
+    "templates/Daily-note-plain.md",
+    "journal/2025-11-17.md",
+    "Weekly notes/2025-W47.md",
+    "Monthly notes/2025-11.md",
+    "journal/2025-11-16.md",
+    "journal/Journaling.md",
+    "journal/2025-07-11.md",
+    "journal/2025-07-12.md",
     "Daily notes/2025-08-06.md",
     "Daily notes/2025-08-07.md",
     "Clippings/I created one Obsidian template that organizes my entire life.md",
@@ -272,8 +279,6 @@
     "Weekly notes",
     "yesterdays-files.md",
     "missed-links-to-save.md",
-    "journal/2025-11-16.md",
-    "templates/Daily-note-plain.md",
     "journal/2025-10-08.md",
     "+Daily Notes.md",
     "templates/Daily note template.md",
@@ -281,11 +286,6 @@
     "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times.md",
     "Clippings/Ken Burns’ ‘The American Revolution’ explores the beginnings of the nation’s democracy  PBS News.md",
     "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
-    "Poetry/poetry-11-16.md",
-    "Poetry/poetry-11-17.md",
-    "Clippings/Americans’ religious profile, visualized as 100 people  Pew Research Center.md",
-    "conflict-files-obsidian-git.md",
-    "travel/packing checklist.md",
     "travel/packing/packing-hilton-head",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
     "grocy-app/web-md-Recipes/recipes10/speisen",
