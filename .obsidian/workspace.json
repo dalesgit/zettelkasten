@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76559450c6284b67",
+        "id": "7f24cfd2d02722e7",
         "type": "tabs",
         "children": [
           {
-            "id": "0f208a37274db05c",
+            "id": "b2b7710158770c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-11-17.md",
+                "file": "journal/2025-07-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-17"
-            }
-          },
-          {
-            "id": "3619969f7dfee4ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times 1"
+              "title": "2025-07-12"
             }
           }
         ]
@@ -201,8 +177,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -256,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -278,14 +254,33 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "recipe-grabber:Recipe Grabber": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0f208a37274db05c",
+  "active": "b2b7710158770c66",
   "lastOpenFiles": [
-    "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times.md",
+    "Weekly notes/2025-W47.md",
     "journal/2025-11-17.md",
+    "journal/2025-07-12.md",
+    "templates/Daily Template.md",
+    "Daily notes/2025-08-06.md",
+    "Daily notes/2025-08-07.md",
+    "Clippings/I created one Obsidian template that organizes my entire life.md",
+    "templates/Monthly Template.md",
+    "templates/Daily-note original.md",
+    "templates/Weekly Template.md",
+    "Monthly notes",
+    "Weekly notes",
+    "yesterdays-files.md",
+    "missed-links-to-save.md",
+    "journal/2025-11-16.md",
+    "templates/Daily-note-plain.md",
+    "journal/2025-10-08.md",
+    "+Daily Notes.md",
+    "templates/Daily note template.md",
     "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times 1.md",
+    "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times.md",
     "Clippings/Ken Burns’ ‘The American Revolution’ explores the beginnings of the nation’s democracy  PBS News.md",
     "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
     "Poetry/poetry-11-16.md",
@@ -293,23 +288,7 @@
     "Clippings/Americans’ religious profile, visualized as 100 people  Pew Research Center.md",
     "conflict-files-obsidian-git.md",
     "travel/packing checklist.md",
-    "journal/2025-11-16.md",
-    "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
-    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
-    "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
-    "travel/packing-hilton-head.md",
-    "travel/packing-old/2025-fall-Packing-list.md",
-    "travel/packing-old/orlando-checklist.md",
-    "travel/packing-old/Naples-planning-Sept-2025.md",
-    "journal/2025-11-15.md",
-    "travel/packing-old/Naples-planning Oct 20.md",
-    "Poetry/poetry-11-15.md",
     "travel/packing/packing-hilton-head",
-    "grocy-app/web-md-Recipes/recipes10/speisen/sweet-potato-chili.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/white_russian.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/whiskysour.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/virgin_colada.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/tschunk.md",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
     "grocy-app/web-md-Recipes/recipes10/speisen",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
@@ -317,8 +296,6 @@
     "grocy-app/web-md-Recipes/recipes04",
     "grocy-app/web-md-Recipes/recipes03",
     "grocy-app/web-md-Recipes",
-    "grocy-app/templates",
-    "grocy-app/pantry-inventory/storage.md.orig",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
