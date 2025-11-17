@@ -20,4 +20,17 @@ tags: []
 - (blank)
 - Mary Pat Sjostrom
 - 8/18/1949 -- 293-50-2749
-- 
+
+---
+
+- (Comprehensive) -- $449 -- Spouse
+- 1/1/2026
+
+---
+
+### Dental
+
+- Delta Basic $62
+- 1/1/2026
+
+
