@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7f24cfd2d02722e7",
+        "id": "43860d734e73af52",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b7710158770c66",
+            "id": "00e9f3a2e3dae2d3",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "templates/Weekly Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Weekly Template"
             }
           }
         ]
@@ -237,14 +252,23 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "recipe-grabber:Recipe Grabber": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "b2b7710158770c66",
+  "active": "00e9f3a2e3dae2d3",
   "lastOpenFiles": [
-    "Daily Notes/2025-11-17.md",
+    "templates/Monthly Template.md",
+    "templates/Weekly Template.md",
     "templates/Daily Template.md",
+    "Daily notes/2025-11-18.md",
+    "Daily notes/2025-11-17.md",
+    "Daily notes/2025-11-13.md",
+    "Daily notes/2025-11-14.md",
+    "Daily notes/2025-11-15.md",
+    "Daily notes/2025-11-16.md",
     "2025-11-18.md",
+    "Daily Notes/2025-11-17.md",
     "templates/Daily-note-plain.md",
     "journal/2025-11-17.md",
     "Weekly notes/2025-W47.md",
@@ -256,20 +280,12 @@
     "Daily notes/2025-08-06.md",
     "Daily notes/2025-08-07.md",
     "Clippings/I created one Obsidian template that organizes my entire life.md",
-    "templates/Monthly Template.md",
     "templates/Daily-note original.md",
-    "templates/Weekly Template.md",
     "Monthly notes",
     "Weekly notes",
     "yesterdays-files.md",
     "missed-links-to-save.md",
     "journal/2025-10-08.md",
-    "+Daily Notes.md",
-    "templates/Daily note template.md",
-    "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times 1.md",
-    "Clippings/Book Review ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times.md",
-    "Clippings/Ken Burns’ ‘The American Revolution’ explores the beginnings of the nation’s democracy  PBS News.md",
-    "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
     "travel/packing/packing-hilton-head",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
     "grocy-app/web-md-Recipes/recipes10/speisen",
