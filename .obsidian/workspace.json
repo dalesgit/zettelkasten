@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Americans’ religious profile, visualized as 100 people  Pew Research Center.md",
+                "file": "journal/2025-11-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Americans’ religious profile, visualized as 100 people  Pew Research Center"
+              "title": "2025-11-17"
+            }
+          },
+          {
+            "id": "3619969f7dfee4ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/poetry-11-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "poetry-11-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,8 +283,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f208a37274db05c",
+  "active": "3619969f7dfee4ac",
   "lastOpenFiles": [
+    "Poetry/poetry-11-17.md",
     "journal/2025-11-17.md",
     "Clippings/Americans’ religious profile, visualized as 100 people  Pew Research Center.md",
     "conflict-files-obsidian-git.md",
@@ -287,7 +313,6 @@
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/moskito.md",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/martini.md",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/gin_tonic.md",
     "grocy-app/web-md-Recipes/recipes10/speisen",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
     "grocy-app/web-md-Recipes/recipes10",
