@@ -4,83 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6573c8c3b75c0891",
+        "id": "90e8c578b6cad632",
         "type": "tabs",
         "children": [
           {
-            "id": "79b8fed861299095",
+            "id": "81e7c78ec5c0eafc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2025-11-18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-18"
-            }
-          },
-          {
-            "id": "d3108e1215813e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly templates.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "weekly templates"
-            }
-          },
-          {
-            "id": "18338d99ac6af799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily template.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "daily template"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:clippings",
+                "query": "tag:calendar/weekly/<% tp.date.now('YYYY') %>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +79,8 @@
               "title": "starred"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -261,27 +198,30 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "recipe-grabber:Recipe Grabber": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18338d99ac6af799",
+  "active": "81e7c78ec5c0eafc",
   "lastOpenFiles": [
     "weekly templates.md",
+    "Untitled.md",
+    "templates/new-pages-table.md",
+    "templates/Weekly Template.md",
+    "Daily notes/2025-11-18.md",
+    "templater",
+    "templater-weekly.md",
     "daily template.md",
     "Weekly notes/2025-W48.md",
     "core template daily notes.md",
     "<% tp.date.now(\"YYYY [Week] WW\", -7) %>.md",
     "<% tp.date.weekday(\"YYYY-MM-DD\", 6) %>.md",
     "Weekly notes/2025-W49.md",
-    "Daily notes/2025-11-18.md",
     "Weekly notes/2025-W47.md",
     "Daily notes/2025-11-15.md",
     "Daily notes/2025-11-17.md",
     "Daily notes/2025-11-08.md",
     "tech/Untitled 1.base",
     "tech/Read-it-later.base",
-    "templates/Weekly Template.md",
     "templates/Daily Template.md",
     "Clippings/I created one Obsidian template that organizes my entire life.md",
     "Monthly notes/2025-11.md",
@@ -292,9 +232,6 @@
     "templates/annotation-zotero-template.md",
     "templates/basic-zotero-template.md",
     "templates/Daily-note original.md",
-    "templates/Daily note template.md",
-    "templates/Daily-note-plain.md",
-    "templates/Monthly Template.md",
     "Monthly notes",
     "Weekly notes",
     "travel/packing/packing-hilton-head",
@@ -302,7 +239,6 @@
     "grocy-app/web-md-Recipes/recipes10/speisen",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
     "grocy-app/web-md-Recipes/recipes10",
-    "grocy-app/web-md-Recipes/recipes04",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",

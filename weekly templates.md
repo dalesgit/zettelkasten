@@ -1,8 +1,11 @@
 ---
+id: weekly templates
+aliases: []
 tags:
-  - "#calendar/weekly/<% tp.date.now('YYYY') %>"
+  - <% tp.date.now('YYYY') %>
 banner: "![[<% tp.date.now('YYYY MMMM') %> Weekly Banner.jpg]]"
 banner_icon: 🗓️
+banner_x: 0.5
 source: https://raw.githubusercontent.com/mulfok/periodic-note-templates/refs/heads/main/Weekly%20Note%20Template.md
 ---
 
