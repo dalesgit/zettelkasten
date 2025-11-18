@@ -2,14 +2,13 @@
 id: weekly templates
 aliases: []
 tags:
-  - <% tp.date.now('YYYY') %>
-banner: "![[<% tp.date.now('YYYY MMMM') %> Weekly Banner.jpg]]"
+banner: "<% tp.date.now('YYYY MMMM') %>"
 banner_icon: 🗓️
 banner_x: 0.5
 source: https://raw.githubusercontent.com/mulfok/periodic-note-templates/refs/heads/main/Weekly%20Note%20Template.md
 ---
 
-# <% tp.date.now(format: string = "YYYY-MM [Week] WW") %>
+# <% tp.date.now("YYYY-MM [Week] WW") %>
 
 [[<% tp.date.now("YYYY [Week] WW", -7) %>|↶ Previous Week]] | [[<% tp.date.now("YYYY [Week] WW", 7) %>|Following Week ↷]]
 
@@ -19,6 +18,7 @@ source: https://raw.githubusercontent.com/mulfok/periodic-note-templates/refs/he
 > ID:: <% tp.date.now('YYYYMMDDHHmmss') %>
 
 **Table of Contents:**
+
 ```toc
 style: number
 ```

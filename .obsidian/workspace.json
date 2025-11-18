@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90e8c578b6cad632",
+        "id": "3b3cad01b489fd07",
         "type": "tabs",
         "children": [
           {
-            "id": "81e7c78ec5c0eafc",
+            "id": "7905fc13ea86ee88",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:calendar/weekly/<% tp.date.now('YYYY') %>",
+                "query": "tag:<% tp.date.now('YYYY') %>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +198,17 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "recipe-grabber:Recipe Grabber": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "81e7c78ec5c0eafc",
+  "active": "7905fc13ea86ee88",
   "lastOpenFiles": [
+    "Weekly notes/2025-W49.md",
+    "<% tp.date.now(\"YYYY [Week] WW\", 7) %>.md",
     "weekly templates.md",
+    "<% tp.date.now(\"YYYY [Week] WW\", -7) %>.md",
+    "weekly templates.md~",
     "Untitled.md",
     "templates/new-pages-table.md",
     "templates/Weekly Template.md",
@@ -213,9 +218,7 @@
     "daily template.md",
     "Weekly notes/2025-W48.md",
     "core template daily notes.md",
-    "<% tp.date.now(\"YYYY [Week] WW\", -7) %>.md",
     "<% tp.date.weekday(\"YYYY-MM-DD\", 6) %>.md",
-    "Weekly notes/2025-W49.md",
     "Weekly notes/2025-W47.md",
     "Daily notes/2025-11-15.md",
     "Daily notes/2025-11-17.md",
@@ -231,14 +234,12 @@
     "Daily notes/2025-11-16.md",
     "templates/annotation-zotero-template.md",
     "templates/basic-zotero-template.md",
-    "templates/Daily-note original.md",
     "Monthly notes",
     "Weekly notes",
     "travel/packing/packing-hilton-head",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
     "grocy-app/web-md-Recipes/recipes10/speisen",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
-    "grocy-app/web-md-Recipes/recipes10",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
