@@ -55,8 +55,7 @@
               "title": "2025-11-18"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,11 +279,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3108e1215813e42",
+  "floating": {
+    "id": "0af5ae99ec363ddc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "64aa2981122b0ac9",
+        "type": "window",
+        "children": [
+          {
+            "id": "d6b4b51535f0ef4a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "68e14b5b9a430fe9",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/jamiefdhurst/obsidian-auto-periodic-notes",
+                    "title": "data:text/plain,",
+                    "mode": "blank"
+                  },
+                  "icon": "globe-2",
+                  "title": "data:text/plain,"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 32,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "68e14b5b9a430fe9",
   "lastOpenFiles": [
-    "Daily notes/2025-11-15.md",
     "Weekly notes/2025-W47.md",
     "Daily notes/2025-11-18.md",
+    "Daily notes/2025-11-15.md",
     "Daily notes/2025-11-17.md",
     "Daily notes/2025-11-08.md",
     "tech/Untitled 1.base",
