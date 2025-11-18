@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-11-16.md",
+                "file": "Daily notes/2025-11-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-16"
+              "title": "2025-11-18"
             }
           }
         ],
@@ -202,7 +202,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
@@ -211,15 +210,17 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "recipe-grabber:Recipe Grabber": false
+      "recipe-grabber:Recipe Grabber": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "906be7e8d41bef81",
   "lastOpenFiles": [
+    "Daily notes/2025-11-17.md",
+    "journal/2025-11-16.md",
     "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
     "travel/packing-hilton-head.md",
     "travel/packing checklist.md",
-    "journal/2025-11-16.md",
     "journal/2025-11-15.md",
     "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
     "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
@@ -243,7 +244,6 @@
     "clergy-meet-with-bp.md",
     "meeting_11-13-saved_new_chat.txt",
     "aarp-2025.md",
-    "Google-drive-rclone.md",
     "Untitled 1.canvas"
   ]
 }
