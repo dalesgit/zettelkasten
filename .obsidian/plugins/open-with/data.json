@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "gvim",
+      "code": "gvim",
+      "arguments": "",
+      "showInMenu": false
+    }
+  ],
+  "sysexpInFileMenu": true
+}
