@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8e6c9c911f5df71",
+        "id": "6573c8c3b75c0891",
         "type": "tabs",
         "children": [
           {
-            "id": "60aabe4cc4a2cf6f",
+            "id": "79b8fed861299095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/annotation-zotero-template.md",
+                "file": "Weekly notes/2025-W47.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "annotation-zotero-template"
+              "title": "2025-W47"
+            }
+          },
+          {
+            "id": "d3108e1215813e42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-11-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-18"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,37 +277,40 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "recipe-grabber:Recipe Grabber": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "60aabe4cc4a2cf6f",
+  "active": "d3108e1215813e42",
   "lastOpenFiles": [
+    "Daily notes/2025-11-15.md",
+    "Weekly notes/2025-W47.md",
+    "Daily notes/2025-11-18.md",
+    "Daily notes/2025-11-17.md",
+    "Daily notes/2025-11-08.md",
+    "tech/Untitled 1.base",
+    "tech/Read-it-later.base",
+    "templates/Weekly Template.md",
+    "templates/Daily Template.md",
+    "Clippings/I created one Obsidian template that organizes my entire life.md",
+    "Untitled.md",
+    "core template daily notes.md",
+    "Monthly notes/2025-11.md",
+    "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn 1.md",
+    "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn.md",
+    "Daily notes/2025-11-02.md",
+    "Daily notes/2025-11-16.md",
+    "templates/annotation-zotero-template.md",
     "templates/basic-zotero-template.md",
     "templates/Daily-note original.md",
     "templates/Daily note template.md",
     "templates/Daily-note-plain.md",
     "templates/Monthly Template.md",
-    "templates/Weekly Template.md",
-    "templates/Daily Template.md",
     "templates/Daily note template 1.md",
-    "Daily notes/2025-11-18.md",
-    "Monthly notes/2025-11.md",
-    "Weekly notes/2025-W47.md",
-    "Daily notes/2025-11-17.md",
-    "Clippings/I created one Obsidian template that organizes my entire life.md",
     "Daily notes/2025-11-13.md",
     "Daily notes/2025-11-14.md",
-    "Daily notes/2025-11-15.md",
-    "Daily notes/2025-11-16.md",
     "2025-11-18.md",
     "Daily Notes/2025-11-17.md",
-    "journal/2025-11-17.md",
-    "journal/2025-11-16.md",
-    "journal/Journaling.md",
-    "journal/2025-07-11.md",
-    "journal/2025-07-12.md",
-    "Daily notes/2025-08-06.md",
-    "Daily notes/2025-08-07.md",
     "Monthly notes",
     "Weekly notes",
     "travel/packing/packing-hilton-head",
@@ -292,8 +319,6 @@
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
     "grocy-app/web-md-Recipes/recipes10",
     "grocy-app/web-md-Recipes/recipes04",
-    "grocy-app/web-md-Recipes/recipes03",
-    "grocy-app/web-md-Recipes",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
