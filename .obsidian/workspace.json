@@ -11,9 +11,24 @@
             "id": "7905fc13ea86ee88",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-11-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-17"
             }
           }
         ]
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:<% tp.date.now('YYYY') %>",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +94,7 @@
               "title": "starred"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +219,9 @@
   },
   "active": "7905fc13ea86ee88",
   "lastOpenFiles": [
+    "Daily notes/2025-11-18.md",
+    "Weekly notes/2025-W48.md",
+    "Weekly notes/2025-W47.md",
     "Weekly notes/2025-W49.md",
     "<% tp.date.now(\"YYYY [Week] WW\", 7) %>.md",
     "weekly templates.md",
@@ -212,14 +230,11 @@
     "Untitled.md",
     "templates/new-pages-table.md",
     "templates/Weekly Template.md",
-    "Daily notes/2025-11-18.md",
     "templater",
     "templater-weekly.md",
     "daily template.md",
-    "Weekly notes/2025-W48.md",
     "core template daily notes.md",
     "<% tp.date.weekday(\"YYYY-MM-DD\", 6) %>.md",
-    "Weekly notes/2025-W47.md",
     "Daily notes/2025-11-15.md",
     "Daily notes/2025-11-17.md",
     "Daily notes/2025-11-08.md",
