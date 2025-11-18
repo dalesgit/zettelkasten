@@ -279,46 +279,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "0af5ae99ec363ddc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "64aa2981122b0ac9",
-        "type": "window",
-        "children": [
-          {
-            "id": "d6b4b51535f0ef4a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "68e14b5b9a430fe9",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/jamiefdhurst/obsidian-auto-periodic-notes",
-                    "title": "data:text/plain,",
-                    "mode": "blank"
-                  },
-                  "icon": "globe-2",
-                  "title": "data:text/plain,"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 32,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "68e14b5b9a430fe9",
+  "active": "79b8fed861299095",
   "lastOpenFiles": [
     "Weekly notes/2025-W47.md",
     "Daily notes/2025-11-18.md",
