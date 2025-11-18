@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-11-18.md",
+                "file": "weekly templates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,20 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-18"
+              "title": "weekly templates"
             }
           },
           {
-            "id": "f8f223a658e9d855",
+            "id": "18338d99ac6af799",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "daily template.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "daily template"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,57 +221,7 @@
             }
           },
           {
-            "id": "e6329c7b863ef15d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "8779a5af8fc9662c",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "d32c28f5634dca6c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "ce8ac8fc3a4c5c51",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "235b4fd5adf1ddad",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "d91e49921bcdffed",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -264,9 +229,19 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "b7b08eb7f46e90ca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -286,11 +261,19 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "recipe-grabber:Recipe Grabber": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d3108e1215813e42",
+  "active": "18338d99ac6af799",
   "lastOpenFiles": [
+    "weekly templates.md",
+    "daily template.md",
+    "Weekly notes/2025-W48.md",
+    "core template daily notes.md",
+    "<% tp.date.now(\"YYYY [Week] WW\", -7) %>.md",
+    "<% tp.date.weekday(\"YYYY-MM-DD\", 6) %>.md",
+    "Weekly notes/2025-W49.md",
     "Daily notes/2025-11-18.md",
     "Weekly notes/2025-W47.md",
     "Daily notes/2025-11-15.md",
@@ -301,8 +284,6 @@
     "templates/Weekly Template.md",
     "templates/Daily Template.md",
     "Clippings/I created one Obsidian template that organizes my entire life.md",
-    "Untitled.md",
-    "core template daily notes.md",
     "Monthly notes/2025-11.md",
     "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn 1.md",
     "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn.md",
@@ -314,11 +295,6 @@
     "templates/Daily note template.md",
     "templates/Daily-note-plain.md",
     "templates/Monthly Template.md",
-    "templates/Daily note template 1.md",
-    "Daily notes/2025-11-13.md",
-    "Daily notes/2025-11-14.md",
-    "2025-11-18.md",
-    "Daily Notes/2025-11-17.md",
     "Monthly notes",
     "Weekly notes",
     "travel/packing/packing-hilton-head",
