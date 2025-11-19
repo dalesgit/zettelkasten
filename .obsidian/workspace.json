@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Weekly Template.md",
+                "file": "Daily notes/2025-11-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weekly Template"
+              "title": "2025-11-19"
             }
           }
         ]
@@ -210,11 +210,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "cb8d07bea944abdc",
   "lastOpenFiles": [
+    "Clippings/The Charlie Kirk purge How 600 Americans were punished in a pro-Trump crackdown.md",
+    "templates/Weekly Template.md",
     "templates/Daily-note-plain.md",
     "templates/new-pages-table.md",
     "Daily notes/2025-11-18.md",
@@ -225,7 +228,6 @@
     "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn 1.md",
     "templates/Monthly Template.md",
     "<% tp.date.now(\"YYYY [Week] WW\", 7) %>.md",
-    "templates/Weekly Template.md",
     "Daily notes/2025-11-15.md",
     "Daily notes/2025-11-16.md",
     "Daily notes/2025-11-17.md",
