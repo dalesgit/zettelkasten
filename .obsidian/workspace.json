@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily-note-plain.md",
+                "file": "templates/Weekly Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daily-note-plain"
+              "title": "Weekly Template"
             }
           }
         ]
@@ -210,11 +210,13 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "cb8d07bea944abdc",
   "lastOpenFiles": [
+    "templates/Daily-note-plain.md",
     "templates/new-pages-table.md",
     "Daily notes/2025-11-18.md",
     "Symbol2",
@@ -223,7 +225,6 @@
     "templates/Daily Template.md",
     "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn 1.md",
     "templates/Monthly Template.md",
-    "templates/Daily-note-plain.md",
     "<% tp.date.now(\"YYYY [Week] WW\", 7) %>.md",
     "templates/Weekly Template.md",
     "Daily notes/2025-11-15.md",
