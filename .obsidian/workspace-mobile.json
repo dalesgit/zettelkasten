@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-11-18.md",
+                "file": "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-18"
+              "title": "‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author"
             }
           }
         ],
@@ -198,7 +198,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -209,13 +208,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "recipe-grabber:Recipe Grabber": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "906be7e8d41bef81",
   "lastOpenFiles": [
+    "ReadItLater.md",
+    "Daily notes/2025-11-18.md",
     "Daily notes/2025-11-17.md",
     "journal/2025-11-16.md",
     "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
@@ -241,9 +240,7 @@
     "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
     "Clippings/US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled.md",
     "Clippings/What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection.md",
-    "clergy-meet-with-bp.md",
     "meeting_11-13-saved_new_chat.txt",
-    "aarp-2025.md",
     "Untitled 1.canvas"
   ]
 }
