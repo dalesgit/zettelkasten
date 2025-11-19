@@ -11,10 +11,24 @@
             "id": "cb8d07bea944abdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/Daily-note-plain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily-note-plain"
             }
           }
         ]
@@ -196,23 +210,26 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "cb8d07bea944abdc",
   "lastOpenFiles": [
+    "templates/new-pages-table.md",
+    "Daily notes/2025-11-18.md",
+    "Symbol2",
+    "Symbol1",
     "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn.md",
     "templates/Daily Template.md",
     "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn 1.md",
     "templates/Monthly Template.md",
     "templates/Daily-note-plain.md",
     "<% tp.date.now(\"YYYY [Week] WW\", 7) %>.md",
-    "templates/new-pages-table.md",
     "templates/Weekly Template.md",
     "Daily notes/2025-11-15.md",
     "Daily notes/2025-11-16.md",
     "Daily notes/2025-11-17.md",
-    "Daily notes/2025-11-18.md",
     "Weekly notes/2025-W48.md",
     "Weekly notes/2025-W47.md",
     "Weekly notes/2025-W49.md",
@@ -230,13 +247,10 @@
     "tech/Read-it-later.base",
     "Clippings/I created one Obsidian template that organizes my entire life.md",
     "Monthly notes/2025-11.md",
-    "Daily notes/2025-11-02.md",
     "Monthly notes",
     "Weekly notes",
     "travel/packing/packing-hilton-head",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
-    "grocy-app/web-md-Recipes/recipes10/speisen",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
