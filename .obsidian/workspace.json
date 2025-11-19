@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-11-19.md",
+                "file": "Clippings/Obsidian Guide Daily, Weekly, Monthly and Yearly notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-19"
+              "title": "Obsidian Guide Daily, Weekly, Monthly and Yearly notes"
             }
           }
         ]
@@ -216,8 +216,9 @@
   },
   "active": "cb8d07bea944abdc",
   "lastOpenFiles": [
-    "Clippings/The James Webb Space Telescope may have finally found the 1st stars in the universe.md",
     "Daily notes/2025-11-19.md",
+    "Clippings/Obsidian Guide Daily, Weekly, Monthly and Yearly notes.md",
+    "Clippings/The James Webb Space Telescope may have finally found the 1st stars in the universe.md",
     "Clippings/First kiss dates back 21 million years, say scientists.md",
     "Clippings/3 massive changes you'll see as the climate careens toward tipping points.md",
     "Clippings/The Charlie Kirk purge How 600 Americans were punished in a pro-Trump crackdown.md",
@@ -245,7 +246,6 @@
     "templater",
     "templater-weekly.md",
     "daily template.md",
-    "core template daily notes.md",
     "tech/Untitled 1.base",
     "tech/Read-it-later.base",
     "Monthly notes",
