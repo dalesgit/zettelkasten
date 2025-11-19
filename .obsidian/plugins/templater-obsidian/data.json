@@ -12,11 +12,19 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": false,
+  "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Timestamps",
+      "folder": "Daily notes",
       "template": "templates/Daily note template.md"
+    },
+    {
+      "folder": "Weekly notes",
+      "template": "templates/Weekly Template.md"
+    },
+    {
+      "folder": "Monthly notes",
+      "template": "templates/Monthly Template.md"
     }
   ],
   "enable_file_templates": false,

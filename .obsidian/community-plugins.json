@@ -1,21 +1,16 @@
 [
-  "obsidian-charts",
   "dataview",
   "calendar",
   "templater-obsidian",
   "obsidian-read-it-later",
-  "obsidian-zotero-desktop-connector",
   "obsidian-footnotes",
   "obsidian-minimal-settings",
-  "beautitab",
   "music-code-blocks",
   "obsidian-git",
-  "obsidian-kanban",
-  "recipe-grabber",
-  "obsidian-advanced-uri",
   "typewriter-mode",
   "obsidian-checklist-plugin",
-  "extract-url",
-  "journaling",
-  "table-editor-obsidian"
+  "periodic-notes",
+  "open-with",
+  "customjs",
+  "obsidian-banners"
 ]

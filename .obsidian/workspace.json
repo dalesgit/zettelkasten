@@ -4,79 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "76559450c6284b67",
+        "id": "c8810bee6fc5b28d",
         "type": "tabs",
         "children": [
           {
-            "id": "0f208a37274db05c",
+            "id": "cb8d07bea944abdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut"
-            }
-          },
-          {
-            "id": "336858f182503790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "travel/packing checklist.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "packing checklist"
-            }
-          },
-          {
-            "id": "b0b488cb5300afc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-11-16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-16"
+              "title": "New tab"
             }
           }
         ]
@@ -111,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:clippings",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -220,57 +158,7 @@
             }
           },
           {
-            "id": "e6329c7b863ef15d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
             "id": "8779a5af8fc9662c",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "d32c28f5634dca6c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "ce8ac8fc3a4c5c51",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "235b4fd5adf1ddad",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "d91e49921bcdffed",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -278,13 +166,23 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "b7b08eb7f46e90ca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
+    "width": 297.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -294,55 +192,52 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "recipe-grabber:Recipe Grabber": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0f208a37274db05c",
+  "active": "cb8d07bea944abdc",
   "lastOpenFiles": [
-    "journal/2025-11-16.md",
-    "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
-    "travel/packing-hilton-head.md",
-    "travel/packing checklist.md",
-    "travel/packing-old/2025-fall-Packing-list.md",
-    "travel/packing-old/orlando-checklist.md",
-    "travel/packing-old/Naples-planning-Sept-2025.md",
-    "journal/2025-11-15.md",
-    "travel/packing-old/Naples-planning Oct 20.md",
-    "Poetry/poetry-11-15.md",
+    "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn.md",
+    "templates/Daily Template.md",
+    "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn 1.md",
+    "templates/Monthly Template.md",
+    "templates/Daily-note-plain.md",
+    "<% tp.date.now(\"YYYY [Week] WW\", 7) %>.md",
+    "templates/new-pages-table.md",
+    "templates/Weekly Template.md",
+    "Daily notes/2025-11-15.md",
+    "Daily notes/2025-11-16.md",
+    "Daily notes/2025-11-17.md",
+    "Daily notes/2025-11-18.md",
+    "Weekly notes/2025-W48.md",
+    "Weekly notes/2025-W47.md",
+    "Weekly notes/2025-W49.md",
+    "weekly templates.md",
+    "<% tp.date.now(\"YYYY [Week] WW\", -7) %>.md",
+    "weekly templates.md~",
+    "Untitled.md",
+    "templater",
+    "templater-weekly.md",
+    "daily template.md",
+    "core template daily notes.md",
+    "<% tp.date.weekday(\"YYYY-MM-DD\", 6) %>.md",
+    "Daily notes/2025-11-08.md",
+    "tech/Untitled 1.base",
+    "tech/Read-it-later.base",
+    "Clippings/I created one Obsidian template that organizes my entire life.md",
+    "Monthly notes/2025-11.md",
+    "Daily notes/2025-11-02.md",
+    "Monthly notes",
+    "Weekly notes",
     "travel/packing/packing-hilton-head",
-    "grocy-app/web-md-Recipes/recipes10/speisen/sweet-potato-chili.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/white_russian.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/whiskysour.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/virgin_colada.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/tschunk.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/tropical_cooler.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/pg-13_singapore_sling.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/moskito.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/martini.md",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/gin_tonic.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/daviscup.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/cucumber_mint_basil_soda.md",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/Leche_de_Tigre.md",
     "grocy-app/web-md-Recipes/recipes10/speisen",
     "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
-    "grocy-app/web-md-Recipes/recipes10/2019-11-09_GB.md",
-    "grocy-app/web-md-Recipes/recipes04/starter_french-garlic-soup.md",
-    "grocy-app/web-md-Recipes/recipes04/side-dish_sweet-potato-purree.md",
-    "grocy-app/web-md-Recipes/recipes10",
-    "grocy-app/web-md-Recipes/recipes04",
-    "grocy-app/web-md-Recipes/recipes03",
-    "grocy-app/web-md-Recipes",
-    "grocy-app/templates",
-    "grocy-app/pantry-inventory/storage.md.orig",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
