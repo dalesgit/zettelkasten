@@ -29,6 +29,17 @@
               },
               "icon": "lucide-file",
               "title": "2025-W49"
+        "id": "052481ed40facb0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2a7720aca79bbe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -186,9 +197,16 @@
       "periodic-notes:Open today": false
     }
   },
+<<<<<<< HEAD
   "active": "36446d2e226c8f4d",
   "lastOpenFiles": [
     "weekly templates.md",
+  "active": "5a2a7720aca79bbe",
+  "lastOpenFiles": [
+    "my-files-inbox-7-30-25/courts/3-justices-seek-abolish-voting-rights.md",
+    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
+    "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
+    "ReadItLater.md",
     "Daily notes/2025-11-18.md",
     "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
     "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",

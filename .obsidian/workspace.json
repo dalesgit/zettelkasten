@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c8810bee6fc5b28d",
+        "id": "2e2775b158b9e361",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8d07bea944abdc",
+            "id": "23db11357a977340",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-11-20"
             }
           }
         ]
@@ -84,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -200,44 +215,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb8d07bea944abdc",
+  "active": "23db11357a977340",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-20.md",
+    "todoist-backup-20251120123929.json",
+    "Journal/Daily/2025-11-16.md",
+    "Journal/Weekly/2025-W47.md",
+    "Journal/Monthly/2025-11.md",
+    "Journal/Weekly/2025-W48.md",
+    "templater/Monthly2.md",
+    "Journal/Daily/2025-11-17.md",
+    "Journal/Daily/2025-11-18.md",
+    "Journal/Daily/2025-11-19.md",
+    "Daily notes/2025-11-20.md",
+    "Clippings/📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com.md",
+    "Clippings/Obsidian Guide Daily, Weekly, Monthly and Yearly notes.md",
+    "Daily notes/2025-11-19.md",
+    "Clippings/The James Webb Space Telescope may have finally found the 1st stars in the universe.md",
+    "Clippings/First kiss dates back 21 million years, say scientists.md",
+    "Clippings/3 massive changes you'll see as the climate careens toward tipping points.md",
+    "Clippings/The Charlie Kirk purge How 600 Americans were punished in a pro-Trump crackdown.md",
+    "templates/Weekly Template.md",
+    "templates/Daily-note-plain.md",
+    "templates/new-pages-table.md",
+    "Daily notes/2025-11-18.md",
+    "Symbol2",
+    "Symbol1",
     "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn.md",
     "templates/Daily Template.md",
     "Clippings/Get Started With Obsidian Periodic Notes and Templater  Kevin Quinn 1.md",
     "templates/Monthly Template.md",
-    "templates/Daily-note-plain.md",
-    "<% tp.date.now(\"YYYY [Week] WW\", 7) %>.md",
-    "templates/new-pages-table.md",
-    "templates/Weekly Template.md",
-    "Daily notes/2025-11-15.md",
-    "Daily notes/2025-11-16.md",
-    "Daily notes/2025-11-17.md",
-    "Daily notes/2025-11-18.md",
-    "Weekly notes/2025-W48.md",
-    "Weekly notes/2025-W47.md",
-    "Weekly notes/2025-W49.md",
-    "weekly templates.md",
-    "<% tp.date.now(\"YYYY [Week] WW\", -7) %>.md",
     "weekly templates.md~",
-    "Untitled.md",
     "templater",
-    "templater-weekly.md",
-    "daily template.md",
-    "core template daily notes.md",
-    "<% tp.date.weekday(\"YYYY-MM-DD\", 6) %>.md",
-    "Daily notes/2025-11-08.md",
     "tech/Untitled 1.base",
     "tech/Read-it-later.base",
-    "Clippings/I created one Obsidian template that organizes my entire life.md",
-    "Monthly notes/2025-11.md",
-    "Daily notes/2025-11-02.md",
     "Monthly notes",
     "Weekly notes",
     "travel/packing/packing-hilton-head",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks/makepandoc.sh",
-    "grocy-app/web-md-Recipes/recipes10/speisen",
-    "grocy-app/web-md-Recipes/recipes10/cocktails_longdrinks",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
