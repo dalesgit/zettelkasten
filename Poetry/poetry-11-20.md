@@ -10,3 +10,4 @@ like [[MP]]'s centering prayer time
 when she blocks out the rest.
 Sense of accomplishment after 3 days of struggling
 to get a system of reporting in **Obsidian**.
+Today I can look at myself with some new eyes. 
