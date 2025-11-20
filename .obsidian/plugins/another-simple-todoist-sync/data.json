@@ -1,0 +1,151 @@
+{
+  "todoistTasksData": {
+    "projects": {
+      "results": [
+        {
+          "id": "6Mc6CRJMmHWPG96j",
+          "can_assign_tasks": false,
+          "child_order": 0,
+          "color": "grey",
+          "creator_uid": "42390064",
+          "created_at": "2023-07-13T11:05:04.518691Z",
+          "is_archived": false,
+          "is_deleted": false,
+          "is_favorite": false,
+          "is_frozen": false,
+          "name": "Inbox",
+          "updated_at": "2024-05-06T19:13:46.927672Z",
+          "view_style": "list",
+          "default_order": 0,
+          "description": "",
+          "public_access": false,
+          "public_key": "daa546a8-af93-452b-8fbe-cc1542300f9c",
+          "access": {
+            "visibility": "restricted",
+            "configuration": {}
+          },
+          "role": "CREATOR",
+          "parent_id": null,
+          "inbox_project": true,
+          "is_collapsed": false,
+          "is_shared": false
+        },
+        {
+          "id": "6Mc6CXFv6pPfHPJj",
+          "can_assign_tasks": false,
+          "child_order": 1,
+          "color": "grey",
+          "creator_uid": "42390064",
+          "created_at": "2023-07-13T10:39:09.139015Z",
+          "is_archived": false,
+          "is_deleted": false,
+          "is_favorite": false,
+          "is_frozen": false,
+          "name": "Personal 🙂",
+          "updated_at": "2023-08-18T12:21:11.384056Z",
+          "view_style": "board",
+          "default_order": 0,
+          "description": "",
+          "public_access": false,
+          "public_key": "3fec6ce3-9f62-44c3-a6c7-23d015b805bd",
+          "access": {
+            "visibility": "restricted",
+            "configuration": {}
+          },
+          "role": "CREATOR",
+          "parent_id": null,
+          "inbox_project": false,
+          "is_collapsed": false,
+          "is_shared": false
+        },
+        {
+          "id": "6McHGC9GV6f2M8wm",
+          "can_assign_tasks": false,
+          "child_order": 2,
+          "color": "charcoal",
+          "creator_uid": "42390064",
+          "created_at": "2023-07-13T10:39:09.139015Z",
+          "is_archived": false,
+          "is_deleted": false,
+          "is_favorite": false,
+          "is_frozen": false,
+          "name": "Cruise 2023",
+          "updated_at": "1970-01-01T00:00:00.000000Z",
+          "view_style": "list",
+          "default_order": 0,
+          "description": "",
+          "public_access": false,
+          "public_key": "608b3f94-5a0d-42ce-805a-c2b0e9314bc8",
+          "access": {
+            "visibility": "restricted",
+            "configuration": {}
+          },
+          "role": "CREATOR",
+          "parent_id": null,
+          "inbox_project": false,
+          "is_collapsed": false,
+          "is_shared": false
+        }
+      ],
+      "next_cursor": null
+    },
+    "tasks": [],
+    "events": [],
+    "user_data": {
+      "email": "dhath12@gmail.com",
+      "full_name": "Dales-Todos",
+      "lang": "en",
+      "tz_info": {
+        "timezone": "America/New_York",
+        "gmt_string": "-05:00"
+      }
+    },
+    "sections": {
+      "results": [
+        {
+          "id": "67XfVxCX5qG5664j",
+          "user_id": "42390064",
+          "project_id": "6Mc6CXFv6pPfHPJj",
+          "added_at": "2022-12-26T13:41:40.507565Z",
+          "updated_at": "1970-01-01T00:00:00.000000Z",
+          "archived_at": null,
+          "name": "Routines 🔁",
+          "section_order": 1,
+          "is_archived": false,
+          "is_deleted": false,
+          "is_collapsed": false
+        },
+        {
+          "id": "67XfV6h9MVW5Ppcj",
+          "user_id": "42390064",
+          "project_id": "6Mc6CXFv6pPfHPJj",
+          "added_at": "2022-12-26T13:41:41.817548Z",
+          "updated_at": "1970-01-01T00:00:00.000000Z",
+          "archived_at": null,
+          "name": "Inspiration ✨",
+          "section_order": 2,
+          "is_archived": false,
+          "is_deleted": false,
+          "is_collapsed": false
+        }
+      ],
+      "next_cursor": null
+    }
+  },
+  "fileMetadata": {},
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Select a project",
+  "defaultProjectId": "",
+  "automaticSynchronizationInterval": 150,
+  "enableFullVaultSync": false,
+  "debugMode": false,
+  "commentsSync": true,
+  "alternativeKeywords": true,
+  "customSyncTag": "#tdsync",
+  "experimentalFeatures": false,
+  "changeDateOrder": false,
+  "linksAppURI": false,
+  "delayedSync": false,
+  "todoistAPIToken": "20920b4b19ecda57f7efe269ba519f9f0e84249f"
+}
