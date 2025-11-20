@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "96e460bd943695e3",
+        "id": "052481ed40facb0d",
         "type": "tabs",
         "children": [
           {
-            "id": "f4375bcc0037acd4",
+            "id": "5a2a7720aca79bbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman"
-            }
-          },
-          {
-            "id": "906be7e8d41bef81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,13 +172,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "906be7e8d41bef81",
+  "active": "5a2a7720aca79bbe",
   "lastOpenFiles": [
+    "my-files-inbox-7-30-25/courts/3-justices-seek-abolish-voting-rights.md",
+    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
+    "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
     "ReadItLater.md",
     "Daily notes/2025-11-18.md",
     "Daily notes/2025-11-17.md",
     "journal/2025-11-16.md",
-    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
     "travel/packing-hilton-head.md",
     "travel/packing checklist.md",
     "journal/2025-11-15.md",
@@ -238,8 +201,6 @@
     "Clippings/The Striking Similarities Between Aphorisms and Poetry.md",
     "Clippings/Opinion  Use A.I. to Reinvigorate Democracy — Not Replace It.md",
     "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
-    "Clippings/US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled.md",
-    "Clippings/What is time Rather than something that ‘flows,’ a philosopher suggests time is a psychological projection.md",
     "meeting_11-13-saved_new_chat.txt",
     "Untitled 1.canvas"
   ]
