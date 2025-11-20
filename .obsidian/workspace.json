@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8810bee6fc5b28d",
+        "id": "e53e269439662671",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8d07bea944abdc",
+            "id": "4e57bec4e39132d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,23 @@
               "icon": "lucide-file",
               "title": "Obsidian Guide Daily, Weekly, Monthly and Yearly notes"
             }
+          },
+          {
+            "id": "af96be5a0598e272",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://vaultofjosh.com/blog/obsidian-periodic-notes/",
+                "title": "Obsidian Guide: Daily, Weekly, Monthly and Yearly notes · Vault of Josh",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Obsidian Guide: Daily, Weekly, Monthly and Yearly notes · Vault of Josh"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,13 +225,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "cb8d07bea944abdc",
+  "active": "af96be5a0598e272",
   "lastOpenFiles": [
-    "Daily notes/2025-11-19.md",
     "Clippings/Obsidian Guide Daily, Weekly, Monthly and Yearly notes.md",
+    "Daily notes/2025-11-19.md",
     "Clippings/The James Webb Space Telescope may have finally found the 1st stars in the universe.md",
     "Clippings/First kiss dates back 21 million years, say scientists.md",
     "Clippings/3 massive changes you'll see as the climate careens toward tipping points.md",

@@ -9,7 +9,7 @@ description: "“I’d like to use your Obsidian templates, but they look so com
 tags:
   - "clippings"
 ---
-![Daily note in Obsidian](https://vaultofjosh.com/blog/obsidian-periodic-notes/images/dailyNoteHead_hu9884979f54924ffa7b0ed21b44bc965b_341286_330x0_resize_q75_h2_box_3.webp)
+ ![Daily note in Obsidian](https://vaultofjosh.com/blog/obsidian-periodic-notes/images/dailyNoteHead_hu9884979f54924ffa7b0ed21b44bc965b_341286_330x0_resize_q75_h2_box_3.webp)
 
 My daily note template in Obsidian
 
