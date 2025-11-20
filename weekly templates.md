@@ -2,10 +2,10 @@
 id: weekly templates
 aliases: []
 tags:
-banner: "<% tp.date.now('YYYY MMMM') %>"
+banner: <% tp.date.now('YYYY MMMM') %>
 banner_icon: 🗓️
 banner_x: 0.5
-source: https://raw.githubusercontent.com/mulfok/periodic-note-templates/refs/heads/main/Weekly%20Note%20Template.md
+source: https://github.com/mulfok/periodic-note-templates
 ---
 
 # <% tp.date.now("YYYY-MM [Week] WW") %>
