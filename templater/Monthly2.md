@@ -60,3 +60,12 @@ AND file.day.year = number(substring(this.file.name, 0, 4))
 AND dateformat(date(file.name), "yyyy-MM") = replace(this.file.name, "M", "")
 SORT file.day
 ```
+
+```dataview
+TABLE WITHOUT ID file.day.weekyear AS Week, good
+FROM "Journal/Daily"
+WHERE good != null
+AND file.day.year = number(substring(this.file.name, 0, 4))
+AND dateformat(date(file.name), "yyyy-MM") = replace(this.file.name, "M", "")
+SORT file.day
+```
