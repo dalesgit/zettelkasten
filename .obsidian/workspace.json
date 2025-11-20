@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02938af6b2a6e0e1",
+        "id": "aa574d95128c3198",
         "type": "tabs",
         "children": [
           {
-            "id": "50feb0420861300c",
+            "id": "a90f1ec8d174e1f8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -200,8 +200,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "50feb0420861300c",
+  "active": "a90f1ec8d174e1f8",
   "lastOpenFiles": [
+    "Daily notes/2025-11-20.md",
     "Clippings/📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com.md",
     "Clippings/Obsidian Guide Daily, Weekly, Monthly and Yearly notes.md",
     "Daily notes/2025-11-19.md",
@@ -231,7 +232,6 @@
     "weekly templates.md~",
     "Untitled.md",
     "templater",
-    "templater-weekly.md",
     "tech/Untitled 1.base",
     "tech/Read-it-later.base",
     "Monthly notes",
