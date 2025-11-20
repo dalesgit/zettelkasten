@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Journal/Weekly/2025-W47.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-W47"
+            }
+          },
+          {
+            "id": "adc874d4b32bd034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Journal/Daily/2025-11-20.md",
                 "mode": "source",
                 "source": false,
@@ -98,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -218,6 +241,11 @@
   "active": "23db11357a977340",
   "lastOpenFiles": [
     "Journal/Daily/2025-11-20.md",
+    "Journal/Weekly/2025-W47.md",
+    "Journal/Monthly/2025-11.md",
+    "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
+    "Clippings/Ken Burns on his American Revolution documentary ‘We won’t work on a more important film’.md",
+    "Clippings/How the Story of the American Revolution Is Misunderstood.md",
     "Clippings/I started using these 5 underrated Obsidian plugins and I'm never going back.md",
     "cpg-health-form-data-2025.md",
     "1763397800-LZUO.md",
@@ -238,13 +266,8 @@
     "Journal/2025-11-05.md",
     "Journal/2025-11-04.md",
     "Journal/2025-11-03.md",
-    "Journal/2025-11-02.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
-    "Journal/2025-11-01.md",
-    "Journal/2025-10-31.md",
-    "Journal/2025-10-30.md",
-    "Journal/2025-10-29.md",
     "todoist-backup-20251120123929.json",
     "Symbol2",
     "Symbol1",
