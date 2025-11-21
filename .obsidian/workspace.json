@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9e4e94d8e6d753c",
+        "id": "85c6833b6c006fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "aebdcff7a9fcb6ba",
+            "id": "050a1cb9554f0859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/new-file-works 1 1.md",
+                "file": "templates/trigger-new-file 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new-file-works 1 1"
+              "title": "trigger-new-file 1"
             }
           }
         ]
@@ -210,11 +210,13 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "aebdcff7a9fcb6ba",
+  "active": "050a1cb9554f0859",
   "lastOpenFiles": [
+    "templates/new-file-works.md",
     "templates/new-file-works 1 1.md",
     "templates/move-file.md",
     "templates/new-poem.md",
@@ -224,7 +226,6 @@
     "templates/Daily note template 1.md",
     "templates/trigger-new-file 1.md",
     "templates/new-note-template.md",
-    "templates/new-file-works.md",
     "Poetry/typee.md",
     "templates/trigger-new-file.md",
     "Poetry/eyp.md",
