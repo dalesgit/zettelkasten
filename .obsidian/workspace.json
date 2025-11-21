@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "templates/trigger-new-file.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "trigger-new-file"
             }
           }
         ]
@@ -216,9 +216,9 @@
   },
   "active": "98480740f602e9fc",
   "lastOpenFiles": [
-    "Poetry/apoem.md",
     "Untitled 1.md",
     "templates/trigger-new-file.md",
+    "Poetry/apoem.md",
     "Poetry/Untitled.md",
     "templates/new-note.md",
     "2025-W45.md",
