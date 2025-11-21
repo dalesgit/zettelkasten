@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d81a6f2ce576e85",
+        "id": "c9e4e94d8e6d753c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c387587fba51cd3",
+            "id": "aebdcff7a9fcb6ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -210,21 +210,24 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c387587fba51cd3",
+  "active": "aebdcff7a9fcb6ba",
   "lastOpenFiles": [
-    "templates/atrigger-new-file 1 1 1.md",
-    "templates/trigger-new-file.md",
-    "Untitled.md",
-    "Poetry/eyp.md",
     "templates/new-file-works 1 1.md",
-    "templates/new-file-works.md",
     "templates/move-file.md",
     "templates/new-poem.md",
-    "Untitled 1.md",
+    "Poetry/new poem.md",
+    "Poetry/Poetry-10-25.md",
+    "Poetry/type.md",
+    "templates/Daily note template 1.md",
+    "templates/trigger-new-file 1.md",
+    "templates/new-note-template.md",
+    "templates/new-file-works.md",
+    "Poetry/typee.md",
+    "templates/trigger-new-file.md",
+    "Poetry/eyp.md",
     "Untitled 2.md",
     "Poetry/poverty.md",
     "Poetry/null 6.md",
@@ -236,14 +239,10 @@
     "Poetry/null 2.md",
     "Poetry/null 1.md",
     "Poetry/null.md",
-    "templates/new-poem.md",
     ".md",
     "Poetry/Untitled.",
     "Poetry/MyFilename.md",
     "templates/new-file-works 2.md",
-    "Poetry/(title)Untitled.md",
-    "Poetry/'tp.file.name'Untitled.md",
-    "yes1.md",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",

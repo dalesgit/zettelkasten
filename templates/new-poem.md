@@ -3,13 +3,11 @@ tags:
   - poetry
 created: <% tp.file.creation_date() %>
 ---
-%* 
-
+<%*
   // Prompt for the title
   let title = await tp.system.prompt('Enter title name');
-await tp.file.create_new("title", (title), false, "Poetry/") %>
-
-
----
-
-Place holder text that will proceed here.
+  
+  // Rename the file to the entered title
+  await tp.file.rename(title);
+await tp.file.move("Poetry/" + (title) )
+%>
