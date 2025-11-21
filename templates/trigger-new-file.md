@@ -1,2 +1,5 @@
-<% tp.file.create_new(tp.file.find_tfile("new-note"), await tp.system.prompt("Set FileName"), true) %>
-<% tp.file.move("Poetry")%>
+<%*  
+let title = await tp.system.prompt("Set FileName")  
+let file = "000 Output/" + title  
+-%>  
+<% tp.file.create_new(tp.file.find_tfile("a"),file, true) %>
