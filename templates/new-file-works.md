@@ -1,5 +1,7 @@
 ---
-tags: [ma222]
+tags:
+  - poetry
+created: <% tp.file.creation_date() %>
 ---
 <%*
   // Prompt for the title
@@ -7,9 +9,11 @@ tags: [ma222]
   
   // Rename the file to the entered title
   await tp.file.rename(title);
+  
 %>
 
-<%- title %>
+# [[<% tp.file.title %>]]
+
 
 ---
 
