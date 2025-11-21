@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-11-21.md",
+                "file": "templates/new-note-template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-21"
+              "title": "new-note-template"
             }
           }
         ]
@@ -209,13 +209,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "4647ea0ea295a38e",
   "lastOpenFiles": [
-    "Journal/2025-08-11.md",
     "Journal/Daily/2025-11-21.md",
+    "Journal/2025-08-11.md",
     "Journal/2025-06-30.md",
     "Journal/2025-07-07.md",
     "thought/thought.md",
