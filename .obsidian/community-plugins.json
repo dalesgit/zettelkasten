@@ -14,5 +14,6 @@
   "customjs",
   "obsidian-banners",
   "todoist-sync-plugin",
-  "virtual-linker"
+  "virtual-linker",
+  "obsidian-tasks-plugin"
 ]
