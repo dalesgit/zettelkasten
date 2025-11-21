@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/trigger-new-file.md",
+                "file": "apoem3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "trigger-new-file"
+              "title": "apoem3"
             }
           }
         ]
@@ -216,9 +216,9 @@
   },
   "active": "2794f8fd7fd3a6f8",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Poetry/apoem.md",
     "templates/trigger-new-file.md",
+    "apoem3.md",
+    "Poetry/apoem.md",
     "Untitled 1.md",
     "Poetry/Untitled.md",
     "templates/new-note.md",
