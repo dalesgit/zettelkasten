@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17d6af1789b88007",
+        "id": "a9dba6554b4db05b",
         "type": "tabs",
         "children": [
           {
-            "id": "2794f8fd7fd3a6f8",
+            "id": "0ab4975e8273ad08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily-note-plain.md",
+                "file": "templates/trigger-new-file.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daily-note-plain"
+              "title": "trigger-new-file"
             }
           }
         ]
@@ -214,16 +214,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2794f8fd7fd3a6f8",
+  "active": "0ab4975e8273ad08",
   "lastOpenFiles": [
     "templates/new-poem.md",
+    "Untitled.md",
     "templates/trigger-new-file.md",
+    "Poetry/apoem5.md",
+    "Poetry/Poetry.md",
+    "Untitled 1.md",
+    "templates/Daily-note-plain.md",
     "Poetry/poetry-11-19.md",
     "templates/trigger-new-file 1.md",
     "Poetry/apoem4.md",
-    "Untitled.md",
     "apoem4.md",
-    "Untitled 1.md",
     "apoem3.md",
     "Poetry/apoem3.md",
     "Poetry/new-note.md",
@@ -234,15 +237,12 @@
     "poetry-date.md",
     "Untitled 2.md",
     "poetry-today.md",
-    "Poetry/Poetry.md",
     "Poetry/Poetry-10-25.md",
     "Poetry/poetry-11-21.md",
     "000 Output/tp.file.title.md",
     "000 Output",
     "poetry.md",
     "templates/new-note-template.md",
-    "Journal/Daily/2025-11-21.md",
-    "Journal/2025-08-11.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",
