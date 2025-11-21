@@ -11,10 +11,24 @@
             "id": "baef136ff85ca67d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/new-file-works 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "new-file-works 2"
             }
           }
         ]
@@ -196,13 +210,17 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "baef136ff85ca67d",
   "lastOpenFiles": [
-    "Poetry/(title)Untitled.md",
+    "Poetry/Untitled.md",
     "templates/new-file-works 2.md",
+    "Poetry/'tp.file.name'Untitled.md",
+    "Poetry/(title)Untitled.md",
+    "yes1.md",
     "Journal/Daily/2025-11-16.md",
     "Poetry/MyFilename.md",
     "Poetry/poetry-today.md",
@@ -224,8 +242,6 @@
     "knapp3.md",
     "knappy3.md",
     "knappy-no.md",
-    "knappy-yes.md",
-    "apoem6.md",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
