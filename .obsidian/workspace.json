@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0fde6594b415ee9",
+        "id": "89b6fb5da52fc567",
         "type": "tabs",
         "children": [
           {
-            "id": "71eeaeb7ede19aa5",
+            "id": "3bc4422f98ceeb76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,13 +213,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71eeaeb7ede19aa5",
+  "active": "3bc4422f98ceeb76",
   "lastOpenFiles": [
+    "Poetry.md",
+    "poetry-today.md",
+    "Poetry/Poetry.md",
+    "Poetry/Poetry-10-25.md",
+    "poetry-date.md",
+    "templates/trigger-new-file.md",
     "Poetry/poetry-11-21.md",
     "000 Output/tp.file.title.md",
     "000 Output",
     "poetry.md",
-    "templates/trigger-new-file.md",
     "templates/new-note-template.md",
     "Journal/Daily/2025-11-21.md",
     "Journal/2025-08-11.md",
@@ -236,12 +241,6 @@
     "Weekly notes/2025-W47.md",
     "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
     "Clippings/Ken Burns on his American Revolution documentary ‘We won’t work on a more important film’.md",
-    "Clippings/How the Story of the American Revolution Is Misunderstood.md",
-    "Clippings/I started using these 5 underrated Obsidian plugins and I'm never going back.md",
-    "cpg-health-form-data-2025.md",
-    "1763397800-LZUO.md",
-    "ReadItLater Inbox/Risking the Questions Podcast.md",
-    "Journal/Journaling.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",
