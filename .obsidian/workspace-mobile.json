@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7663e3cd0cb880a9",
+        "id": "e9a82e854763fcc2",
         "type": "tabs",
         "children": [
           {
-            "id": "ad317a04b0fbd00e",
+            "id": "59f7eea8db8ac2cf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ad317a04b0fbd00e",
+  "active": "59f7eea8db8ac2cf",
   "lastOpenFiles": [
+    "Clippings2/8 essential shell functions to improve your Linux command line.md",
+    "Journal/Daily/2025-11-21.md",
+    "Journal/2025-07-11.md",
     "Journal/Journaling.md",
     "ReadItLater Inbox/Risking the Questions Podcast.md",
     "Journal/2025-07-10.md",
