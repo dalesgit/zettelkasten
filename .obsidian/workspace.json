@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/trigger-new-file 1.md",
+                "file": "Poetry/null 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "trigger-new-file 1"
+              "title": "null 4"
             }
           }
         ]
@@ -216,9 +216,19 @@
   },
   "active": "0ab4975e8273ad08",
   "lastOpenFiles": [
+    "Poetry/null 3.md",
+    "Poetry/null 5.md",
+    "Poetry/null 2.md",
+    "Poetry/null 4.md",
+    "Poetry/null 1.md",
+    "Poetry/null.md",
+    "Poetry/poem-plenty.md",
     "Untitled.md",
-    "templates/trigger-new-file.md",
+    "Poetry/knappy.md",
+    "templates/trigger-new-file 1 1.md",
     "templates/trigger-new-file 1.md",
+    "kappy.md",
+    "templates/trigger-new-file.md",
     "templates/new-note-template.md",
     "templates/new-poem.md",
     "Poetry/apoem5.md",
@@ -232,17 +242,7 @@
     "Poetry/apoem3.md",
     "Poetry/new-note.md",
     "Poetry/apoem.md",
-    "Poetry/Untitled.md",
-    "2025-W45.md",
-    "Poetry.md",
-    "poetry-date.md",
-    "Untitled 2.md",
-    "poetry-today.md",
-    "Poetry/Poetry-10-25.md",
-    "Poetry/poetry-11-21.md",
-    "000 Output/tp.file.title.md",
     "000 Output",
-    "poetry.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",

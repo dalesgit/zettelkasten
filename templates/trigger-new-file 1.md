@@ -1,1 +1,7 @@
-<%* const template = tp.file.find_tfile("new-poem"); const template_content = await this.app.vault.read(template); var title = await tp.system.prompt("Set FileName"); await tp.file.create_new(template_content, title + ".md", true, "Poetry"); await tp.file.move("Poetry/" + title + ".md"); %>
+<%*
+  let title = tp.file.title;
+  if (title.startsWith("Untitled")) {
+    title = await tp.system.prompt("Enter note title");
+    await tp.file.rename(title);
+  }
+%>   
