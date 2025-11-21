@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poetry-11-21.md",
+                "file": "templates/trigger-new-file.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-11-21"
+              "title": "trigger-new-file"
             }
           }
         ]
@@ -215,8 +215,8 @@
   },
   "active": "71eeaeb7ede19aa5",
   "lastOpenFiles": [
+    "Poetry/poetry-11-21.md",
     "000 Output/tp.file.title.md",
-    "poetry-11-21.md",
     "000 Output",
     "poetry.md",
     "templates/trigger-new-file.md",
