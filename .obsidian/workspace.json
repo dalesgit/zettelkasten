@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/new-file-works 1.md",
+                "file": "templates/new-file-works.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new-file-works 1"
+              "title": "new-file-works"
             }
           }
         ]
@@ -216,15 +216,18 @@
   },
   "active": "ddd3fd3cca28edd7",
   "lastOpenFiles": [
-    "templates/new-file-works.md",
+    "Poetry/Untitled.md",
     "templates/new-file-works 1.md",
+    "templates/new-file-works.md",
+    "accept.md",
+    "knapps.md",
+    "knapps.md",
     "knapps.md",
     "templates/atrigger-new-file 1 1 1.md",
     "knapp3.md",
     "knappy3.md",
     "knappy-no.md",
     "knappy-yes.md",
-    "Poetry/Untitled.md",
     "apoem6.md",
     "templates/trigger-new-file 1 1.md",
     "Poetry/knappy.md",
@@ -238,9 +241,6 @@
     "templates/trigger-new-file 1.md",
     "kappy.md",
     "templates/trigger-new-file.md",
-    "templates/new-note-template.md",
-    "templates/new-poem.md",
-    "Poetry/apoem5.md",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",

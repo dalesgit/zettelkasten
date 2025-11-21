@@ -10,8 +10,8 @@ alias: <% tp.file.title %>
   
   // Rename the file to the entered title
   await tp.file.rename(title);
-  
-%>
+  tp.file.move("Poetry/" + tp.file.title) 
+  %>
 
 # [[<% tp.file.title %>]]
 
