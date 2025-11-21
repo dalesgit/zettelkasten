@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apoem3.md",
+                "file": "templates/trigger-new-file.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "apoem3"
+              "title": "trigger-new-file"
             }
           }
         ]
@@ -216,6 +216,7 @@
   },
   "active": "2794f8fd7fd3a6f8",
   "lastOpenFiles": [
+    "templates/trigger-new-file 1.md",
     "templates/trigger-new-file.md",
     "apoem3.md",
     "Poetry/apoem.md",
@@ -242,7 +243,6 @@
     "Journal/2025-10-14.md",
     "travel/packing checklist.md",
     "Journal/Monthly/2025-11.md",
-    "Journal/Daily/2025-11-20.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",
