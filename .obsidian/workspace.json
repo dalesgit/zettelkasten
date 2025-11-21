@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/null 6.md",
+                "file": "templates/new-poem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "null 6"
+              "title": "new-poem"
             }
           }
         ]
@@ -215,19 +215,21 @@
   },
   "active": "3c387587fba51cd3",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "templates/new-poem.md",
+    "Untitled 2.md",
+    "Poetry/poverty.md",
+    "Poetry/null 6.md",
+    "Poetry/sdf.md",
     "Poetry/null 5.md",
     "Poetry/null 7.md",
     "Poetry/null 4.md",
-    "Poetry/null 6.md",
     "Poetry/null 3.md",
     "Poetry/null 2.md",
     "Poetry/null 1.md",
     "Poetry/null.md",
-    "Poetry/sdf.md",
-    "Untitled.md",
-    "templates/new-poem.md",
     "templates/new-file-works 1 1.md",
-    "Poetry/poverty.md",
     "templates/new-file-works 1.md",
     "templates/new-file-works.md",
     ".md",
@@ -241,8 +243,6 @@
     "Poetry/poetry-today.md",
     "Poetry/poetry.md",
     "typee.md",
-    "typeo.md",
-    "typo1.md",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
