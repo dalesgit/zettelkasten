@@ -11,24 +11,10 @@
             "id": "2794f8fd7fd3a6f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/trigger-new-file.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "trigger-new-file"
+              "title": "New tab"
             }
           }
         ]
@@ -216,11 +202,15 @@
   },
   "active": "2794f8fd7fd3a6f8",
   "lastOpenFiles": [
-    "templates/trigger-new-file 1.md",
-    "templates/trigger-new-file.md",
-    "apoem3.md",
-    "Poetry/apoem.md",
     "Untitled 1.md",
+    "apoem3.md",
+    "Poetry/apoem4.md",
+    "templates/trigger-new-file.md",
+    "Poetry/apoem3.md",
+    "Poetry/new-note.md",
+    "Untitled.md",
+    "templates/trigger-new-file 1.md",
+    "Poetry/apoem.md",
     "Poetry/Untitled.md",
     "templates/new-note.md",
     "2025-W45.md",
@@ -239,10 +229,6 @@
     "Journal/2025-08-11.md",
     "Journal/2025-06-30.md",
     "Journal/2025-07-07.md",
-    "thought/thought.md",
-    "Journal/2025-10-14.md",
-    "travel/packing checklist.md",
-    "Journal/Monthly/2025-11.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",
