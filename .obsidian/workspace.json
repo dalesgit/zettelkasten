@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/new-poem.md",
+                "file": "templates/Daily-note-plain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new-poem"
+              "title": "Daily-note-plain"
             }
           }
         ]
@@ -216,6 +216,7 @@
   },
   "active": "2794f8fd7fd3a6f8",
   "lastOpenFiles": [
+    "templates/new-poem.md",
     "templates/trigger-new-file.md",
     "Poetry/poetry-11-19.md",
     "templates/trigger-new-file 1.md",
@@ -228,7 +229,6 @@
     "Poetry/new-note.md",
     "Poetry/apoem.md",
     "Poetry/Untitled.md",
-    "templates/new-poem.md",
     "2025-W45.md",
     "Poetry.md",
     "poetry-date.md",
