@@ -11,10 +11,24 @@
             "id": "2794f8fd7fd3a6f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "apoem4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "apoem4"
             }
           }
         ]
@@ -202,13 +216,14 @@
   },
   "active": "2794f8fd7fd3a6f8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "apoem4.md",
+    "templates/trigger-new-file.md",
     "Untitled 1.md",
     "apoem3.md",
     "Poetry/apoem4.md",
-    "templates/trigger-new-file.md",
     "Poetry/apoem3.md",
     "Poetry/new-note.md",
-    "Untitled.md",
     "templates/trigger-new-file 1.md",
     "Poetry/apoem.md",
     "Poetry/Untitled.md",
@@ -228,7 +243,6 @@
     "Journal/Daily/2025-11-21.md",
     "Journal/2025-08-11.md",
     "Journal/2025-06-30.md",
-    "Journal/2025-07-07.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",

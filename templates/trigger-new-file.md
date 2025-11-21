@@ -1,5 +1,5 @@
 <%*  
 let title = await tp.system.prompt("Set FileName")  
-let file = "Poetry/" + title  
+let file =  title  
 -%>  
 <% tp.file.create_new(tp.file.find_tfile("new-note"),file, true) %>
