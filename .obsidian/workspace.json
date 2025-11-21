@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5cdd50f008ae624",
+        "id": "2592d64f18d98a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "d40cd2f504cb7dc6",
+            "id": "4e6293cd2718f09c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,16 +213,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d40cd2f504cb7dc6",
+  "active": "4e6293cd2718f09c",
   "lastOpenFiles": [
+    "poetry-date.md",
+    "Untitled 1.md",
+    "templates/trigger-new-file.md",
     "Poetry.md",
     "templates/new-note.md",
     "Untitled 2.md",
-    "templates/trigger-new-file.md",
     "poetry-today.md",
     "Poetry/Poetry.md",
     "Poetry/Poetry-10-25.md",
-    "poetry-date.md",
     "Poetry/poetry-11-21.md",
     "000 Output/tp.file.title.md",
     "000 Output",
