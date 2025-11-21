@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9dba6554b4db05b",
+        "id": "c25b4fb43ce51eda",
         "type": "tabs",
         "children": [
           {
-            "id": "0ab4975e8273ad08",
+            "id": "6bb6b74698737c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/null 4.md",
+                "file": "templates/trigger-new-file 1 1 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "null 4"
+              "title": "trigger-new-file 1 1 1"
             }
           }
         ]
@@ -214,18 +214,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0ab4975e8273ad08",
+  "active": "6bb6b74698737c20",
   "lastOpenFiles": [
-    "Poetry/null 3.md",
-    "Poetry/null 5.md",
-    "Poetry/null 2.md",
+    "apoem6.md",
+    "Untitled.md",
+    "templates/trigger-new-file 1 1 1.md",
+    "templates/trigger-new-file 1 1.md",
+    "Poetry/knappy.md",
     "Poetry/null 4.md",
+    "Poetry/null 5.md",
+    "Poetry/null 3.md",
+    "Poetry/null 2.md",
     "Poetry/null 1.md",
     "Poetry/null.md",
     "Poetry/poem-plenty.md",
-    "Untitled.md",
-    "Poetry/knappy.md",
-    "templates/trigger-new-file 1 1.md",
     "templates/trigger-new-file 1.md",
     "kappy.md",
     "templates/trigger-new-file.md",
@@ -233,7 +235,6 @@
     "templates/new-poem.md",
     "Poetry/apoem5.md",
     "Poetry/Poetry.md",
-    "Untitled 1.md",
     "templates/Daily-note-plain.md",
     "Poetry/poetry-11-19.md",
     "Poetry/apoem4.md",
@@ -241,7 +242,6 @@
     "apoem3.md",
     "Poetry/apoem3.md",
     "Poetry/new-note.md",
-    "Poetry/apoem.md",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
