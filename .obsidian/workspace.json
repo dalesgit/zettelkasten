@@ -4,55 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e2775b158b9e361",
+        "id": "f66112c975472b07",
         "type": "tabs",
         "children": [
           {
-            "id": "23db11357a977340",
+            "id": "c40ad16b0ea657b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Weekly/2025-W47.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-W47"
-            }
-          },
-          {
-            "id": "adc874d4b32bd034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-11-20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-20"
+              "title": "New tab"
             }
           }
         ]
@@ -122,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -238,11 +201,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "23db11357a977340",
+  "active": "c40ad16b0ea657b0",
   "lastOpenFiles": [
     "Journal/Daily/2025-11-20.md",
     "Journal/Weekly/2025-W47.md",
     "Journal/Monthly/2025-11.md",
+    "Weekly notes/2025-W48.md",
+    "Weekly notes/2025-W47.md",
+    "2025-W45.md",
     "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
     "Clippings/Ken Burns on his American Revolution documentary ‘We won’t work on a more important film’.md",
     "Clippings/How the Story of the American Revolution Is Misunderstood.md",
@@ -263,9 +229,6 @@
     "Journal/2025-11-08.md",
     "Journal/2025-11-07.md",
     "Journal/2025-11-06.md",
-    "Journal/2025-11-05.md",
-    "Journal/2025-11-04.md",
-    "Journal/2025-11-03.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",
