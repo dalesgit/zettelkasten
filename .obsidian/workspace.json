@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c4fc8f27fec4957",
+        "id": "be625d7452cf82e2",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b8b6582d1ec45c",
+            "id": "5d03eaff8ad2c4ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "templates/new-file-works 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "new-file-works 2"
             }
           }
         ]
@@ -214,20 +214,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c9b8b6582d1ec45c",
+  "active": "5d03eaff8ad2c4ab",
   "lastOpenFiles": [
-    "Poetry/MyFilename.md",
-    "Untitled.md",
+    "Poetry/poetry.md",
+    "templates/new-file-works 2.md",
+    "typee.md",
+    "templates/new-file-works.md",
+    "templates/new-file-works 1.md",
     "templates/new-file-works 1 1.md",
+    "Poetry/MyFilename.md",
     "typeo.md",
     "typo1.md",
     "Poetry/MyFilename 1.md",
-    "templates/new-file-works 1.md",
-    "Poetry/Untitled.md",
     "templates/atrigger-new-file 1 1 1.md",
     "typo.md",
     "templates/move-file.md",
-    "templates/new-file-works.md",
     "accept.md",
     "knapps.md",
     "knapps.md",
@@ -240,8 +241,6 @@
     "Poetry/knappy.md",
     "Poetry/null 4.md",
     "Poetry/null 5.md",
-    "Poetry/null 3.md",
-    "Poetry/null 2.md",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
