@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89b6fb5da52fc567",
+        "id": "c5cdd50f008ae624",
         "type": "tabs",
         "children": [
           {
-            "id": "3bc4422f98ceeb76",
+            "id": "d40cd2f504cb7dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,14 +213,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3bc4422f98ceeb76",
+  "active": "d40cd2f504cb7dc6",
   "lastOpenFiles": [
     "Poetry.md",
+    "templates/new-note.md",
+    "Untitled 2.md",
+    "templates/trigger-new-file.md",
     "poetry-today.md",
     "Poetry/Poetry.md",
     "Poetry/Poetry-10-25.md",
     "poetry-date.md",
-    "templates/trigger-new-file.md",
     "Poetry/poetry-11-21.md",
     "000 Output/tp.file.title.md",
     "000 Output",
@@ -239,8 +241,6 @@
     "Journal/Weekly/2025-W47.md",
     "Weekly notes/2025-W48.md",
     "Weekly notes/2025-W47.md",
-    "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
-    "Clippings/Ken Burns on his American Revolution documentary ‘We won’t work on a more important film’.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",
