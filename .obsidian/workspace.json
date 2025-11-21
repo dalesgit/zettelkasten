@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/new-poem.md",
+                "file": "templates/new-file-works 1 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new-poem"
+              "title": "new-file-works 1 1"
             }
           }
         ]
@@ -210,14 +210,21 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "3c387587fba51cd3",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "templates/atrigger-new-file 1 1 1.md",
+    "templates/trigger-new-file.md",
     "Untitled.md",
+    "Poetry/eyp.md",
+    "templates/new-file-works 1 1.md",
+    "templates/new-file-works.md",
+    "templates/move-file.md",
     "templates/new-poem.md",
+    "Untitled 1.md",
     "Untitled 2.md",
     "Poetry/poverty.md",
     "Poetry/null 6.md",
@@ -229,9 +236,7 @@
     "Poetry/null 2.md",
     "Poetry/null 1.md",
     "Poetry/null.md",
-    "templates/new-file-works 1 1.md",
-    "templates/new-file-works 1.md",
-    "templates/new-file-works.md",
+    "templates/new-poem.md",
     ".md",
     "Poetry/Untitled.",
     "Poetry/MyFilename.md",
@@ -239,10 +244,6 @@
     "Poetry/(title)Untitled.md",
     "Poetry/'tp.file.name'Untitled.md",
     "yes1.md",
-    "Journal/Daily/2025-11-16.md",
-    "Poetry/poetry-today.md",
-    "Poetry/poetry.md",
-    "typee.md",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
