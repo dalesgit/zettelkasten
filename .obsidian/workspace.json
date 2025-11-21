@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f66112c975472b07",
+        "id": "c4e8be118422ef37",
         "type": "tabs",
         "children": [
           {
-            "id": "c40ad16b0ea657b0",
+            "id": "1776ae6632826992",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/new-note-template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "new-note-template"
             }
           }
         ]
@@ -84,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -183,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,14 +213,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c40ad16b0ea657b0",
+  "active": "1776ae6632826992",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "templates/new-note-template.md",
+    "Journal/Monthly/2025-11.md",
+    "2025-W45.md",
     "Journal/Daily/2025-11-20.md",
     "Journal/Weekly/2025-W47.md",
-    "Journal/Monthly/2025-11.md",
     "Weekly notes/2025-W48.md",
     "Weekly notes/2025-W47.md",
-    "2025-W45.md",
     "Clippings/Ken Burns' 'The American Revolution' revisits the country's founding  NPR.md",
     "Clippings/Ken Burns on his American Revolution documentary ‘We won’t work on a more important film’.md",
     "Clippings/How the Story of the American Revolution Is Misunderstood.md",
@@ -227,8 +241,6 @@
     "Journal/2025-11-10.md",
     "Journal/2025-11-09.md",
     "Journal/2025-11-08.md",
-    "Journal/2025-11-07.md",
-    "Journal/2025-11-06.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",
