@@ -11,10 +11,24 @@
             "id": "ddd3fd3cca28edd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/new-file-works 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "new-file-works 1"
             }
           }
         ]
@@ -200,10 +214,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a69238350bfdba9",
+  "active": "ddd3fd3cca28edd7",
   "lastOpenFiles": [
-    "knapps.md",
     "templates/new-file-works.md",
+    "templates/new-file-works 1.md",
+    "knapps.md",
     "templates/atrigger-new-file 1 1 1.md",
     "knapp3.md",
     "knappy3.md",
