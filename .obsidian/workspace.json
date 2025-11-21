@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/trigger-new-file.md",
+                "file": "templates/trigger-new-file 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "trigger-new-file"
+              "title": "trigger-new-file 1"
             }
           }
         ]
@@ -216,15 +216,16 @@
   },
   "active": "0ab4975e8273ad08",
   "lastOpenFiles": [
-    "templates/new-poem.md",
     "Untitled.md",
     "templates/trigger-new-file.md",
+    "templates/trigger-new-file 1.md",
+    "templates/new-note-template.md",
+    "templates/new-poem.md",
     "Poetry/apoem5.md",
     "Poetry/Poetry.md",
     "Untitled 1.md",
     "templates/Daily-note-plain.md",
     "Poetry/poetry-11-19.md",
-    "templates/trigger-new-file 1.md",
     "Poetry/apoem4.md",
     "apoem4.md",
     "apoem3.md",
@@ -242,7 +243,6 @@
     "000 Output/tp.file.title.md",
     "000 Output",
     "poetry.md",
-    "templates/new-note-template.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",

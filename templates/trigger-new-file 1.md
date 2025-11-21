@@ -1,0 +1,1 @@
+<%* const template = tp.file.find_tfile("new-poem"); const template_content = await this.app.vault.read(template); var title = await tp.system.prompt("Set FileName"); await tp.file.create_new(template_content, title + ".md", true, "Poetry"); await tp.file.move("Poetry/" + title + ".md"); %>
