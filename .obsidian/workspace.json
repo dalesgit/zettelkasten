@@ -209,14 +209,18 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4647ea0ea295a38e",
   "lastOpenFiles": [
-    "travel/packing checklist.md",
+    "Journal/2025-08-11.md",
     "Journal/Daily/2025-11-21.md",
+    "Journal/2025-06-30.md",
+    "Journal/2025-07-07.md",
+    "thought/thought.md",
+    "Journal/2025-10-14.md",
+    "travel/packing checklist.md",
     "templates/new-note-template.md",
     "Untitled 1.md",
     "Journal/Monthly/2025-11.md",
@@ -236,11 +240,6 @@
     "Journal/2025-11-17.md",
     "Journal/2025-11-16.md",
     "Journal/2025-11-15.md",
-    "Journal/2025-11-14.md",
-    "Journal/2025-11-13.md",
-    "Journal/2025-11-12.md",
-    "Journal/2025-11-11.md",
-    "Journal/2025-11-10.md",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",
