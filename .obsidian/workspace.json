@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11fe7159a4831724",
+        "id": "9c4fc8f27fec4957",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd3fd3cca28edd7",
+            "id": "c9b8b6582d1ec45c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/new-file-works.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new-file-works"
+              "title": "Untitled"
             }
           }
         ]
@@ -214,33 +214,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ddd3fd3cca28edd7",
+  "active": "c9b8b6582d1ec45c",
   "lastOpenFiles": [
-    "Poetry/Untitled.md",
+    "Poetry/MyFilename.md",
+    "Untitled.md",
+    "templates/new-file-works 1 1.md",
+    "typeo.md",
+    "typo1.md",
+    "Poetry/MyFilename 1.md",
     "templates/new-file-works 1.md",
+    "Poetry/Untitled.md",
+    "templates/atrigger-new-file 1 1 1.md",
+    "typo.md",
+    "templates/move-file.md",
     "templates/new-file-works.md",
     "accept.md",
     "knapps.md",
     "knapps.md",
     "knapps.md",
-    "templates/atrigger-new-file 1 1 1.md",
     "knapp3.md",
     "knappy3.md",
     "knappy-no.md",
     "knappy-yes.md",
     "apoem6.md",
-    "templates/trigger-new-file 1 1.md",
     "Poetry/knappy.md",
     "Poetry/null 4.md",
     "Poetry/null 5.md",
     "Poetry/null 3.md",
     "Poetry/null 2.md",
-    "Poetry/null 1.md",
-    "Poetry/null.md",
-    "Poetry/poem-plenty.md",
-    "templates/trigger-new-file 1.md",
-    "kappy.md",
-    "templates/trigger-new-file.md",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
