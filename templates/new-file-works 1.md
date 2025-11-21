@@ -5,8 +5,8 @@ created: <% tp.file.creation_date() %>
 alias: <% tp.file.title %>
 ---
 <%*
-  // Prompt for the title
-  let title = await tp.system.prompt('Enter title name');
+// Prompt for the title
+  let title = await tp.system.prompt('type anything, rename in file');
   
   // Rename the file to the entered title
   await tp.file.rename(title);

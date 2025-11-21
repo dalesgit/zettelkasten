@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7cfb8bb0cc7ee3f",
+        "id": "1d81a6f2ce576e85",
         "type": "tabs",
         "children": [
           {
-            "id": "baef136ff85ca67d",
+            "id": "3c387587fba51cd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/new-file-works 2.md",
+                "file": "Poetry/null 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new-file-works 2"
+              "title": "null 6"
             }
           }
         ]
@@ -210,38 +210,39 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baef136ff85ca67d",
+  "active": "3c387587fba51cd3",
   "lastOpenFiles": [
-    "Poetry/Untitled.md",
+    "Poetry/null 5.md",
+    "Poetry/null 7.md",
+    "Poetry/null 4.md",
+    "Poetry/null 6.md",
+    "Poetry/null 3.md",
+    "Poetry/null 2.md",
+    "Poetry/null 1.md",
+    "Poetry/null.md",
+    "Poetry/sdf.md",
+    "Untitled.md",
+    "templates/new-poem.md",
+    "templates/new-file-works 1 1.md",
+    "Poetry/poverty.md",
+    "templates/new-file-works 1.md",
+    "templates/new-file-works.md",
+    ".md",
+    "Poetry/Untitled.",
+    "Poetry/MyFilename.md",
     "templates/new-file-works 2.md",
-    "Poetry/'tp.file.name'Untitled.md",
     "Poetry/(title)Untitled.md",
+    "Poetry/'tp.file.name'Untitled.md",
     "yes1.md",
     "Journal/Daily/2025-11-16.md",
-    "Poetry/MyFilename.md",
     "Poetry/poetry-today.md",
     "Poetry/poetry.md",
     "typee.md",
-    "templates/new-file-works.md",
-    "templates/new-file-works 1.md",
-    "templates/new-file-works 1 1.md",
     "typeo.md",
     "typo1.md",
-    "Poetry/MyFilename 1.md",
-    "templates/atrigger-new-file 1 1 1.md",
-    "typo.md",
-    "templates/move-file.md",
-    "accept.md",
-    "knapps.md",
-    "knapps.md",
-    "knapps.md",
-    "knapp3.md",
-    "knappy3.md",
-    "knappy-no.md",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
     "Journal/2025-11-01.md.orig",
@@ -250,8 +251,6 @@
     "Symbol1",
     "weekly templates.md~",
     "templater",
-    "tech/Untitled 1.base",
-    "tech/Read-it-later.base",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
