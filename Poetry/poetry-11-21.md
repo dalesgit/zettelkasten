@@ -3,8 +3,9 @@ id: poetry-11-21
 aliases: []
 tags: []
 ---
-****
-I put together a dozen or pieces
+---
+
+I put together a dozen or some pieces
 to [[MP]]'s puzzle-gift.
 I'm so excited by the energy 
 _The Grammar of Fantasy_ generates within me.
