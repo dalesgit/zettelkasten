@@ -4,107 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "139e519f0aa01ca9",
+        "id": "cf187a64bc686283",
         "type": "tabs",
         "children": [
           {
-            "id": "f6e6d8278c580750",
+            "id": "65b50393d0464e4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/In Praise of Disillusionment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "In Praise of Disillusionment"
-            }
-          },
-          {
-            "id": "4b65b1626ccc6b08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-11-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-22"
-            }
-          },
-          {
-            "id": "342b7b0a9fcc43ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poetry/poem-11-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "poem-11-22"
-            }
-          },
-          {
-            "id": "8b1c63b15caf5075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linda.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linda"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -269,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,15 +201,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b1c63b15caf5075",
+  "active": "65b50393d0464e4f",
   "lastOpenFiles": [
-    "Linda.md",
+    "Clippings/In Praise of Disillusionment.md",
+    "Journal/Daily/2025-11-22.md",
+    "grief.md",
+    "mourning.md",
+    "Clippings/Text of the Mourner's Kaddish.md",
+    "Clippings/3 massive changes you'll see as the climate careens toward tipping points.md",
     "Poetry/poem-11-22.md",
+    "Linda.md",
     "thought/resistance.md",
     "connections.md",
     "church/surprise.md",
-    "Journal/Daily/2025-11-22.md",
-    "Clippings/In Praise of Disillusionment.md",
     "Clippings/In Praise of Disillusionment 1.md",
     "templater/Daily2.md",
     "Clippings/This Milanese Friar Wrote About North America 150 Years Before Columbus, and Columbus May Have Known.md",
@@ -310,10 +229,6 @@
     "templates/move-file.md",
     "templates/new-file-works.md",
     "templates/trigger-new-file 1.md",
-    "templates/new-note-template.md",
-    "templates/new-pages-table.md",
-    "templates/Weekly Template.md",
-    "templates/Daily-note original.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
