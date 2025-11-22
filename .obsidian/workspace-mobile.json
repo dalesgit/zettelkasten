@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "b0f6ce8ee7177e63",
+    "id": "b3379647a2192d40",
     "type": "split",
     "children": [
       {
-        "id": "568bdbc9072dcd23",
+        "id": "e4ba71654b6dcdc0",
         "type": "tabs",
         "children": [
           {
-            "id": "36446d2e226c8f4d",
+            "id": "7357e1cf13294714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly notes/2025-W49.md",
+                "file": "Journal/Daily/2025-11-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,18 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-W49"
-        "id": "052481ed40facb0d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a2a7720aca79bbe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-11-20"
             }
           }
         ]
@@ -48,16 +37,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e9bb86912096dfa1",
+    "id": "7b447383d805afb0",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "30aacfde49afeb85",
+        "id": "943497addd87d601",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -65,12 +54,12 @@
         }
       },
       {
-        "id": "202602deac2c9bc0",
+        "id": "75bb7e357b6f8f3b",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:survival",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -82,7 +71,7 @@
         }
       },
       {
-        "id": "97dc075a83c34cd5",
+        "id": "50e6bf24a3cfcfb6",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -97,7 +86,7 @@
         }
       },
       {
-        "id": "54789bb73218661f",
+        "id": "b544080c0acbcb14",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -110,16 +99,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "63573f43e626be80",
+    "id": "ec8a46008ff9ba52",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "921883f12c57ea74",
+        "id": "9687fa055930583c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Clippings/A prayer for reconciliation  Friends of Silence.md",
+            "file": "Journal/Daily/2025-11-20.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,11 +122,12 @@
         }
       },
       {
-        "id": "ad88be5f4f72f157",
+        "id": "52d0e4f0d5418081",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Journal/Daily/2025-11-20.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -146,11 +136,12 @@
         }
       },
       {
-        "id": "4475d44033a42db8",
+        "id": "020e94b366b95f6d",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "Journal/Daily/2025-11-20.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -160,7 +151,7 @@
         }
       },
       {
-        "id": "f915e8f7f200ee0c",
+        "id": "bd50e59bfa1eaff6",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -170,7 +161,7 @@
         }
       },
       {
-        "id": "e071ee95bd40938e",
+        "id": "e2ddd626cdadc2d9",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -197,43 +188,15 @@
       "periodic-notes:Open today": false
     }
   },
-<<<<<<< HEAD
-  "active": "36446d2e226c8f4d",
+  "active": "7357e1cf13294714",
   "lastOpenFiles": [
-    "weekly templates.md",
-  "active": "5a2a7720aca79bbe",
-  "lastOpenFiles": [
-    "my-files-inbox-7-30-25/courts/3-justices-seek-abolish-voting-rights.md",
-    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
-    "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
-    "ReadItLater.md",
-    "Daily notes/2025-11-18.md",
-    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
-    "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
-    "ReadItLater.md",
-    "Daily notes/2025-11-17.md",
-    "journal/2025-11-16.md",
-    "travel/packing-hilton-head.md",
-    "travel/packing checklist.md",
-    "journal/2025-11-15.md",
-    "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
-    "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
-    "/Poetry/poetry-11-15.md",
-    "/Poetry",
-    "journal/2025-11-14.md",
-    "Poverty by America.md",
-    "Poetry/poetry-11-12.md",
-    "What feeds me  From MP.md",
-    "Poetry/Poetry-11-13.md",
-    "journal/2025-11-13.md",
-    "journal/2025-11-10.md",
-    "Clippings/In the Wake of the Edmund Fitzgerald.md",
-    "Clippings/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
-    "Clippings/Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers.md",
-    "Clippings/The Striking Similarities Between Aphorisms and Poetry.md",
-    "Clippings/Opinion  Use A.I. to Reinvigorate Democracy — Not Replace It.md",
-    "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
-    "meeting_11-13-saved_new_chat.txt",
-    "Untitled 1.canvas"
+    "home/dale/Documents/current/trump-corruption.md",
+    "Journal/Daily/2025-11-20.md",
+    "home/dale/Documents/current",
+    "home/dale/Documents",
+    "personal/Family/MP.md",
+    "Poetry/poetry-11-20.md",
+    "Journal/Monthly/2025-11.md",
+    "Journal/Weekly/2025-W47.md"
   ]
 }
