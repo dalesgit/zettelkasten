@@ -36,6 +36,9 @@ tR += '[[' + titleDate.add(1, 'days').format('YYYY-MM-DD') + ']] ❯';
 titleDate.subtract(1, 'days');
 %>
 
+## Notes
+- 
+
 ```dataview
 table without id
 	mood + " #_/habits" AS "🌄",
