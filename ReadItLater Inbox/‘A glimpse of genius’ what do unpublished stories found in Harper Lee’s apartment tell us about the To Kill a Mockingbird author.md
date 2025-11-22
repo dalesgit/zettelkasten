@@ -4,6 +4,7 @@ tags:
   - writing
 ---
 [[ReadItLater]] [[Article]]
+Writing 
 
 # [‘A glimpse of genius’: what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author?](https://www.theguardian.com/books/2025/oct/18/a-glimpse-of-genius-what-do-unpublished-stories-found-in-harper-lees-apartment-tell-us-about-the-to-kill-a-mockingbird-author)
 

@@ -13,5 +13,7 @@
   "open-with",
   "customjs",
   "obsidian-banners",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "virtual-linker",
+  "obsidian-tasks-plugin"
 ]

@@ -33,5 +33,6 @@
     "editor:configure-toolbar",
     "editor:swap-line-up",
     "editor:swap-line-down"
-  ]
+  ],
+  "promptDelete": false
 }
