@@ -11,10 +11,24 @@
             "id": "65b50393d0464e4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Yes in My Spare Room.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Yes in My Spare Room"
             }
           }
         ]
@@ -203,6 +217,7 @@
   },
   "active": "65b50393d0464e4f",
   "lastOpenFiles": [
+    "Clippings/Yes in My Spare Room.md",
     "Clippings/In Praise of Disillusionment.md",
     "Journal/Daily/2025-11-22.md",
     "grief.md",
@@ -228,7 +243,6 @@
     "Poetry/poetry-11-21.md",
     "templates/move-file.md",
     "templates/new-file-works.md",
-    "templates/trigger-new-file 1.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
