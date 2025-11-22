@@ -11,10 +11,24 @@
             "id": "59f7eea8db8ac2cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-11-21"
             }
           }
         ]
