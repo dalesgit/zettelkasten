@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cf187a64bc686283",
+        "id": "a4f7ad4958d64f44",
         "type": "tabs",
         "children": [
           {
-            "id": "65b50393d0464e4f",
+            "id": "fd4c26046aaa1e1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Yes in My Spare Room.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Yes in My Spare Room"
+              "title": "New tab"
             }
           }
         ]
@@ -98,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -215,9 +200,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65b50393d0464e4f",
+  "active": "fd4c26046aaa1e1f",
   "lastOpenFiles": [
     "Clippings/Yes in My Spare Room.md",
+    "Clippings/Yes in My Spare Room 1.md",
     "Clippings/In Praise of Disillusionment.md",
     "Journal/Daily/2025-11-22.md",
     "grief.md",
@@ -242,7 +228,6 @@
     "personal/Family/MP.md",
     "Poetry/poetry-11-21.md",
     "templates/move-file.md",
-    "templates/new-file-works.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
