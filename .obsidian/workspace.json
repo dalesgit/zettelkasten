@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-11-21.md",
+                "file": "Journal/Daily/2025-11-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-11-21"
+              "title": "2025-11-21"
             }
           }
         ]
@@ -211,12 +211,15 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "815d245ec9b03204",
   "lastOpenFiles": [
+    "personal/Family/MP.md",
     "Journal/Daily/2025-11-21.md",
+    "Poetry/poetry-11-21.md",
     "templates/move-file.md",
     "templates/new-file-works.md",
     "templates/trigger-new-file 1.md",
@@ -240,8 +243,6 @@
     "Journal/2025-10-08.md",
     "Journal/2025-10-25.md",
     "Journal/2025-07-10.md",
-    "Journal/2025-07-11.md",
-    "Journal/Daily_1/2025-11-28.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
