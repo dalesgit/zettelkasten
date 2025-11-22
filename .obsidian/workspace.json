@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-11-21.md",
+                "file": "Poetry/poem-11-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-21"
+              "title": "poem-11-22"
             }
           }
         ]
@@ -209,16 +209,21 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a8ebfc9e0e4a45f4",
   "lastOpenFiles": [
+    "church/life-in-community.md",
+    "Poetry/poem-11-22.md",
+    "Journal/Daily/2025-11-22.md",
+    "Journal/Daily/2025-11-16.md",
+    "Journal/Daily/2025-11-17.md",
+    "Journal/Weekly/2025-W46.md",
+    "Journal/Daily/2025-11-21.md",
+    "Journal/Daily/2025-11-19.md",
     "templater/Daily2.md",
     "templates/Daily note template 1.md",
-    "Journal/Daily/2025-11-22.md",
-    "Journal/Daily/2025-11-21.md",
     "personal/Family/MP.md",
     "Poetry/poetry-11-21.md",
     "templates/move-file.md",
@@ -235,12 +240,6 @@
     "Daily notes/2025-07-07.md",
     "Daily notes/2025-09-24.md",
     "Journal/2025-08-19.md",
-    "Journal/2025-07-27.md",
-    "Journal/2025-10-21.md",
-    "Journal/2025-07-07.md",
-    "Journal/2025-06-30.md",
-    "Journal/2025-08-11.md",
-    "Journal/2025-10-08.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
