@@ -11,13 +11,100 @@
             "id": "f6e6d8278c580750",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/In Praise of Disillusionment.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "In Praise of Disillusionment"
+            }
+          },
+          {
+            "id": "4b65b1626ccc6b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-22"
+            }
+          },
+          {
+            "id": "342b7b0a9fcc43ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/poem-11-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "poem-11-22"
+            }
+          },
+          {
+            "id": "8b1c63b15caf5075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linda.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linda"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,12 +286,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f6e6d8278c580750",
+  "active": "8b1c63b15caf5075",
   "lastOpenFiles": [
+    "Linda.md",
+    "Poetry/poem-11-22.md",
+    "thought/resistance.md",
+    "connections.md",
+    "church/surprise.md",
     "Journal/Daily/2025-11-22.md",
+    "Clippings/In Praise of Disillusionment.md",
+    "Clippings/In Praise of Disillusionment 1.md",
     "templater/Daily2.md",
     "Clippings/This Milanese Friar Wrote About North America 150 Years Before Columbus, and Columbus May Have Known.md",
-    "Poetry/poem-11-22.md",
     "church/life-in-community.md",
     "Journal/Daily/2025-11-16.md",
     "Journal/Daily/2025-11-17.md",
@@ -221,12 +314,6 @@
     "templates/new-pages-table.md",
     "templates/Weekly Template.md",
     "templates/Daily-note original.md",
-    "templates/Monthly Template.md",
-    "templates/Daily note template.md",
-    "templates/Daily Template.md",
-    "templates/Daily-note-plain.md",
-    "Daily notes/2025-07-07.md",
-    "Daily notes/2025-09-24.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
