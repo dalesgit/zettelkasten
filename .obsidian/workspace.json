@@ -79,11 +79,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -197,14 +199,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "0196fbce317f0092",
   "lastOpenFiles": [
+    "Christ the King.md",
     "Poetry/poem-11-23.md",
     "mourning.md",
-    "Christ the King.md",
     "Journal/Daily/2025-11-23.md",
     "Journal/Daily/2025-11-22.md",
     "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
