@@ -16,5 +16,6 @@
   "todoist-sync-plugin",
   "virtual-linker",
   "obsidian-tasks-plugin",
-  "notebook-navigator"
+  "notebook-navigator",
+  "omnisearch"
 ]

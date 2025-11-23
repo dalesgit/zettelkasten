@@ -11,13 +11,52 @@
             "id": "fd4c26046aaa1e1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-11-22"
+            }
+          },
+          {
+            "id": "870e4c6c65455359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "This Obsidian plugin can literally replace a dozen others"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +118,19 @@
               "icon": "lucide-ghost",
               "title": "starred"
             }
+          },
+          {
+            "id": "410824932b28955b",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,15 +247,18 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "fd4c26046aaa1e1f",
+  "active": "870e4c6c65455359",
   "lastOpenFiles": [
+    "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
+    "Journal/Daily/2025-11-22.md",
     "Clippings/Yes in My Spare Room.md",
     "Clippings/Yes in My Spare Room 1.md",
     "Clippings/In Praise of Disillusionment.md",
-    "Journal/Daily/2025-11-22.md",
     "grief.md",
     "mourning.md",
     "Clippings/Text of the Mourner's Kaddish.md",
@@ -227,7 +280,6 @@
     "templates/Daily note template 1.md",
     "personal/Family/MP.md",
     "Poetry/poetry-11-21.md",
-    "templates/move-file.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
