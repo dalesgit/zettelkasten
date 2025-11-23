@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96bf0926971b9f58",
+        "id": "5f44cf358d238d17",
         "type": "tabs",
         "children": [
           {
-            "id": "0a0a6a6a627d7e0e",
+            "id": "ecb71d529a00ff3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,9 +94,19 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "9be8fa93ec5f4945",
+        "type": "leaf",
+        "state": {
+          "type": "notebook-navigator",
+          "state": {},
+          "icon": "notebook",
+          "title": "Notebook Navigator"
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 4
   },
   "right": {
     "id": "6e622f711dda0683",
@@ -185,14 +195,18 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "0a0a6a6a627d7e0e",
+  "active": "ecb71d529a00ff3a",
   "lastOpenFiles": [
-    "ReadItLater Inbox/All I want is a productivity app that doesn't get in my way.md",
-    "Journal/Daily/2025-11-22.md",
+    "ReadItLater Inbox/These 3 Rock Songs Live and Die by Their Iconic Bass Line.md",
+    "Poetry/poem-11-22.md",
+    "grief.md",
     "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
+    "Journal/Daily/2025-11-22.md",
+    "ReadItLater Inbox/All I want is a productivity app that doesn't get in my way.md",
     "ReadItLater Inbox/U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore.md",
     "Journal/Daily/2025-11-21.md",
     "church/Zach Lambert.md",
@@ -212,9 +226,6 @@
     "Journal/Daily/2025-11-16.md",
     "Journal/Daily/2025-11-17.md",
     "Clippings2/8 essential shell functions to improve your Linux command line.md",
-    "Journal/2025-07-11.md",
-    "Journal/Journaling.md",
-    "ReadItLater Inbox/Risking the Questions Podcast.md",
-    "Journal/2025-07-10.md"
+    "Journal/2025-07-11.md"
   ]
 }
