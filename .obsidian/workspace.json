@@ -187,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "notebook-navigator:Notebook Navigator": false,
       "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
@@ -196,8 +197,7 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fd4c26046aaa1e1f",
