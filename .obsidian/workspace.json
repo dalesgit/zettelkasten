@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aefbb01ca85514b9",
+        "id": "8d41a4774dfc346e",
         "type": "tabs",
         "children": [
           {
-            "id": "0196fbce317f0092",
+            "id": "5aa32483caf655d9",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -203,12 +202,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0196fbce317f0092",
+  "active": "5aa32483caf655d9",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-23.md",
+    "habits.md",
+    "Daily notes/2025-11-23.md",
     "Christ the King.md",
     "Poetry/poem-11-23.md",
     "mourning.md",
-    "Journal/Daily/2025-11-23.md",
     "Journal/Daily/2025-11-22.md",
     "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
     "ReadItLater Inbox/Note 2025-11-23 06-15-21.md",
@@ -229,8 +230,6 @@
     "templater/Daily2.md",
     "Clippings/This Milanese Friar Wrote About North America 150 Years Before Columbus, and Columbus May Have Known.md",
     "church/life-in-community.md",
-    "Journal/Daily/2025-11-16.md",
-    "Journal/Daily/2025-11-17.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",

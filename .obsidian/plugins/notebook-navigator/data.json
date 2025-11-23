@@ -288,11 +288,7 @@
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
-  "folderAppearances": {
-    "/": {
-      "groupBy": "date"
-    }
-  },
+  "folderAppearances": {},
   "tagIcons": {},
   "tagColors": {},
   "tagBackgroundColors": {},
