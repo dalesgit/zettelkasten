@@ -11,10 +11,24 @@
             "id": "0a0a6a6a627d7e0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-11-22"
             }
           }
         ]
@@ -176,6 +190,7 @@
   },
   "active": "0a0a6a6a627d7e0e",
   "lastOpenFiles": [
+    "ReadItLater Inbox/All I want is a productivity app that doesn't get in my way.md",
     "Journal/Daily/2025-11-22.md",
     "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
     "ReadItLater Inbox/U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore.md",
@@ -200,7 +215,6 @@
     "Journal/2025-07-11.md",
     "Journal/Journaling.md",
     "ReadItLater Inbox/Risking the Questions Podcast.md",
-    "Journal/2025-07-10.md",
-    "church/life-in-community.md"
+    "Journal/2025-07-10.md"
   ]
 }
