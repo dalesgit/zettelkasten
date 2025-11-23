@@ -4,83 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f7ad4958d64f44",
+        "id": "aefbb01ca85514b9",
         "type": "tabs",
         "children": [
           {
-            "id": "fd4c26046aaa1e1f",
+            "id": "0196fbce317f0092",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-11-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-22"
-            }
-          },
-          {
-            "id": "870e4c6c65455359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-11-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-22"
-            }
-          },
-          {
-            "id": "b5ba6b40d56be81b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "This Obsidian plugin can literally replace a dozen others"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,27 +60,7 @@
             }
           },
           {
-            "id": "f4cb65d3270a4fe7",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "8f0e1e3d6b45d437",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "starred"
-            }
-          },
-          {
-            "id": "410824932b28955b",
+            "id": "266b950ea84f6542",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
@@ -152,9 +68,18 @@
               "icon": "notebook",
               "title": "Notebook Navigator"
             }
+          },
+          {
+            "id": "5e28ef79e7716c03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -275,19 +200,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "410824932b28955b",
+  "active": "0196fbce317f0092",
   "lastOpenFiles": [
+    "Poetry/poem-11-23.md",
+    "mourning.md",
+    "Christ the King.md",
+    "Journal/Daily/2025-11-23.md",
     "Journal/Daily/2025-11-22.md",
+    "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
     "ReadItLater Inbox/Note 2025-11-23 06-15-21.md",
     "ReadItLater Inbox/Note 2025-11-23 06-15-18.md",
-    "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
-    "Journal/Daily/2025-11-23.md",
     "Screenshot 2025-07-10 09.06.14.md",
     "Clippings/Yes in My Spare Room.md",
     "Clippings/Yes in My Spare Room 1.md",
     "Clippings/In Praise of Disillusionment.md",
     "grief.md",
-    "mourning.md",
     "Clippings/Text of the Mourner's Kaddish.md",
     "Clippings/3 massive changes you'll see as the climate careens toward tipping points.md",
     "Poetry/poem-11-22.md",
@@ -301,8 +228,6 @@
     "church/life-in-community.md",
     "Journal/Daily/2025-11-16.md",
     "Journal/Daily/2025-11-17.md",
-    "Journal/Weekly/2025-W46.md",
-    "Journal/Daily/2025-11-21.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",

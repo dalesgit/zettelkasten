@@ -1,0 +1,3 @@
+- Marc T. died yesterday afternoon.
+- he taught me 
+	- "Till we meet again" is (**lehitraot**)== להתראות (lehitraot) in Hebrew, a common way to say goodbye with the implication that you will see the person again. For a more formal or sentimental phrase, you can say **שלום ו להתראות** (**Shalom u-lehitraot**), which means "Peace and [until we] meet again".
