@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f53b69bcd74cafcc",
+        "id": "96bf0926971b9f58",
         "type": "tabs",
         "children": [
           {
-            "id": "bf21d3ce785af3d4",
+            "id": "0a0a6a6a627d7e0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore"
+              "title": "New tab"
             }
           }
         ]
@@ -179,10 +174,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bf21d3ce785af3d4",
+  "active": "0a0a6a6a627d7e0e",
   "lastOpenFiles": [
-    "Journal/Daily/2025-11-21.md",
+    "Journal/Daily/2025-11-22.md",
+    "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
     "ReadItLater Inbox/U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore.md",
+    "Journal/Daily/2025-11-21.md",
     "church/Zach Lambert.md",
     "Daily notes/2025-08-31.md",
     "thought/Former nra..md",
@@ -204,7 +201,6 @@
     "Journal/Journaling.md",
     "ReadItLater Inbox/Risking the Questions Podcast.md",
     "Journal/2025-07-10.md",
-    "church/life-in-community.md",
-    "Poetry/poetry-11-20.md"
+    "church/life-in-community.md"
   ]
 }
