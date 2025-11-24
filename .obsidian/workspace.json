@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7380421c00e8187c",
+        "id": "54102db0f54418d5",
         "type": "tabs",
         "children": [
           {
-            "id": "d734bcb516fb9cfd",
+            "id": "a9b0b151a0a49577",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -202,10 +202,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d734bcb516fb9cfd",
+  "active": "a9b0b151a0a49577",
   "lastOpenFiles": [
-    "Clippings/The world lost the climate gamble. Now it faces a dangerous new reality.md",
     "Journal/Daily/2025-11-24.md",
+    "Journal/Daily/2025-11-20.md",
+    "Journal/Daily/2025-11-21.md",
+    "Journal/Daily/2025-11-22.md",
+    "Journal/Daily/2025-11-23.md",
+    "Clippings/Text of the Mourner's Kaddish.md",
+    "Clippings/The world lost the climate gamble. Now it faces a dangerous new reality.md",
     "Clippings/Our Almost-Apocalyptic Climate Future.md",
     "Clippings/The Line Dividing Good and Evil.md",
     "Poetry/poetry-11-24.md",
@@ -220,16 +225,11 @@
     "ReadItLater Inbox/Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning.md",
     "ReadItLater Inbox/6 Everyday Habits That Will Help You Poop On A Regular Schedule.md",
     "Christianity.md",
-    "Journal/Daily/2025-11-23.md",
     "habits.md",
     "Daily notes/2025-11-23.md",
     "Christ the King.md",
     "Poetry/poem-11-23.md",
     "mourning.md",
-    "Journal/Daily/2025-11-22.md",
-    "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
-    "ReadItLater Inbox/Note 2025-11-23 06-15-21.md",
-    "ReadItLater Inbox/Note 2025-11-23 06-15-18.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
