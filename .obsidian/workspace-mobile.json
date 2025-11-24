@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning.md",
+                "file": "Irvin.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Irvin"
+            }
+          },
+          {
+            "id": "163161574a022d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/poetry-10-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning"
+              "title": "poetry-10-31"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#writing",
+            "query": "tag:#dream",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -101,7 +125,7 @@
         "state": {
           "type": "tag",
           "state": {
-            "sortOrder": "alphabeticalReverse",
+            "sortOrder": "alphabetical",
             "useHierarchy": true,
             "showSearch": false,
             "searchQuery": ""
@@ -131,7 +155,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 1
   },
   "right": {
     "id": "6e622f711dda0683",
@@ -225,15 +249,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b0657cfc0d1e542",
+  "active": "163161574a022d9d",
   "lastOpenFiles": [
-    "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md",
+    "Journal/Daily/2025-11-24.md",
+    "dream.md",
+    "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
+    "Irvin.md",
     "ReadItLater Inbox/Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning.md",
+    "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md",
     "ReadItLater Inbox/6 Everyday Habits That Will Help You Poop On A Regular Schedule.md",
     "ReadItLater Inbox/Article 2025-11-23 19-17-08.md",
     "ReadItLater Inbox/‘Eating Indigenously’ award-winning chef celebrates Native American cuisine in new cookbook.md",
     "Journal/Daily/2025-11-23.md",
-    "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
     "ReadItLater Inbox/Who can tame Trump An unlikely candidate is emerging the Catholic church  Simon Tisdall.md",
     "Christianity.md",
     "ReadItLater Inbox/End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff.md",
@@ -249,9 +276,6 @@
     "Journal/Daily/2025-11-21.md",
     "church/Zach Lambert.md",
     "Daily notes/2025-08-31.md",
-    "thought/Former nra..md",
-    "personal/MCCOLMAN.md",
-    "Journal/Daily/2025-11-18.md",
-    "Journal/Daily/2025-11-19.md"
+    "thought/Former nra..md"
   ]
 }
