@@ -198,11 +198,10 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "5aa32483caf655d9",
+  "active": "266b950ea84f6542",
   "lastOpenFiles": [
     "Journal/Daily/2025-11-23.md",
     "habits.md",
