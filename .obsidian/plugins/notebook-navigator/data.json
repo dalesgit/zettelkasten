@@ -287,7 +287,9 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "/": "created-desc"
+  },
   "folderAppearances": {},
   "tagIcons": {},
   "tagColors": {},

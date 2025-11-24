@@ -11,9 +11,24 @@
             "id": "5aa32483caf655d9",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-24"
             }
           }
         ]
@@ -198,11 +213,24 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "266b950ea84f6542",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-24.md",
+    "ReadItLater Inbox/‘Eating Indigenously’ award-winning chef celebrates Native American cuisine in new cookbook.md",
+    "ReadItLater Inbox/Who can tame Trump An unlikely candidate is emerging the Catholic church  Simon Tisdall.md",
+    "ReadItLater Inbox/They’re doing to America what they did to Christianity  Bill McKibben.md",
+    "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md",
+    "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
+    "ReadItLater Inbox/End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff.md",
+    "ReadItLater Inbox/China has brought millions out of poverty. The US has not – by choice.md",
+    "ReadItLater Inbox/Article 2025-11-23 19-17-08.md",
+    "ReadItLater Inbox/Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning.md",
+    "ReadItLater Inbox/6 Everyday Habits That Will Help You Poop On A Regular Schedule.md",
+    "Christianity.md",
     "Journal/Daily/2025-11-23.md",
     "habits.md",
     "Daily notes/2025-11-23.md",
@@ -217,18 +245,6 @@
     "Clippings/Yes in My Spare Room.md",
     "Clippings/Yes in My Spare Room 1.md",
     "Clippings/In Praise of Disillusionment.md",
-    "grief.md",
-    "Clippings/Text of the Mourner's Kaddish.md",
-    "Clippings/3 massive changes you'll see as the climate careens toward tipping points.md",
-    "Poetry/poem-11-22.md",
-    "Linda.md",
-    "thought/resistance.md",
-    "connections.md",
-    "church/surprise.md",
-    "Clippings/In Praise of Disillusionment 1.md",
-    "templater/Daily2.md",
-    "Clippings/This Milanese Friar Wrote About North America 150 Years Before Columbus, and Columbus May Have Known.md",
-    "church/life-in-community.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
