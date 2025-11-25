@@ -15,8 +15,21 @@
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "b3fbb16229c06ce7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,11 +211,10 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "1e26496deabcf78d",
+  "active": "266b950ea84f6542",
   "lastOpenFiles": [
     "my-files-inbox-7-30-25/courts/supreme-court-didnt-have-to-be.md",
     "dream.md",
