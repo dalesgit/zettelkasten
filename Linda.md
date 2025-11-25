@@ -39,3 +39,4 @@ tags:
 	- hunger and thirst for learning and transformation
 - movie recommendation: saw "train dreams with much recommendation. beautiful, well-acted, poetically lays a story of paradox joy and sorrow
 - telling story of BCP statement on funerals
+- Paul's father died, Reformed Jewish. He went back to God.
