@@ -33,4 +33,8 @@ tags:
 	- Michael
 - taking eros seriously
 - affinity for stories
-- 
+- stories have power to transform our lives
+- Talk a spell -- gospel
+- LS: reflecting time at library,, memorizing poetry, has made me the progressive person I am
+	- hunger and thirst for learning and transformation
+- movie recommendation: saw "train dreams with much recommendation. beautiful, well-acted, poetically lays a story of paradox joy and sorrow
