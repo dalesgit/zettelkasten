@@ -30,4 +30,5 @@ tags:
 	- very nice person
 	- "doesn't matter gender I want someone is very authentic and real.
 	- send email with info
-	- Michael"
+	- Michael
+- taking "
