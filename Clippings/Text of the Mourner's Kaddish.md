@@ -79,7 +79,7 @@ May His great name be blessed forever and to all eternity.
 
 Blessed and praised, glorified and exalted, extolled and honored,  
 adored and lauded be the name of the Holy One, blessed be He,  
-beyond all the blessings and hymns, praises and consolations that  
+beyond all the [[blessings]] and hymns, praises and consolations that  
 are ever spoken in the world; and say, Amen.
 
 May there be abundant peace from heaven, and life, for us  
