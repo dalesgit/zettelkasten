@@ -15,8 +15,33 @@
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "54ca438a148ead0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +224,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "674db53d8b4d1fa5",
+  "active": "54ca438a148ead0d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Journal/Weekly/2025-W48.md",
     "Journal/Daily/2025-11-17.md",
     "Journal/Monthly/2025-11.md",
@@ -230,7 +257,6 @@
     "ReadItLater Inbox/They’re doing to America what they did to Christianity  Bill McKibben.md",
     "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md",
     "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
-    "ReadItLater Inbox/End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
