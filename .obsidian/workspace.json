@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "4a1d574ec1e254e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e316c4ae8100c428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linda.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linda"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,14 +248,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14f850e669bd0560",
+  "active": "e316c4ae8100c428",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-25.md",
+    "Linda.md",
     "Journal/Weekly/2025-W48.md",
     "Journal/Monthly/2025-11.md",
     "Journal/Daily/2025-11-17.md",
     "Linda.md~",
     "Journal/Daily/2025-11-16.md",
-    "Journal/Daily/2025-11-25.md",
     "Journal/Daily/2025-11-24.md",
     "Journal/Daily/2025-11-23.md",
     "Journal/Daily/2025-11-22.md",
@@ -246,7 +277,6 @@
     "ReadItLater Inbox/They’re doing to America what they did to Christianity  Bill McKibben.md",
     "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md",
     "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
-    "ReadItLater Inbox/End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
