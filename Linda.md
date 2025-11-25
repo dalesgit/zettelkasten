@@ -22,3 +22,12 @@ tags:
 - trip to Hilton Head
 - "Rodari" _Grammar of Fantasy_
 - the debate about MP's commitment to Rohr and Centering Prayer. Where am I?
+- possibility re. death row
+	- has girl-friend who visits
+	- she a catholic school teacher
+	- caucasian
+	- 40-50
+	- very nice person
+	- "doesn't matter gender I want someone is very authentic and real.
+	- send email with info
+	- Michael"
