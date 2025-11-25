@@ -1,9 +1,12 @@
 ---
+id: poetry-11-25
+aliases: []
 tags:
   - poetry
 created: 2025-11-25 06:48
 ---
 **To capture my attention**
+
 Is it like a mouse trap?
 Or more like a fly trap?
 Is it trapping at all or
