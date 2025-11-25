@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -262,11 +263,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "20dd512eaec3a20a",
   "lastOpenFiles": [
+    "Linda.md~",
     "Journal/Daily/2025-11-24.md",
     "Journal/Daily/2025-11-23.md",
     "Journal/Daily/2025-11-22.md",
@@ -292,7 +295,6 @@
     "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
     "ReadItLater Inbox/End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff.md",
     "ReadItLater Inbox/China has brought millions out of poverty. The US has not – by choice.md",
-    "ReadItLater Inbox/Article 2025-11-23 19-17-08.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
