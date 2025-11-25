@@ -31,4 +31,6 @@ tags:
 	- "doesn't matter gender I want someone is very authentic and real.
 	- send email with info
 	- Michael
-- taking "
+- taking eros seriously
+- affinity for stories
+- 
