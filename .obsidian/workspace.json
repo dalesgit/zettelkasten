@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-11-25.md",
+                "file": "Clippings/The Internet is broken and the inventor of the World Wide Web wants to fix it.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-11-25"
+              "title": "The Internet is broken and the inventor of the World Wide Web wants to fix it"
             }
           }
         ]
@@ -94,12 +94,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -220,6 +220,7 @@
   "active": "25e8e6b234d316bb",
   "lastOpenFiles": [
     "Journal/Daily/2025-11-25.md",
+    "Clippings/The Internet is broken and the inventor of the World Wide Web wants to fix it.md",
     "Poetry/poetry-11-25.md",
     "Journal/Daily/2025-11-24.md",
     "Rebecca.md",
@@ -244,7 +245,6 @@
     "ReadItLater Inbox/Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning.md",
     "ReadItLater Inbox/6 Everyday Habits That Will Help You Poop On A Regular Schedule.md",
     "Christianity.md",
-    "habits.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
