@@ -11,9 +11,24 @@
             "id": "25e8e6b234d316bb",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/poetry-11-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "poetry-11-25"
             }
           }
         ]
@@ -204,6 +219,8 @@
   },
   "active": "25e8e6b234d316bb",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-25.md",
+    "Poetry/poetry-11-25.md",
     "Journal/Daily/2025-11-24.md",
     "Rebecca.md",
     "Clippings/deep sadness - dhath12@gmail.com.md",
@@ -228,8 +245,6 @@
     "ReadItLater Inbox/6 Everyday Habits That Will Help You Poop On A Regular Schedule.md",
     "Christianity.md",
     "habits.md",
-    "Daily notes/2025-11-23.md",
-    "Christ the King.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
