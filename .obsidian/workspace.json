@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-11-25.md",
+                "file": "Journal/Daily/2025-11-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-25"
+              "title": "2025-11-17"
             }
           }
         ],
@@ -270,13 +270,14 @@
   "active": "20dd512eaec3a20a",
   "lastOpenFiles": [
     "Linda.md~",
+    "Journal/Daily/2025-11-16.md",
+    "Journal/Daily/2025-11-25.md",
     "Journal/Daily/2025-11-24.md",
     "Journal/Daily/2025-11-23.md",
     "Journal/Daily/2025-11-22.md",
     "Journal/Daily/2025-11-21.md",
     "Journal/Monthly/2025-11.md",
     "Journal/Weekly/2025-W48.md",
-    "Journal/Daily/2025-11-25.md",
     "Clippings/Text of the Mourner's Kaddish.md",
     "Clippings/The wisdom of the elders, the greed of the rich.md",
     "Clippings/The Internet is broken and the inventor of the World Wide Web wants to fix it.md",
@@ -294,7 +295,6 @@
     "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md",
     "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
     "ReadItLater Inbox/End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff.md",
-    "ReadItLater Inbox/China has brought millions out of poverty. The US has not – by choice.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
@@ -304,7 +304,6 @@
     "Symbol2",
     "Symbol1",
     "weekly templates.md~",
-    "templater",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
