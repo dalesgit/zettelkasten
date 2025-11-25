@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c021e126828b7534",
+        "id": "48a62818a86c96d2",
         "type": "tabs",
         "children": [
           {
-            "id": "46089f622112d138",
+            "id": "1e26496deabcf78d",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -202,7 +202,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "46089f622112d138",
+  "active": "1e26496deabcf78d",
   "lastOpenFiles": [
     "my-files-inbox-7-30-25/courts/supreme-court-didnt-have-to-be.md",
     "dream.md",
