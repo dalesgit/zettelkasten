@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-11-25.md",
+                "file": "Poetry/poetry-11-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-11-25"
+              "title": "poetry-11-26"
             }
           }
         ]
@@ -214,11 +214,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "674db53d8b4d1fa5",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-26.md",
+    "Poetry/poetry-11-26.md",
+    "Poetry/poetry-11-25.md",
     "Poetry/poetry-11-25.md~",
     "conflict-files-obsidian-git.md",
     "Journal/Weekly/2025-W48.md",
@@ -234,7 +238,6 @@
     "Clippings/Text of the Mourner's Kaddish.md",
     "Clippings/The wisdom of the elders, the greed of the rich.md",
     "Clippings/The Internet is broken and the inventor of the World Wide Web wants to fix it.md",
-    "Poetry/poetry-11-25.md",
     "Rebecca.md",
     "Clippings/deep sadness - dhath12@gmail.com.md",
     "Journal/Daily/2025-11-20.md",
@@ -245,7 +248,6 @@
     "ReadItLater Inbox/‘Eating Indigenously’ award-winning chef celebrates Native American cuisine in new cookbook.md",
     "ReadItLater Inbox/Who can tame Trump An unlikely candidate is emerging the Catholic church  Simon Tisdall.md",
     "ReadItLater Inbox/They’re doing to America what they did to Christianity  Bill McKibben.md",
-    "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
@@ -254,7 +256,6 @@
     "todoist-backup-20251120123929.json",
     "Symbol2",
     "Symbol1",
-    "weekly templates.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
