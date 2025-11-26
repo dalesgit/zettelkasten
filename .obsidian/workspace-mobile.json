@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irvin.md",
+                "file": "Thanksgiving examples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Irvin"
+              "title": "Thanksgiving examples"
             }
           }
         ],
@@ -251,11 +251,14 @@
   },
   "active": "163161574a022d9d",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-26.md",
+    "Thanksgiving examples.md",
+    "ReadItLater Inbox/Six Word Memoirs Home.md",
+    "Irvin.md",
     "Journal/Daily/2025-11-24.md",
     "Poetry/poetry-10-31.md",
     "dream.md",
     "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
-    "Irvin.md",
     "ReadItLater Inbox/Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning.md",
     "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md",
     "ReadItLater Inbox/6 Everyday Habits That Will Help You Poop On A Regular Schedule.md",
@@ -273,9 +276,6 @@
     "grief.md",
     "ReadItLater Inbox/This Obsidian plugin can literally replace a dozen others.md",
     "ReadItLater Inbox/All I want is a productivity app that doesn't get in my way.md",
-    "ReadItLater Inbox/U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore.md",
-    "Journal/Daily/2025-11-21.md",
-    "church/Zach Lambert.md",
-    "Daily notes/2025-08-31.md"
+    "ReadItLater Inbox/U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore.md"
   ]
 }
