@@ -213,11 +213,10 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "eb46cd55bfb767c0",
+  "active": "266b950ea84f6542",
   "lastOpenFiles": [
     "Clippings/A Practice of Thanksgiving.md",
     "Clippings/Schopenhauer's philosophy of hope.md",
