@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "2025-11-27"
             }
-          },
-          {
-            "id": "f1b6f66ac090f773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marc_Taslit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Marc_Taslit"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,9 +217,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f1b6f66ac090f773",
+  "active": "674db53d8b4d1fa5",
   "lastOpenFiles": [
     "Marc_Taslit.md",
+    "Marc_Taslit.md~",
     "Journal/Daily/2025-11-27.md",
     "Poetry/poem-11-27.md",
     "Thanksgiving examples.md",
@@ -271,7 +247,6 @@
     "Clippings/Text of the Mourner's Kaddish.md",
     "Clippings/The wisdom of the elders, the greed of the rich.md",
     "Clippings/The Internet is broken and the inventor of the World Wide Web wants to fix it.md",
-    "Rebecca.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
@@ -279,7 +254,6 @@
     "Journal/2025-11-01.md.orig",
     "todoist-backup-20251120123929.json",
     "Symbol2",
-    "Symbol1",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
