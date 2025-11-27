@@ -11,9 +11,24 @@
             "id": "e97d17170995614f",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/The Writer Who Dared Criticize Silicon Valley.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Writer Who Dared Criticize Silicon Valley"
             }
           }
         ]
@@ -187,6 +202,7 @@
   },
   "active": "e97d17170995614f",
   "lastOpenFiles": [
+    "ReadItLater Inbox/The Writer Who Dared Criticize Silicon Valley.md",
     "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
     "Irvin.md",
     "ReadItLater Inbox/When Is My Thanksgiving Turkey Done and More Thanksgiving Questions Answered.md",
@@ -211,7 +227,6 @@
     "ReadItLater Inbox/End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff.md",
     "ReadItLater Inbox/China has brought millions out of poverty. The US has not – by choice.md",
     "ReadItLater Inbox/They’re doing to America what they did to Christianity  Bill McKibben.md",
-    "ReadItLater Inbox/These 3 Rock Songs Live and Die by Their Iconic Bass Line.md",
-    "Journal/Daily/2025-11-22.md"
+    "ReadItLater Inbox/These 3 Rock Songs Live and Die by Their Iconic Bass Line.md"
   ]
 }
