@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poem-11-27.md",
+                "file": "Journal/Daily/2025-11-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poem-11-27"
+              "title": "2025-11-27"
+            }
+          },
+          {
+            "id": "f1b6f66ac090f773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marc_Taslit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Marc_Taslit"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,11 +242,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "674db53d8b4d1fa5",
+  "active": "f1b6f66ac090f773",
   "lastOpenFiles": [
-    "Thanksgiving examples.md",
-    "Poetry/poem-11-27.md",
+    "Marc_Taslit.md",
     "Journal/Daily/2025-11-27.md",
+    "Poetry/poem-11-27.md",
+    "Thanksgiving examples.md",
     "personal/Family/MP.md",
     "Clippings/A Practice of Thanksgiving.md",
     "Journal/Weekly/2025-W48.md",
@@ -246,7 +272,6 @@
     "Clippings/The wisdom of the elders, the greed of the rich.md",
     "Clippings/The Internet is broken and the inventor of the World Wide Web wants to fix it.md",
     "Rebecca.md",
-    "Clippings/deep sadness - dhath12@gmail.com.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",

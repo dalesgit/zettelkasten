@@ -1,14 +1,14 @@
 {
   "apps": [
     {
-      "name": "gvim",
-      "code": "gvim",
+      "name": "geany",
+      "code": "geany",
       "arguments": "",
       "showInMenu": true
     },
     {
-      "name": "geany",
-      "code": "geany",
+      "name": "gvim",
+      "code": "gvim",
       "arguments": "",
       "showInMenu": true
     }
