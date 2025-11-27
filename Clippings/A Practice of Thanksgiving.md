@@ -1,14 +1,15 @@
 ---
-title: "A Practice of Thanksgiving"
-source: "https://cac.org/daily-meditations/a-practice-of-thanksgiving/"
+title: A Practice of Thanksgiving
+source: https://cac.org/daily-meditations/a-practice-of-thanksgiving/
 author:
   - "[[Fr. Richard Rohr]]"
   - "[[OFM]]"
 published: 2025-11-27
 created: 2025-11-27
-description: "Diana Butler Bass writes of gratitude. Explore how we can practice gratitude daily in challenging times in the Daily Meditation from CAC."
+description: Diana Butler Bass writes of gratitude. Explore how we can practice gratitude daily in challenging times in the Daily Meditation from CAC.
 tags:
-  - "clippings"
+  - thanksgiving
+  - gratitude
 ---
 **Thanksgiving Day (U.S.)**
 
