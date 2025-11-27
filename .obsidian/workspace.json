@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-11-27.md",
+                "file": "Poetry/poem-11-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-27"
-            }
-          },
-          {
-            "id": "83c96cf5e8a07fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Weekly/2025-W48.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-W48"
-            }
-          },
-          {
-            "id": "33f3c00217e571eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "order.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "order"
+              "title": "poem-11-27"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -267,11 +217,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "33f3c00217e571eb",
+  "active": "674db53d8b4d1fa5",
   "lastOpenFiles": [
-    "order.md",
-    "Journal/Weekly/2025-W48.md",
+    "Thanksgiving examples.md",
+    "Poetry/poem-11-27.md",
     "Journal/Daily/2025-11-27.md",
+    "personal/Family/MP.md",
+    "Clippings/A Practice of Thanksgiving.md",
+    "Journal/Weekly/2025-W48.md",
+    "Clippings2/If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul.md",
+    "gratitude.md",
+    "order.md",
     "Poetry/poetry-11-26.md",
     "Journal/Daily/2025-11-26.md",
     "Poetry/poetry-11-25.md",
@@ -291,12 +247,6 @@
     "Clippings/The Internet is broken and the inventor of the World Wide Web wants to fix it.md",
     "Rebecca.md",
     "Clippings/deep sadness - dhath12@gmail.com.md",
-    "Journal/Daily/2025-11-20.md",
-    "Clippings/The world lost the climate gamble. Now it faces a dangerous new reality.md",
-    "Clippings/Our Almost-Apocalyptic Climate Future.md",
-    "Clippings/The Line Dividing Good and Evil.md",
-    "Poetry/poetry-11-24.md",
-    "ReadItLater Inbox/‘Eating Indigenously’ award-winning chef celebrates Native American cuisine in new cookbook.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",

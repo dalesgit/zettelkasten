@@ -38,7 +38,7 @@ I gathered a short number of my favorite responses into a kind of found poem abo
 The way my toddler says potstickers.  
 Did scary things. Didn’t die. Encouraging.  
 My backyard garden that feeds us.  
-The cold side of the pillow.  
+- The cold side of the pillow.  
 We celebrated our 55th wedding anniversary.  
 I’m grateful for being fired.
 
