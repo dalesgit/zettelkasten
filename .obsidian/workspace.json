@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "poem-11-27"
             }
+          },
+          {
+            "id": "eed884bd9cdcd17e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +231,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb46cd55bfb767c0",
+  "active": "eed884bd9cdcd17e",
   "lastOpenFiles": [
     "Journal/Daily/2025-11-27.md",
     "Clippings/100 years on, T.S. Eliot’s The Hollow Men is a poem for our populist moment.md",
