@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/The Writer Who Dared Criticize Silicon Valley.md",
+                "file": "Journal/Daily/2025-11-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Writer Who Dared Criticize Silicon Valley"
+              "title": "2025-11-27"
             }
           }
         ]
@@ -106,7 +106,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "6e622f711dda0683",
@@ -200,8 +200,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e97d17170995614f",
+  "active": "9be8fa93ec5f4945",
   "lastOpenFiles": [
+    "ReadItLater Inbox/3 Folk Lyrics From the 1960s That Still Leave You Asking Yourself Some Awfully Big Questions.md",
+    "Journal/Daily/2025-11-27.md",
     "ReadItLater Inbox/The Writer Who Dared Criticize Silicon Valley.md",
     "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
     "Irvin.md",
@@ -225,8 +227,6 @@
     "ReadItLater Inbox/Who can tame Trump An unlikely candidate is emerging the Catholic church  Simon Tisdall.md",
     "Christianity.md",
     "ReadItLater Inbox/End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff.md",
-    "ReadItLater Inbox/China has brought millions out of poverty. The US has not – by choice.md",
-    "ReadItLater Inbox/They’re doing to America what they did to Christianity  Bill McKibben.md",
-    "ReadItLater Inbox/These 3 Rock Songs Live and Die by Their Iconic Bass Line.md"
+    "ReadItLater Inbox/China has brought millions out of poverty. The US has not – by choice.md"
   ]
 }
