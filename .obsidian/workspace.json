@@ -213,11 +213,10 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "eb46cd55bfb767c0",
+  "active": "266b950ea84f6542",
   "lastOpenFiles": [
     "Journal/Daily/2025-11-27.md",
     "Clippings/100 years on, T.S. Eliot’s The Hollow Men is a poem for our populist moment.md",
