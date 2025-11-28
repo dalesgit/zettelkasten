@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-11-28"
             }
+          },
+          {
+            "id": "664eeed9c21455dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Weekly/2025-W48.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-W48"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,11 +242,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb46cd55bfb767c0",
+  "active": "664eeed9c21455dc",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-28.md",
     "Clippings/2025 Advent and Christmas Resources.md",
     "Poetry/poem-11-27.md",
-    "Journal/Daily/2025-11-28.md",
     "Journal/Daily/2025-11-27.md",
     "Clippings/100 years on, T.S. Eliot’s The Hollow Men is a poem for our populist moment.md",
     "Clippings/A Practice of Thanksgiving.md",
