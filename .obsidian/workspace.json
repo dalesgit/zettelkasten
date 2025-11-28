@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poem-11-27.md",
+                "file": "Journal/Daily/2025-11-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poem-11-27"
-            }
-          },
-          {
-            "id": "eed884bd9cdcd17e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "2025-11-28"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,15 +217,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eed884bd9cdcd17e",
+  "active": "eb46cd55bfb767c0",
   "lastOpenFiles": [
+    "Poetry/poem-11-27.md",
+    "Journal/Daily/2025-11-28.md",
     "Journal/Daily/2025-11-27.md",
     "Clippings/100 years on, T.S. Eliot’s The Hollow Men is a poem for our populist moment.md",
     "Clippings/A Practice of Thanksgiving.md",
     "Clippings/Schopenhauer's philosophy of hope.md",
     "Marc_Taslit.md",
     "Marc_Taslit.md~",
-    "Poetry/poem-11-27.md",
     "Thanksgiving examples.md",
     "personal/Family/MP.md",
     "Journal/Weekly/2025-W48.md",
@@ -261,7 +248,6 @@
     "Journal/Daily/2025-11-22.md",
     "Journal/Daily/2025-11-21.md",
     "Clippings/Text of the Mourner's Kaddish.md",
-    "Clippings/The wisdom of the elders, the greed of the rich.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
