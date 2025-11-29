@@ -11,9 +11,24 @@
             "id": "de009cc4976ce624",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-29"
             }
           }
         ]
@@ -204,6 +219,8 @@
   },
   "active": "de009cc4976ce624",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-29.md",
+    "Poetry/poem-11-29.md",
     "gospel difficult text.md",
     "goal of the sermon.md",
     "Hebrew canon.md",
@@ -230,8 +247,6 @@
     "Journal/Daily/2025-11-26.md",
     "Poetry/poetry-11-25.md",
     "Poetry/poetry-11-25.md~",
-    "conflict-files-obsidian-git.md",
-    "Journal/Daily/2025-11-17.md",
     "Linda.md~",
     ".md",
     "Poetry/Untitled.",
