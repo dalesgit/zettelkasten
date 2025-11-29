@@ -11,14 +11,9 @@ author:
 > Google's approach to email
 
 ---
+
 | ### Lora Mackie <lora54home@gmail.com\> |  Nov 28, 2025, 12:19 PM (20 hours ago)  
 More | to Mary, Jamie, Ann, me, Diane, Gail, Karen, Deborah, Peter, Lou, Elaine, Roxie, Margrit, Sara, Lyn, Zandy, Doris, Ellen, Priscilla, Alan
-
-![](https://mail.google.com/mail/u/0/images/cleardot.gif) | to Mary, Jamie, Ann, me, Diane, Gail, Karen, Deborah, Peter, Lou, Elaine, Roxie, Margrit, Sara, Lyn, Zandy, Doris, Ellen, Priscilla, Alan
-
-![](https://mail.google.com/mail/u/0/images/cleardot.gif) | to Mary, Jamie, Ann, me, Diane, Gail, Karen, Deborah, Peter, Lou, Elaine, Roxie, Margrit, Sara, Lyn, Zandy, Doris, Ellen, Priscilla, Alan
-
-![](https://mail.google.com/mail/u/0/images/cleardot.gif) |
 
 Thank you so much for sharing this, Mary Pat. It had profound meaning for me. Could you forward the part of the Jon Pavlovitz article that we used in Centering Prayer yesterday? Thanks
 
@@ -42,32 +37,27 @@ On Fri, Nov 28, 2025 at 11:58 AM Mary Pat Sjostrom <[marypat.sjostrom@gmail.co
 > And that truth reframes everything we think about gratitude.  
 > 
 > Here are several ways I’m practicing yādâ (thanksgiving)in my own life this week  
-> 
-> 1\. Gratitude isn’t something you wait to feel; it’s something you choose to practice. 1 Thessalonians 5:18  
-> 
-> 2\. Today’s pain makes more sense when you remember tomorrow’s promise. Romans 8:18  
-> 
-> 3\. Complaining is often our heart’s way of saying, ‘God, I don’t trust what You’re doing right now.’ Philippians 2:14  
-> 
-> 4\. If Jesus trusted His Father in the worst moment, I can trust Him in mine. 1 Peter 2:23  
-> 
-> 5\. When I think I deserve better, gratitude disappears. But When I remember grace, it returns.” Luke 13:2–3  
-> 
-> 6\. If you can’t lose Christ, then you can’t lose your reason to give thanks. Romans 8:35–39  
-> 
-> Thanksgiving isn’t just about being grateful for what you can see. It’s learning to trust God with what you can’t see.  
-> 
-> Yādâ is gratitude in uncertainty.  
-> Gratitude in fear.  
-> Gratitude in waiting.  
-> Gratitude in confusion.  
-> Gratitude in the “not yet.”  
-> Gratitude in “even this”  
-> 
-> It’s saying, “God, I thank You now because You already know what I don’t.”  
-> 
-> So wherever you find yourself right now  
-> if the diagnosis hasn’t come back,  
-> if the finances don’t make sense,  
-> if the relationship is unresolved,  
-> if the future feels uncertain.
+ 
+ 1. Gratitude isn’t something you wait to feel; it’s something you choose to practice. **1 Thessalonians 5:18** 
+ 2. Today’s pain makes more sense when you remember tomorrow’s promise. **Romans 8:18**  
+ 3. Complaining is often our heart’s way of saying, ‘God, I don’t trust what You’re doing right now.’ **Philippians 2:14**  
+ 4. If Jesus trusted His Father in the worst moment, I can trust Him in mine. **1 Peter 2:23**  
+ 5. When I think I deserve better, gratitude disappears. But When I remember grace, it returns.” **Luke 13:2–3**  
+ 6. If you can’t lose Christ, then you can’t lose your reason to give thanks. **Romans 8:35–39**  
+ 
+Thanksgiving isn’t just about being grateful for what you can see. It’s learning to trust God with what you can’t see.  
+ 
+- Yādâ is gratitude in uncertainty.  
+- Gratitude in fear.  
+- Gratitude in waiting.  
+- Gratitude in confusion.  
+- Gratitude in the “not yet.”  
+- Gratitude in “even this”  
+ 
+- It’s saying, “God, I thank You now because You already know what I don’t.”  
+ 
+- So wherever you find yourself right now  
+- if the diagnosis hasn’t come back,  
+- if the finances don’t make sense,  
+- if the relationship is unresolved,  
+- if the future feels uncertain.

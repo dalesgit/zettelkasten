@@ -11,6 +11,12 @@
       "code": "gvim",
       "arguments": "",
       "showInMenu": true
+    },
+    {
+      "name": "nvim",
+      "code": "xterm -e nvim",
+      "arguments": "",
+      "showInMenu": false
     }
   ],
   "sysexpInFileMenu": true
