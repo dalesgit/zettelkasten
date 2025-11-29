@@ -55,8 +55,7 @@
               "title": "2025-W48"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -238,11 +238,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "266b950ea84f6542",
+  "active": "eb46cd55bfb767c0",
   "lastOpenFiles": [
+    "Journal/Weekly/2025-W48.md",
     "Journal/Daily/2025-11-28.md",
     "Clippings/2025 Advent and Christmas Resources.md",
     "Poetry/poem-11-27.md",
@@ -256,7 +258,6 @@
     "Marc_Taslit.md~",
     "Thanksgiving examples.md",
     "personal/Family/MP.md",
-    "Journal/Weekly/2025-W48.md",
     "Clippings2/If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul.md",
     "gratitude.md",
     "order.md",
@@ -272,8 +273,6 @@
     "Journal/Daily/2025-11-25.md",
     "Journal/Daily/2025-11-24.md",
     "Journal/Daily/2025-11-23.md",
-    "Journal/Daily/2025-11-22.md",
-    "Journal/Daily/2025-11-21.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
