@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-11-29"
             }
+          },
+          {
+            "id": "fb3286d6ddb90d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thanksgiving email.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thanksgiving email"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,12 +119,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -213,16 +238,19 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "de009cc4976ce624",
+  "active": "fb3286d6ddb90d09",
   "lastOpenFiles": [
+    "Thanksgiving email.md~",
+    "Thanksgiving email.md",
+    "Journal/Daily/2025-11-29.md",
     "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3.MeFHQf",
     "Born to Run [Wu4_zVxmufY].mp3.rahK53",
     "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3.co0mYZ",
     "mx-linux keyboard on Chromebook.md",
-    "Journal/Daily/2025-11-29.md",
     "Poetry/poem-11-29.md",
     "gospel difficult text.md",
     "goal of the sermon.md",
@@ -246,14 +274,12 @@
     "Clippings2/If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul.md",
     "gratitude.md",
     "order.md",
-    "Poetry/poetry-11-26.md",
     "Poetry/poetry-11-25.md~",
     "Linda.md~",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
     "Journal/2025-11-01.md.tmp",
-    "Journal/2025-11-01.md.orig",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
