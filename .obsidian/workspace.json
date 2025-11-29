@@ -4,55 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2e3b6a5a6fac6ad",
+        "id": "9cb0b8725a6ce9fb",
         "type": "tabs",
         "children": [
           {
-            "id": "eb46cd55bfb767c0",
+            "id": "de009cc4976ce624",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-11-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-28"
-            }
-          },
-          {
-            "id": "664eeed9c21455dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Weekly/2025-W48.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-W48"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -122,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -240,12 +202,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb46cd55bfb767c0",
+  "active": "de009cc4976ce624",
   "lastOpenFiles": [
-    "Journal/Daily/2025-11-27.md",
+    "gospel difficult text.md",
+    "goal of the sermon.md",
+    "Hebrew canon.md",
+    "Overview of texts.md",
+    "Prophetic ears.md",
     "Journal/Daily/2025-11-28.md",
-    "Poetry/poem-11-28.md",
     "Journal/Weekly/2025-W48.md",
+    "Journal/Daily/2025-11-27.md",
+    "Poetry/poem-11-28.md",
     "Clippings/2025 Advent and Christmas Resources.md",
     "Poetry/poem-11-27.md",
     "Poetry/poem-11-27.md",
@@ -265,12 +232,7 @@
     "Poetry/poetry-11-25.md~",
     "conflict-files-obsidian-git.md",
     "Journal/Daily/2025-11-17.md",
-    "Journal/Monthly/2025-11.md",
     "Linda.md~",
-    "Journal/Daily/2025-11-16.md",
-    "Journal/Daily/2025-11-25.md",
-    "Journal/Daily/2025-11-24.md",
-    "Journal/Daily/2025-11-23.md",
     ".md",
     "Poetry/Untitled.",
     "000 Output",
