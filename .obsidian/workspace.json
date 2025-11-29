@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "2025-11-29"
             }
-          },
-          {
-            "id": "1529e59826649d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mx-linux keyboard on Chromebook.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mx-linux keyboard on Chromebook"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +217,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1529e59826649d0c",
+  "active": "de009cc4976ce624",
   "lastOpenFiles": [
     "mx-linux keyboard on Chromebook.md",
     "Journal/Daily/2025-11-29.md",
