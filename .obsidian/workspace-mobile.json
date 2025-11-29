@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33581221625226eb",
+        "id": "cdf0b323e697e192",
         "type": "tabs",
         "children": [
           {
-            "id": "e97d17170995614f",
+            "id": "9d3ee075547a4fc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/Africa’s forests transformed from carbon sink to carbon source, study finds.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Africa’s forests transformed from carbon sink to carbon source, study finds"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -200,10 +185,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e97d17170995614f",
+  "active": "9d3ee075547a4fc8",
   "lastOpenFiles": [
-    "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
     "ReadItLater Inbox/Africa’s forests transformed from carbon sink to carbon source, study finds.md",
+    "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
     "ReadItLater Inbox/The Guardian view on Ukraine peace talks Putin is taking Trump for another ride on the Kremlin carousel  Editorial.md",
     "ReadItLater Inbox/How Amazon turned our capitalist era of free markets into the age of technofeudalism  Yanis Varoufakis.md",
     "Journal/Daily/2025-11-27.md",
