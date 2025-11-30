@@ -11,9 +11,78 @@
             "id": "1f050dd72da72bb6",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "templater/Daily2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "595aed5261fd6fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d730953bb5e18b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-29"
+            }
+          },
+          {
+            "id": "9c37e155c3dfc929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templater/Daily1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily1"
             }
           }
         ]
@@ -79,13 +148,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -183,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +265,21 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "1f050dd72da72bb6",
+  "active": "8d730953bb5e18b4",
   "lastOpenFiles": [
-    "Praying for leaders.md",
+    "templater/Daily2.md",
+    "Journal/Daily/2025-11-22.md",
+    "templater/Daily1.md",
+    "Journal/Daily/2025-11-29.md",
     "Journal/Daily/2025-11-30.md",
+    "Poetry/poetry-11-30.md~",
+    "Poetry/poetry-11-30.md",
+    "Clippings/Empathy is the new Christian battleground.md",
+    "Praying for leaders.md",
     "Journal/2025-09-14.md",
     "Clippings/Opinion  The People Holding Everyone Together Are Coming Apart.md",
     "Clippings/America stares down erasure of Black history and progress.md",
@@ -214,7 +288,6 @@
     "Clippings/This Habit Is Quietly Ruining Your Relationships.md",
     "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
     "Clippings/She Was a Victim. She Became a Headline. Here, She’s a Person..md",
-    "Journal/Daily/2025-11-29.md",
     "Thanksgiving email.md",
     "Journal/Daily/2025-11-29.md~",
     "Thanksgiving email.md~",
@@ -231,15 +304,9 @@
     "Journal/Daily/2025-11-28.md",
     "Journal/Weekly/2025-W48.md",
     "Journal/Daily/2025-11-27.md",
-    "Poetry/poem-11-28.md",
-    "Clippings/2025 Advent and Christmas Resources.md",
-    "Poetry/poem-11-27.md",
-    "Poetry/poem-11-27.md",
-    "Clippings/100 years on, T.S. Eliot’s The Hollow Men is a poem for our populist moment.md",
     "Marc_Taslit.md~",
     "Poetry/poetry-11-25.md~",
     "Linda.md~",
-    ".md",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
