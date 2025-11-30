@@ -11,9 +11,24 @@
             "id": "9d3ee075547a4fc8",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/The James Webb Space Telescope may have finally found the 1st stars in the universe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The James Webb Space Telescope may have finally found the 1st stars in the universe"
             }
           }
         ]
@@ -91,7 +106,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 4
   },
   "right": {
     "id": "6e622f711dda0683",
@@ -185,7 +200,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d3ee075547a4fc8",
+  "active": "9be8fa93ec5f4945",
   "lastOpenFiles": [
     "ReadItLater Inbox/Africa’s forests transformed from carbon sink to carbon source, study finds.md",
     "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
