@@ -4,85 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66f88a5b10e5081d",
+        "id": "a496b247ad0cbe25",
         "type": "tabs",
         "children": [
           {
-            "id": "1f050dd72da72bb6",
+            "id": "8e97ea2dc02da30d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templater/Daily2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daily2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "595aed5261fd6fc9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8d730953bb5e18b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-11-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-29"
-            }
-          },
-          {
-            "id": "9c37e155c3dfc929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templater/Daily1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daily1"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -152,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -250,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,13 +202,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8d730953bb5e18b4",
+  "active": "8e97ea2dc02da30d",
   "lastOpenFiles": [
-    "templater/Daily2.md",
-    "Journal/Daily/2025-11-22.md",
     "templater/Daily1.md",
-    "Journal/Daily/2025-11-29.md",
+    "templater/Daily2.md",
     "Journal/Daily/2025-11-30.md",
+    "Journal/Daily/2025-11-29.md",
+    "Journal/Daily/2025-11-22.md",
     "Poetry/poetry-11-30.md~",
     "Poetry/poetry-11-30.md",
     "Clippings/Empathy is the new Christian battleground.md",
