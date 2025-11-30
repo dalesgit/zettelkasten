@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-11-29.md",
+                "file": "Clippings/Opinion  The People Holding Everyone Together Are Coming Apart.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-29"
+              "title": "Opinion  The People Holding Everyone Together Are Coming Apart"
+            }
+          },
+          {
+            "id": "089896091b2ee052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-30"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,13 +238,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "b9cc5d3ae54d09f5",
+  "active": "089896091b2ee052",
   "lastOpenFiles": [
-    "Thanksgiving email.md",
+    "Clippings/Opinion  The People Holding Everyone Together Are Coming Apart.md",
+    "Journal/Daily/2025-11-30.md",
     "Journal/Daily/2025-11-29.md",
+    "Thanksgiving email.md",
     "Journal/Daily/2025-11-29.md~",
     "Thanksgiving email.md~",
     "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3.MeFHQf",
@@ -248,7 +276,6 @@
     "personal/Family/MP.md",
     "Clippings2/If you're a boomer and you can still do these 7 things, you’re a once-in-a-lifetime soul.md",
     "gratitude.md",
-    "order.md",
     "Poetry/poetry-11-25.md~",
     "Linda.md~",
     ".md",
