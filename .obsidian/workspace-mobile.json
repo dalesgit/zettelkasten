@@ -11,12 +11,37 @@
             "id": "9d3ee075547a4fc8",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wealthy People Have Always Shaped Universities. This Time Is Different."
+            }
+          },
+          {
+            "id": "1b1b41c3a7ce0a08",
+            "type": "leaf",
+            "state": {
               "type": "beautitab-react-view",
               "state": {},
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +116,8 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 4,
+    "pinned": true
   },
   "right": {
     "id": "6e622f711dda0683",
@@ -185,8 +211,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d3ee075547a4fc8",
+  "active": "1b1b41c3a7ce0a08",
   "lastOpenFiles": [
+    "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
+    "Journal/Daily/2025-11-30.md",
+    "Journal/Daily/2025-11-29.md",
+    "Journal/Daily/2025-11-28.md",
     "ReadItLater Inbox/Africa’s forests transformed from carbon sink to carbon source, study finds.md",
     "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
     "ReadItLater Inbox/The Guardian view on Ukraine peace talks Putin is taking Trump for another ride on the Kremlin carousel  Editorial.md",
@@ -208,10 +238,6 @@
     "Poetry/poetry-10-31.md",
     "dream.md",
     "ReadItLater Inbox/Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning.md",
-    "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md",
-    "ReadItLater Inbox/6 Everyday Habits That Will Help You Poop On A Regular Schedule.md",
-    "ReadItLater Inbox/Article 2025-11-23 19-17-08.md",
-    "ReadItLater Inbox/‘Eating Indigenously’ award-winning chef celebrates Native American cuisine in new cookbook.md",
-    "Journal/Daily/2025-11-23.md"
+    "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md"
   ]
 }
