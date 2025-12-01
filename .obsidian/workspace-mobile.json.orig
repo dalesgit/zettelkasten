@@ -1,20 +1,23 @@
 {
   "main": {
-    "id": "b0f6ce8ee7177e63",
+    "id": "28c668a48caae21b",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "568bdbc9072dcd23",
+        "id": "cdf0b323e697e192",
         "type": "tabs",
         "children": [
           {
-            "id": "36446d2e226c8f4d",
+            "id": "9d3ee075547a4fc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly notes/2025-W49.md",
+<<<<<<< HEAD
+                "file": "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
+=======
+                "file": "Clippings/The James Webb Space Telescope may have finally found the 1st stars in the universe.md",
+>>>>>>> bd5e7f039171a13b5680e52f6bdd07233855ae60
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,38 +32,39 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-W49"
-=======
-        "id": "052481ed40facb0d",
-        "type": "tabs",
-        "children": [
+<<<<<<< HEAD
+              "title": "Wealthy People Have Always Shaped Universities. This Time Is Different."
+            }
+          },
           {
-            "id": "5a2a7720aca79bbe",
+            "id": "1b1b41c3a7ce0a08",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "beautitab-react-view",
               "state": {},
-              "icon": "lucide-file",
               "title": "New tab"
->>>>>>> 253faab30b7cae526144c21dd1bbbb3781f99890
+=======
+              "title": "The James Webb Space Telescope may have finally found the 1st stars in the universe"
+>>>>>>> bd5e7f039171a13b5680e52f6bdd07233855ae60
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e9bb86912096dfa1",
+    "id": "0cb3cd07af282082",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "30aacfde49afeb85",
+        "id": "f6fdc390ac9486d4",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -68,12 +72,12 @@
         }
       },
       {
-        "id": "202602deac2c9bc0",
+        "id": "2f3bbc665c994e7b",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:survival",
+            "query": "tag:#dream",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,12 +89,12 @@
         }
       },
       {
-        "id": "97dc075a83c34cd5",
+        "id": "67649377b1e9be18",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
-            "sortOrder": "frequency",
+            "sortOrder": "alphabetical",
             "useHierarchy": true,
             "showSearch": false,
             "searchQuery": ""
@@ -100,7 +104,7 @@
         }
       },
       {
-        "id": "54789bb73218661f",
+        "id": "8522c6657e276db3",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -108,21 +112,36 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "9be8fa93ec5f4945",
+        "type": "leaf",
+        "state": {
+          "type": "notebook-navigator",
+          "state": {},
+          "icon": "notebook",
+          "title": "Notebook Navigator"
+        }
       }
     ],
-    "currentTab": 0
+<<<<<<< HEAD
+    "currentTab": 4,
+    "pinned": true
+=======
+    "currentTab": 4
+>>>>>>> bd5e7f039171a13b5680e52f6bdd07233855ae60
   },
   "right": {
-    "id": "63573f43e626be80",
+    "id": "6e622f711dda0683",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "921883f12c57ea74",
+        "id": "badc9ee7199e970f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Clippings/A prayer for reconciliation  Friends of Silence.md",
+            "file": "ReadItLater Inbox/U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,11 +155,12 @@
         }
       },
       {
-        "id": "ad88be5f4f72f157",
+        "id": "8160fcdc3dfe0f61",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Journal/Daily/2025-11-20.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -149,11 +169,12 @@
         }
       },
       {
-        "id": "4475d44033a42db8",
+        "id": "6e4dd3cb108298e3",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "Journal/Daily/2025-11-20.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,7 +184,7 @@
         }
       },
       {
-        "id": "f915e8f7f200ee0c",
+        "id": "4d0da2ba91c5bb77",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -173,7 +194,7 @@
         }
       },
       {
-        "id": "e071ee95bd40938e",
+        "id": "364c3848ce4c57e1",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -187,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,48 +219,41 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false,
       "periodic-notes:Open today": false
     }
   },
 <<<<<<< HEAD
-  "active": "36446d2e226c8f4d",
-  "lastOpenFiles": [
-    "weekly templates.md",
+  "active": "1b1b41c3a7ce0a08",
 =======
-  "active": "5a2a7720aca79bbe",
+  "active": "9be8fa93ec5f4945",
+>>>>>>> bd5e7f039171a13b5680e52f6bdd07233855ae60
   "lastOpenFiles": [
-    "my-files-inbox-7-30-25/courts/3-justices-seek-abolish-voting-rights.md",
-    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
-    "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
-    "ReadItLater.md",
->>>>>>> 253faab30b7cae526144c21dd1bbbb3781f99890
-    "Daily notes/2025-11-18.md",
-    "ReadItLater Inbox/The last frontier of empathy why we still struggle to see ourselves as animals  Megan Mayhew Bergman.md",
-    "ReadItLater Inbox/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
-    "ReadItLater.md",
-    "Daily notes/2025-11-17.md",
-    "journal/2025-11-16.md",
-    "travel/packing-hilton-head.md",
-    "travel/packing checklist.md",
-    "journal/2025-11-15.md",
-    "ReadItLater Inbox/Trump Is Wrong About Fentanyl in Almost Every Way - The New York Times.md",
-    "Clippings/Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut.md",
-    "/Poetry/poetry-11-15.md",
-    "/Poetry",
-    "journal/2025-11-14.md",
-    "Poverty by America.md",
-    "Poetry/poetry-11-12.md",
-    "What feeds me  From MP.md",
-    "Poetry/Poetry-11-13.md",
-    "journal/2025-11-13.md",
-    "journal/2025-11-10.md",
-    "Clippings/In the Wake of the Edmund Fitzgerald.md",
-    "Clippings/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
-    "Clippings/Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers.md",
-    "Clippings/The Striking Similarities Between Aphorisms and Poetry.md",
-    "Clippings/Opinion  Use A.I. to Reinvigorate Democracy — Not Replace It.md",
-    "Clippings/Philosophy expert shares the 300-year-old rule to tell if someone is a good or bad person.md",
-    "meeting_11-13-saved_new_chat.txt",
-    "Untitled 1.canvas"
+    "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
+    "Journal/Daily/2025-11-30.md",
+    "Journal/Daily/2025-11-29.md",
+    "Journal/Daily/2025-11-28.md",
+    "ReadItLater Inbox/Africa’s forests transformed from carbon sink to carbon source, study finds.md",
+    "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
+    "ReadItLater Inbox/The Guardian view on Ukraine peace talks Putin is taking Trump for another ride on the Kremlin carousel  Editorial.md",
+    "ReadItLater Inbox/How Amazon turned our capitalist era of free markets into the age of technofeudalism  Yanis Varoufakis.md",
+    "Journal/Daily/2025-11-27.md",
+    "ReadItLater Inbox/3 Folk Lyrics From the 1960s That Still Leave You Asking Yourself Some Awfully Big Questions.md",
+    "ReadItLater Inbox/The Writer Who Dared Criticize Silicon Valley.md",
+    "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
+    "Irvin.md",
+    "ReadItLater Inbox/When Is My Thanksgiving Turkey Done and More Thanksgiving Questions Answered.md",
+    "ReadItLater Inbox/I wish I'd found this free tool before paying for Readwise.md",
+    "ReadItLater Inbox/Six Word Memoirs Home.md",
+    "Journal/Daily/2025-11-26.md",
+    "Poetry/poetry-11-26.md",
+    "Poetry/poetry-10-26.md",
+    "ReadItLater Inbox/12 Daily “Notes to Self” We Should All Memorize Before Life Gets Any Tougher.md",
+    "Thanksgiving examples.md",
+    "Journal/Daily/2025-11-24.md",
+    "Poetry/poetry-10-31.md",
+    "dream.md",
+    "ReadItLater Inbox/Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning.md",
+    "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md"
   ]
 }
