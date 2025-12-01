@@ -9,7 +9,7 @@ description: "With the help of A.I., a historian has identified the killer in a 
 tags:
   - "clippings"
 ---
-One man kneels at the edge of a pit filled with bodies. He knows that, within moments, he will be dead. His drawn face burns with defiance. Behind him stands a uniformed, bespectacled Nazi soldier. In his extended right arm, the soldier holds a pistol, just inches from his victim’s skull. A crowd of other Germans stands watching, curious but undisturbed.
+pOne man kneels at the edge of a pit filled with bodies. He knows that, within moments, he will be dead. His drawn face burns with defiance. Behind him stands a uniformed, bespectacled Nazi soldier. In his extended right arm, the soldier holds a pistol, just inches from his victim’s skull. A crowd of other Germans stands watching, curious but undisturbed.
 
 This harrowing scene, captured in [a 1941 photograph](https://digital.kenyon.edu/cgi/viewcontent.cgi?article=2084&context=bulmash) known as “The Last Jew in Vinnitsa,” became an iconic image of the Holocaust for the way it captured the banal savagery of mass slaughter. But for decades, nobody could answer the most basic question the photograph posed: Who were these two men?
 

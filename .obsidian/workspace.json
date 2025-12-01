@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
+                "file": "Journal/Daily/2025-12-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "At Last, a Name for the Murderous Face in a Holocaust Photo"
+              "title": "2025-12-01"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
+                "file": "Poetry/poetry-12-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "At Last, a Name for the Murderous Face in a Holocaust Photo"
+              "title": "poetry-12-01"
             }
           }
         ],
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -243,12 +244,14 @@
   },
   "active": "4e495c37415005f4",
   "lastOpenFiles": [
+    "Poetry/poetry-12-01.md~",
+    "Journal/Daily/2025-12-01.md",
+    "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
+    "Poetry/poetry-12-01.md",
+    "Clippings/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Clippings/Unconfirmed 546724.crdownload",
-    "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
-    "Clippings/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
     "Clippings/Empathy is the new Christian battleground.md",
-    "Journal/Daily/2025-12-01.md",
     "Journal/Daily/2025-11-30.md",
     "personal/Family/MP.md",
     "Journal/Daily/2025-12-01.md~",
@@ -277,8 +280,6 @@
     "Poetry/poem-11-29.md",
     "gospel difficult text.md",
     "goal of the sermon.md",
-    "Hebrew canon.md",
-    "Marc_Taslit.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
