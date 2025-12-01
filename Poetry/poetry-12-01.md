@@ -15,7 +15,7 @@ not worth their weight
 as meagre as it is?
 
 I didn't bid them
-take the measure of kmy living,
+take the measure of my living,
 how much less my dying.
 Do I owe it to my parents?
 One I knew by his absence;
