@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "2025-12-01"
             }
+          },
+          {
+            "id": "927711e28b9e7c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-11-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-30"
+            }
           }
         ]
       }
@@ -219,12 +243,12 @@
   },
   "active": "8e97ea2dc02da30d",
   "lastOpenFiles": [
+    "Journal/Daily/2025-11-30.md",
+    "Journal/Daily/2025-12-01.md",
     "personal/Family/MP.md",
     "Journal/Daily/2025-12-01.md~",
-    "Journal/Daily/2025-12-01.md",
     "templater/Daily1.md",
     "templater/Daily2.md",
-    "Journal/Daily/2025-11-30.md",
     "Journal/Daily/2025-11-29.md",
     "Journal/Daily/2025-11-22.md",
     "Poetry/poetry-11-30.md~",
