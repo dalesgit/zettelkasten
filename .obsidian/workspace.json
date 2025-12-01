@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Family/MP.md",
+                "file": "Journal/Daily/2025-12-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MP"
+              "title": "2025-12-01"
             }
           }
         ]
@@ -219,6 +219,8 @@
   },
   "active": "8e97ea2dc02da30d",
   "lastOpenFiles": [
+    "personal/Family/MP.md",
+    "Journal/Daily/2025-12-01.md~",
     "Journal/Daily/2025-12-01.md",
     "templater/Daily1.md",
     "templater/Daily2.md",
@@ -251,10 +253,8 @@
     "Overview of texts.md",
     "Prophetic ears.md",
     "Journal/Daily/2025-11-28.md",
-    "Journal/Weekly/2025-W48.md",
     "Marc_Taslit.md~",
     "Poetry/poetry-11-25.md~",
-    "Linda.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
