@@ -14,6 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
+                "file": "Clippings/The James Webb Space Telescope may have finally found the 1st stars in the universe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,6 +29,7 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Wealthy People Have Always Shaped Universities. This Time Is Different."
             }
           },
@@ -38,6 +40,7 @@
               "type": "beautitab-react-view",
               "state": {},
               "title": "New tab"
+              "title": "The James Webb Space Telescope may have finally found the 1st stars in the universe"
             }
           }
         ],
@@ -118,6 +121,7 @@
     ],
     "currentTab": 4,
     "pinned": true
+    "currentTab": 4
   },
   "right": {
     "id": "6e622f711dda0683",
@@ -211,7 +215,11 @@
       "periodic-notes:Open today": false
     }
   },
+<<<<<<< HEAD
   "active": "1b1b41c3a7ce0a08",
+=======
+  "active": "9be8fa93ec5f4945",
+>>>>>>> bd5e7f039171a13b5680e52f6bdd07233855ae60
   "lastOpenFiles": [
     "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
     "Journal/Daily/2025-11-30.md",
