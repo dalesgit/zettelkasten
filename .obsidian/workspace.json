@@ -11,9 +11,24 @@
             "id": "8e97ea2dc02da30d",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "personal/Family/MP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MP"
             }
           }
         ]
@@ -198,11 +213,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "8e97ea2dc02da30d",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-01.md",
     "templater/Daily1.md",
     "templater/Daily2.md",
     "Journal/Daily/2025-11-30.md",
@@ -235,7 +252,6 @@
     "Prophetic ears.md",
     "Journal/Daily/2025-11-28.md",
     "Journal/Weekly/2025-W48.md",
-    "Journal/Daily/2025-11-27.md",
     "Marc_Taslit.md~",
     "Poetry/poetry-11-25.md~",
     "Linda.md~",
