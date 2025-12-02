@@ -1,5 +1,5 @@
 {
-  "terminal": "xfce4-terminal",
+  "terminal": "xterm",
   "listenOn": "127.0.0.1:2006",
   "openNeovimOnLoad": true,
   "supportedFileTypes": [
