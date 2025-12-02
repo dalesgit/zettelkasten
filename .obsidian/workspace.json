@@ -11,9 +11,24 @@
             "id": "32ac665988c9fbaa",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How big tech is creating its own friendly media bubble to ‘win the narrative battle online’"
             }
           }
         ]
@@ -204,6 +219,7 @@
   },
   "active": "32ac665988c9fbaa",
   "lastOpenFiles": [
+    "Clippings/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
     "Journal/Daily/2025-12-01.md",
     "Poetry/poetry-12-01.md",
     "Poetry/poetry-12-01.md~",
