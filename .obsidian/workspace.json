@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-12-02.md",
+                "file": "Journal/Daily/2025-12-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-12-02"
+              "title": "2025-12-02"
             }
           }
         ]
@@ -213,13 +213,14 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "32ac665988c9fbaa",
   "lastOpenFiles": [
-    "Journal/Daily/2025-12-02.md",
     "Poetry/poetry-12-02.md",
+    "Journal/Daily/2025-12-02.md",
     "Journal/Daily/2025-12-01.md",
     "Clippings/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
     "Poetry/poetry-12-01.md",
