@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-12-03"
             }
+          },
+          {
+            "id": "2e35ba37df2553d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "covfefe_5_corruption.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "covfefe_5_corruption"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +241,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "32ac665988c9fbaa",
+  "active": "2e35ba37df2553d6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Journal/Daily/2025-12-03.md~",
+    "covfefe_5_corruption.md~",
+    "covfefe_5_corruption.md",
     "Journal/Daily/2025-12-03.md",
+    "Untitled.md",
     "Poetry/poetry-12-03.md",
     "Poetry/poetry-12-02.md",
     "Poetry/poetry-12-02.md~",
@@ -249,11 +277,8 @@
     "Clippings/America stares down erasure of Black history and progress.md",
     "Journal/2025-09-25.md",
     "Journal/Daily/2025-11-30.md~",
-    "Clippings/This Habit Is Quietly Ruining Your Relationships.md",
-    "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
     "Journal/Daily/2025-11-29.md~",
     "Thanksgiving email.md~",
-    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3.MeFHQf",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
