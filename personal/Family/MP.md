@@ -18,4 +18,8 @@ I asked for her check book. I never saw it but turned to my phone because it had
 
 I realize that this was a dramatic example of what I had thought of as her **assuming** things about me without actually asking or saying. There were several examples of that this weekend, but there have been many in the past. 
 
-I had asked her if she had told Peter he should give me a ride to the house party. She vehemently 
+I had asked her if she had told Peter he should give me a ride to the house party. She vehemently claimed she had. (in the past that kind of thing might have been pushed even harder.) But in the end she had to acknowledge that she hadn't. 
+
+Today she vehemently held to me being the one who didn't acknowledge what had happened. That would mean that I had no recollection of that happening. It might be the case. But one of us is have serious neurological interruptions.
+
+I think regularly of the time that the driver of the truck on Kalanianaole Hwy aggressively accused me of bumping his truck. I had no awareness of anything like that happening.
