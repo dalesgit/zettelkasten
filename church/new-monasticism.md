@@ -1,4 +1,4 @@
-> New Monasticism is a modern Christian movement emphasizing communal living, spiritual practices, and social justice, often in urban settings. It draws inspiration from traditional monasticism but adapts its practices to contemporary contexts, emphasizing service, contemplation, and intentional community. 
+ > New Monasticism is a modern Christian movement emphasizing communal living, spiritual practices, and social justice, often in urban settings. It draws inspiration from traditional monasticism but adapts its practices to contemporary contexts, emphasizing service, contemplation, and intentional community. 
 
 ## Key aspects of New Monasticism:
 

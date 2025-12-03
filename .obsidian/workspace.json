@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-02.md",
+                "file": "Poetry/poetry-12-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-02"
+              "title": "poetry-12-02"
             }
           }
         ]
@@ -213,13 +213,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "32ac665988c9fbaa",
   "lastOpenFiles": [
-    "Poetry/poetry-12-02.md",
+    "Poetry/poetry-12-02.md~",
     "Journal/Daily/2025-12-02.md",
+    "church/new-monasticism.md",
+    "Poetry/poetry-12-02.md",
     "Journal/Daily/2025-12-01.md",
     "Clippings/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
     "Poetry/poetry-12-01.md",
@@ -252,8 +255,6 @@
     "Thanksgiving email.md~",
     "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3.MeFHQf",
     "Born to Run [Wu4_zVxmufY].mp3.rahK53",
-    "mx-linux keyboard on Chromebook.md",
-    "Poetry/poem-11-29.md",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
