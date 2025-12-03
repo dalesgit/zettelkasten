@@ -21,3 +21,6 @@ selfishness, thinking only for #1, disregard for others,
 "ain't nobody gonna tell me what to do."
 From the earliest times the poets have talked of horror.
 The horror, the horror.
+
+> 
+> Many critics have raised questions about the interpretation of this phrase. Generally, it implies the horror Kurtz witnesses in Africa, though the horror could be the exploitation of Africa, evil practices of humans, his crumbling sanity, or an illusion of understanding and hope. Simply, it conveys what the West did during colonization in the name of progress, and under the guise of civilizing the natives. Darkness prevails when he dies, symbolizing that his actions were evil. Thus, it is Kurtz’s realization of the bitter and absolute truth of his life.  
