@@ -8,7 +8,9 @@ tags: []
 
 [  Prayer Book Revision: Discussion and Debate](https://www.facebook.com/groups/1198329833622566/?__cft__[0]=AZUVZAsODQZ9uBNuhKLZOfs-oRsaOP_ojCpi6U92X4o7pjhn0VjNoJxFXKDA0LCqs6MmUlrK6vfAESCnr1retRD9G8Ht50227k74PyaSVHaaYyNJAJ9mN0BYjwkSYSt30mbh7OuMOjI2kS3ywuN-HrZfjLYKfQsur26b4grcACkQ3rhm6sfIDMXbjGZHyCA_F5PLXETFj_68loL1b3vWHp1f&__tn__=-UC%2CP-R)
 
-[Robert Solon Jr](https://www.facebook.com/groups/1198329833622566/user/697081831/?__cft__[0]=AZUVZAsODQZ9uBNuhKLZOfs-oRsaOP_ojCpi6U92X4o7pjhn0VjNoJxFXKDA0LCqs6MmUlrK6vfAESCnr1retRD9G8Ht50227k74PyaSVHaaYyNJAJ9mN0BYjwkSYSt30mbh7OuMOjI2kS3ywuN-HrZfjLYKfQsur26b4grcACkQ3rhm6sfIDMXbjGZHyCA_F5PLXETFj_68loL1b3vWHp1f&__tn__=%2CP-R) ·[neStoordps6hlm2lrP0tu544 7tD9et 0a54cfe69b7mm 5g7415 :l1Mec2](https://www.facebook.com/groups/1198329833622566/?multi_permalinks=24874891955539688&hoisted_section_header_type=recently_seen&__cft__[0]=AZUVZAsODQZ9uBNuhKLZOfs-oRsaOP_ojCpi6U92X4o7pjhn0VjNoJxFXKDA0LCqs6MmUlrK6vfAESCnr1retRD9G8Ht50227k74PyaSVHaaYyNJAJ9mN0BYjwkSYSt30mbh7OuMOjI2kS3ywuN-HrZfjLYKfQsur26b4grcACkQ3rhm6sfIDMXbjGZHyCA_F5PLXETFj_68loL1b3vWHp1f&__tn__=%2CO%2CP-R) ·
+[Robert Solon Jr](https://www.facebook.com/groups/1198329833622566/user/697081831/?__cft__[0]=AZUVZAsODQZ9uBNuhKLZOfs-oRsaOP_ojCpi6U92X4o7pjhn0VjNoJxFXKDA0LCqs6MmUlrK6vfAESCnr1retRD9G8Ht50227k74PyaSVHaaYyNJAJ9mN0BYjwkSYSt30mbh7OuMOjI2kS3ywuN-HrZfjLYKfQsur26b4grcACkQ3rhm6sfIDMXbjGZHyCA_F5PLXETFj_68loL1b3vWHp1f&__tn__=%2CP-R)
+
+[neStoordps6hlm2lrP0tu544 7tD9et 0a54cfe69b7mm 5g7415 :l1Mec2](https://www.facebook.com/groups/1198329833622566/?multi_permalinks=24874891955539688&hoisted_section_header_type=recently_seen&__cft__[0]=AZUVZAsODQZ9uBNuhKLZOfs-oRsaOP_ojCpi6U92X4o7pjhn0VjNoJxFXKDA0LCqs6MmUlrK6vfAESCnr1retRD9G8Ht50227k74PyaSVHaaYyNJAJ9mN0BYjwkSYSt30mbh7OuMOjI2kS3ywuN-HrZfjLYKfQsur26b4grcACkQ3rhm6sfIDMXbjGZHyCA_F5PLXETFj_68loL1b3vWHp1f&__tn__=%2CO%2CP-R) ·
 
 A Review of the 6-week Thematic Lectionary:
 A Review of the 6-week Thematic Lectionary:
