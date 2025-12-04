@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d1e6bca738ceb3b",
+        "id": "9dd4f4caeea99855",
         "type": "tabs",
         "children": [
           {
-            "id": "28ca6b5f905d88d4",
+            "id": "76ee52e54c0abbb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md",
+                "file": "ReadItLater Inbox/I should have started using this open-source graphics tool before paying for Adobe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building"
+              "title": "I should have started using this open-source graphics tool before paying for Adobe"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ReadItLater Inbox/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md",
+            "file": "ReadItLater Inbox/I should have started using this open-source graphics tool before paying for Adobe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +190,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "28ca6b5f905d88d4",
+  "active": "76ee52e54c0abbb7",
   "lastOpenFiles": [
+    "ReadItLater Inbox/Longevity researchers say people who live past 90 all share these 8 surprising daily habits.md",
+    "ReadItLater Inbox/I should have started using this open-source graphics tool before paying for Adobe.md",
+    "ReadItLater Inbox/Why one 16th-century theologian’s advice for a bitterly divided nation holds true today.md",
+    "Journal/Daily/2025-12-04.md",
     "ReadItLater Inbox/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md"
   ]
 }
