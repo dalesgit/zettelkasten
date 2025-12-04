@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9811ffe5d341927",
+        "id": "20081caf048f148a",
         "type": "tabs",
         "children": [
           {
-            "id": "32ac665988c9fbaa",
+            "id": "e2cd678f158655f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-03.md",
+                "file": "Journal/Daily/2025-12-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-03"
-            }
-          },
-          {
-            "id": "2e35ba37df2553d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "covfefe_5_corruption.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "covfefe_5_corruption"
+              "title": "2025-12-04"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -238,15 +212,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "2e35ba37df2553d6",
+  "active": "e2cd678f158655f1",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-03.md",
+    "covfefe_5_corruption.md",
     "Journal/Daily/2025-12-03.md~",
     "covfefe_5_corruption.md~",
-    "covfefe_5_corruption.md",
-    "Journal/Daily/2025-12-03.md",
     "Untitled.md",
     "Poetry/poetry-12-03.md",
     "Poetry/poetry-12-02.md",
@@ -278,7 +253,6 @@
     "Journal/2025-09-25.md",
     "Journal/Daily/2025-11-30.md~",
     "Journal/Daily/2025-11-29.md~",
-    "Thanksgiving email.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
