@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-04.md",
+                "file": "shortbread cookies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-04"
+              "title": "shortbread cookies"
             }
           }
         ]
@@ -186,16 +186,16 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:Notebook Navigator": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "6ef8bb43d30427a6",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-04.md",
+    "shortbread cookies.md",
     "ReadItLater Inbox/I should have started using this open-source graphics tool before paying for Adobe.md",
     "ReadItLater Inbox/Longevity researchers say people who live past 90 all share these 8 surprising daily habits.md",
     "ReadItLater Inbox/Why one 16th-century theologian’s advice for a bitterly divided nation holds true today.md",
-    "Journal/Daily/2025-12-04.md",
     "ReadItLater Inbox/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md"
   ]
 }
