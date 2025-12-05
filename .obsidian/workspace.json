@@ -237,8 +237,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "25c5572ebefbdf2a",
