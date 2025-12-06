@@ -11,9 +11,24 @@
             "id": "103ef14cbb840862",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/poetry-12-04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "poetry-12-04"
             }
           }
         ]
@@ -79,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,11 +212,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "103ef14cbb840862",
   "lastOpenFiles": [
+    "Poetry/poetry-12-06.md.md~",
+    "Poetry/poetry-12-06.md.md",
+    "Poetry/poetry-12-04.md",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md",
     "Journal/Daily/2025-12-06.md",
@@ -223,7 +241,6 @@
     "covfefe_5_corruption.md",
     "Journal/Daily/2025-12-03.md~",
     "covfefe_5_corruption.md~",
-    "Untitled.md",
     "Poetry/poetry-12-03.md",
     "Poetry/poetry-12-02.md",
     "Poetry/poetry-12-02.md~",
@@ -237,8 +254,6 @@
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Clippings/Unconfirmed 546724.crdownload",
     "Clippings/Empathy is the new Christian battleground.md",
-    "Journal/Daily/2025-11-30.md",
-    "Journal/Daily/2025-12-01.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
