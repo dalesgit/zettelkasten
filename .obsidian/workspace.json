@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-12-04.md",
+                "file": "Poetry/poetry-12-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-12-04"
+              "title": "poetry-12-03"
             }
           }
         ]
@@ -218,9 +218,13 @@
   },
   "active": "103ef14cbb840862",
   "lastOpenFiles": [
-    "Poetry/poetry-12-06.md.md~",
+    "Poetry/poetry-12-03.md~",
+    "Poetry/poetry-12-02.md",
+    "Poetry/poetry-12-03.md",
     "Poetry/poetry-12-06.md.md",
     "Poetry/poetry-12-04.md",
+    "Poetry/poetry-12-06.md.md~",
+    "Poetry/poetry-12-04.md~",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md",
     "Journal/Daily/2025-12-06.md",
@@ -241,8 +245,6 @@
     "covfefe_5_corruption.md",
     "Journal/Daily/2025-12-03.md~",
     "covfefe_5_corruption.md~",
-    "Poetry/poetry-12-03.md",
-    "Poetry/poetry-12-02.md",
     "Poetry/poetry-12-02.md~",
     "Journal/Daily/2025-12-02.md",
     "church/new-monasticism.md",
@@ -251,8 +253,6 @@
     "Poetry/poetry-12-01.md~",
     "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
     "Clippings/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
-    "Clippings/The Last Jew in Vinnitsa.pdf",
-    "Clippings/Unconfirmed 546724.crdownload",
     "Clippings/Empathy is the new Christian battleground.md",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
