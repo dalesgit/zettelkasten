@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-05.md",
+                "file": "ReadItLater Inbox/Shortbread Cookies Recipe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-05"
-            }
-          },
-          {
-            "id": "25c5572ebefbdf2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shortbread cookies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "shortbread cookies"
+              "title": "Shortbread Cookies Recipe"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -237,13 +213,17 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "25c5572ebefbdf2a",
+  "active": "33d0c9ed00695537",
   "lastOpenFiles": [
-    "shortbread cookies.md~",
+    "ReadItLater Inbox/Shortbread Cookies Recipe.md",
+    "Journal/Daily/2025-12-06.md",
     "Journal/Daily/2025-12-05.md",
+    "shortbread cookies.md",
+    "shortbread cookies.md~",
     "Clippings/Yes in My Spare Room 1.md",
     "Journal/Daily/2025-11-22.md",
     "Journal/Daily/2025-11-21.md",
@@ -275,9 +255,6 @@
     "Journal/Daily/2025-11-30.md",
     "personal/Family/MP.md",
     "Journal/Daily/2025-12-01.md~",
-    "templater/Daily1.md",
-    "templater/Daily2.md",
-    "Poetry/poetry-11-30.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
