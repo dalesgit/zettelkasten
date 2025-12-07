@@ -7,7 +7,7 @@ Evans, Rachel Held; Chu, Jeff
 Citation (APA): Evans, R. H., & Chu, J. (2021). _Wholehearted Faith_ \[Kindle Android version\]. Retrieved from Amazon.com
 
 * * *
-
+## 
 Foreword by Daniel Jonce Evans
 
 Highlight (pink) \- Location 52
@@ -235,8 +235,6 @@ In my experience, centering my worldview and ethics around the inherent worth an
 Highlight (orange) \- 7\. Beginning Again with Love > Page 86
 
 Centering our conversations about sin around God’s love rather than our depravity raises the stakes, for it means that salvation isn’t just about managing our own personal sins; it’s also about restoring health and wholeness to all of creation.
-
-  .bodyContainer { font-family: Arial, Helvetica, sans-serif; text-align: center; padding-left: 32px; padding-right: 32px; } .notebookFor { font-size: 18px; font-weight: 700; text-align: center; color: rgb(119, 119, 119); margin: 24px 0px 0px; padding: 0px; } .bookTitle { font-size: 32px; font-weight: 700; text-align: center; color: #333333; margin-top: 22px; padding: 0px; } .authors { font-size: 13px; font-weight: 700; text-align: center; color: rgb(119, 119, 119); margin-top: 22px; margin-bottom: 24px; padding: 0px; } .citation { font-size: 16px; font-weight: 500; text-align: center; color: #333333; margin-top: 22px; margin-bottom: 24px; padding: 0px; } .sectionHeading { font-size: 24px; font-weight: 700; text-align: left; color: #333333; margin-top: 24px; padding: 0px; } .noteHeading { font-size: 18px; font-weight: 700; text-align: left; color: #333333; margin-top: 20px; padding: 0px; } .noteText { font-size: 18px; font-weight: 500; text-align: left; color: #333333; margin: 2px 0px 0px; padding: 0px; } .highlight\_blue { color: rgb(178, 205, 251); } .highlight\_orange { color: #ffd7ae; } .highlight\_pink { color: rgb(255, 191, 206); } .highlight\_yellow { color: rgb(247, 206, 0); } .notebookGraphic { margin-top: 10px; text-align: left; } .notebookGraphic img { -o-box-shadow: 0px 0px 5px #888; -icab-box-shadow: 0px 0px 5px #888; -khtml-box-shadow: 0px 0px 5px #888; -moz-box-shadow: 0px 0px 5px #888; -webkit-box-shadow: 0px 0px 5px #888; box-shadow: 0px 0px 5px #888; max-width: 100%; height: auto; } hr { border: 0px none; height: 1px; background: none repeat scroll 0% 0% rgb(221, 221, 221); } 
 
 Notebook for
 
@@ -351,7 +349,7 @@ Highlight (pink) \- Page 14
 But love is worth that risk, and so is birth, its fulfillment.” 8 Most days I believe that— and some days I just want to believe. I join in the long, glorious, and sometimes painful chorus, that song sung over the millennia by the hopeful and the brokenhearted, by the downtrodden and the seemingly forsaken, by mothers and teachers, by survivors and activists, by saints and pastors, by disciples and friends. I say yes because they said yes.
 
 Part One: Wholehearted Faith
-
+## on the Days when I believe
 Highlight (pink) \- 1\. On the Days When I Believe > Page 17
 
 On the days when I believe, I regard the tulip tree outside my kitchen window and learn from it. Rooted but flexible, it adjusts to the seasons, offering its abundant nectar to bees and butterflies during times of flowering and then seeds and shade to birds and squirrels after that. On the days when I believe, I feel enfolded in a story so much greater than my own.
@@ -387,7 +385,7 @@ On our best days, Christians believe God’s most significant act of love put Go
 Highlight (pink) \- 1\. On the Days When I Believe > Page 24
 
 To live and love fully, to embrace human vulnerability rather than exploit it, to try to make sense of our place in this fragile yet beautiful world, to seek to understand our role in proclaiming God’s love and justice— this has been the work of generations.
-
+## my wicked little heart
 Bookmark - 2. My Wicked Little Heart > Page 25
 
 Highlight (pink) \- 2\. My Wicked Little Heart > Page 28
@@ -420,7 +418,7 @@ Zerrissenheit is a German word that means inner strife, fragmentation, or, as th
 
 Note - 2. My Wicked Little Heart > Page 35
 
-this is the cognitive dissonance mentioned above.
+this is the [[cognitive dissonance ]]mentioned above.
 
 Highlight (pink) \- 2\. My Wicked Little Heart > Page 35
 
@@ -448,30 +446,30 @@ Many of my fellow travelers had been ostracized and alienated by their churches.
 
 Highlight (pink) \- 2\. My Wicked Little Heart > Page 40
 
-Anne Lamott has chronicled the meanderings of the heart as well as anyone, and as she famously puts it, “The opposite of faith is not doubt, but certainty.”6
-
+Anne Lamott has chronicled the meanderings of the heart as well as anyone, and as she famously puts it, “**The opposite of faith is not doubt, but certainty.**”6
+## where stone becomes flesh
 Bookmark - 3. Where Stone Becomes Flesh > Page 41
 
 Bookmark - 3. Where Stone Becomes Flesh > Page 42
 
 Highlight (pink) \- 3\. Where Stone Becomes Flesh > Page 42
 
-“There’s a Hasidic teaching, from Rebbe Nachman of Breslov: ‘There’s nothing as whole as a broken heart,’” Burger explained. “In these traditions, you cultivate a broken heart\[,\] which is very different from depression or sadness.
+“There’s a Hasidic teaching, from Rebbe Nachman of Breslov: ‘**There’s nothing as whole as a broken heart**,’” Burger explained. “In these traditions, you cultivate a broken heart\[,\] which is very different from depression or sadness.
 
 Part Two: Essays on the Christian Life
-
+## Beginning again with Love
 Highlight (pink) \- 7\. Beginning Again with Love > Page 84
 
-Adam and Eve is etiological, explaining how things came to be. It describes in fanciful, nonliteral terms why childbirth is painful and why farming is hard and why snakes crawl on the ground. It helped the people of Israel understand why they needed the law of the Torah. It serves as an epic coming- of- age tale. It’s not a story about how humans lost their worth; it’s a story about how humans lost their innocence. And most important, it’s not a story about how God turned away from creation but rather a story about how God, in God’s relentless way, moved toward creation while giving people the freedom to make choices, to test boundaries, to rebel, to wreak havoc, to grow up.
+[[Adam and Eve]] is etiological, explaining how things came to be. It describes in fanciful, nonliteral terms why childbirth is painful and why farming is hard and why snakes crawl on the ground. It helped the people of Israel understand why they needed the law of the Torah. It serves as an epic coming- of- age tale. It’s not a story about how humans lost their worth; it’s a story about how humans lost their innocence. And most important, it’s not a story about how God turned away from creation but rather a story about how God, in God’s relentless way, moved toward creation while giving people the freedom to make choices, to test boundaries, to rebel, to wreak havoc, to grow up.
 
 Highlight (blue) \- 7\. Beginning Again with Love > Page 85
 
-The stories we tell about ourselves matter, and if the primary story we tell about ourselves is that, ever since the garden, our sin nature makes us incapable of doing good and unworthy of love and belonging, then we will live like people who are incapable of doing good and unworthy of love and belonging.
+The stories we tell about ourselves matter, and if the primary story we tell about ourselves is that, ever since the garden, our sin nature makes us incapable of doing good and unworthy of love and belonging, then we will live like people who are incapable of doing good and unworthy of love and belonging. [[Stories we tell about ourselves]]
 
 Highlight (blue) \- 7\. Beginning Again with Love > Page 86
 
-In my experience, centering my worldview and ethics around the inherent worth and belovedness of all of creation makes me even more attuned to the seriousness of doing harm to God’s beloved. It makes me even more aware of my own capacity for destruction and desecration.
+In my experience, centering my worldview and ethics around the inherent worth and belovedness of all of creation makes me even more attuned to the seriousness of doing harm to God’s beloved. It makes me even more aware of my own capacity for destruction and desecration. [[Goodness of creation]]
 
 Highlight (orange) \- 7\. Beginning Again with Love > Page 86
 
-Centering our conversations about sin around God’s love rather than our depravity raises the stakes, for it means that salvation isn’t just about managing our own personal sins; it’s also about restoring health and wholeness to all of creation.
+Centering our conversations about sin around [[God’s love]] rather than our depravity raises the stakes, for it means that salvation isn’t just about managing our own personal sins; it’s also about restoring health and wholeness to all of creation.
