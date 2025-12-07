@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "efc7440d438dd60f",
+        "id": "197344411ac30108",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d23cec557a7265",
+            "id": "c37caa54c77bc6af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-07.md",
+                "file": "Journal/Weekly/2025-W49.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-07"
+              "title": "2025-W49"
             }
           }
         ]
@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,12 +215,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f3d23cec557a7265",
+  "active": "c37caa54c77bc6af",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-03.md",
+    "Journal/Weekly/2025-W49.md",
+    "Journal/Daily/2025-12-02.md",
+    "Journal/Daily/2025-12-01.md",
+    "Journal/Weekly/2025-W48.md",
+    "Journal/Daily/2025-11-30.md",
+    "Journal/Daily/2025-11-29.md",
+    "Journal/Daily/2025-11-28.md",
+    "Clippings/The Last Jew in Vinnitsa.pdf",
+    "Clippings2/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
+    "Clippings2/The Spellers.md",
+    "Journal/Daily/2025-12-07.md",
     "Clippings/This Habit Is Quietly Ruining Your Relationships.md",
     "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
-    "Journal/Daily/2025-12-07.md",
-    "Clippings/The Last Jew in Vinnitsa.pdf",
     "Clippings/Yes in My Spare Room 1.md",
     "Clippings/Opinion Donald Trump – and American democracy – is getting exponentially worse.md",
     "Poetry/poetry-11-30.md",
@@ -240,20 +249,10 @@
     "shortbread cookies.md",
     "shortbread cookies.md~",
     "Journal/Daily/2025-11-22.md",
-    "Journal/Daily/2025-11-21.md",
-    "Clippings/Linux creator Torvalds thinks Elon Musk is 'too stupid' to be working at a tech company.md",
-    "Clippings/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
-    "Journal/Daily/2025-12-04.md",
-    "flexible-liturgy.md",
     "flexible-liturgy.md~",
     "Clippings/Yes in My Spare Room 1.md~",
-    "Journal/Daily/2025-12-03.md",
-    "covfefe_5_corruption.md",
     "Journal/Daily/2025-12-03.md~",
     "covfefe_5_corruption.md~",
-    "Journal/Daily/2025-12-02.md",
-    "church/new-monasticism.md",
-    "Journal/Daily/2025-12-01.md",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
