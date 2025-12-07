@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Daily notes/2025-07-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-09"
+            }
+          },
+          {
+            "id": "dd3e9440911bdbe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Journal/Daily/2025-12-07.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "2025-12-07"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,14 +215,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b5d9f5a84c74bce7",
+  "active": "dd3e9440911bdbe0",
   "lastOpenFiles": [
+    "Daily notes/2025-07-09.md",
+    "Journal/Daily/2025-12-07.md",
     "ReadItLater Inbox/How 5 Great Thinkers Found Meaning Through Physical Exercise  TheCollector.md",
     "ReadItLater Inbox/How 5 Great Thinkers Found Meaning Through Walking  TheCollector.md",
     "ReadItLater Inbox/Quote of the day by Albert Einstein 'A human being is part of a whole, called by us the Universe—a part limited in time and space...'.md",
     "ReadItLater Inbox/Quote of the day by Pythagoras 'There is geometry in the humming of the strings. There is music in...'.md",
     "ReadItLater Inbox/‘Yes’ to God, but ‘no’ to church – what religious change looks like for many Latin Americans.md",
-    "Journal/Daily/2025-12-07.md",
     "Journal/Weekly/2025-W50.md",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md",
     "Journal/Daily/2025-12-05.md",
