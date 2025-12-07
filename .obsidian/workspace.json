@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32c6136c634bf1eb",
+        "id": "efc7440d438dd60f",
         "type": "tabs",
         "children": [
           {
-            "id": "103ef14cbb840862",
+            "id": "f3d23cec557a7265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poetry-11-30.md",
+                "file": "Journal/Daily/2025-12-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poetry-11-30"
+              "title": "2025-12-07"
             }
           }
         ]
@@ -212,11 +212,19 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "103ef14cbb840862",
+  "active": "f3d23cec557a7265",
   "lastOpenFiles": [
+    "Clippings/This Habit Is Quietly Ruining Your Relationships.md",
+    "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
+    "Journal/Daily/2025-12-07.md",
+    "Clippings/The Last Jew in Vinnitsa.pdf",
+    "Clippings/Yes in My Spare Room 1.md",
+    "Clippings/Opinion Donald Trump – and American democracy – is getting exponentially worse.md",
+    "Poetry/poetry-11-30.md",
     "Poetry/poetry-12-01.md",
     "Poetry/poetry-12-03.md",
     "Poetry/poetry-12-03.md~",
@@ -231,10 +239,8 @@
     "Journal/Daily/2025-12-05.md",
     "shortbread cookies.md",
     "shortbread cookies.md~",
-    "Clippings/Yes in My Spare Room 1.md",
     "Journal/Daily/2025-11-22.md",
     "Journal/Daily/2025-11-21.md",
-    "Clippings/Opinion Donald Trump – and American democracy – is getting exponentially worse.md",
     "Clippings/Linux creator Torvalds thinks Elon Musk is 'too stupid' to be working at a tech company.md",
     "Clippings/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
     "Journal/Daily/2025-12-04.md",
@@ -245,13 +251,9 @@
     "covfefe_5_corruption.md",
     "Journal/Daily/2025-12-03.md~",
     "covfefe_5_corruption.md~",
-    "Poetry/poetry-12-02.md~",
     "Journal/Daily/2025-12-02.md",
     "church/new-monasticism.md",
     "Journal/Daily/2025-12-01.md",
-    "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
-    "Clippings/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
-    "Clippings/Empathy is the new Christian battleground.md",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
