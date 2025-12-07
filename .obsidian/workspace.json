@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Weekly/2025-W49.md",
+                "file": "Clippings/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-W49"
+              "title": "7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today"
+            }
+          },
+          {
+            "id": "f0be6a43e05ff88d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-12-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-07"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,13 +236,18 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c37caa54c77bc6af",
+  "active": "f0be6a43e05ff88d",
   "lastOpenFiles": [
-    "Journal/Daily/2025-12-03.md",
+    "Clippings/It’s not just nostalgia, 90s video games were better for kids’ brains.md",
+    "Journal/Daily/2025-12-07.md",
+    "Clippings/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
+    "Clippings/Superpower Competition The Missing Chapter in Trump’s Security Strategy.md",
     "Journal/Weekly/2025-W49.md",
+    "Journal/Daily/2025-12-03.md",
     "Journal/Daily/2025-12-02.md",
     "Journal/Daily/2025-12-01.md",
     "Journal/Weekly/2025-W48.md",
@@ -227,7 +257,6 @@
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Clippings2/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
     "Clippings2/The Spellers.md",
-    "Journal/Daily/2025-12-07.md",
     "Clippings/This Habit Is Quietly Ruining Your Relationships.md",
     "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
     "Clippings/Yes in My Spare Room 1.md",
@@ -244,10 +273,7 @@
     "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md",
     "Journal/Daily/2025-12-06.md",
-    "Journal/Daily/2025-12-05.md",
-    "shortbread cookies.md",
     "shortbread cookies.md~",
-    "Journal/Daily/2025-11-22.md",
     "flexible-liturgy.md~",
     "Clippings/Yes in My Spare Room 1.md~",
     "Journal/Daily/2025-12-03.md~",
