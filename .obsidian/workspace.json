@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c37caa54c77bc6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today"
-            }
-          },
-          {
-            "id": "f0be6a43e05ff88d",
+            "id": "4f45d1061582ec03",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "2025-12-07"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,11 +216,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f0be6a43e05ff88d",
+  "active": "4f45d1061582ec03",
   "lastOpenFiles": [
-    "Clippings/It’s not just nostalgia, 90s video games were better for kids’ brains.md",
-    "Journal/Daily/2025-12-07.md",
+    "Clippings/Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year’s remembrance.md",
     "Clippings/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
+    "Journal/Daily/2025-12-07.md",
+    "Clippings/It’s not just nostalgia, 90s video games were better for kids’ brains.md",
     "Clippings/Superpower Competition The Missing Chapter in Trump’s Security Strategy.md",
     "Journal/Weekly/2025-W49.md",
     "Journal/Daily/2025-12-03.md",
@@ -272,7 +249,6 @@
     "Poetry/poetry-12-04.md~",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md",
-    "Journal/Daily/2025-12-06.md",
     "shortbread cookies.md~",
     "flexible-liturgy.md~",
     "Clippings/Yes in My Spare Room 1.md~",
