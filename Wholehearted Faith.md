@@ -1,4 +1,5 @@
 - 2025-12-07 forum
 	- Karen: having openminded  / evangelical parents was ideal for such a bright and perceptive person as Rachel.
-	- [[wholehearted-faith-notes-1]]
-	- 
+	- [[wholehearted-faith-notes-1-to-40]]
+	- I spoke of faith as a verb more than noun. 
+	- what kinds of boxes do we create for others? For God?
