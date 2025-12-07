@@ -7,7 +7,7 @@ Evans, Rachel Held; Chu, Jeff
 Citation (APA): Evans, R. H., & Chu, J. (2021). _Wholehearted Faith_ \[Kindle Android version\]. Retrieved from Amazon.com
 
 * * *
-## 
+## foreward
 Foreword by Daniel Jonce Evans
 
 Highlight (pink) \- Location 52
@@ -111,7 +111,7 @@ Highlight (pink) \- Page 14
 But love is worth that risk, and so is birth, its fulfillment.” 8 Most days I believe that— and some days I just want to believe. I join in the long, glorious, and sometimes painful chorus, that song sung over the millennia by the hopeful and the brokenhearted, by the downtrodden and the seemingly forsaken, by mothers and teachers, by survivors and activists, by saints and pastors, by disciples and friends. I say yes because they said yes.
 
 Part One: Wholehearted Faith
-
+## on the Days When i believe
 Highlight (pink) \- 1\. On the Days When I Believe > Page 17
 
 On the days when I believe, I regard the tulip tree outside my kitchen window and learn from it. Rooted but flexible, it adjusts to the seasons, offering its abundant nectar to bees and butterflies during times of flowering and then seeds and shade to birds and squirrels after that. On the days when I believe, I feel enfolded in a story so much greater than my own.
