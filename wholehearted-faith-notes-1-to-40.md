@@ -112,6 +112,7 @@ But love is worth that risk, and so is birth, its fulfillment.” 8 Most days I 
 
 Part One: Wholehearted Faith
 ## on the Days When i believe
+
 Highlight (pink) \- 1\. On the Days When I Believe > Page 17
 
 On the days when I believe, I regard the tulip tree outside my kitchen window and learn from it. Rooted but flexible, it adjusts to the seasons, offering its abundant nectar to bees and butterflies during times of flowering and then seeds and shade to birds and squirrels after that. On the days when I believe, I feel enfolded in a story so much greater than my own.
@@ -148,7 +149,7 @@ Highlight (pink) \- 1\. On the Days When I Believe > Page 24
 
 To live and love fully, to embrace human vulnerability rather than exploit it, to try to make sense of our place in this fragile yet beautiful world, to seek to understand our role in proclaiming God’s love and justice— this has been the work of generations.
 
-Bookmark - 2. My Wicked Little Heart > Page 25
+## 2. My Wicked Little Heart > Page 25
 
 Highlight (pink) \- 2\. My Wicked Little Heart > Page 28
 
@@ -218,9 +219,7 @@ Highlight (pink) \- 3\. Where Stone Becomes Flesh > Page 42
 
 “There’s a Hasidic teaching, from Rebbe Nachman of Breslov: ‘There’s nothing as whole as a broken heart,’” Burger explained. “In these traditions, you cultivate a broken heart\[,\] which is very different from depression or sadness.
 
-Part Two: Essays on the Christian Life
-
-Highlight (pink) \- 7\. Beginning Again with Love > Page 84
+## 7\. Beginning Again with Love > Page 84
 
 Adam and Eve is etiological, explaining how things came to be. It describes in fanciful, nonliteral terms why childbirth is painful and why farming is hard and why snakes crawl on the ground. It helped the people of Israel understand why they needed the law of the Torah. It serves as an epic coming- of- age tale. It’s not a story about how humans lost their worth; it’s a story about how humans lost their innocence. And most important, it’s not a story about how God turned away from creation but rather a story about how God, in God’s relentless way, moved toward creation while giving people the freedom to make choices, to test boundaries, to rebel, to wreak havoc, to grow up.
 
@@ -246,7 +245,7 @@ Citation (APA): Evans, R. H., & Chu, J. (2021). _Wholehearted Faith_ \[Kindle An
 
 * * *
 
-Foreword by Daniel Jonce Evans
+## Foreword by Daniel Jonce Evans
 
 Highlight (pink) \- Location 52
 
@@ -286,7 +285,7 @@ Highlight (blue) \- Location 158
 
 She always grounded herself in her own life experience, believing that the truest work was the most personal.
 
-Prologue: Because They Said Yes
+## 2Prologue: Because They Said Yes
 
 Highlight (blue) \- Page 2
 
@@ -350,6 +349,7 @@ But love is worth that risk, and so is birth, its fulfillment.” 8 Most days I 
 
 Part One: Wholehearted Faith
 ## on the Days when I believe
+
 Highlight (pink) \- 1\. On the Days When I Believe > Page 17
 
 On the days when I believe, I regard the tulip tree outside my kitchen window and learn from it. Rooted but flexible, it adjusts to the seasons, offering its abundant nectar to bees and butterflies during times of flowering and then seeds and shade to birds and squirrels after that. On the days when I believe, I feel enfolded in a story so much greater than my own.
