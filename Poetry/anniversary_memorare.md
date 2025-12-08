@@ -20,15 +20,17 @@ in the context of memorizing poetry
 where prayer has been valid"
 
 These days are not just memories
-to be forgotten one day
+to be forgotten one day.
+
 **Anamnesis** is "not merely a passive recollection 
 but an active participation in the Paschal Mystery"
+
 These are days that live and give life.
 
 On St. Nicholas Day I've dressed up in red,
 looking like a bishop and variously told stories 
 about children for children
-or made a connection with Jesus for the adults.
+or made a connection with Jesus for adults.
 Traditions and sentiment abound.
 
 Nicholas for me is primarily 
@@ -43,4 +45,6 @@ I stood in "active participation" …
 I’ll be there when you are old."
 
 God breaking out in unexpected ways and places.
+
+
 
