@@ -31,10 +31,16 @@ about children for children
 or made a connection with Jesus for the adults.
 Traditions and sentiment abound.
 
-The most important matter of Nicholas for me
-Is that his day precedes Pearl Harbor Day.
-A day living in infamy, a day from classroom lessons,
-Until one day I stood above the Arizona,
-Then I stood in "active participation"
-"I was there" 
+Nicholas for me is primarily 
+The day that precedes Pearl Harbor Day.
+A day living in infamy. A day for me 
+just classroom lessons, until one day 
+I stood above the Arizona. Then
+I stood in "active participation" …
+
+"I was there" wrote Ylvisaker. 
+"I was there to hear your borning cry, 
+I’ll be there when you are old."
+
+God breaking out in unexpected ways and places.
 
