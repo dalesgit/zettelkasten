@@ -10,7 +10,7 @@ created: 2025-12-06 17:41
 ****
 St. Nicholas: Shoes at the door: MP remembers and I think Bridget did too. Foreign to me.
 
-Poem: Memorare into _anamnesis_
+Poem: **Memorare** into _anamnesis_
 
 I met him long ago when we were still young
 It was in the context of memorizing poetry
