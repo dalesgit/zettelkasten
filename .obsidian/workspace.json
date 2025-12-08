@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-07.md",
+                "file": "Poetry/anniversary_memorare.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-07"
+              "title": "anniversary_memorare"
             }
           }
         ]
@@ -94,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -212,14 +213,17 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "4f45d1061582ec03",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-08.md",
+    "Poetry/anniversary_memorare.md",
+    "Journal/Daily/2025-12-07.md",
     "Clippings/Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year’s remembrance.md",
     "Clippings/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
-    "Journal/Daily/2025-12-07.md",
     "Clippings/It’s not just nostalgia, 90s video games were better for kids’ brains.md",
     "Clippings/Superpower Competition The Missing Chapter in Trump’s Security Strategy.md",
     "Journal/Weekly/2025-W49.md",
@@ -243,11 +247,9 @@
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-02.md",
     "Poetry/poetry-12-06.md.md",
-    "Poetry/poetry-12-04.md",
     "Poetry/poetry-12-06.md.md~",
     "Poetry/poetry-12-04.md~",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
-    "ReadItLater Inbox/Shortbread Cookies Recipe.md",
     "shortbread cookies.md~",
     "flexible-liturgy.md~",
     "Clippings/Yes in My Spare Room 1.md~",
