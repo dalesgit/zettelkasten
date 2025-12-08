@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa79ae79868ad55",
+        "id": "33fa1f30aae2d0a6",
         "type": "tabs",
         "children": [
           {
-            "id": "e552e6580993f143",
+            "id": "d7294071a10f8ce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/anniversary_memorare.md",
+                "file": "proper-20c.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "anniversary_memorare"
+              "title": "proper-20c"
             }
           }
         ]
