@@ -37,7 +37,8 @@ Nicholas for me is primarily
 The day that precedes Pearl Harbor Day.
 A day living in infamy. A day for me 
 just classroom lessons, until one day 
-I stood above the Arizona. Then
+I stood above the Arizona. 
+I stood in awe.
 I stood in "active participation" …
 
 "I was there" wrote Ylvisaker. 
@@ -46,5 +47,25 @@ I’ll be there when you are old."
 
 God breaking out in unexpected ways and places.
 
+The next day is **Immaculate Conception**,
+The day I chose with a sly look 
+and genuine piety for my ordination.
+One of the reasons I love you
+Is that your depth of passion about that date
+Pairs nicely with my own.
+I prayed with my children at night
+both the **Hail Mary** and the **Our Father** --
+Both of them slightly edited to my satisfaction.
 
-
+In neat succession, then, we dodged the
+Honolulu Marathon with a gathering 
+on the windward side of the island.
+Forever I will remember with such satisfaction
+Brother Jerry walking up the beach
+As we waited to commence.
+The Blessing.
+The Sand.
+The Friends.
+The Music.
+The Food.
+It was perfect.
