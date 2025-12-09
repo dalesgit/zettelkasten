@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33fa1f30aae2d0a6",
+        "id": "70ee5ed9732f55e9",
         "type": "tabs",
         "children": [
           {
-            "id": "d7294071a10f8ce5",
+            "id": "8639224d7e693c24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proper-20c.md",
+                "file": "Poetry/anniversary_memorare.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "proper-20c"
+              "title": "anniversary_memorare"
             }
           }
         ]
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -213,12 +214,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "266b950ea84f6542",
+  "active": "8639224d7e693c24",
   "lastOpenFiles": [
+    "Untitled.md",
     "Poetry/anniversary_memorare.md",
+    "proper-20c.md",
     "Journal/Daily/2025-12-08.md",
     "Journal/Daily/2025-12-07.md",
     "Clippings/Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year’s remembrance.md",
@@ -244,8 +248,6 @@
     "Poetry/poetry-12-01.md",
     "Poetry/poetry-12-03.md",
     "Poetry/poetry-12-03.md~",
-    "Poetry/poetry-12-02.md",
-    "Poetry/poetry-12-06.md.md",
     "Poetry/poetry-12-06.md.md~",
     "Poetry/poetry-12-04.md~",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
