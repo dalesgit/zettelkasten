@@ -1,22 +1,26 @@
 ---
+id: anniversary_memorare
+aliases: []
 tags:
   - poetry
 created: 2025-12-08 07:28
 ---
 
-It began with the turn of the calendar page\
-December 1\
+It began with the turn of the calendar page.\
+December one.\
 A countdown of memories and anniversaries.
 
 I met Ferrar long ago\
 when we were still young\
-in the context of memorizing poetry
+in the context of memorizing poetry.\
+One might say we met at **Little Gidding**.
 
 "You are here to kneel\
 where prayer has been valid"
 
-These days are not just memories\
-to be forgotten one day.
+The days are not just memories\
+to be forgotten one day\
+but moments outside of time.
 
 **Anamnesis** is "not merely a passive recollection\
 but an active participation in the Paschal Mystery"
@@ -24,54 +28,70 @@ but an active participation in the Paschal Mystery"
 These are days that live and give life.
 
 On St. Nicholas Day I've dressed up in red,\
-looking like a bishop and variously told stories\
+looking like a bishop and variously telling stories\
 about children for children\
-or made a connection with Jesus for adults.\
+or making a connection with Jesus for adults.\
 Traditions and sentiment abound.
 
-Nicholas for me is primarily\
-The day that precedes Pearl Harbor Day.\
+As a result for me the day is primarily\
+the day before Pearl Harbor Day.\
 A day living in infamy. A day for me\
-just classroom lessons, until one day\ 
+was just classroom lessons, until one day\ 
 I stood above the Arizona.\
 I stood in awe.\
 I stood in "active participation" …
 
 "I was there" wrote Ylvisaker.\
 "I was there to hear your borning cry,\
-I’ll be there when you are old."
+I’ll be there when you are old."\
+God is with us.
 
 God breaking out in unexpected ways and places.\
 
 The next day is **Immaculate Conception**,\
-The day I chose with a sly look\
+the day I chose with a sly look\
 and genuine piety for my ordination.\
 One of the reasons I love you\
 Is that your depth of passion about that date\
 Pairs nicely with my own.\
 I prayed with my children at night\
 both the **Hail Mary** and the **Our Father** --\
-Both of them slightly edited to my satisfaction.
+Both slightly edited to my satisfaction.
 
 In neat succession, then, we dodged the\
 Honolulu Marathon with a gathering\
 on the windward side of the island.\
-Forever I will remember with such satisfaction\
+Forever will I remember with delight\
 Brother Jerry walking up the beach\
-As we waited to commence.\
+As we waited to commence.
+
 The Blessing.\
 The Sand.\
 The Friends.\
 The Music.\
 The Food.\
-It was perfect.
+Perfect.
 
 A perfect memory.\
 Not **memorare** but **anamnesis**.\
 Not past but present.\
 **Chronos** is no measure of **Kairos**.
+1440 seconds in a day\
+inevitably add up. In fact\
+I want to make the most of them.
 
-Our time is in your hands. Our time has been expansive.\
-Enough time. Not enough time.\
+But 
+
+kairatically sometimes,\
+at unpredicted times\
+we enter time out of time\
+when the measure becomes sacred.\
+Our time is in your hands, we pray.\
+But we have shared our time at times\
+when the sacred is at hand.
+Our time has been expansive.\
+Enough time and not enough.
+
 I stand in awe of your **Yes**.\ 
-I extend to you again and again my **Yes.**
+I offer again my **Yes.**\
+This time and over and over again.
