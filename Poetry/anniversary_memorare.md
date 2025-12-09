@@ -80,17 +80,17 @@ Not past but present.\
 inevitably add up. In fact\
 I want to make the most of them.
 
-But 
+But… 
 
-kairatically sometimes,\
+kairatically at times,\
 at unpredicted times\
 we enter time out of time\
 when the measure becomes sacred.\
 Our time is in your hands, we pray.\
-But we have shared our time at times\
+But we have shared **our** time at times\
 when the sacred is at hand.
 Our time has been expansive.\
-Enough time and not enough.
+Enough and not enough time.
 
 I stand in awe of your **Yes**.\ 
 I offer again my **Yes.**\
