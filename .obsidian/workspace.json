@@ -55,7 +55,8 @@
               "title": "zen-browser-shortcuts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,10 +243,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8639224d7e693c24",
+  "active": "00c7a8817415a02f",
   "lastOpenFiles": [
-    "zen-browser-shortcuts.md",
     "Journal/Daily/2025-12-10.md",
+    "zen-browser-shortcuts.md",
     "Poetry/anniversary_memorare.md",
     "Untitled.md",
     "proper-20c.md",
