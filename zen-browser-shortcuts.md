@@ -4,14 +4,14 @@ aliases: []
 tags:
   - tech
 ---
-|  |  |
-| --- | --- |
-Split View Grid |
-Split View Vertical |
-Split View Horizontal |
-Close Split View |
-Workspace Actions |
-Cycle Workspaces |
-Toggle Compact Mode |
-Toggle Compact Mode Sidebar |
-Toggle Compact Mode Toolbar |
+|                             |             |
+| --------------------------- | ----------- |
+| Split View Grid             | Ctl+Alt + G |
+| Split View Vertical         | Ctl+Alt + V |
+| Split View Horizontal       | Ctl+Alt + H |
+| Close Split View            | Ctl+Alt + U |
+| Workspace Actions           |             |
+| Cycle Workspaces            | Ctl+Sh+E    |
+| Toggle Compact Mode         | Ctl+Alt+C   |
+| Toggle Compact Mode Sidebar | Ctl+Alt + S |
+| Toggle Compact Mode Toolbar | Ctl+Alt + T |
