@@ -41,7 +41,7 @@ shine forth, you that are enthroned upon the cherubim.
 stir up your strength and come to help us.
 
 3 Restore us, O God of hosts; \*  
-show the light of your countenance, and we shall be saved.
+show the **light of your countenance, and we shall be saved.**
 
 4 O Lord God of hosts, \*  
 how long will you be angered  
