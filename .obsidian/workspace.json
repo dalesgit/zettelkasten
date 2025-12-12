@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70ee5ed9732f55e9",
+        "id": "7240119af0e827fe",
         "type": "tabs",
         "children": [
           {
-            "id": "8639224d7e693c24",
+            "id": "30fecee1c840fb4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-10.md",
+                "file": "Journal/Daily/2025-12-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-10"
-            }
-          },
-          {
-            "id": "00c7a8817415a02f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zen-browser-shortcuts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "zen-browser-shortcuts"
+              "title": "2025-12-12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +217,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "00c7a8817415a02f",
+  "active": "30fecee1c840fb4e",
   "lastOpenFiles": [
+    "Clippings/Opinion  America Is Entering Its Third Civil War.md",
+    "Journal/Daily/2025-12-12.md",
     "Journal/Daily/2025-12-10.md",
     "zen-browser-shortcuts.md",
     "Poetry/anniversary_memorare.md",
@@ -269,8 +246,6 @@
     "Clippings/This Habit Is Quietly Ruining Your Relationships.md",
     "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
     "Clippings/Yes in My Spare Room 1.md",
-    "Clippings/Opinion Donald Trump – and American democracy – is getting exponentially worse.md",
-    "Poetry/poetry-11-30.md",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
     "Poetry/poetry-12-04.md~",
