@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7240119af0e827fe",
+        "id": "f1ca244eaca10f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "30fecee1c840fb4e",
+            "id": "240ea1ef84cd8d6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-12-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-12"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -214,13 +199,17 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "30fecee1c840fb4e",
+  "active": "240ea1ef84cd8d6c",
   "lastOpenFiles": [
-    "Clippings/Opinion  America Is Entering Its Third Civil War.md",
+    "Rebecca.md",
     "Journal/Daily/2025-12-12.md",
+    "Marc.md",
+    "Rebecca.md~",
+    "Clippings/Opinion  America Is Entering Its Third Civil War.md",
     "Journal/Daily/2025-12-10.md",
     "zen-browser-shortcuts.md",
     "Poetry/anniversary_memorare.md",
@@ -244,8 +233,6 @@
     "Clippings2/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
     "Clippings2/The Spellers.md",
     "Clippings/This Habit Is Quietly Ruining Your Relationships.md",
-    "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
-    "Clippings/Yes in My Spare Room 1.md",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
     "Poetry/poetry-12-04.md~",
@@ -254,7 +241,6 @@
     "flexible-liturgy.md~",
     "Clippings/Yes in My Spare Room 1.md~",
     "Journal/Daily/2025-12-03.md~",
-    "covfefe_5_corruption.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",

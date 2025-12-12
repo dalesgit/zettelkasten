@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "textFontFamily": "Times New Roman,Cambria,Baskerville",
   "baseFontSize": 20,
-  "interfaceFontFamily": "Cambria,Baskerville",
+  "interfaceFontFamily": "Cambria,Baskerville,Times New Roman",
   "enabledCssSnippets": [
     "myfont"
   ],
