@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-08.md",
+                "file": "advent_4-lessons.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-08"
+              "title": "advent_4-lessons"
             }
           }
         ]
@@ -192,6 +192,9 @@
   },
   "active": "734ed94e4ce8fa9b",
   "lastOpenFiles": [
+    "advent_4-sermon.md",
+    "Journal/Daily/2025-12-12.md",
+    "Journal/Daily/2025-12-08.md",
     "Clippings2/With One Damning Question, Ketanji Brown Jackson Defined the Supreme Court’s New Term.md",
     "templater/Monthly2.md",
     "Daily notes/2025-07-09.md",
@@ -214,9 +217,6 @@
     "wholehearted-faith-notes-1-to-40.md",
     "Adam and Eve.md",
     "ReadItLater Inbox/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live.md",
-    "Stories we tell about ourselves.md",
-    "Goodness of creation.md",
-    "God’s love.md",
-    "Wholehearted Faith.md"
+    "Stories we tell about ourselves.md"
   ]
 }

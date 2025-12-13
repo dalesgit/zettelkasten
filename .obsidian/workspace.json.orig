@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Journal/Daily/2025-12-13.md",
+=======
+                "file": "advent_4-sermon.md",
+>>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,6 +32,9 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
+              "title": "2025-12-13"
+=======
               "title": "advent_4-sermon"
             }
           },
@@ -84,6 +91,7 @@
               },
               "icon": "lucide-file",
               "title": "advent_4-lessons"
+>>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
             }
           }
         ]
@@ -275,15 +283,22 @@
   },
   "active": "844dde80ff26bb9a",
   "lastOpenFiles": [
+<<<<<<< HEAD
+    "Journal/Daily/2025-12-12.md",
+    "Journal/Daily/2025-12-13.md",
+    "sign.md",
+    "advent_4-sermon.md",
+    "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
+=======
     "advent_4_draft_1.md~",
     "printable-stop-sign.png",
     "advent_4_draft_1.md",
     "advent_4-sermon.md",
+>>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
     "advent_4-lessons.md",
     "Journal/Daily/2025-12-12.md",
     "sign.md",
     "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
-    "advent_4-lessons.md",
     "Poetry/poetry-12-12.md",
     "Poetry/poetry-12-12.md~",
     "Clippings/Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire.md",
@@ -305,8 +320,10 @@
     "Journal/Weekly/2025-W49.md",
     "Journal/Daily/2025-12-03.md",
     "Journal/Daily/2025-12-02.md",
+<<<<<<< HEAD
     "Journal/Daily/2025-12-01.md",
-    "Journal/Weekly/2025-W48.md",
+=======
+>>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
@@ -314,7 +331,6 @@
     "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
     "shortbread cookies.md~",
     "flexible-liturgy.md~",
-    "Clippings/Yes in My Spare Room 1.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",

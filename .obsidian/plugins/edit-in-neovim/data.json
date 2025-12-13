@@ -12,5 +12,5 @@
     "jsx",
     "json"
   ],
-  "pathToBinary": "/usr/bin/nvim"
+  "pathToBinary": "/usr/local/bin/nvim"
 }
