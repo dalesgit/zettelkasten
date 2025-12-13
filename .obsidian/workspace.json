@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19514e5f7cd3783e",
+        "id": "05c9bc123a04da62",
         "type": "tabs",
         "children": [
           {
-            "id": "90bcf905bc6735bc",
+            "id": "233cf07097846302",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-13.md",
+                "file": "Clippings/Killing the penny was just the start. Trump is rewriting the rules on America’s coins  CNN Business.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-13"
+              "title": "Killing the penny was just the start. Trump is rewriting the rules on America’s coins  CNN Business"
             }
           }
         ]
@@ -217,10 +217,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "90bcf905bc6735bc",
+  "active": "233cf07097846302",
   "lastOpenFiles": [
-    "Clippings/FAQ - Ritual.md",
+    "Clippings/Killing the penny was just the start. Trump is rewriting the rules on America’s coins  CNN Business.md",
+    "templater/Daily.md",
     "Journal/Daily/2025-12-13.md",
+    "Clippings/Ritual.md",
+    "Clippings/FAQ - Ritual.md",
     "advent_4-lessons.md",
     "advent_4_draft_1.md",
     "advent_4_draft_1.md~",
@@ -246,9 +249,6 @@
     "Clippings/Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year’s remembrance.md",
     "Clippings/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
     "Clippings/It’s not just nostalgia, 90s video games were better for kids’ brains.md",
-    "Clippings/Superpower Competition The Missing Chapter in Trump’s Security Strategy.md",
-    "Journal/Weekly/2025-W49.md",
-    "Journal/Daily/2025-12-03.md",
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
