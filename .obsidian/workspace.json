@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "advent_4-sermon"
             }
+          },
+          {
+            "id": "844dde80ff26bb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "advent_4_draft_1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "advent_4_draft_1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "19514e5f7cd3783e",
@@ -244,12 +269,12 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "90bcf905bc6735bc",
+  "active": "844dde80ff26bb9a",
   "lastOpenFiles": [
+    "advent_4_draft_1.md",
     "advent_4-sermon.md",
     "advent_4-lessons.md",
     "Journal/Daily/2025-12-12.md",
@@ -277,7 +302,6 @@
     "Journal/Daily/2025-12-03.md",
     "Journal/Daily/2025-12-02.md",
     "Journal/Daily/2025-12-01.md",
-    "Journal/Weekly/2025-W48.md",
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",

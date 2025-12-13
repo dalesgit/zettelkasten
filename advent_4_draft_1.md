@@ -1,0 +1,82 @@
+
+
+
+# Advent 4 (year A)
+
+I remember sitting up late beside the bunk beds that were shared by my little brother and my cousin Peter who was older than I. we were forcing ourselves to stay awake in order to see the signs of Santa flying across the sky and appearing in our house. Peter was several years older than I, so I looked to him as an authority. there was a part of me there was old enough to be silently wondering was I being too childish or childlike? surely Peter is old enough to know.
+
+ we didn't make it that night. we were asleep when Santa arrived. There's some part of me that never gave up with some kind of irregular schedule in my subsequent years I have looked for signs. signs of what's really going on. signs in the midst of chaos happening in my life that might indicate that it was going to be okay. signs as it felt like my children were being stolen from me that I could trust in the words of Jeremiah:
+
+**16 **“Restrain your voice from weeping
+
+    and your eyes from tears,
+
+for your work will be rewarded,”
+
+declares the Lord.
+
+    “They will return from the land of the enemy.
+
+**17 **
+
+So there is hope for your descendants,”
+
+declares the Lord.
+
+    “Your children will return to their own land.
+
+I was looking for a sign when I was seeking to discern whether to go to graduate school or to return to the process to be ordained For the Diocese of Colorado.  At that time, in the sacred Heart Chapel (now “basilica”) at Notre Dame I Heard a Voice say: “ I don't care what you do as long as you love me with your whole heart and soul and mind and strength.” I took that to be a sign from God. I tried to do both, But I knew that for the rest of my life I would try to do what I do while loving God with my whole heart soul mind and strength. 
+
+Sometime later I was driving to the parish I was serving, it was a little tiny Parish and took me about 2 hours to drive there. I did that for a year or so and the Sundays were peaceful but a lot of driving. on one of those days, nothing particularly striking about it except that it was a mostly Blue Sky with fleeting clouds here and there, I looked up and one cloud formation in particular stood out. I immediately recognized it as an angel. not that it looked like an angel it looked like a cloud. but it was an actual angel, a messenger from God. The message was something like everything is going to be okay. but my main response was not to the content of the message but rather that at that moment in time, in that place, God was somehow reaching out to me and I knew that it was a sacred moment. I made the sign of the cross and kept on driving but I knew that I had been blessed, and I can still remember the event as if it were earlier today. 
+
+Our scripture for today feels overwhelmingly concerned with signs, with messages from God that inevitably turn our lives topsy-turvy And bring into our presence the unexpected. 
+
+The Lord spoke to Ahaz and gave him a sign. it had to do with a young woman giving birth to a son whom they named Emmanuel. that sign was then taken by later followers of Jesus, some seven centuries later, as a sign that Jesus himself was that son. 
+
+People look for signs then as well as now. people sought reassurance and confirmation then as now. God delivered the Assurance to them then as well as now, but then and now as well God delivers an abundance of surprises and unexpected turns.
+
+The psalmist repeats as if in the refrain of a song: show us the light of your countenance, let us see your face oh Lord, let us see your face and live and not die.
+
+We say to God show us your face but we never really know what that face is going to look like. it may well come in the form of a cloud. One day at a weekday Eucharist in Hawaii God showed up in the form of a bird. a woman came forward for the laying on of hands and as I laid hands upon her head A bird flew out of her abundant hair.  not much to do but to cross myself and to acknowledge that God has manifest himself in my presence. 
+
+In Matthew's account of the birth of Jesus God Appears in the form of a dream to Joseph. do not be afraid was the message. it was the message given to Mary by an Angel in the gospel of Luke. God often gives the message: **do not be afraid, it will be okay**. 
+
+A thousand years later God appeared to a woman living alone so that she could spend her days with God. around her that was death and dying and chaos. it was the time of the black death in Europe. and then she was struck with a illness that seemed as if it would kill her. instead God appeared to her over and over again. she spent the rest of her days writing down all the messages God gave her. she is most famous today for the short phrase that was among those messages:  all will be well and all manner of things shall be well.
+
+Then and now it seems as if there's something deep in the heart of humanity that we seek signs. we seek reassurance from the face and the voice of God. Signs are not as simple as we might think they should be. In just the stories I've shared with you today God has appeared in signs as varied as: 
+
+
+
+* A voice
+* A cloud
+* A dream
+* A bird
+* A prophet’s message to a king who lived centuries before
+
+Signs are particularly associated with human beings. 
+
+We Are Who We Are in some deep way because of signs, our use of signs. Signs are powerful.  consider this sign:  
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+Such a sign is capable of bringing to a halt a many-tonned truck or in the Panama Canal even a ship. we find meaning in that sign even without the letters. Constantine saw a sign in the sky in the form of a cross. it was the 4th century and the history of the next 16th centuries was deeply changed and impacted by that sign and by the fact that that man at that time recognized it. 
+
+Signs have  power because they carry meaning. The octagon carries with it the meaning that one should and whatever it is they're doing and begin to do a new thing. there's nothing special or magical about an octagon. the English s t o p is of no meaning whatsoever to someone who speaks Hindi.
+
+ where does the meaning come from? clearly in the cases we're looking at today the meaning comes from God. show us the light of your countenance oh Lord. In the Sacred Heart Chapel, big enough to be holding a wedding at the main altar while at the same time at the back I was having a private prayer time, In that place at that time God showed up. God might well have been at the wedding taking place way up in front of me. but I knew that God had spoken to me.
+
+Some of you may have noticed that I regularly take my shoes off in church. it's a practice I adopted in Hawaii and learned from another priest. It is a sign that I recognize that I am standing on Holy Ground. you may remember  the account of Moses meeting God. the story is related in Exodus chapter 3. Moses sees a sign. there's fire in a bush but the fire does not consume the bush. Initially Moses just thinks it's a crazy thing, but then there's a voice that begins to give meaning.  God tells him to take his sandals off. “You are standing on Holy Ground” 
+
+The relationship between God and Moses develops as you are well aware and they become the best of friends. 
+
+Signs can be strange like a burning bush or is common as a cloud in the sky. God is perfectly at home it either place. if we have eyes to see and ears to hear we may find God in places as common as a butterfly in the Butterfly Garden or in the most unexpected places. a person who arrives on our Shores who doesn't look like us or act like us but seeks safety and the assurance that it will be okay. 
+
+A tyrant Who Wants To Be A Latter-Day Ivan the Terrible may be a sign that millions of people need to readjust their thinking.
+
+Bizarre weather might be a sign Waiting to be received and it's meaning understood. 
