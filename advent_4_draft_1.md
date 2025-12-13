@@ -35,15 +35,13 @@ People look for signs then as well as now. People sought reassurance and confirm
 
 The psalmist repeats as if in the refrain of a song: show us the light of your countenance, let us see your face oh Lord, let us see your face and live and not die.
 
-We say to God show us your face but we never really know what that face is going to look like. It may well come in the form of a cloud. One day at a weekday Eucharist in Hawaii God showed up in the form of a bird. A woman came forward for the laying on of hands and as I laid hands upon her head A bird flew out of her abundant hair.  Not much to do but to cross myself and to acknowledge that God has manifest himself in my presence. 
+We say to God, "Show us your face." But we never really know what that face is going to look like. It may well come in the form of a cloud. One day at a weekday Eucharist in Hawaii, God showed up in the form of a bird. A woman came forward for the laying on of hands, and as I laid hands upon her head, a bird flew out of her abundant hair.  Not much to do but to cross myself and to acknowledge that God had manifest himself in my presence. 
 
-In Matthew's account of the birth of Jesus God Appears in the form of a dream to Joseph. Do not be afraid was the message. It was the message given to Mary by an Angel in the gospel of Luke. God often gives the message: **do not be afraid, it will be okay**. 
+In Matthew's account of the birth of Jesus God appears in the form of a dream to Joseph. "Do not be afraid" was the message. It was the message given to Mary by an Angel in the gospel of Luke. God often gives the message: **do not be afraid, it will be okay**. 
 
-A thousand years later God appeared to a woman living alone so that she could spend her days with God. Around her that was death and dying and chaos. It was the time of the black death in Europe. And then she was struck with a illness that seemed as if it would kill her. Instead God appeared to her over and over again. She spent the rest of her days writing down all the messages God gave her. She is most famous today for the short phrase that was among those messages:  all will be well and all manner of things shall be well.
+A thousand years later God appeared to a woman living alone so that she could spend her days with God. Her name was Julian. Around her there was death and dying and chaos. It was the time of the black death in Europe. And then she was struck with an illness that seemed as if it would kill her. Instead, God appeared to her over and over again. She spent the rest of her days writing down all the messages God gave her. She is most famous today for the short phrase that was among those messages:  "All will be well and all manner of things shall be well."
 
 Then and now it seems as if there's something deep in the heart of humanity that we seek signs. We seek reassurance from the face and the voice of God. Signs are not as simple as we might think they should be. In just the stories I've shared with you today God has appeared in signs as varied as: 
-
-
 
 * A voice
 * A cloud
@@ -51,29 +49,21 @@ Then and now it seems as if there's something deep in the heart of humanity that
 * A bird
 * A prophet’s message to a king who lived centuries before
 
-Signs are particularly associated with human beings. 
+Signs are particularly associated with human beings. We are who we are in some deep way because of signs, our use of signs. Signs are powerful.  Consider this sign:  
 
-We Are Who We Are in some deep way because of signs, our use of signs. Signs are powerful.  consider this sign:  
+![](printable-stop-sign.png)
 
+Such a sign is capable of bringing to a halt a many-tonned truck -- or in the Panama Canal -- even a ship. We find meaning in that sign even without the letters. Constantine saw a sign in the sky in the form of a cross. It was the 4th century and the history of the next 16 centuries was deeply changed and impacted by that sign and by the fact that that man at that time recognized it. 
 
+Signs have  power because they carry meaning. The octagon carries with it the meaning that one should end whatever it is they're doing and begin to do a new thing. There's nothing special or magical about an octagon. The English "s-t-o-p" is of no meaning whatsoever to someone who speaks Hindi.
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Where does the meaning come from? Clearly in the cases we're looking at today, the meaning comes from God. "Show us the light of your countenance, o Lord." In the Sacred Heart Chapel, big enough to be holding a wedding at the main altar while at the same time at the back I was having a private prayer time, in that place at that time God showed up. God might well have been at the wedding taking place way up in front of me, I don't know. Actually I assume God was there too. But I knew that God had spoken to me.
 
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-Such a sign is capable of bringing to a halt a many-tonned truck or in the Panama Canal even a ship. We find meaning in that sign even without the letters. Constantine saw a sign in the sky in the form of a cross. It was the 4th century and the history of the next 16th centuries was deeply changed and impacted by that sign and by the fact that that man at that time recognized it. 
-
-Signs have  power because they carry meaning. The octagon carries with it the meaning that one should and whatever it is they're doing and begin to do a new thing. There's nothing special or magical about an octagon. The English s t o p is of no meaning whatsoever to someone who speaks Hindi.
-
- Where does the meaning come from? Clearly in the cases we're looking at today the meaning comes from God. Show us the light of your countenance oh Lord. In the Sacred Heart Chapel, big enough to be holding a wedding at the main altar while at the same time at the back I was having a private prayer time, In that place at that time God showed up. God might well have been at the wedding taking place way up in front of me. But I knew that God had spoken to me.
-
-Some of you may have noticed that I regularly take my shoes off in church. It's a practice I adopted in Hawaii and learned from another priest. It is a sign that I recognize that I am standing on Holy Ground. You may remember  the account of Moses meeting God. The story is related in Exodus chapter 3. Moses sees a sign. There's fire in a bush but the fire does not consume the bush. Initially Moses just thinks it's a crazy thing, but then there's a voice that begins to give meaning.  God tells him to take his sandals off. “You are standing on Holy Ground” 
+Some of you may have noticed that I regularly take my shoes off in church. It's a practice I adopted in Hawaii and learned from another priest. It is a sign that I am standing on Holy Ground. You may remember the account of Moses meeting God. The story is related in Exodus chapter 3. Moses sees a sign. There's fire in a bush but the fire does not consume the bush. Initially Moses just thinks it's a crazy thing, but then there's a voice that begins to give meaning.  God tells him to take his sandals off. “You are standing on Holy Ground” 
 
 The relationship between God and Moses develops as you are well aware and they become the best of friends. 
 
-Signs can be strange like a burning bush or As common as a cloud in the sky. God is perfectly at home it either place. If we have eyes to see and ears to hear we may find God in places as common as a butterfly in the Butterfly Garden or in the most unexpected places. A person who arrives on our Shores who doesn't look like us or act like us but seeks safety and the assurance that it will be okay. 
+Signs can be strange like a burning bush or as common as a cloud in the sky. God is perfectly at home in either place. If we have eyes to see and ears to hear we may find God in places as common as a butterfly in the Butterfly Garden or in the most unexpected places. A person who arrives on our shores who doesn't look like us or act like us but seeks safety and the assurance that things will be okay. 
 
 A tyrant who wants to be a latter-day Ivan the Terrible may be a sign that millions of people need to readjust their thinking.
 
