@@ -10,29 +10,28 @@ title: Advent 4 Sermon Draft 1
 
 # Advent 4 (year A)
 
-I remember sitting up late beside the bunk beds that were shared by my little brother and my cousin Peter who was older than I. We were forcing ourselves to stay awake in order to see the signs of Santa flying across the sky and appearing in our house. Peter was several years older than I, so I looked to him as an authority. There was a part of me there was old enough to be silently wondering was I being too childish or childlike? Surely Peter is old enough to know.
+I remember sitting up late beside the bunk beds that were shared by my little brother and my cousin Peter who was older than I. We were forcing ourselves to stay awake in order to see the signs of Santa flying across the sky and appearing in our house. Peter was several years older than I, so I looked to him as an authority. There was a part of me that was old enough to be silently wondering, "Was I being too childish or childlike? Surely Peter is old enough to know."
 
- We didn't make it that night. We were asleep when Santa arrived. There's some part of me that never gave up with some kind of irregular schedule in my subsequent years I have looked for signs. Signs of what's really going on. Signs in the midst of chaos happening in my life that might indicate that it was going to be okay. Signs as it felt like my children were being stolen from me that I could trust in the words of Jeremiah:
+We didn't make it that night. We were asleep when Santa arrived. There's some part of me that, with some kind of irregular schedule in my subsequent years, I never gave up. I have looked for signs throughout my life. Signs of what's really going on. Signs in the midst of chaos happening in my life that might indicate that it was going to be okay. Signs as it felt like my children were being stolen from me that I could trust in the words of Jeremiah:
 
 **16 **“Restrain your voice from weeping
     and your eyes from tears,
 for your work will be rewarded,”
 declares the Lord.
     “They will return from the land of the enemy.
-**17 **
-So there is hope for your descendants,”
+**17 ** So there is hope for your descendants,”
 declares the Lord.
     “Your children will return to their own land.
 
-I was looking for a sign when I was seeking to discern whether to go to graduate school or to return to the process to be ordained For the Diocese of Colorado.  At that time, in the sacred Heart Chapel (now “basilica”) at Notre Dame I Heard a Voice say: “ I don't care what you do as long as you love me with your whole heart and soul and mind and strength.” I took that to be a sign from God. I tried to do both, But I knew that for the rest of my life I would try to do what I do while loving God with my whole heart soul mind and strength. 
+I was looking for a sign when I was seeking to discern whether to go to graduate school or to return to the process of ordination for the Diocese of Colorado.  At that time, in the Sacred Heart Chapel (now “Basilica”) at Notre Dame, I Heard a Voice say: “ I don't care what you do as long as you love me with your whole heart and soul and mind and strength.” I took that to be a sign from God. I tried to do both, but I knew that for the rest of my life I would try to do what I do while loving God with my whole heart, soul, mind, and strength. 
 
-Sometime later I was driving to the parish I was serving, it was a little tiny Parish and took me about 2 hours to drive there. I did that for a year or so and the Sundays were peaceful but a lot of driving. On one of those days, nothing particularly striking about it except that it was a mostly Blue Sky with fleeting clouds here and there, I looked up and one cloud formation in particular stood out. I immediately recognized it as an angel. Not that it looked like an angel it looked like a cloud. But it was an actual angel, a messenger from God. The message was something like everything is going to be okay. But my main response was not to the content of the message but rather that at that moment in time, in that place, God was somehow reaching out to me and I knew that it was a sacred moment. I made the sign of the cross and kept on driving but I knew that I had been blessed, and I can still remember the event as if it were earlier today. 
+Sometime later I was driving to the parish I was serving. It was a little tiny parish and took me about 2 hours to drive there. I did that for a year or so and the Sundays were peaceful, but with a lot of driving. On one of those days, nothing particularly striking about it except that it was a mostly blue sky with fleeting clouds here and there, I looked up and one cloud formation in particular stood out. I immediately recognized it as an angel. Not that it looked like an angel. It looked like a cloud. But it was an actual angel, a messenger from God. The message was something like, "Everything is going to be okay." But my main response was not to the content of the message, but rather that at that moment in time, in that place, God was somehow reaching out to me, and I knew that it was a sacred moment. I made the sign of the cross and kept on driving but, I knew that I had been blessed, and I can still remember the event as if it were earlier today. 
 
-Our scripture for today feels overwhelmingly concerned with signs, with messages from God that inevitably turn our lives topsy-turvy And bring into our presence the unexpected. 
+Our scripture for today feels overwhelmingly concerned with signs, with messages from God that inevitably turn our lives topsy-turvy and bring into our presence the unexpected. 
 
 The Lord spoke to Ahaz and gave him a sign. It had to do with a young woman giving birth to a son whom they named Emmanuel. That sign was then taken by later followers of Jesus, some seven centuries later, as a sign that Jesus himself was that son. 
 
-People look for signs then as well as now. People sought reassurance and confirmation then as now. God delivered the Assurance to them then as well as now, but then and now as well God delivers an abundance of surprises and unexpected turns.
+People look for signs then as well as now. People sought reassurance and confirmation then as now. God delivered the assurance to them then as well as now, but then and now as well, God delivers an abundance of surprises and unexpected turns.
 
 The psalmist repeats as if in the refrain of a song: show us the light of your countenance, let us see your face oh Lord, let us see your face and live and not die.
 
