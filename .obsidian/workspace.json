@@ -269,11 +269,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "844dde80ff26bb9a",
   "lastOpenFiles": [
+    "advent_4_draft_1.md~",
     "advent_4_draft_1.md",
     "advent_4-sermon.md",
     "advent_4-lessons.md",
@@ -301,7 +303,6 @@
     "Journal/Weekly/2025-W49.md",
     "Journal/Daily/2025-12-03.md",
     "Journal/Daily/2025-12-02.md",
-    "Journal/Daily/2025-12-01.md",
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
