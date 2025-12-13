@@ -45,7 +45,7 @@ The panel’s designs, developed over years, stemmed from [legislation](https://
 That law, which said the US could release up to five quarters in 2026 to celebrate America’s 250th anniversary, noted that one design should be “emblematic of a woman’s or women’s contribution to the birth of the nation or the Declaration of Independence or any other monumental moments in American history.”
 
 The Mint told CNN that the Mayflower Compact quarter, which features a woman on the front, fulfills this requirement.
-
+![[rejected_by_trump_Screenshot_2025-12-13_08-00-09.png]]
 ## The Trump dollar
 
 The controversial Trump dollar coin is also part of Treasury’s plan to mark America’s 250th birthday.
