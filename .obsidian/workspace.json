@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-12.md",
+                "file": "advent_4-sermon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "advent_4-sermon"
+            }
+          }
+        ]
+      },
+      {
+        "id": "19514e5f7cd3783e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90bcf905bc6735bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "advent_4-lessons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "advent_4-lessons"
             }
           }
         ]
@@ -214,16 +244,17 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "5d0249fb09b0ae30",
+  "active": "90bcf905bc6735bc",
   "lastOpenFiles": [
-    "sign.md",
     "advent_4-sermon.md",
-    "Journal/Daily/2025-12-12.md",
-    "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
     "advent_4-lessons.md",
+    "Journal/Daily/2025-12-12.md",
+    "sign.md",
+    "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
     "Poetry/poetry-12-12.md",
     "Poetry/poetry-12-12.md~",
     "Clippings/Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire.md",

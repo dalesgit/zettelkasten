@@ -26,7 +26,7 @@ Purify our conscience, Almighty God, by your daily visitation, that your Son Jes
 
 ### Isaiah 7:10-16
 
-Again the Lord spoke to Ahaz, saying, Ask a sign of the Lord your God; let it be deep as Sheol or high as heaven. But Ahaz said, I will not ask, and I will not put the Lord to the test. Then Isaiah said: “Hear then, O house of David! Is it too little for you to weary mortals, that you weary my God also? Therefore the **Lord himself will give you a [[sign]]**. Look, the young woman is with child and shall bear a son, and shall name him Immanuel. He shall eat curds and honey by the time he knows how to refuse the evil and choose the good. For before the child knows how to refuse the evil and choose the good, the land before whose two kings you are in dread will be deserted.”
+Again the Lord spoke to Ahaz, saying, Ask a **sign** of the Lord your God; let it be deep as Sheol or high as heaven. But Ahaz said, I will not ask, and I **will not put the Lord to the test**. Then Isaiah said: “Hear then, O house of David! Is it too little for you to weary mortals, that you weary my God also? Therefore the **Lord himself will give you a [[sign]]**. Look, the young woman is with child and shall bear a son, and shall name him Immanuel. He shall eat curds and honey by the time he knows how to refuse the evil and choose the good. For before the child knows how to refuse the evil and choose the good, the land before whose two kings you are in dread will be deserted.”
 
 ## The Response
 
