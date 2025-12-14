@@ -213,8 +213,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
   "floating": {
@@ -257,9 +256,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 339,
+        "x": 336,
         "y": 80,
-        "width": 1029,
+        "width": 1033,
         "height": 800,
         "maximize": false,
         "zoom": 0
