@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-11-29.md",
+                "file": "Journal/Daily/2025-12-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-29"
+              "title": "2025-12-14"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pastreads",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -217,8 +217,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dafdc564fa9a4642",
+  "active": "266b950ea84f6542",
   "lastOpenFiles": [
+    "Clippers/Opinion  The Billionaires Have Gone Full Louis XV - The New York Times.md",
+    "Journal/Daily/2025-12-14.md",
+    "Journal/Daily/2025-11-29.md",
     "Clippers",
     "Journal/Daily/2025-12-13.md",
     "Journal/Weekly/2025-W50.md",
@@ -248,15 +251,12 @@
     "Rebecca.md~",
     "Clippings/Opinion  America Is Entering Its Third Civil War.md",
     "Journal/Daily/2025-12-10.md",
-    "zen-browser-shortcuts.md",
-    "Poetry/anniversary_memorare.md",
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
     "Poetry/poetry-12-04.md~",
     "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
     "shortbread cookies.md~",
-    "flexible-liturgy.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
