@@ -2,8 +2,8 @@
 [[advent_4_draft_1]]
 
 ## Psalm 77 (Dec. 14 Northumbria)
-
-Mighty acts of God and yet no tracks are left
+> *Huge things God does* and yet afterwards we look and there is nothing.
+> Mighty acts of God and yet no tracks are left
 
 14 You are the God who works wonders;  
     you have demonstrated your strength among all peoples.  
