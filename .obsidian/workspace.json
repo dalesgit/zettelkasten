@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "747cb745f84d79c4",
+        "id": "c54a74e35841f90d",
         "type": "tabs",
         "children": [
           {
-            "id": "dafdc564fa9a4642",
+            "id": "19c5aeb630ccf83f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-12-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-14"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -99,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -213,61 +199,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "1dd6aaaf29a53824",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c7754a988057d2c3",
-        "type": "window",
-        "children": [
-          {
-            "id": "895c784fb9433552",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a773b3d09552b64e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "advent_4-sermon.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "advent_4-sermon"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 336,
-        "y": 80,
-        "width": 1033,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a773b3d09552b64e",
+  "active": "19c5aeb630ccf83f",
   "lastOpenFiles": [
     "Journal/Daily/2025-12-14.md",
+    "Clippers/4 “Perfect” Hit Songs That Nobody Can Possibly Hate - American Songwriter.md",
+    "advent_4-sermon.md",
     "Clippers/Opinion  The Billionaires Have Gone Full Louis XV - The New York Times.md",
     "Journal/Daily/2025-11-29.md",
     "Clippers",
@@ -286,7 +226,6 @@
     "advent_4_draft_1.md",
     "advent_4_draft_1.md~",
     "printable-stop-sign.png",
-    "advent_4-sermon.md",
     "Journal/Daily/2025-12-12.md",
     "sign.md",
     "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
@@ -298,7 +237,6 @@
     "Marc.md",
     "Rebecca.md~",
     "Clippings/Opinion  America Is Entering Its Third Civil War.md",
-    "Journal/Daily/2025-12-10.md",
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
