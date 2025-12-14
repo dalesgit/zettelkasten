@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Clippings/8 nostalgic songs that instantly transport boomers back to their best memories – VegOut.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "8 nostalgic songs that instantly transport boomers back to their best memories – VegOut"
+            }
+          },
+          {
+            "id": "82ccb242b8c0f074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Journal/Daily/2025-12-13.md",
                 "mode": "source",
                 "source": false,
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,14 +261,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ee6f137f96e2e51e",
+  "active": "82ccb242b8c0f074",
   "lastOpenFiles": [
+    "Clippings/8 nostalgic songs that instantly transport boomers back to their best memories – VegOut.md",
+    "Journal/Daily/2025-12-13.md",
     "Clippings/I spent years in Copenhagen – these 9 Danish habits explain why they rank among the world’s happiest people – VegOut.md",
     "Clippings/Killing the penny was just the start. Trump is rewriting the rules on America’s coins  CNN Business.md",
-    "Journal/Daily/2025-12-13.md",
     "Clippings/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
     "templater/Daily.md",
     "Clippings/Ritual.md",
@@ -272,7 +298,6 @@
     "Journal/Daily/2025-12-08.md",
     "Journal/Daily/2025-12-07.md",
     "Clippings/Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year’s remembrance.md",
-    "Clippings/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
