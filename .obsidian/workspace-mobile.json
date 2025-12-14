@@ -11,9 +11,24 @@
             "id": "cc7bd9e07d6e9cf2",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-12-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-14"
             }
           }
         ]
@@ -169,7 +184,6 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false
@@ -177,8 +191,8 @@
   },
   "active": "cc7bd9e07d6e9cf2",
   "lastOpenFiles": [
-    "advent_4-lessons.md",
     "advent_4-sermon.md",
+    "advent_4-lessons.md",
     "Journal/Daily/2025-12-12.md",
     "Journal/Daily/2025-12-08.md",
     "Clippings2/With One Damning Question, Ketanji Brown Jackson Defined the Supreme Court’s New Term.md",

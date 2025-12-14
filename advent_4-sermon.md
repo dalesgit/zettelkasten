@@ -24,3 +24,4 @@
         **But your footprints left no trace!**  
 20 You led your people like sheep  
     under the care of Moses and Aaron.
+
