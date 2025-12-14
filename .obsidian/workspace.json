@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-13.md",
+                "file": "Journal/Daily/2025-11-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-13"
+              "title": "2025-11-29"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#_/habits",
+                "query": "pastreads",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,13 +213,14 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "dafdc564fa9a4642",
   "lastOpenFiles": [
-    "Journal/Weekly/2025-W50.md",
     "Journal/Daily/2025-12-13.md",
+    "Journal/Weekly/2025-W50.md",
     "Clippings/‘Even the animals seem confused’ a retreating Kashmir glacier is creating an entire new world in its wake  Glaciers  The Guardian.md",
     "Clippings/I spent years in Copenhagen – these 9 Danish habits explain why they rank among the world’s happiest people – VegOut.md",
     "Clippings/8 nostalgic songs that instantly transport boomers back to their best memories – VegOut.md",
