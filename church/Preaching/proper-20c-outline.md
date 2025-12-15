@@ -1,5 +1,5 @@
 [[proper-20c 1]]
-[[proper-20c-brainstorming]]
+[[proper-20c-brainstorming 1]]
 
 1. ![[20c - remember Wm McNamara]]
 2. ![[20c - Prophetic ears]] 

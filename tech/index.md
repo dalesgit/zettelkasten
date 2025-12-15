@@ -277,7 +277,7 @@
 
 # **my-files-inbox-7-30-25/**
 
-   - [index-7-30-25.md](my-files-inbox-7-30-25/index-7-30-25.md)
+   - [index-7-30-25.md](index-7-30-25.md)
 
   # **courts/**
 

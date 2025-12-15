@@ -1,6 +1,6 @@
 #proper20 
 [[proper-20c 1]]
-[[proper-20c-brainstorming]]
+[[proper-20c-brainstorming 1]]
 
 1. [[remember Wm McNamara]]
 	1. Tony Campolo. 2 stories

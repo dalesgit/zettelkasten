@@ -10,7 +10,7 @@ tags:
   - reading
   - organization
 ---
-Like most knowledge workers, I spend hours reading articles, blog posts, and research online. For years, this felt like pouring water through a sieve. I'd read something fascinating, bookmark it, then never find it again when I needed it. My browser bookmarks basically became a digital graveyard.
+teLike most knowledge workers, I spend hours reading articles, blog posts, and research online. For years, this felt like pouring water through a sieve. I'd read something fascinating, bookmark it, then never find it again when I needed it. My browser bookmarks basically became a digital graveyard.
 
 Everything changed when I set up Obsidian's Web Clipper properly. Instead of saving links that might break, I capture full text and context in a format I control. The key principle is "clip once, reuse often”. Every article becomes part of a growing library where I can surface old insights for new projects and build connections across different domains.
 

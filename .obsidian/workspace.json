@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee3641a959a287d2",
+        "id": "d3edf74eddbcf650",
         "type": "tabs",
         "children": [
           {
-            "id": "a9ed5e5cbbddcaec",
+            "id": "d666779644f510a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories we tell about ourselves.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stories we tell about ourselves"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tech",
+                "query": "tags:recipe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,11 +177,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
+    "width": 448.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -212,50 +197,51 @@
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "a9ed5e5cbbddcaec",
+  "active": "5a69238350bfdba9",
   "lastOpenFiles": [
-    "personal/Music examples.md",
-    "personal/health/Is Waking Up to Pee Normal.md",
-    "tech/6 Simple Tips to Free Up Space in Google Drive.md",
-    "personal/health/proper-20c 1.md",
-    "church/Preaching/proper-20c-outline 1.md",
-    "proper-20c-brainstorming.md",
-    "personal/kitchen-diy",
-    "Untitled 1",
+    "Clippings2/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
+    "inbox/personal/12 Contradictions In Life That Only Make Sense With Age.md",
+    "inbox/personal/7 Main Streets Where Hawaii Comes Alive.md",
+    "inbox/diy/Empty Pill Bottles Piling Up Here Are 15 Great Ways to Reuse Them  HowStuffWorks.md",
+    "tech/Here's How I Batch Install All My Old Apps When Switching Linux Distros.md",
+    "tech/Gmail’s new tab keeps all your order delivery and purchase emails in one tidy place.md",
+    "inbox/my-files-inbox-7-30-25/index-7-30-25.md",
+    "tech/I use this simple workflow to turn my random web reading into a library I can actually use.md",
+    "tech/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
+    "inbox/courts/Why does the supreme court keep bending the knee to Trump  Steven Greenhouse.md",
+    "Clippings2/Feel like your mind and body are separate Here’s how life changes when we become whole.md",
+    "tech/I made Obsidian smarter with 3 simple plugins.md",
+    "inbox/courts/With One Damning Question, Ketanji Brown Jackson Defined the Supreme Court’s New Term.md",
+    "inbox/my-files-inbox-7-30-25/index-7-30-25 1.md",
+    "inbox/current/charlie-kirk-empathy-trap-democrats 1.md",
+    "personal/music/Music examples.md",
+    "inbox",
+    "personal/kitchen/How to Clean Blueberries With Baking Soda or Vinegar.md",
+    "personal/music",
+    "personal/health/Glucose monitors can help tame blood sugar spikes and crashes  NPR.md",
+    "inbox/current/trump-corruption.md",
+    "home/dale/Repositories/zettelkasten/assets/2026.md",
+    "personal/note-taking/aggregating weekly notes.md",
+    "inbox/Inspect Index Visuals.md",
+    "personal/kitchen/soups I like.md",
+    "personal/Dad's geneaology for David.md",
+    "thought/Opinion  The Billionaires Have Gone Full Louis XV - The New York Times.md",
+    "personal/kitchen/how-to-season-a-cast-iron-pan.md",
+    "personal/diy",
+    "archive/template-old",
+    "personal/kitchen/Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
+    "personal/kitchen/Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3",
+    "personal/kitchen",
     "church",
-    "tech/zen-browser-shortcuts.md",
-    "church/Preaching/advent_4_draft_2.md",
-    "church/Preaching/advent_4_draft_1.md",
     "Clippings/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
-    "Journal/Daily/2025-12-15.md",
-    "Clippings/How many glaciers in the Arctic can be saved from extinction.md",
     "assets/stop-sign.png",
-    "Clippings/Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State  The New Republic.md",
-    "Journal/Weekly/2025-W50.md",
-    "Journal/Weekly/2025-W51.md",
-    "Clippings/America isn’t attacking Venezuela because of drugs — it’s because of minerals .md",
-    "Clippings2/Opinion  We Need to Think Straight About God and Politics.md",
-    "church/church/Rabbi Or Rose.md",
-    "Clippings/Trump’s approach to Venezuela repeats the mistakes of the past  Austin Sarat  The Guardian.md",
-    "Clippings/Immigrants Once Avoided Some Regions of America. That’s a Big Reason We’re So Divided. - POLITICO.md",
-    "Clippings/Opinion  Trump Wants to Carve Up the World. It’s a Blueprint for Disaster. - The New York Times.md",
-    "Journal/Daily/2025-12-14.md",
-    "Clippers/4 “Perfect” Hit Songs That Nobody Can Possibly Hate - American Songwriter.md",
-    "church/Preaching/advent_4-sermon.md",
-    "Clippers/Opinion  The Billionaires Have Gone Full Louis XV - The New York Times.md",
-    "Journal/Daily/2025-11-29.md",
     "Clippers",
-    "Journal/Daily/2025-12-13.md",
     "advent_4_draft_1.md~",
     "printable-stop-sign.png",
-    "Poetry/poetry-12-12.md~",
-    "Rebecca.md~",
-    "Clippings/The Last Jew in Vinnitsa.pdf",
-    "Poetry/poetry-12-03.md~",
-    "Poetry/poetry-12-06.md.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",

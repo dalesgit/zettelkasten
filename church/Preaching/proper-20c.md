@@ -3,7 +3,7 @@ id: proper-20c
 aliases: []
 tags: []
 ---
-[[proper-20c-brainstorming]] 
+[[proper-20c-brainstorming 1]] 
 [[proper-20c-outline 1]]
 
 | lessons         |                                                                                      |

@@ -4,7 +4,7 @@ aliases: []
 tags:
   - proper20
 ---
-[[proper-20c-brainstorming]] 
+[[proper-20c-brainstorming 1]] 
 
 | lessons         |                                                                                      |
 | --------------- | ------------------------------------------------------------------------------------ |
