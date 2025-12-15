@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c54a74e35841f90d",
+        "id": "a6e1148f536bf5c0",
         "type": "tabs",
         "children": [
           {
-            "id": "19c5aeb630ccf83f",
+            "id": "2c8dfb48baf0a700",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State  The New Republic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State  The New Republic"
             }
           }
         ]
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#inter-faith",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,13 +213,22 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "19c5aeb630ccf83f",
+  "active": "2c8dfb48baf0a700",
   "lastOpenFiles": [
+    "Journal/Weekly/2025-W50.md",
+    "Clippings/Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State  The New Republic.md",
+    "Journal/Weekly/2025-W51.md",
+    "Journal/Daily/2025-12-15.md",
+    "Clippings/America isn’t attacking Venezuela because of drugs — it’s because of minerals .md",
+    "Clippings2/Opinion  We Need to Think Straight About God and Politics.md",
+    "church/Rabbi Or Rose.md",
+    "Clippings/Trump’s approach to Venezuela repeats the mistakes of the past  Austin Sarat  The Guardian.md",
+    "Clippings/Immigrants Once Avoided Some Regions of America. That’s a Big Reason We’re So Divided. - POLITICO.md",
+    "Clippings/Opinion  Trump Wants to Carve Up the World. It’s a Blueprint for Disaster. - The New York Times.md",
     "Journal/Daily/2025-12-14.md",
     "Clippers/4 “Perfect” Hit Songs That Nobody Can Possibly Hate - American Songwriter.md",
     "advent_4-sermon.md",
@@ -212,7 +236,6 @@
     "Journal/Daily/2025-11-29.md",
     "Clippers",
     "Journal/Daily/2025-12-13.md",
-    "Journal/Weekly/2025-W50.md",
     "Clippings/‘Even the animals seem confused’ a retreating Kashmir glacier is creating an entire new world in its wake  Glaciers  The Guardian.md",
     "Clippings/I spent years in Copenhagen – these 9 Danish habits explain why they rank among the world’s happiest people – VegOut.md",
     "Clippings/8 nostalgic songs that instantly transport boomers back to their best memories – VegOut.md",
@@ -226,17 +249,8 @@
     "advent_4_draft_1.md",
     "advent_4_draft_1.md~",
     "printable-stop-sign.png",
-    "Journal/Daily/2025-12-12.md",
-    "sign.md",
-    "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
-    "Poetry/poetry-12-12.md",
     "Poetry/poetry-12-12.md~",
-    "Clippings/Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire.md",
-    "Clippings/Stop opening your browser for these 8 tasks, the terminal does them better.md",
-    "Rebecca.md",
-    "Marc.md",
     "Rebecca.md~",
-    "Clippings/Opinion  America Is Entering Its Third Civil War.md",
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
