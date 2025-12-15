@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f2d35674993b887",
+        "id": "8184969e8af16563",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7bd9e07d6e9cf2",
+            "id": "05a63eba1343d825",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-12-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-14"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -189,8 +174,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cc7bd9e07d6e9cf2",
+  "active": "05a63eba1343d825",
   "lastOpenFiles": [
+    "ReadItLater Inbox/‘A very hostile climate for workers’ US labor movement struggles under Trump.md",
+    "ReadItLater Inbox/Threshold the choir who sing to the dying - documentary.md",
+    "ReadItLater Inbox/It’s the media’s job to hold power to account. This year, too many got into bed with it instead  Arwa Mahdawi.md",
+    "Journal/Daily/2025-12-14.md",
     "advent_4-sermon.md",
     "advent_4-lessons.md",
     "Journal/Daily/2025-12-12.md",
@@ -212,10 +201,6 @@
     "Music examples.md",
     "https   geediting.com d-i-came-of-age-with-rock-and-roll-these-10-songs-changed-everything-for-me.md",
     "ReadItLater Inbox/Trump’s Power Paradox.md",
-    "ReadItLater Inbox/Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies.md",
-    "cognitive dissonance.md",
-    "wholehearted-faith-notes-1-to-40.md",
-    "Adam and Eve.md",
-    "ReadItLater Inbox/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live.md"
+    "ReadItLater Inbox/Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies.md"
   ]
 }
