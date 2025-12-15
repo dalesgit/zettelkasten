@@ -1,0 +1,343 @@
+{
+  "main": {
+    "id": "cd6a0afe7020dd00",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8d2c54f4f6fffe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d0249fb09b0ae30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< HEAD
+                "file": "Journal/Daily/2025-12-13.md",
+=======
+                "file": "advent_4-sermon.md",
+>>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+<<<<<<< HEAD
+              "title": "2025-12-13"
+=======
+              "title": "advent_4-sermon"
+            }
+          },
+          {
+            "id": "844dde80ff26bb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "advent_4_draft_1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "advent_4_draft_1"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "19514e5f7cd3783e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90bcf905bc6735bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "advent_4-lessons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "advent_4-lessons"
+>>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4ee036ec5b05e6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6759c69f6a5a2ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a69238350bfdba9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f046a4203839886",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#_/habits",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "266b950ea84f6542",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "5e28ef79e7716c03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 433.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "db7a80e2846d5f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c395b3768dc7fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d7463a3ca027010",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal/2025-11-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-11-12"
+            }
+          },
+          {
+            "id": "211ed59acbf3cbb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journal/2025-11-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-11-12"
+            }
+          },
+          {
+            "id": "a48e19a949361ef4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "147158eeb6b41115",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journal/2025-11-12.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-11-12"
+            }
+          },
+          {
+            "id": "8779a5af8fc9662c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "b7b08eb7f46e90ca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "notebook-navigator:Notebook Navigator": false,
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "844dde80ff26bb9a",
+  "lastOpenFiles": [
+<<<<<<< HEAD
+    "Journal/Daily/2025-12-12.md",
+    "Journal/Daily/2025-12-13.md",
+    "sign.md",
+    "advent_4-sermon.md",
+    "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
+=======
+    "advent_4_draft_1.md~",
+    "printable-stop-sign.png",
+    "advent_4_draft_1.md",
+    "advent_4-sermon.md",
+>>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
+    "advent_4-lessons.md",
+    "Journal/Daily/2025-12-12.md",
+    "sign.md",
+    "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
+    "Poetry/poetry-12-12.md",
+    "Poetry/poetry-12-12.md~",
+    "Clippings/Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire.md",
+    "Clippings/Stop opening your browser for these 8 tasks, the terminal does them better.md",
+    "Rebecca.md",
+    "Marc.md",
+    "Rebecca.md~",
+    "Clippings/Opinion  America Is Entering Its Third Civil War.md",
+    "Journal/Daily/2025-12-10.md",
+    "zen-browser-shortcuts.md",
+    "Poetry/anniversary_memorare.md",
+    "proper-20c.md",
+    "Journal/Daily/2025-12-08.md",
+    "Journal/Daily/2025-12-07.md",
+    "Clippings/Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year’s remembrance.md",
+    "Clippings/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
+    "Clippings/It’s not just nostalgia, 90s video games were better for kids’ brains.md",
+    "Clippings/Superpower Competition The Missing Chapter in Trump’s Security Strategy.md",
+    "Journal/Weekly/2025-W49.md",
+    "Journal/Daily/2025-12-03.md",
+    "Journal/Daily/2025-12-02.md",
+<<<<<<< HEAD
+    "Journal/Daily/2025-12-01.md",
+=======
+>>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
+    "Clippings/The Last Jew in Vinnitsa.pdf",
+    "Poetry/poetry-12-03.md~",
+    "Poetry/poetry-12-06.md.md~",
+    "Poetry/poetry-12-04.md~",
+    "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
+    "shortbread cookies.md~",
+    "flexible-liturgy.md~",
+    "grocy-app/assets/grocy-pics/tasks.png",
+    "grocy-app/assets/grocy-pics/stock-overview.png",
+    "grocy-app/assets/grocy-pics/shopping-list.png",
+    "grocy-app/assets/grocy-pics/recipes.png",
+    "grocy-app/assets/grocy-pics/meal-plan.png",
+    "grocy-app/assets/grocy-pics/equipment.png",
+    "grocy-app/assets/grocy-pics/chores-overview.png",
+    "grocy-app/assets/grocy-pics/batteries-overview.png"
+  ]
+}

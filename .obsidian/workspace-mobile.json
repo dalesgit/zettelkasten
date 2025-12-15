@@ -11,9 +11,24 @@
             "id": "05a63eba1343d825",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-12-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-15"
             }
           }
         ]
