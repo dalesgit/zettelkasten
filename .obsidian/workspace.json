@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1514e8039ec4f1",
+        "id": "ee3641a959a287d2",
         "type": "tabs",
         "children": [
           {
-            "id": "3ebb34b0426ca094",
+            "id": "a9ed5e5cbbddcaec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "advent_4_draft_2.md",
+                "file": "Stories we tell about ourselves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "advent_4_draft_2"
+              "title": "Stories we tell about ourselves"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#inter-faith",
+                "query": "tag:#tech",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -216,36 +215,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ebb34b0426ca094",
+  "active": "a9ed5e5cbbddcaec",
   "lastOpenFiles": [
-    "assets/stop-sign.png",
-    "advent_4_draft_2.md",
+    "personal/Music examples.md",
+    "personal/health/Is Waking Up to Pee Normal.md",
+    "tech/6 Simple Tips to Free Up Space in Google Drive.md",
+    "personal/health/proper-20c 1.md",
+    "church/Preaching/proper-20c-outline 1.md",
+    "proper-20c-brainstorming.md",
+    "personal/kitchen-diy",
+    "Untitled 1",
+    "church",
+    "tech/zen-browser-shortcuts.md",
+    "church/Preaching/advent_4_draft_2.md",
+    "church/Preaching/advent_4_draft_1.md",
+    "Clippings/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
     "Journal/Daily/2025-12-15.md",
+    "Clippings/How many glaciers in the Arctic can be saved from extinction.md",
+    "assets/stop-sign.png",
     "Clippings/Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State  The New Republic.md",
     "Journal/Weekly/2025-W50.md",
     "Journal/Weekly/2025-W51.md",
     "Clippings/America isn’t attacking Venezuela because of drugs — it’s because of minerals .md",
     "Clippings2/Opinion  We Need to Think Straight About God and Politics.md",
-    "church/Rabbi Or Rose.md",
+    "church/church/Rabbi Or Rose.md",
     "Clippings/Trump’s approach to Venezuela repeats the mistakes of the past  Austin Sarat  The Guardian.md",
     "Clippings/Immigrants Once Avoided Some Regions of America. That’s a Big Reason We’re So Divided. - POLITICO.md",
     "Clippings/Opinion  Trump Wants to Carve Up the World. It’s a Blueprint for Disaster. - The New York Times.md",
     "Journal/Daily/2025-12-14.md",
     "Clippers/4 “Perfect” Hit Songs That Nobody Can Possibly Hate - American Songwriter.md",
-    "advent_4-sermon.md",
+    "church/Preaching/advent_4-sermon.md",
     "Clippers/Opinion  The Billionaires Have Gone Full Louis XV - The New York Times.md",
     "Journal/Daily/2025-11-29.md",
     "Clippers",
     "Journal/Daily/2025-12-13.md",
-    "Clippings/‘Even the animals seem confused’ a retreating Kashmir glacier is creating an entire new world in its wake  Glaciers  The Guardian.md",
-    "Clippings/I spent years in Copenhagen – these 9 Danish habits explain why they rank among the world’s happiest people – VegOut.md",
-    "Clippings/8 nostalgic songs that instantly transport boomers back to their best memories – VegOut.md",
-    "Clippings/You and me against the world who was behind Trump’s anti-Europe foreign policy  US foreign policy  The Guardian.md",
-    "Clippings/Killing the penny was just the start. Trump is rewriting the rules on America’s coins  CNN Business.md",
-    "Clippings/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
-    "templater/Daily.md",
-    "Clippings/Ritual.md",
-    "Clippings/FAQ - Ritual.md",
     "advent_4_draft_1.md~",
     "printable-stop-sign.png",
     "Poetry/poetry-12-12.md~",
@@ -253,9 +256,6 @@
     "Clippings/The Last Jew in Vinnitsa.pdf",
     "Poetry/poetry-12-03.md~",
     "Poetry/poetry-12-06.md.md~",
-    "Poetry/poetry-12-04.md~",
-    "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
-    "shortbread cookies.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",

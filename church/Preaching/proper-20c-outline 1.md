@@ -1,5 +1,5 @@
 #proper20 
-[[proper-20c]]
+[[proper-20c 1]]
 [[proper-20c-brainstorming]]
 
 1. [[remember Wm McNamara]]

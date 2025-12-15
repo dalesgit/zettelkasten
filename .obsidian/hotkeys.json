@@ -133,5 +133,14 @@
       ],
       "key": "P"
     }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": ";"
+    }
   ]
 }

@@ -1,4 +1,4 @@
-[[proper-20c]]
+[[proper-20c 1]]
 ### Prophet
 - care of poor
 - prophetic voice of Amos
