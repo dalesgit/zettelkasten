@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6e1148f536bf5c0",
+        "id": "2b1514e8039ec4f1",
         "type": "tabs",
         "children": [
           {
-            "id": "2c8dfb48baf0a700",
+            "id": "3ebb34b0426ca094",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State  The New Republic.md",
+                "file": "advent_4_draft_2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State  The New Republic"
+              "title": "advent_4_draft_2"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,12 +216,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c8dfb48baf0a700",
+  "active": "3ebb34b0426ca094",
   "lastOpenFiles": [
-    "Journal/Weekly/2025-W50.md",
-    "Clippings/Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State  The New Republic.md",
-    "Journal/Weekly/2025-W51.md",
+    "assets/stop-sign.png",
+    "advent_4_draft_2.md",
     "Journal/Daily/2025-12-15.md",
+    "Clippings/Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State  The New Republic.md",
+    "Journal/Weekly/2025-W50.md",
+    "Journal/Weekly/2025-W51.md",
     "Clippings/America isn’t attacking Venezuela because of drugs — it’s because of minerals .md",
     "Clippings2/Opinion  We Need to Think Straight About God and Politics.md",
     "church/Rabbi Or Rose.md",
@@ -245,8 +246,6 @@
     "templater/Daily.md",
     "Clippings/Ritual.md",
     "Clippings/FAQ - Ritual.md",
-    "advent_4-lessons.md",
-    "advent_4_draft_1.md",
     "advent_4_draft_1.md~",
     "printable-stop-sign.png",
     "Poetry/poetry-12-12.md~",
@@ -263,7 +262,6 @@
     "grocy-app/assets/grocy-pics/recipes.png",
     "grocy-app/assets/grocy-pics/meal-plan.png",
     "grocy-app/assets/grocy-pics/equipment.png",
-    "grocy-app/assets/grocy-pics/chores-overview.png",
-    "grocy-app/assets/grocy-pics/batteries-overview.png"
+    "grocy-app/assets/grocy-pics/chores-overview.png"
   ]
 }

@@ -21,6 +21,7 @@ I was looking for a sign when I was seeking to discern whether to go to graduate
 
 Sometime later I was driving to the parish I was serving. It was a little tiny parish and took me about 2 hours to drive there. I did that for a year or so and the Sundays were peaceful, but with a lot of driving. On one of those days, nothing particularly striking about it except that it was a mostly blue sky with fleeting clouds here and there, I looked up and one cloud formation in particular stood out. I immediately recognized it as an angel. Not that it looked like an angel. It looked like a cloud. But it was an actual angel, a messenger from God. The message was something like, "Everything is going to be okay." But my main response was not to the content of the message, but rather that at that moment in time, in that place, God was somehow reaching out to me, and I knew that it was a sacred moment. I made the sign of the cross and kept on driving but, I knew that I had been blessed, and I can still remember the event as if it were earlier today. 
 
+![[stop-sign.png]]
 ## Signs
 
 Our scripture readings for today feel overwhelmingly concerned with signs, with messages from God that inevitably turn our lives topsy-turvy and bring into our presence the unexpected. Signs of what God is doing in our lives.
@@ -65,17 +66,14 @@ The relationship between God and Moses develops as you are well aware and they b
 
 Signs can be strange like a burning bush or as common as a cloud in the sky. God is perfectly at home in either place. If we have eyes to see and ears to hear we may find God in places as common as a butterfly in the Butterfly Garden or in the most unexpected places. 
 
-A person who arrives on our shores who doesn't look like us or act like us but seeks safety and the assurance that things will be okay. 
-
-
 ## Signs of the times
 
 We live in a time when it is customary to say, "You've got your signs and I've not mine. You have your meaning and I have mine."
 
-It turns out that's not such a new thought. For example: 1 Kings 18 -- 9^th^ BCE
+It turns out that's not such a new thought. For example in 1 Kings 18 (9<sup>th</sup> BCE).
 
 - a country was divided between South and North
-- There were bitter feuds between those who wanted to be liberals and those who wanted to be conservatives
+- There were bitter feuds between those who thought themselves to be liberals and those who were convinced that they were the true conservatives
 - There was a lone voice who "wasn't from around here (an **immigrant** if you will." He was saying, "Pox on both your houses." (At the time there was a terrible drought -- climate change if you will). The lone voice said, "When you read the signs of the times, you're getting it all wrong."
 - ½ the population thought that the solution to the drought was to call on the God **Baal**.
 - ½ the population thought that the solution was to sacrifice to the Goddess **Asherah**.
@@ -86,5 +84,13 @@ Even though the vast percentage of the population thought they knew what the sig
 
 ## The  signs we crave
 
-We live in such times. A tyrant who wants to be a latter-day Ivan the Terrible may be a sign that millions of people need to readjust their thinking. Bizarre weather might be a sign waiting to be understood.
+We live in such times. There are signs all around us. We can try to ignore them. Pretend they aren't there. But they will be insistent, because God is speaking to us. In 1965 the Catholic Church at Vatican 2 published the last of its major documents, making the claim that the Church -- that's us -- must pay attention.
+
+> The joys and hopes, the grief and anguish of the people of our time, especially of those who are poor or afflicted, are the joys and hopes, the grief and anguish of the followers of Christ as well.
+
+Signs of our times include: 
+
+- A tyrant who wants to be a latter-day Ivan the Terrible may be a sign that millions of people need to readjust their thinking. 
+- Bizarre weather might be a sign waiting to be understood.
+- A person who arrives on our shores who doesn't look like us or act like us but seeks safety and the assurance that things will be okay. 
 
