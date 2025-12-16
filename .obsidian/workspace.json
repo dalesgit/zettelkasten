@@ -4,59 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d3edf74eddbcf650",
+        "id": "fe81cdcb4e9b8565",
         "type": "tabs",
         "children": [
           {
-            "id": "d666779644f510a3",
+            "id": "1f0c4b52942362b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/Monthly homeownership costs now top $2,000, new data shows.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Monthly homeownership costs now top $2,000, new data shows"
-            }
-          },
-          {
-            "id": "8738d293aabd356d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "church/Preaching/Tony Campolo Throws a Party for a Prostitute.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tony Campolo Throws a Party for a Prostitute"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,35 +202,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8738d293aabd356d",
+  "active": "1f0c4b52942362b4",
   "lastOpenFiles": [
-    "ReadItLater Inbox/Note 2025-07-03 06-49-37.md",
-    "ReadItLater.md",
-    "ReadItLater Inbox/Monthly homeownership costs now top $2,000, new data shows.md",
-    "inbox/world/Europeans recognize Zohran Mamdani’s supposedly radical policies as ‘normal’.md",
-    "inbox/world/Hawaii group organizes to buy back ancestral land from billionaire.md",
-    "personal/music/From Kate Bush to Pentangle to T-Rex, the late Danny Thompson’s musical brilliance knew no bounds.md",
-    "personal/Bungee cords are an oddball hack for traveling – here are 10 clever ways to use them.md",
-    "inbox/thought/Missing 1.5C climate target is a moral failure, UN chief tells Cop30 summit.md",
-    "personal/health/If you want your 70s to feel fulfilling and joyful, psychology says to focus on these 6 daily choices.md",
-    "tech/Quick Insert Is Your Chromebook's Hidden Superpower.md",
-    "personal/health/I tried this calming seven-minute beginner&rsquo;s Tai Chi flow and I&rsquo;m going to do it whenever I feel stressed.md",
-    "inbox/thought/Here, Now, and Always - MNMF.md",
-    "inbox/thought/Opinion  Did Women Ruin the Workplace.md",
-    "inbox/thought/Opinion  A Lesson From the German Resistance That Applies Today.md",
-    "inbox/world/Poland ‘closer to conflict than at any time since WW2’ as UK forces are asked to bolster Nato air defences – live.md",
-    "inbox/diy/Precision Garage Door Service Clearwater.md",
-    "contemporary-events/The US is at a dangerous crossroads after Charlie Kirk shooting.md",
-    "contemporary-events/Trump’s Power Paradox.md",
+    "Clippings3/In the Wake of the Edmund Fitzgerald.md",
+    "Clippings",
+    "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
+    "tech/Obsidian as a Second Brain.md",
+    "tech/Obsidian Guide Daily, Weekly, Monthly and Yearly notes.md",
+    "tech/I started using these 5 underrated Obsidian plugins and I'm never going back.md",
+    "church/spiritual/deep sadness - dhath12@gmail.com.md",
+    "Clippings3/The wisdom of the elders, the greed of the rich.md",
+    "church/spiritual/Text of the Mourner's Kaddish.md",
+    "church/2025 Advent and Christmas Resources.md",
+    "church/spiritual/A Practice of Thanksgiving.md",
+    "tech/Gmail’s new tab keeps all your order delivery and purchase emails in one tidy place 1.md",
+    "inbox/courts/Appeals court judges publicly admonish Supreme Court justices ‘We’re out here flailing’.md",
+    "tech/My new favorite note-taking app for MacOS and Linux checks this crucial box - and it's free 1.md",
+    "personal/health/This Habit Is Quietly Ruining Your Relationships.md",
+    "inbox/world/The Last Jew in Vinnitsa.pdf",
+    "personal/health/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
+    "tech/Stop opening your browser for these 8 tasks, the terminal does them better.md",
+    "personal/music/8 nostalgic songs that instantly transport boomers back to their best memories – VegOut.md",
+    "personal/health/I spent years in Copenhagen – these 9 Danish habits explain why they rank among the world’s happiest people – VegOut.md",
+    "inbox/thought/How many glaciers in the Arctic can be saved from extinction.md",
+    "personal/health/What Happens to Your Blood Sugar When You Eat Sweet Potatoes.md",
+    "personal/health/These 20 Snacks Can Help With Weight Loss.md",
+    "personal/health/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
+    "church/Preaching/She Modeled Her Whole Life on Godly Purity. Then She Woke Up..md",
+    "church/Preaching/Pope Leo hits out at critics of global warming.md",
+    "Clippings2/Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful.md",
+    "personal/I was born and raised in Hawaii. I don't advise moving here, but here's what you need to know if you insist on trying..md",
     "contemporary-events",
-    "inbox/history/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md",
-    "inbox/thought/How Amazon turned our capitalist era of free markets into the age of technofeudalism  Yanis Varoufakis.md",
-    "contemporary-events/Article 2025-11-23 19-17-08.md",
-    "personal/‘Eating Indigenously’ award-winning chef celebrates Native American cuisine in new cookbook.md",
-    "inbox/thought/Africa’s forests transformed from carbon sink to carbon source, study finds.md",
-    "contemporary-events/The food stamp fight signals an era of unprecedented cruelty in America  Katrina vanden Heuvel.md",
-    "personal/reading-writing/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
-    "personal/music/These 3 Rock Songs Live and Die by Their Iconic Bass Line.md",
     "inbox/world 1",
     "tech/Untitled.base",
     "personal/reading-writing",
@@ -278,9 +240,7 @@
     "ReadItLater Inbox/american_society",
     "inbox",
     "personal/music",
-    "personal/diy",
-    "archive/template-old",
-    "Clippings/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
+    "Clippings3/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
     "assets/stop-sign.png",
     "printable-stop-sign.png",
     "grocy-app/assets/grocy-pics/tasks.png",

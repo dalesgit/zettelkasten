@@ -2,7 +2,7 @@
 
 # [At Last, a Name for the Murderous Face in a Holocaust Photo](https://www.nytimes.com/2025/11/28/science/holocaust-nazi-photography.html?smid=nytcore-ios-share)
 
-cf. complete article at [[Clippings/At Last, a Name for the Murderous Face in a Holocaust Photo|At Last, a Name for the Murderous Face in a Holocaust Photo]]
+cf. complete article at [[Clippings3/At Last, a Name for the Murderous Face in a Holocaust Photo|At Last, a Name for the Murderous Face in a Holocaust Photo]]
 
 
 [SKIP ADVERTISEMENT](https://www.nytimes.com/2025/11/28/science/holocaust-nazi-photography.html?smid=nytcore-ios-share#after-top)
