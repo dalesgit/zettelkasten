@@ -11,12 +11,52 @@
             "id": "d666779644f510a3",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/Monthly homeownership costs now top $2,000, new data shows.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Monthly homeownership costs now top $2,000, new data shows"
+            }
+          },
+          {
+            "id": "8738d293aabd356d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "church/Preaching/Tony Campolo Throws a Party for a Prostitute.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tony Campolo Throws a Party for a Prostitute"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tags:recipe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,49 +238,50 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a69238350bfdba9",
+  "active": "8738d293aabd356d",
   "lastOpenFiles": [
-    "Clippings2/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
-    "inbox/personal/12 Contradictions In Life That Only Make Sense With Age.md",
-    "inbox/personal/7 Main Streets Where Hawaii Comes Alive.md",
-    "inbox/diy/Empty Pill Bottles Piling Up Here Are 15 Great Ways to Reuse Them  HowStuffWorks.md",
-    "tech/Here's How I Batch Install All My Old Apps When Switching Linux Distros.md",
-    "tech/Gmail’s new tab keeps all your order delivery and purchase emails in one tidy place.md",
-    "inbox/my-files-inbox-7-30-25/index-7-30-25.md",
-    "tech/I use this simple workflow to turn my random web reading into a library I can actually use.md",
-    "tech/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
-    "inbox/courts/Why does the supreme court keep bending the knee to Trump  Steven Greenhouse.md",
-    "Clippings2/Feel like your mind and body are separate Here’s how life changes when we become whole.md",
-    "tech/I made Obsidian smarter with 3 simple plugins.md",
-    "inbox/courts/With One Damning Question, Ketanji Brown Jackson Defined the Supreme Court’s New Term.md",
-    "inbox/my-files-inbox-7-30-25/index-7-30-25 1.md",
-    "inbox/current/charlie-kirk-empathy-trap-democrats 1.md",
-    "personal/music/Music examples.md",
+    "ReadItLater Inbox/Note 2025-07-03 06-49-37.md",
+    "ReadItLater.md",
+    "ReadItLater Inbox/Monthly homeownership costs now top $2,000, new data shows.md",
+    "inbox/world/Europeans recognize Zohran Mamdani’s supposedly radical policies as ‘normal’.md",
+    "inbox/world/Hawaii group organizes to buy back ancestral land from billionaire.md",
+    "personal/music/From Kate Bush to Pentangle to T-Rex, the late Danny Thompson’s musical brilliance knew no bounds.md",
+    "personal/Bungee cords are an oddball hack for traveling – here are 10 clever ways to use them.md",
+    "inbox/thought/Missing 1.5C climate target is a moral failure, UN chief tells Cop30 summit.md",
+    "personal/health/If you want your 70s to feel fulfilling and joyful, psychology says to focus on these 6 daily choices.md",
+    "tech/Quick Insert Is Your Chromebook's Hidden Superpower.md",
+    "personal/health/I tried this calming seven-minute beginner&rsquo;s Tai Chi flow and I&rsquo;m going to do it whenever I feel stressed.md",
+    "inbox/thought/Here, Now, and Always - MNMF.md",
+    "inbox/thought/Opinion  Did Women Ruin the Workplace.md",
+    "inbox/thought/Opinion  A Lesson From the German Resistance That Applies Today.md",
+    "inbox/world/Poland ‘closer to conflict than at any time since WW2’ as UK forces are asked to bolster Nato air defences – live.md",
+    "inbox/diy/Precision Garage Door Service Clearwater.md",
+    "contemporary-events/The US is at a dangerous crossroads after Charlie Kirk shooting.md",
+    "contemporary-events/Trump’s Power Paradox.md",
+    "contemporary-events",
+    "inbox/history/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md",
+    "inbox/thought/How Amazon turned our capitalist era of free markets into the age of technofeudalism  Yanis Varoufakis.md",
+    "contemporary-events/Article 2025-11-23 19-17-08.md",
+    "personal/‘Eating Indigenously’ award-winning chef celebrates Native American cuisine in new cookbook.md",
+    "inbox/thought/Africa’s forests transformed from carbon sink to carbon source, study finds.md",
+    "contemporary-events/The food stamp fight signals an era of unprecedented cruelty in America  Katrina vanden Heuvel.md",
+    "personal/reading-writing/‘A glimpse of genius’ what do unpublished stories found in Harper Lee’s apartment tell us about the To Kill a Mockingbird author.md",
+    "personal/music/These 3 Rock Songs Live and Die by Their Iconic Bass Line.md",
+    "inbox/world 1",
+    "tech/Untitled.base",
+    "personal/reading-writing",
+    "Untitled 1",
+    "ReadItLater Inbox/american_society",
     "inbox",
-    "personal/kitchen/How to Clean Blueberries With Baking Soda or Vinegar.md",
     "personal/music",
-    "personal/health/Glucose monitors can help tame blood sugar spikes and crashes  NPR.md",
-    "inbox/current/trump-corruption.md",
-    "home/dale/Repositories/zettelkasten/assets/2026.md",
-    "personal/note-taking/aggregating weekly notes.md",
-    "inbox/Inspect Index Visuals.md",
-    "personal/kitchen/soups I like.md",
-    "personal/Dad's geneaology for David.md",
-    "thought/Opinion  The Billionaires Have Gone Full Louis XV - The New York Times.md",
-    "personal/kitchen/how-to-season-a-cast-iron-pan.md",
     "personal/diy",
     "archive/template-old",
-    "personal/kitchen/Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
-    "personal/kitchen/Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3",
-    "personal/kitchen",
-    "church",
     "Clippings/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
     "assets/stop-sign.png",
-    "Clippers",
-    "advent_4_draft_1.md~",
     "printable-stop-sign.png",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
