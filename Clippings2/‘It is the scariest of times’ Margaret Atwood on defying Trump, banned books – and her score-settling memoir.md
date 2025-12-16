@@ -1,13 +1,13 @@
 ---
-title: "Margaret Atwood Leans Into Her Dark Side in a New Memoir"
-source: "https://www.nytimes.com/2025/11/03/books/review/margaret-atwood-book-of-lives.html"
+title: Margaret Atwood Leans Into Her Dark Side in a New Memoir
+source: https://www.nytimes.com/2025/11/03/books/review/margaret-atwood-book-of-lives.html
 author:
   - "[[By Dwight Garner]]"
 published: 2025-11-03
 created: 2025-11-09
 description: "“Book of Lives” offers two distinct versions of the esteemed novelist: “Peggy Nature” and “the brooder.”"
 tags:
-  - "clippings"
+  - amerika
 ---
 **BOOK OF LIVES: A Memoir of Sorts**, by Margaret Atwood
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-15.md",
+                "file": "Clippings3/📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-15"
+              "title": "📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "christmas_gifts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#clippings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,12 +118,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -173,7 +172,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -238,15 +237,17 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0cb3a870789b33a0",
+  "active": "6f046a4203839886",
   "lastOpenFiles": [
+    "Clippings2/‘It is the scariest of times’ Margaret Atwood on defying Trump, banned books – and her score-settling memoir.md",
     "Journal/Daily/2025-12-15.md",
-    "Clippings3/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
     "christmas_gifts.md",
     "christmas_gifts.md~",
+    "Clippings3/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
     "Clippings3/In the Wake of the Edmund Fitzgerald.md",
     "Clippings",
     "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
@@ -271,7 +272,6 @@
     "personal/health/What Happens to Your Blood Sugar When You Eat Sweet Potatoes.md",
     "personal/health/These 20 Snacks Can Help With Weight Loss.md",
     "personal/health/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
-    "church/Preaching/She Modeled Her Whole Life on Godly Purity. Then She Woke Up..md",
     "contemporary-events",
     "inbox/world 1",
     "tech/Untitled.base",

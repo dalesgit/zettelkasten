@@ -1,13 +1,13 @@
 ---
-title: "📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com"
-source: "https://mail.google.com/mail/u/0/#inbox/FMfcgzQcqlFplGHSpDFvWvJRDWSbcZDw"
+title: 📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com
+source: https://mail.google.com/mail/u/0/#inbox/FMfcgzQcqlFplGHSpDFvWvJRDWSbcZDw
 author:
   - "[[Gmail]]"
 published:
 created: 2025-11-20
-description: "Google's approach to email"
+description: Google's approach to email
 tags:
-  - "clippings"
+  - American_revolution
 ---
 ---
 created: 2025-11-20T10:05:06 (UTC -05:00)
