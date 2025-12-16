@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-12-15"
             }
+          },
+          {
+            "id": "0cb3a870789b33a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "christmas_gifts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "christmas_gifts"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +238,10 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be2c7a5371db17ec",
+  "active": "0cb3a870789b33a0",
   "lastOpenFiles": [
     "Journal/Daily/2025-12-15.md",
     "Clippings3/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
