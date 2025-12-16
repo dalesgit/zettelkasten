@@ -8,6 +8,7 @@ created: 2025-11-11
 description: From slow mornings to unspoken trust, these 10 Scandinavian rituals show that true happiness often hides in life’s calmest moments.
 tags:
   - habits
+  - mental-health
 ---
 From slow mornings to unspoken trust, these 10 Scandinavian rituals show that true happiness often hides in life’s calmest moments.
 

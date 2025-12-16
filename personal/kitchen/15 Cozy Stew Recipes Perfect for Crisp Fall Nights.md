@@ -1,13 +1,13 @@
 ---
-title: "15 Cozy Stew Recipes Perfect for Crisp Fall Nights"
-source: "https://www.allrecipes.com/hearty-fall-stews-11831147"
+title: 15 Cozy Stew Recipes Perfect for Crisp Fall Nights
+source: https://www.allrecipes.com/hearty-fall-stews-11831147
 author:
   - "[[Carl Hanson]]"
 published: 2025-10-17
 created: 2025-10-18
-description: "These cozy, top-rated stew recipes are perfect for fall. They're packed with hearty ingredients, rich flavor, and slow-simmered comfort you’ll crave all season."
+description: These cozy, top-rated stew recipes are perfect for fall. They're packed with hearty ingredients, rich flavor, and slow-simmered comfort you’ll crave all season.
 tags:
-  - "clippings"
+  - recipes
 ---
 Credit:
 

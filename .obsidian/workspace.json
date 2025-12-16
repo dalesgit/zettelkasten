@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
+                "file": "archive/Daily notes/2025-08-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10 Scandinavian habits that quietly explain why Nordic happiness always scores so high"
+              "title": "2025-08-06"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#clippings",
+                "query": "tag:#poetry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,8 +217,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0cb3a870789b33a0",
+  "active": "6f046a4203839886",
   "lastOpenFiles": [
+    "personal/kitchen/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
+    "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
     "personal/health/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
     "christmas_gifts.md",
     "church/2025 Advent and Christmas Resources.md",
@@ -233,7 +235,6 @@
     "Clippings3/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
     "Clippings3/In the Wake of the Edmund Fitzgerald.md",
     "Clippings",
-    "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
     "tech/Obsidian as a Second Brain.md",
     "tech/Obsidian Guide Daily, Weekly, Monthly and Yearly notes.md",
     "tech/I started using these 5 underrated Obsidian plugins and I'm never going back.md",
