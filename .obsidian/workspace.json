@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe81cdcb4e9b8565",
+        "id": "d594914567e25414",
         "type": "tabs",
         "children": [
           {
-            "id": "1f0c4b52942362b4",
+            "id": "be2c7a5371db17ec",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -177,12 +178,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +202,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1f0c4b52942362b4",
+  "active": "be2c7a5371db17ec",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-15.md",
+    "Clippings3/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
+    "christmas_gifts.md",
+    "christmas_gifts.md~",
     "Clippings3/In the Wake of the Edmund Fitzgerald.md",
     "Clippings",
     "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
@@ -229,9 +233,6 @@
     "personal/health/These 20 Snacks Can Help With Weight Loss.md",
     "personal/health/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
     "church/Preaching/She Modeled Her Whole Life on Godly Purity. Then She Woke Up..md",
-    "church/Preaching/Pope Leo hits out at critics of global warming.md",
-    "Clippings2/Origins of the 'Ostrich Effect' Researchers pinpoint the age we start avoiding information—even when it's helpful.md",
-    "personal/I was born and raised in Hawaii. I don't advise moving here, but here's what you need to know if you insist on trying..md",
     "contemporary-events",
     "inbox/world 1",
     "tech/Untitled.base",
@@ -239,7 +240,6 @@
     "Untitled 1",
     "ReadItLater Inbox/american_society",
     "inbox",
-    "personal/music",
     "Clippings3/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
     "assets/stop-sign.png",
     "printable-stop-sign.png",
