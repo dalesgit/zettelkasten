@@ -1,13 +1,13 @@
 ---
-title: "5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken"
-source: "https://www.allrecipes.com/easy-costco-rotisserie-chicken-dinners-11816348"
+title: 5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken
+source: https://www.allrecipes.com/easy-costco-rotisserie-chicken-dinners-11816348
 author:
   - "[[Courtney Kassel]]"
 published: 2025-09-25
 created: 2025-09-26
-description: "From a viral creamy casserole to comforting soup and even a food court copycat, these quick and easy dinners all start with the same $5 Costco rotisserie chicken, but transform it into so much more."
+description: From a viral creamy casserole to comforting soup and even a food court copycat, these quick and easy dinners all start with the same $5 Costco rotisserie chicken, but transform it into so much more.
 tags:
-  - "clippings"
+  - recipes
 ---
 ![Marry Me Chicken Soup being served out of a Dutch oven. ](https://www.allrecipes.com/thmb/Pxa2D4r5timEGPNcTWX1KRSacy8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8421914-Marry-Me-Chicken-Soup-4x3-179-843abc8af99247dcadb3f79a91681d49.jpg)
 

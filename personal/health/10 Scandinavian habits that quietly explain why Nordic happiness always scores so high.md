@@ -1,13 +1,13 @@
 ---
-title: "10 Scandinavian habits that quietly explain why Nordic happiness always scores so high"
-source: "https://vegoutmag.com/lifestyle/d-t-10-scandinavian-habits-that-quietly-explain-why-nordic-happiness-always-scores-so-high/"
+title: 10 Scandinavian habits that quietly explain why Nordic happiness always scores so high
+source: https://vegoutmag.com/lifestyle/d-t-10-scandinavian-habits-that-quietly-explain-why-nordic-happiness-always-scores-so-high/
 author:
   - "[[VegOut]]"
 published: 2025-11-11
 created: 2025-11-11
-description: "From slow mornings to unspoken trust, these 10 Scandinavian rituals show that true happiness often hides in life’s calmest moments."
+description: From slow mornings to unspoken trust, these 10 Scandinavian rituals show that true happiness often hides in life’s calmest moments.
 tags:
-  - "clippings"
+  - habits
 ---
 From slow mornings to unspoken trust, these 10 Scandinavian rituals show that true happiness often hides in life’s calmest moments.
 

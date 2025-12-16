@@ -1,13 +1,16 @@
 ---
-title: "2025 Advent and Christmas Resources"
-source: "https://www.episcopalchurch.org/dfms/2025-advent-and-christmas-resources/"
+id: 2025 Advent and Christmas Resources
+aliases: []
+tags:
+  - Advent
+  - Christmas
 author:
   - "[[The Episcopal Church]]"
-published: 2025-10-30
 created: 2025-11-28
-description: "In Luke’s telling of the Christmas story, startled shepherds are the first to hear that good news of great joy given to all people. Since then, through generations and generations, across the world, we keep sharing this Good News, receiving signs from God that, in the coming of Jesus Christ, we have received the greatest […]"
-tags:
-  - "clippings"
+description: In Luke’s telling of the Christmas story, startled shepherds are the first to hear that good news of great joy given to all people. Since then, through generations and generations, across the world, we keep sharing this Good News, receiving signs from God that, in the coming of Jesus Christ, we have received the greatest […]
+published: 2025-10-30
+source: https://www.episcopalchurch.org/dfms/2025-advent-and-christmas-resources/
+title: 2025 Advent and Christmas Resources
 ---
 ## 2025 Advent and Christmas Resources
 

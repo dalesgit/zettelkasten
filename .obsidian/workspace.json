@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be2c7a5371db17ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings3/📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com"
-            }
-          },
-          {
             "id": "0cb3a870789b33a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "christmas_gifts.md",
+                "file": "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "christmas_gifts"
+              "title": "10 Scandinavian habits that quietly explain why Nordic happiness always scores so high"
             }
           }
         ]
@@ -241,11 +217,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6f046a4203839886",
+  "active": "0cb3a870789b33a0",
   "lastOpenFiles": [
+    "personal/health/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
+    "christmas_gifts.md",
+    "church/2025 Advent and Christmas Resources.md",
+    "church/2025 Advent and Christmas Resources.md~",
+    "personal/kitchen/5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken.md",
+    "Clippings3/3 massive changes you'll see as the climate careens toward tipping points.md",
+    "Clippings3/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
+    "Clippings3/📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com.md",
     "Clippings2/‘It is the scariest of times’ Margaret Atwood on defying Trump, banned books – and her score-settling memoir.md",
     "Journal/Daily/2025-12-15.md",
-    "christmas_gifts.md",
     "christmas_gifts.md~",
     "Clippings3/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
     "Clippings3/In the Wake of the Edmund Fitzgerald.md",
@@ -257,28 +240,20 @@
     "church/spiritual/deep sadness - dhath12@gmail.com.md",
     "Clippings3/The wisdom of the elders, the greed of the rich.md",
     "church/spiritual/Text of the Mourner's Kaddish.md",
-    "church/2025 Advent and Christmas Resources.md",
     "church/spiritual/A Practice of Thanksgiving.md",
     "tech/Gmail’s new tab keeps all your order delivery and purchase emails in one tidy place 1.md",
     "inbox/courts/Appeals court judges publicly admonish Supreme Court justices ‘We’re out here flailing’.md",
     "tech/My new favorite note-taking app for MacOS and Linux checks this crucial box - and it's free 1.md",
     "personal/health/This Habit Is Quietly Ruining Your Relationships.md",
     "inbox/world/The Last Jew in Vinnitsa.pdf",
-    "personal/health/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
     "tech/Stop opening your browser for these 8 tasks, the terminal does them better.md",
     "personal/music/8 nostalgic songs that instantly transport boomers back to their best memories – VegOut.md",
-    "personal/health/I spent years in Copenhagen – these 9 Danish habits explain why they rank among the world’s happiest people – VegOut.md",
-    "inbox/thought/How many glaciers in the Arctic can be saved from extinction.md",
-    "personal/health/What Happens to Your Blood Sugar When You Eat Sweet Potatoes.md",
-    "personal/health/These 20 Snacks Can Help With Weight Loss.md",
-    "personal/health/This $45 Item Can Actually Make Walking Easier And Boost Heart Health.md",
     "contemporary-events",
     "inbox/world 1",
     "tech/Untitled.base",
     "personal/reading-writing",
     "Untitled 1",
     "ReadItLater Inbox/american_society",
-    "inbox",
     "Clippings3/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
     "assets/stop-sign.png",
     "printable-stop-sign.png",

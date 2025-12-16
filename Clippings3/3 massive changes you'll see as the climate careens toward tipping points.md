@@ -1,13 +1,14 @@
 ---
-title: "3 massive changes you'll see as the climate careens toward tipping points"
-source: "https://www.npr.org/2025/11/19/nx-s1-5593087/climate-tipping-points-cop30-brazil-coral-glaciers-carbon"
+title: 3 massive changes you'll see as the climate careens toward tipping points
+source: https://www.npr.org/2025/11/19/nx-s1-5593087/climate-tipping-points-cop30-brazil-coral-glaciers-carbon
 author:
   - "[[Rebecca Hersher]]"
 published: 2025-11-19
 created: 2025-11-19
-description: "Scientists are increasingly concerned that the planet is headed for massive, irreversible changes due to global warming. In some cases, those changes have already begun."
+description: Scientists are increasingly concerned that the planet is headed for massive, irreversible changes due to global warming. In some cases, those changes have already begun.
 tags:
-  - "clippings"
+  - environment
+  - climate-change
 ---
 <audio xmlns="http://www.w3.org/1999/xhtml"></audio>
 

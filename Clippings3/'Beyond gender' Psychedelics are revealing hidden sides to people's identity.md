@@ -1,13 +1,14 @@
 ---
 title: "'Beyond gender': Psychedelics are revealing hidden sides to people's identity"
-source: "https://www.bbc.com/future/article/20251211-psychedelics-are-altering-how-people-see-their-own-gender-and-sexuality"
+source: https://www.bbc.com/future/article/20251211-psychedelics-are-altering-how-people-see-their-own-gender-and-sexuality
 author:
   - "[[Rachel Nuwer]]"
 published: 2025-12-12
 created: 2025-12-12
-description: "There is growing evidence that mind-altering drugs can be used to help people explore aspects about themselves they may not have realised."
+description: There is growing evidence that mind-altering drugs can be used to help people explore aspects about themselves they may not have realised.
 tags:
-  - "clippings"
+  - psychedelics
+  - health
 ---
 ![Serenity Strull/ Getty Images A man and woman looking away from each other, with splotches of colour emanating from their heads against an orange background (Credit: Serenity Strull/ Getty Images)](https://ichef.bbci.co.uk/images/ic/160xn/p0mmzk3s.jpg.webp)
 

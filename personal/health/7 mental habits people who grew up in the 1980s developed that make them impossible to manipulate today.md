@@ -1,13 +1,15 @@
 ---
-title: "7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today"
-source: "https://vegoutmag.com/lifestyle/r-lc-7-mental-habits-people-who-grew-up-in-the-1980s-developed-that-make-them-impossible-to-manipulate-today/"
+title: 7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today
+source: https://vegoutmag.com/lifestyle/r-lc-7-mental-habits-people-who-grew-up-in-the-1980s-developed-that-make-them-impossible-to-manipulate-today/
 author:
   - "[[VegOut]]"
 published: 2025-12-07
 created: 2025-12-07
-description: "A unique decade accidentally created an entire generation with built-in manipulation detectors that still work perfectly today."
+description: A unique decade accidentally created an entire generation with built-in manipulation detectors that still work perfectly today.
 tags:
-  - "clippings"
+  - health
+  - habits
+  - mental-health
 ---
 A unique decade accidentally created an entire generation with built-in manipulation detectors that still work perfectly today.
 
