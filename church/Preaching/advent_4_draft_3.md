@@ -94,9 +94,15 @@ Consistently when God spoke in the past to his messengers, the angels and the pr
 
 ## The word of the Lord
 
-The sign for me in the last few weeks came in the form of a Christmas carol. It was recommended by a friend and colleague; so I think it's accurate to say that that friend was an "**angel**" – a **messenger**. The carol is many centuries old and it comes associated with surrounding catastrophes not unlike those we face today. The Black Death. The Protestant Reformation. An old library in England burning the manuscripts stored there. The bombing of England in the second world war. 
+The sign for me in the last few weeks came in the form of a Christmas carol. It was recommended by a friend and colleague; so I think it's accurate to say that that friend was an "**angel**" – a **messenger** is the meaning of the word Greek word that is translated "angel." The carol is many centuries old and it comes associated with surrounding catastrophes not unlike those we face today. 
 
-In particular the town of Coventry. As the town was withstanding the heaviest bombardment of the war, throughout the dark night, the people received hope from the bells of their cathedral that kept ringing into the morning light. Only then was it discovered that the only thing left standing was the bell tower. All the rest of the Cathedral lay in ruins. The name of the carol: **The Coventry Carol**. 
+- The Black Death.
+- The Protestant Reformation.
+- An old library in England burning the manuscripts stored there.
+- The bombing of England in the second world war.
+- A request for God's forgiveness, for friend and foe alike.
+
+The town is Coventry, England. As the town was withstanding the heaviest bombardment of the war, throughout the dark night, the people received hope from the bells of their cathedral that kept ringing into the morning light. Only then was it discovered that the only thing left standing was the bell tower. All the rest of the Cathedral lay in ruins. The name of the carol: **The Coventry Carol**. 
 
 It's in our hymnal. #247. 
 
@@ -110,5 +116,7 @@ But here's the thing. It's not a song about the baby Jesus in the manger. It's a
 
 And that's where God's message comes through for me. I can hear God's words, "Don't be afraid", when they are accompanied by the recognition that there is catastrophe all around. Life is about birth, followed by a life-time, followed by death. The "Don't be afraid" covers all of that. Christmas is above all about the Incarnation. But the Incarnation makes no sense without the death and resurrection of Jesus -- **Passion & Resurrection**.
 
-The sign of the times for me is along the lines of: "Don't be afraid. I am with you. I am with you (**Emmanuel**) in the pain and the suffering as well as in the excitement and hope of new life." I, the Lord, am with you through it all. No need for fear.
+The sign of the times for me is along the lines of: "Don't be afraid. I am with you. I am with you (**Emmanuel**) in the pain and the suffering as well as in the excitement and hope of new life." 
+
+> I, the Lord, am with you through it all. No need for fear.
 
