@@ -34,9 +34,9 @@ The psalmist repeats as if in the refrain of a song: show us the light of your c
 
 We say to God, "Show us your face." But we never really know what that face is going to look like. It may well come in the form of a cloud. One day at a weekday Eucharist in Hawaii, God showed up in the form of a bird. A woman came forward for the laying on of hands, and as I laid hands upon her head, a bird flew out of her abundant hair.  Not much to do but to cross myself and to acknowledge that God had manifest himself in my presence. 
 
-In Matthew's account of the birth of Jesus God appears in the form of a dream to Joseph. "Do not be afraid" was the message. It was the message given to Mary by an Angel in the gospel of Luke. God often gives the message: **do not be afraid, it will be okay**. 
+In Matthew's account of the birth of Jesus God appears in the form of a dream to Joseph. "Do not be afraid" was the message. It was the message given to Mary by an Angel in the Gospel of Luke. God often gives the message: **do not be afraid, it will be okay**. 
 
-A thousand years later God appeared to a woman living alone so that she could spend her days with God. Her name was Julian. Around her there was death and dying and chaos. It was the time of the black death in Europe. And then she was struck with an illness that seemed as if it would kill her. Instead, God appeared to her over and over again. She spent the rest of her days writing down all the messages God gave her. She is most famous today for the short phrase that was among those messages:  "All will be well and all manner of things shall be well."
+A thousand years later God appeared to a woman living alone so that she could spend her days with God. Her name was Julian. Around her there was death and dying and chaos. It was the time of the **Black Death** in Europe. And then she was struck with an illness that seemed as if it would kill her. Instead, God appeared to her over and over again. She spent the rest of her days writing down all the messages God gave her. She is most famous today for the short phrase that was among those messages:  "All will be well and all manner of things shall be well."
 
 ## Then and now
 
@@ -50,9 +50,9 @@ A thousand years later God appeared to a woman living alone so that she could sp
 
 Signs are particularly associated with human beings. We are who we are in some deep way because of signs, our use of signs. Signs are powerful.  Consider this sign:  
 
-![](printable-stop-sign.png)
+![](stop-sign.png)
 
-Such a sign is capable of bringing to a halt a many-tonned truck -- or in the Panama Canal -- even a ship. We find meaning in that sign even without the letters. Constantine saw a sign in the sky in the form of a cross. It was the 4th century and the history of the next 16 centuries was deeply changed and impacted by that sign and by the fact that that man at that time recognized it. 
+Such a sign is capable of bringing to a halt a many-tonned truck -- or in the Panama Canal -- even a ship. We find meaning in that sign even without the letters. Constantine saw a sign in the sky in the form of a cross. It was the 4<sup>th</sup> century and the history of the next 16 centuries was deeply changed and impacted by that sign and by the fact that that man at that time recognized it. 
 
 ## Meaning
 
@@ -60,13 +60,11 @@ Signs have  power because they carry meaning. The octagon carries with it the me
 
 Where does the meaning come from? Clearly in the cases we're looking at today, the meaning comes from God. "Show us the light of your countenance, o Lord." In the Sacred Heart Chapel, big enough to be holding a wedding at the main altar while at the same time at the back I was having a private prayer time, in that place at that time God showed up. God might well have been at the wedding taking place way up in front of me, I don't know. Actually I assume God was there too. But I knew that God had spoken to me.
 
-Signs can be strange like a burning bush or as common as a cloud in the sky. God is perfectly at home in either place. If we have eyes to see and ears to hear we may find God in places as common as a butterfly in the Butterfly Garden or in the most unexpected places. 
+Signs can be strange like a burning bush or as common as a cloud in the sky. God is perfectly at home in either place. If we have eyes to see and ears to hear, we may find God in places as common as a butterfly in the Butterfly Garden or in the most unexpected places, like the immigrant hero at the Australian Hannukah massacre. 
 
 ## Signs of the times
 
-We live in a time when it is customary to say, "You've got your signs and I've not mine. You have your meaning and I have mine."
-
-It turns out that's not such a new thought. For example in 1 Kings 18 (9<sup>th</sup> BCE).
+We live in a time when it is customary to say, "You've got your signs and I've got mine. You have your meaning and I have mine." It turns out that's not such a new thought, but is quite ancient. In 1 Kings 18 (9<sup>th</sup> BCE).
 
 - a country was divided between South and North
 - There were bitter feuds between those who thought themselves to be liberals and those who were convinced that they were the true conservatives
@@ -74,21 +72,43 @@ It turns out that's not such a new thought. For example in 1 Kings 18 (9<sup>th<
 - ½ the population thought that the solution to the drought was to call on the God **Baal**.
 - ½ the population thought that the solution was to sacrifice to the Goddess **Asherah**.
 
-It turns out, as you may have guessed, that neither of those gods were relevant. The lone voice, his name was **Elijah**, understood the meaning of the signs of the times and he called on the God he knew, **Yahweh**. At the time Jesus emerged on the scene, many in the land of Israel expected **Elijah** to appear. 
+It turns out, as you may have guessed, that neither of those gods were relevant. The lone voice, his name was **Elijah**, understood the meaning of the signs of the times and he called on the God he knew, **Yahweh**. Centuries later, at the time of Jesus, wondered if he might be the long-expected **Elijah**. 
 
 From the 1960's onward, the Catholic Church has consistently understood that "the church should listen to, and learn from, the world around it", which is to say  **listen to the signs of the times.**  
 
  > The joys and hopes, the grief and anguish of the people of our time, especially of those who are poor or afflicted, are the joys and hopes, the grief and anguish of the followers of Christ as well.
 
-In the time of Elijah, the vast percentage of the population thought they knew what the signs meant, but they were all wrong. It was the lone voice of Elijah who knew that God was telling the people to open their eyes and ears. 
-
-We should be paying attention as if we were Elijah.
+There are Elijah's in our midst; we should listen to them.
 
 ## The  signs we crave
 
-Signs of our times include: 
+As we look around the signs of our times include: 
 
-- A tyrant who wants to be a latter-day Ivan the Terrible may be a sign that millions of people need to readjust their thinking. 
-- Bizarre weather might be a sign waiting to be understood.
-- A person who arrives on our shores who doesn't look like us or act like us but seeks safety and the assurance that things will be okay. 
+- A tyrant who wants to be a latter-day Ivan the Terrible. 
+- Bizarre weather that is far outside of the norm. 
+- Immigrants who are treated as if they are less than human and citizens are apprehended by masked agents of the state. 
+
+I must tell you that when I look at the signs of our times I feel deeply troubled. It feels like the end of the world I have known all my life. I sense an approach of apocalyptic scale. But I know that such signs could apply to many ages, both then and now. When I look and listen with the eyes and ears of Elijah, what is the message?
+
+Consistently when God spoke in the past to his messengers, the angels and the prophets, one thing God said was, "Don't be afraid." He said it to Moses, to Samuel, to Hezekiah, to Ruth, to Jeremiah, to Mary, to Joseph. "Don't be afraid." The message was not an elegant or easy, "Everything will be all right." It was, "Don't be afraid." God has this.
+
+## The word of the Lord
+
+The sign for me in the last few weeks came in the form of a Christmas carol. It was recommended by a friend and colleague; so I think it's accurate to say that that friend was an "**angel**" – a **messenger**. The carol is many centuries old and it comes associated with surrounding catastrophes not unlike those we face today. The Black Death. The Protestant Reformation. An old library in England burning the manuscripts stored there. The bombing of England in the second world war. 
+
+In particular the town of Coventry. As the town was withstanding the heaviest bombardment of the war, throughout the dark night, the people received hope from the bells of their cathedral that kept ringing into the morning light. Only then was it discovered that the only thing left standing was the bell tower. All the rest of the Cathedral lay in ruins. The name of the carol: **The Coventry Carol**. 
+
+It's in our hymnal. #247. 
+
+> Lully, lullay, thou little tiny child,\
+> Bye bye, lully, lullay.\
+< Thou little tiny child,\
+> Bye bye, lully, lullay.
+
+
+But here's the thing. It's not a song about the baby Jesus in the manger. It's a haunting lullaby-like song about the mothers and their babies who were killed by Herod in the wake of the message of the magi. The event is described in the Gospel of Matthew and nowhere else. It appears on the church's calendar on the "Feast of the Holy Innocents" on Dec. 28, but is avoided in the lessons of Christmas time. It's right there in the Gospel of Matthew: ch. 2:17-18. It's a part of the Christmas story that we tend to avoid.
+
+And that's where God's message comes through for me. I can hear God's words, "Don't be afraid", when they are accompanied by the recognition that there is catastrophe all around. Life is about birth, followed by a life-time, followed by death. The "Don't be afraid" covers all of that. Christmas is above all about the Incarnation. But the Incarnation makes no sense without the death and resurrection of Jesus -- **Passion & Resurrection**.
+
+The sign of the times for me is along the lines of: "Don't be afraid. I am with you. I am with you (**Emmanuel**) in the pain and the suffering as well as in the excitement and hope of new life." I, the Lord, am with you through it all. No need for fear.
 
