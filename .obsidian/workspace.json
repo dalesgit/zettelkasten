@@ -11,9 +11,24 @@
             "id": "46890754c235617d",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-12-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-17"
             }
           }
         ]
@@ -205,6 +220,8 @@
   },
   "active": "46890754c235617d",
   "lastOpenFiles": [
+    "Clippings/Opinion  Our Petty, Hollow, Squalid Ogre in Chief - The New York Times.md",
+    "Journal/Daily/2025-12-17.md",
     "Journal/Daily/2025-12-16.md",
     "Clippings/The art of intellectual solitude 9 reasons why the smartest people often prefer being alone – VegOut.md",
     "archive/Daily notes/2025-08-06.md",
@@ -232,8 +249,6 @@
     "church/spiritual/Text of the Mourner's Kaddish.md",
     "church/spiritual/A Practice of Thanksgiving.md",
     "tech/Gmail’s new tab keeps all your order delivery and purchase emails in one tidy place 1.md",
-    "inbox/courts/Appeals court judges publicly admonish Supreme Court justices ‘We’re out here flailing’.md",
-    "tech/My new favorite note-taking app for MacOS and Linux checks this crucial box - and it's free 1.md",
     "inbox/world/The Last Jew in Vinnitsa.pdf",
     "contemporary-events",
     "inbox/world 1",
