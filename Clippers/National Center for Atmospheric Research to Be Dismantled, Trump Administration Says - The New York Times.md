@@ -1,9 +1,15 @@
+---
+id: National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times
+aliases: []
+tags: []
+---
 ## Trump Administration Plans to Break Up Premier Weather and Climate Research Center
 
 Russell Vought, the White House budget director, called the laboratory a source of “climate alarmism.”
 
 ![A complex of brown buildings built into the mountains. ](https://static01.nyt.com/images/2025/12/17/multimedia/17cli-trump-shuttered-lab-01-kpbz/17cli-trump-shuttered-lab-01-kpbz-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
+![Bolder photo](https://static01.nyt.com/images/2025/12/17/multimedia/17cli-trump-shuttered-lab-01-kpbz/17cli-trump-shuttered-lab-01-kpbz-superJumbo.jpg?quality=75&auto=webpo)
 National Center for Atmospheric Research in Boulder, Colo., is responsible for many of the biggest scientific advances in humanity’s understanding of weather and climate since its founding in 1960.Credit...Caine Delacy for The New York Times
 
 Dec. 17, 2025Updated 4:31 p.m. ET
