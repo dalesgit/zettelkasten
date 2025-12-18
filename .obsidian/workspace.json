@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78e0a8850221ea27",
+        "id": "6af4f4feac8715f8",
         "type": "tabs",
         "children": [
           {
-            "id": "ab1e1b8155ede3e7",
+            "id": "b950b161473444c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-12-18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-18"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -218,10 +203,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ab1e1b8155ede3e7",
+  "active": "b950b161473444c1",
   "lastOpenFiles": [
-    "Clippings/Exploring Hawaii’s Big Island on a Budget - The New York Times.md",
+    "Clippings/Opinion  What Is an American - The New York Times.md",
     "Journal/Daily/2025-12-18.md",
+    "Clippings/Exploring Hawaii’s Big Island on a Budget - The New York Times.md",
     "Clippings/‘Pretty birds and silly moos’ the women behind the Sex Discrimination Act  Feminism  The Guardian.md",
     "christmas_gifts.md",
     "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md",
@@ -250,7 +236,6 @@
     "Clippings3/In the Wake of the Edmund Fitzgerald.md",
     "tech/Obsidian as a Second Brain.md",
     "tech/Obsidian Guide Daily, Weekly, Monthly and Yearly notes.md",
-    "tech/I started using these 5 underrated Obsidian plugins and I'm never going back.md",
     "inbox/world/The Last Jew in Vinnitsa.pdf",
     "contemporary-events",
     "inbox/world 1",
