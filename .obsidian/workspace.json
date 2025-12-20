@@ -11,9 +11,24 @@
             "id": "b950b161473444c1",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-12-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-19"
             }
           }
         ]
@@ -199,11 +214,14 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b950b161473444c1",
   "lastOpenFiles": [
+    "Clippings/Opinion  Why Tolkien’s ‘The Lord of the Rings’ Endures - The New York Times.md",
+    "Journal/Daily/2025-12-19.md",
     "Clippings/Opinion  What Is an American - The New York Times.md",
     "Journal/Daily/2025-12-18.md",
     "Clippings/Exploring Hawaii’s Big Island on a Budget - The New York Times.md",
@@ -233,8 +251,6 @@
     "christmas_gifts.md~",
     "Clippings3/How big tech is creating its own friendly media bubble to ‘win the narrative battle online’.md",
     "Clippings3/In the Wake of the Edmund Fitzgerald.md",
-    "tech/Obsidian as a Second Brain.md",
-    "tech/Obsidian Guide Daily, Weekly, Monthly and Yearly notes.md",
     "inbox/world/The Last Jew in Vinnitsa.pdf",
     "contemporary-events",
     "inbox/world 1",
