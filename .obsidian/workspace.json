@@ -199,8 +199,7 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b950b161473444c1",
