@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/poem-12-20-25.md",
+                "file": "Journal/Daily/2025-12-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "poem-12-20-25"
+              "title": "2025-12-21"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           },
           {
@@ -178,8 +178,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -188,12 +188,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "45099370086b2abd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -202,7 +212,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "notebook-navigator:Notebook Navigator": false,
       "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
@@ -212,17 +221,19 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "periodic-notes:Open today": false,
+      "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b950b161473444c1",
   "lastOpenFiles": [
+    "Poetry/poem-12-20-25.md",
+    "Journal/Daily/2025-12-21.md",
     "Poetry/poem-12-20-25.md~",
     "Journal/Daily/2025-12-20.md",
-    "Poetry/poem-12-20-25.md",
     "Journal/Daily/2025-12-19.md",
     "Clippings/Opinion  Why Tolkien’s ‘The Lord of the Rings’ Endures - The New York Times.md",
     "Clippings/Opinion  What Is an American - The New York Times.md",
@@ -255,7 +266,6 @@
     "contemporary-events",
     "inbox/world 1",
     "tech/Untitled.base",
-    "personal/reading-writing",
     "Clippings3/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
     "assets/stop-sign.png",
     "printable-stop-sign.png",
