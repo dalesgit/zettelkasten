@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-21.md",
+                "file": "Poetry/poetry-12-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-21"
+              "title": "poetry-12-21"
             }
           }
         ]
@@ -221,7 +221,6 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "periodic-notes:Open today": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
@@ -230,8 +229,9 @@
   },
   "active": "b950b161473444c1",
   "lastOpenFiles": [
-    "Poetry/poem-12-20-25.md",
     "Journal/Daily/2025-12-21.md",
+    "Poetry/poetry-12-21.md",
+    "Poetry/poem-12-20-25.md",
     "Poetry/poem-12-20-25.md~",
     "Journal/Daily/2025-12-20.md",
     "Journal/Daily/2025-12-19.md",
@@ -260,7 +260,6 @@
     "Clippings3/3 massive changes you'll see as the climate careens toward tipping points.md",
     "Clippings3/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
     "Clippings3/📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com.md",
-    "Clippings2/‘It is the scariest of times’ Margaret Atwood on defying Trump, banned books – and her score-settling memoir.md",
     "christmas_gifts.md~",
     "inbox/world/The Last Jew in Vinnitsa.pdf",
     "contemporary-events",
