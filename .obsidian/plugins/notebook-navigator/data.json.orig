@@ -73,12 +73,12 @@
   "showTags": true,
   "showTagIcons": true,
   "showAllTagsFolder": true,
-  "showUntagged": true,
+  "showUntagged": false,
   "tagSortOrder": "alpha-asc",
   "keepEmptyTagsProperty": false,
   "defaultFolderSort": "modified-desc",
   "revealFileOnListChanges": true,
-  "listPaneTitle": "list",
+  "listPaneTitle": "header",
   "noteGrouping": "date",
   "filterPinnedByFolder": false,
   "showPinnedGroupHeader": true,
@@ -287,9 +287,7 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {
-    "/": "created-desc"
-  },
+  "folderSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},
   "tagColors": {},
@@ -299,13 +297,9 @@
   "navigationSeparators": {},
   "recentColors": [],
   "lastShownVersion": "",
-  "latestKnownRelease": "1.9.2",
-  "lastAnnouncedRelease": "1.9.1",
-<<<<<<< HEAD
-  "lastReleaseCheckAt": 1766177256048,
-=======
-  "lastReleaseCheckAt": 1766315929040,
->>>>>>> 75d7a99997075d4177026bf5e18838eb20199c33
+  "latestKnownRelease": "",
+  "lastAnnouncedRelease": "",
+  "lastReleaseCheckAt": null,
   "rootFolderOrder": [],
   "rootTagOrder": []
 }
