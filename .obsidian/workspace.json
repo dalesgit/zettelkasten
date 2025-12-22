@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "christmas_gifts.md",
+                "file": "Journal/Daily/2025-12-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "christmas_gifts"
+              "title": "2025-12-22"
             }
           }
         ]
@@ -189,8 +189,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -204,12 +204,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,9 +229,9 @@
   },
   "active": "ac5c9288cd407fa7",
   "lastOpenFiles": [
+    "christmas_gifts.md",
     "Journal/Daily/2025-12-22.md",
     "CPG.md",
-    "christmas_gifts.md",
     "cpg-health-form-data-2025.md",
     "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
     "Poetry/poetry-12-21.md",
