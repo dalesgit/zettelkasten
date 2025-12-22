@@ -4,20 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8d2c54f4f6fffe6",
+        "id": "6af4f4feac8715f8",
         "type": "tabs",
         "children": [
           {
-            "id": "5d0249fb09b0ae30",
+            "id": "b950b161473444c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Journal/Daily/2025-12-13.md",
-=======
-                "file": "advent_4-sermon.md",
->>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
+                "file": "Poetry/poetry-12-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -32,66 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "2025-12-13"
-=======
-              "title": "advent_4-sermon"
-            }
-          },
-          {
-            "id": "844dde80ff26bb9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "advent_4_draft_1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "advent_4_draft_1"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "19514e5f7cd3783e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90bcf905bc6735bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "advent_4-lessons.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "advent_4-lessons"
->>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
+              "title": "poetry-12-21"
             }
           }
         ]
@@ -126,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#_/habits",
+                "query": "tag:#poetry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +80,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           },
           {
@@ -157,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +148,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,8 +178,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -252,21 +188,39 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+<<<<<<< HEAD
+            "id": "705b494bc5a04b29",
+=======
+            "id": "45099370086b2abd",
+>>>>>>> 75d7a99997075d4177026bf5e18838eb20199c33
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
+    "width": 448.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "notebook-navigator:Notebook Navigator": false,
+<<<<<<< HEAD
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false,
+=======
+>>>>>>> 75d7a99997075d4177026bf5e18838eb20199c33
       "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
@@ -276,68 +230,63 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
+<<<<<<< HEAD
       "periodic-notes:Open today": false
+=======
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false
+>>>>>>> 75d7a99997075d4177026bf5e18838eb20199c33
     }
   },
-  "active": "844dde80ff26bb9a",
+  "active": "b950b161473444c1",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Journal/Daily/2025-12-12.md",
-    "Journal/Daily/2025-12-13.md",
-    "sign.md",
-    "advent_4-sermon.md",
-    "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
-=======
-    "advent_4_draft_1.md~",
+    "Journal/Daily/2025-12-21.md",
+    "Poetry/poetry-12-21.md",
+    "Poetry/poem-12-20-25.md",
+    "Poetry/poem-12-20-25.md~",
+    "Journal/Daily/2025-12-20.md",
+    "Journal/Daily/2025-12-19.md",
+    "Clippings/Opinion  Why Tolkien’s ‘The Lord of the Rings’ Endures - The New York Times.md",
+    "Clippings/Opinion  What Is an American - The New York Times.md",
+    "Journal/Daily/2025-12-18.md",
+    "Clippings/Exploring Hawaii’s Big Island on a Budget - The New York Times.md",
+    "Clippings/‘Pretty birds and silly moos’ the women behind the Sex Discrimination Act  Feminism  The Guardian.md",
+    "christmas_gifts.md",
+    "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md",
+    "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md~",
+    "Journal/Daily/2025-12-17.md",
+    "Clippers",
+    "personal/Despair has a message for us. Gareth..md",
+    "Clippings/Opinion  Our Petty, Hollow, Squalid Ogre in Chief - The New York Times.md",
+    "Journal/Daily/2025-12-16.md",
+    "Clippings/The art of intellectual solitude 9 reasons why the smartest people often prefer being alone – VegOut.md",
+    "archive/Daily notes/2025-08-06.md",
+    "Clippings",
+    "personal/kitchen/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
+    "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
+    "personal/health/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
+    "church/2025 Advent and Christmas Resources.md",
+    "church/2025 Advent and Christmas Resources.md~",
+    "personal/kitchen/5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken.md",
+    "Clippings3/3 massive changes you'll see as the climate careens toward tipping points.md",
+    "Clippings3/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
+    "Clippings3/📢 It's Here! The American Revolution Classroom Collection is LIVE on PBS LearningMedia 🇺🇸 - dhath12@gmail.com.md",
+    "christmas_gifts.md~",
+    "inbox/world/The Last Jew in Vinnitsa.pdf",
+    "contemporary-events",
+    "inbox/world 1",
+    "tech/Untitled.base",
+    "Clippings3/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
+    "assets/stop-sign.png",
     "printable-stop-sign.png",
-    "advent_4_draft_1.md",
-    "advent_4-sermon.md",
->>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
-    "advent_4-lessons.md",
-    "Journal/Daily/2025-12-12.md",
-    "sign.md",
-    "Clippings/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
-    "Poetry/poetry-12-12.md",
-    "Poetry/poetry-12-12.md~",
-    "Clippings/Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire.md",
-    "Clippings/Stop opening your browser for these 8 tasks, the terminal does them better.md",
-    "Rebecca.md",
-    "Marc.md",
-    "Rebecca.md~",
-    "Clippings/Opinion  America Is Entering Its Third Civil War.md",
-    "Journal/Daily/2025-12-10.md",
-    "zen-browser-shortcuts.md",
-    "Poetry/anniversary_memorare.md",
-    "proper-20c.md",
-    "Journal/Daily/2025-12-08.md",
-    "Journal/Daily/2025-12-07.md",
-    "Clippings/Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year’s remembrance.md",
-    "Clippings/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
-    "Clippings/It’s not just nostalgia, 90s video games were better for kids’ brains.md",
-    "Clippings/Superpower Competition The Missing Chapter in Trump’s Security Strategy.md",
-    "Journal/Weekly/2025-W49.md",
-    "Journal/Daily/2025-12-03.md",
-    "Journal/Daily/2025-12-02.md",
-<<<<<<< HEAD
-    "Journal/Daily/2025-12-01.md",
-=======
->>>>>>> 00ebe1debcfdf00b146f9cdfb9e32984c0db4983
-    "Clippings/The Last Jew in Vinnitsa.pdf",
-    "Poetry/poetry-12-03.md~",
-    "Poetry/poetry-12-06.md.md~",
-    "Poetry/poetry-12-04.md~",
-    "ReadItLater Inbox/Shortbread Cookies Recipe.md~",
-    "shortbread cookies.md~",
-    "flexible-liturgy.md~",
     "grocy-app/assets/grocy-pics/tasks.png",
     "grocy-app/assets/grocy-pics/stock-overview.png",
     "grocy-app/assets/grocy-pics/shopping-list.png",
     "grocy-app/assets/grocy-pics/recipes.png",
     "grocy-app/assets/grocy-pics/meal-plan.png",
     "grocy-app/assets/grocy-pics/equipment.png",
-    "grocy-app/assets/grocy-pics/chores-overview.png",
-    "grocy-app/assets/grocy-pics/batteries-overview.png"
+    "grocy-app/assets/grocy-pics/chores-overview.png"
   ]
 }
