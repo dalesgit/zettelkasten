@@ -11,9 +11,24 @@
             "id": "edd22bbeda3b9d71",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/poetry-12-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "poetry-12-22"
             }
           }
         ]
@@ -215,6 +230,7 @@
   },
   "active": "edd22bbeda3b9d71",
   "lastOpenFiles": [
+    "Poetry/poetry-12-22.md",
     "Journal/Daily/2025-11-16.md",
     "Poetry/poetry-12-21.md",
     "Journal/Daily/2025-12-21.md",
@@ -245,7 +261,6 @@
     "church/2025 Advent and Christmas Resources.md~",
     "personal/kitchen/5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken.md",
     "Clippings3/3 massive changes you'll see as the climate careens toward tipping points.md",
-    "Clippings3/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
     "christmas_gifts.md~",
     "inbox/world/The Last Jew in Vinnitsa.pdf",
     "contemporary-events",
