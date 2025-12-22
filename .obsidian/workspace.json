@@ -11,9 +11,24 @@
             "id": "b950b161473444c1",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/poetry-12-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "poetry-12-21"
             }
           }
         ]
@@ -178,7 +193,7 @@
             }
           },
           {
-            "id": "705b494bc5a04b29",
+            "id": "45099370086b2abd",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -197,8 +212,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
@@ -210,11 +223,19 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b950b161473444c1",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-21.md",
+    "Poetry/poetry-12-21.md",
+    "Poetry/poem-12-20-25.md",
+    "Poetry/poem-12-20-25.md~",
+    "Journal/Daily/2025-12-20.md",
+    "Journal/Daily/2025-12-19.md",
+    "Clippings/Opinion  Why Tolkien’s ‘The Lord of the Rings’ Endures - The New York Times.md",
     "Clippings/Opinion  What Is an American - The New York Times.md",
     "Journal/Daily/2025-12-18.md",
     "Clippings/Exploring Hawaii’s Big Island on a Budget - The New York Times.md",
