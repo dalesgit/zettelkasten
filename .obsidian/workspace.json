@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90c80da8171946c3",
+        "id": "2429019b8d8e025c",
         "type": "tabs",
         "children": [
           {
-            "id": "445ed1fb46abf633",
+            "id": "ac5c9288cd407fa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-12-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-22"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -229,10 +214,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "445ed1fb46abf633",
+  "active": "ac5c9288cd407fa7",
   "lastOpenFiles": [
-    "CPG.md",
     "Journal/Daily/2025-12-22.md",
+    "CPG.md",
     "cpg-health-form-data-2025.md",
     "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
     "Poetry/poetry-12-21.md",
