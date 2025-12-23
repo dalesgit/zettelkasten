@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-22.md",
+                "file": "Journal/Weekly/2025-W49.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-22"
+              "title": "2025-W49"
             }
           }
         ]
@@ -224,13 +224,18 @@
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "ac5c9288cd407fa7",
   "lastOpenFiles": [
-    "christmas_gifts.md",
+    "Journal/Weekly/2025-W47.md",
+    "Journal/Weekly/2025-W48.md",
+    "Journal/Monthly/2025-12.md",
+    "Journal/Daily/2025-12-23.md",
     "Journal/Daily/2025-12-22.md",
+    "christmas_gifts.md",
     "CPG.md",
     "cpg-health-form-data-2025.md",
     "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
@@ -254,11 +259,7 @@
     "personal/Despair has a message for us. Gareth..md",
     "Clippings/Opinion  Our Petty, Hollow, Squalid Ogre in Chief - The New York Times.md",
     "Journal/Daily/2025-12-16.md",
-    "Clippings/The art of intellectual solitude 9 reasons why the smartest people often prefer being alone – VegOut.md",
-    "archive/Daily notes/2025-08-06.md",
     "Clippings",
-    "personal/kitchen/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
-    "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
     "church/2025 Advent and Christmas Resources.md~",
     "christmas_gifts.md~",
     "inbox/world/The Last Jew in Vinnitsa.pdf",
