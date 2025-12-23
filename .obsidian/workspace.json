@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Weekly/2025-W49.md",
+                "file": "Journal/Daily/2025-12-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-W49"
+              "title": "2025-12-23"
             }
           }
         ]
@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 448.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,10 +231,16 @@
   },
   "active": "ac5c9288cd407fa7",
   "lastOpenFiles": [
+    "Linda.md",
+    "Journal/Daily/2025-12-23.md",
+    "2025-10.md",
+    "Journal/Monthly/2025-11.md",
+    "Journal/Monthly/2025-12.md",
+    "Journal/Weekly/2025-W51.md",
+    "Journal/Weekly/2025-W50.md",
+    "Journal/Weekly/2025-W49.md",
     "Journal/Weekly/2025-W47.md",
     "Journal/Weekly/2025-W48.md",
-    "Journal/Monthly/2025-12.md",
-    "Journal/Daily/2025-12-23.md",
     "Journal/Daily/2025-12-22.md",
     "christmas_gifts.md",
     "CPG.md",
@@ -251,14 +258,8 @@
     "Clippings/Opinion  What Is an American - The New York Times.md",
     "Journal/Daily/2025-12-18.md",
     "Clippings/Exploring Hawaii’s Big Island on a Budget - The New York Times.md",
-    "Clippings/‘Pretty birds and silly moos’ the women behind the Sex Discrimination Act  Feminism  The Guardian.md",
-    "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md",
     "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md~",
-    "Journal/Daily/2025-12-17.md",
     "Clippers",
-    "personal/Despair has a message for us. Gareth..md",
-    "Clippings/Opinion  Our Petty, Hollow, Squalid Ogre in Chief - The New York Times.md",
-    "Journal/Daily/2025-12-16.md",
     "Clippings",
     "church/2025 Advent and Christmas Resources.md~",
     "christmas_gifts.md~",
