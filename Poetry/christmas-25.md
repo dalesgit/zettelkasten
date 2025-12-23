@@ -6,4 +6,26 @@ tags:
 created: 2025-12-23 18:47
 ---
 
+The days seem different some how
+This year the expectation is for a quiet Christmas. 
+A first?
 
+For all that has been. Thanks.
+For all that is to come. Yes.
+
+The need is very great
+As we wait in a land of darkness.
+
+---
+Turning and turning in the widening gyre   
+The falcon cannot hear the falconer;
+Things fall apart; the centre cannot hold;
+Mere anarchy is loosed upon the world,
+The blood-dimmed tide is loosed, and everywhere   
+The ceremony of innocence is drowned;
+The best lack all conviction, while the worst   
+Are full of passionate intensity.
+
+Surely some revelation is at hand;
+Surely the Second Coming is at hand.
+---
