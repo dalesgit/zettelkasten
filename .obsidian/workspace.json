@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Monthly/2025-11.md",
+                "file": "Journal/Daily/2025-11-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11"
+              "title": "2025-11-24"
             }
           }
         ]
@@ -124,13 +124,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -258,10 +256,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "12f4042510a062de",
+  "active": "5a69238350bfdba9",
   "lastOpenFiles": [
-    "Journal/Daily/2025-11-24.md",
     "Journal/Monthly/2025-11.md",
+    "Journal/Daily/2025-11-24.md",
     "Journal/Weekly/2025-W49.md",
     "Journal/Weekly/2025-W50.md",
     "Journal/Weekly/2025-W51.md",
