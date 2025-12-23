@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8184969e8af16563",
+        "id": "9e0c628584abfca4",
         "type": "tabs",
         "children": [
           {
-            "id": "05a63eba1343d825",
+            "id": "5a1b29ae9fab4f3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-15.md",
+                "file": "Journal/Daily/2025-12-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-15"
+              "title": "2025-12-22"
             }
           }
         ]
@@ -175,6 +175,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,8 +191,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "05a63eba1343d825",
+  "active": "5a1b29ae9fab4f3d",
   "lastOpenFiles": [
+    "tech/index-1.md",
+    "church/church/Preaching as circular not linear.md",
+    "tech/index.md",
+    "Journal/Daily/2025-12-15.md",
     "ReadItLater Inbox/‘A very hostile climate for workers’ US labor movement struggles under Trump.md",
     "ReadItLater Inbox/Threshold the choir who sing to the dying - documentary.md",
     "ReadItLater Inbox/It’s the media’s job to hold power to account. This year, too many got into bed with it instead  Arwa Mahdawi.md",
@@ -212,10 +218,6 @@
     "templater/Monthly1.md",
     "templates/Weekly Template.md",
     "templates/Monthly Template.md",
-    "templates/new-poem.md",
-    "Music examples.md",
-    "https   geediting.com d-i-came-of-age-with-rock-and-roll-these-10-songs-changed-everything-for-me.md",
-    "ReadItLater Inbox/Trump’s Power Paradox.md",
-    "ReadItLater Inbox/Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies.md"
+    "templates/new-poem.md"
   ]
 }
