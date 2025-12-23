@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "86cf86264acf93e5",
+        "id": "c6d8b3c953df16fd",
         "type": "tabs",
         "children": [
           {
-            "id": "85296c77e74dd6ee",
+            "id": "b065eea20c62424c",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-12-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-22"
             }
           }
         ]
@@ -176,9 +191,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "85296c77e74dd6ee",
+  "active": "b065eea20c62424c",
   "lastOpenFiles": [
+    "ReadItLater Inbox/The Guardian view on sending letters the writing’s on the wall.md",
     "Journal/Daily/2025-12-22.md",
+    "ReadItLater Inbox/American Diabetes Association releases new Standards of Care.md",
     "tech/index-1.md",
     "church/church/Preaching as circular not linear.md",
     "tech/index.md",
@@ -201,8 +218,6 @@
     "Journal/Monthly/2025-12.md",
     "templater/Weekly2.md",
     "Journal/Monthly/2025-11.md",
-    "templater/Monthly1.md",
-    "templates/Weekly Template.md",
-    "templates/Monthly Template.md"
+    "templater/Monthly1.md"
   ]
 }
