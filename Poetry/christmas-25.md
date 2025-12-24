@@ -6,26 +6,39 @@ tags:
 created: 2025-12-23 18:47
 ---
 
-The days seem different some how
-This year the expectation is for a quiet Christmas. 
+The days seem different now somehow\
+This year the expectation is for a quiet Christmas. \
 A first?
 
-For all that has been. Thanks.
+For all that has been. Thanks.\
 For all that is to come. Yes.
 
-The need is very great
+The need is very great\
 As we wait in a land of darkness.
 
 ---
-Turning and turning in the widening gyre   
-The falcon cannot hear the falconer;
-Things fall apart; the centre cannot hold;
-Mere anarchy is loosed upon the world,
-The blood-dimmed tide is loosed, and everywhere   
-The ceremony of innocence is drowned;
-The best lack all conviction, while the worst   
+
+Turning and turning in the widening gyre   \
+The falcon cannot hear the falconer;\
+Things fall apart; the centre cannot hold;\
+Mere anarchy is loosed upon the world,\
+The blood-dimmed tide is loosed, and everywhere   \
+The ceremony of innocence is drowned;\
+The best lack all conviction, while the worst   \
 Are full of passionate intensity.
 
-Surely some revelation is at hand;
-Surely the Second Coming is at hand.
+Surely some revelation is at hand;\
+Surely the Second Coming is at hand.\
+… \
+(WB Yeats)
 ---
+
+All are in need of grace\
+Grace is available for all\
+But some fall on their face to avoid receiving it\
+While others puff their pride and autonomy\
+While spiting their face.\
+But somewhere in the quiet approach\
+Appears another who whispers, "Have mercy on me."\
+ἐλέησον.
+
