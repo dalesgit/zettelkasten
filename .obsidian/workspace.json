@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/christmas-25.md",
+                "file": "Journal/Daily/2025-12-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "christmas-25"
+              "title": "2025-12-24"
             }
           }
         ]
@@ -224,14 +224,16 @@
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "ac5c9288cd407fa7",
   "lastOpenFiles": [
+    "Poetry/christmas-25.md",
+    "Journal/Daily/2025-12-24.md",
     "Poetry/christmas-25.md~",
     "Journal/Weekly/2025-W49.md",
-    "Poetry/christmas-25.md",
     "Journal/Monthly/2025-11.md",
     "Journal/Daily/2025-11-24.md",
     "Journal/Weekly/2025-W50.md",
@@ -258,25 +260,12 @@
     "Journal/Daily/2025-12-20.md",
     "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md~",
     "Clippers",
-    "personal/Despair has a message for us. Gareth..md",
-    "Clippings/Opinion  Our Petty, Hollow, Squalid Ogre in Chief - The New York Times.md",
-    "Journal/Daily/2025-12-16.md",
-    "Clippings/The art of intellectual solitude 9 reasons why the smartest people often prefer being alone – VegOut.md",
-    "archive/Daily notes/2025-08-06.md",
     "Clippings",
-    "personal/kitchen/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
-    "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
-    "personal/health/7 mental habits people who grew up in the 1980s developed that make them impossible to manipulate today.md",
-    "church/2025 Advent and Christmas Resources.md",
     "church/2025 Advent and Christmas Resources.md~",
-    "personal/kitchen/5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken.md",
-    "Clippings3/3 massive changes you'll see as the climate careens toward tipping points.md",
-    "Clippings3/'Beyond gender' Psychedelics are revealing hidden sides to people's identity.md",
     "christmas_gifts.md~",
     "inbox/world/The Last Jew in Vinnitsa.pdf",
     "contemporary-events",
     "inbox/world 1",
-    "tech/Untitled.base",
     "Clippings3/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
     "assets/stop-sign.png",
     "printable-stop-sign.png",
