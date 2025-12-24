@@ -94,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -230,15 +231,15 @@
   },
   "active": "ac5c9288cd407fa7",
   "lastOpenFiles": [
-    "Poetry/christmas-25.md",
+    "Journal/Weekly/2025-W52.md",
     "Journal/Daily/2025-12-24.md",
+    "Poetry/christmas-25.md",
     "Poetry/christmas-25.md~",
     "Journal/Weekly/2025-W49.md",
     "Journal/Monthly/2025-11.md",
     "Journal/Daily/2025-11-24.md",
     "Journal/Weekly/2025-W50.md",
     "Journal/Weekly/2025-W51.md",
-    "Journal/Weekly/2025-W52.md",
     "Journal/Daily/2025-12-23.md",
     "2025-W52.md",
     "Journal/Monthly/2025-12.md",
