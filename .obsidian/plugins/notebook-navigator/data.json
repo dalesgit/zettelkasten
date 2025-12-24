@@ -18,7 +18,7 @@
   "autoRevealIgnoreRightSidebar": true,
   "multiSelectModifier": "cmdCtrl",
   "startView": "files",
-  "homepage": null,
+  "homepage": "Inbox.md",
   "mobileHomepage": null,
   "useMobileHomepage": false,
   "showTooltips": false,
