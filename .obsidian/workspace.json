@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-24.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-24"
+              "title": "Inbox"
             }
           }
         ]
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2025-11-12.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-11-12"
+              "title": "Backlinks for Inbox"
             }
           },
           {
@@ -135,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2025-11-12.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-11-12"
+              "title": "Outgoing links from Inbox"
             }
           },
           {
@@ -204,11 +203,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 448.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,12 +228,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac5c9288cd407fa7",
+  "active": "266b950ea84f6542",
   "lastOpenFiles": [
+    "church/church/Ignatius of Loyola.md",
+    "Inbox.md",
+    "Journal/Daily/2025-12-24.md",
     "Journal/Daily/2025-12-21.md",
+    "inbox/personal/rfk-ignore-20-years-autism.md",
+    "church/Preaching/preaching.md",
+    "pages/Post - Luhmann vs Digital Zettelkasten.md",
     "Journal/Daily/2025-12-22.md",
     "Journal/Daily/2025-12-23.md",
-    "Journal/Daily/2025-12-24.md",
     "History’s mysteries solved by science in 2025  CNN.md",
     "Journal/Weekly/2025-W52.md",
     "Poetry/christmas-25.md",
@@ -252,11 +257,6 @@
     "christmas_gifts.md",
     "CPG.md",
     "cpg-health-form-data-2025.md",
-    "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
-    "Poetry/poetry-12-21.md",
-    "conflict-files-obsidian-git.md",
-    "Poetry/poetry-12-22.md",
-    "Poetry/poem-12-20-25.md",
     "Poetry/poem-12-20-25.md~",
     "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md~",
     "Clippers",
