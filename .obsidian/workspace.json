@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1a8f5fd5cbfc605a",
+        "id": "2429019b8d8e025c",
         "type": "tabs",
         "children": [
           {
-            "id": "2eec9d0f247871c6",
+            "id": "ac5c9288cd407fa7",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Poetry/christmas-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "christmas-25"
             }
           }
         ]
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:poetry",
+                "query": "tag:#poetry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +80,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook",
+              "title": "Notebook Navigator"
             }
           },
           {
@@ -79,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,8 +188,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -189,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,24 +228,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2eec9d0f247871c6",
+  "active": "ac5c9288cd407fa7",
   "lastOpenFiles": [
-    "templates/new-poem.md",
+    "Poetry/christmas-25.md~",
+    "Journal/Weekly/2025-W49.md",
+    "Poetry/christmas-25.md",
+    "Journal/Monthly/2025-11.md",
+    "Journal/Daily/2025-11-24.md",
+    "Journal/Weekly/2025-W50.md",
+    "Journal/Weekly/2025-W51.md",
+    "Journal/Weekly/2025-W52.md",
+    "Journal/Daily/2025-12-23.md",
+    "2025-W52.md",
+    "Journal/Monthly/2025-12.md",
+    "Linda.md",
+    "2025-10.md",
+    "Journal/Weekly/2025-W47.md",
+    "Journal/Weekly/2025-W48.md",
+    "Journal/Daily/2025-12-22.md",
+    "christmas_gifts.md",
+    "CPG.md",
+    "cpg-health-form-data-2025.md",
+    "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
     "Poetry/poetry-12-21.md",
+    "conflict-files-obsidian-git.md",
+    "Poetry/poetry-12-22.md",
     "Journal/Daily/2025-12-21.md",
     "Poetry/poem-12-20-25.md",
     "Poetry/poem-12-20-25.md~",
     "Journal/Daily/2025-12-20.md",
-    "Journal/Daily/2025-12-19.md",
-    "Clippings/Opinion  Why Tolkien’s ‘The Lord of the Rings’ Endures - The New York Times.md",
-    "Clippings/Opinion  What Is an American - The New York Times.md",
-    "Journal/Daily/2025-12-18.md",
-    "Clippings/Exploring Hawaii’s Big Island on a Budget - The New York Times.md",
-    "Clippings/‘Pretty birds and silly moos’ the women behind the Sex Discrimination Act  Feminism  The Guardian.md",
-    "christmas_gifts.md",
-    "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md",
     "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md~",
-    "Journal/Daily/2025-12-17.md",
     "Clippers",
     "personal/Despair has a message for us. Gareth..md",
     "Clippings/Opinion  Our Petty, Hollow, Squalid Ogre in Chief - The New York Times.md",
