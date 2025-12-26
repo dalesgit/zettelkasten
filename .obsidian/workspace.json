@@ -30,6 +30,60 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
+          },
+          {
+            "id": "8fdb770bcabead41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life giving habits.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Life giving habits"
+            }
+          }
+        ]
+      },
+      {
+        "id": "38a61201aa9bbff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71572c3284dffbd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life giving habits.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Life giving habits"
+            }
           }
         ]
       }
@@ -94,8 +148,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,13 +277,16 @@
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "266b950ea84f6542",
+  "active": "71572c3284dffbd0",
   "lastOpenFiles": [
-    "church/church/Ignatius of Loyola.md",
     "Inbox.md",
+    "Life giving habits.md",
+    "Note to self.md",
+    "church/church/Ignatius of Loyola.md",
     "Journal/Daily/2025-12-24.md",
     "Journal/Daily/2025-12-21.md",
     "inbox/personal/rfk-ignore-20-years-autism.md",
@@ -254,8 +310,6 @@
     "Journal/Weekly/2025-W47.md",
     "Journal/Weekly/2025-W48.md",
     "christmas_gifts.md",
-    "CPG.md",
-    "cpg-health-form-data-2025.md",
     "Poetry/poem-12-20-25.md~",
     "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md~",
     "Clippers",
