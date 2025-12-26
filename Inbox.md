@@ -22,4 +22,13 @@ tags: []
 - [[Hebrew for "gratitude"]]
 - [[Life giving habits]]
 Part 2
+- [[Music examples]]
+- [[Remember the signs]]
+- [[The good news is that God is out there]]
+- [[The true measure of any society]]
+- [[Trump dementia]]
+- [[insight about light on a hill]]
+- [[Genocide in Somalia]]
+- [[Espresso martini]]
+- [[December 17, 2025 - dermatologist]] -- [[Dr. Hamill, page 2]]
 - 
