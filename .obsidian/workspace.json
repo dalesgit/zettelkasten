@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "Hebrew for \"gratitude\".md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Hebrew for \"gratitude\""
             }
           },
           {
@@ -281,7 +281,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71572c3284dffbd0",
+  "active": "ac5c9288cd407fa7",
   "lastOpenFiles": [
     "Inbox.md",
     "Life giving habits.md",

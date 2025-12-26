@@ -19,6 +19,6 @@ tags: []
 - [[Poem]]
 - [[Privatization as a substitute for government.]]
 - [[Sarah Lancaster]]
-- [[The Hebrew word for “give thanks” in the Old Testament is yadah and it literally means “to acknowledge God in the middle of the mess.”]]
+- [[Hebrew for "gratitude"]]
 - [[Life giving habits]]
 - 
