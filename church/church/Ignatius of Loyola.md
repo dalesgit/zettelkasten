@@ -1,4 +1,4 @@
-# IGNATIUS OF LOYOLA, Priest, 1556
+  # IGNATIUS OF LOYOLA, Priest, 1556
 
 > Almighty God, who called Ignatius of Loyola to the service of your Divine Majesty and to seek you in all things; Give us also the grace to labor without counting the cost and to seek no reward other than knowing that we do your will; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, now and for ever. Amen.
 ## Bio 

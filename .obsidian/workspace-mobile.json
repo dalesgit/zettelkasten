@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Begin music theory.md",
+                "file": "Journal/Daily/2025-12-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Begin music theory"
+              "title": "2025-12-22"
             }
           }
         ]
@@ -191,18 +191,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b0120956c766d6bb",
+  "active": "b065eea20c62424c",
   "lastOpenFiles": [
-    "MP feet.md",
-    "Begin music theory.md",
-    "https   vegoutmag.com lifestyle k-longevity-researchers-say-people-who-live-past-90-all-share-these-8-surprising-daily-habits.md",
-    "The Hebrew word for “give thanks” in the Old Testament is yadah and it literally means “to acknowledge God in the middle of the mess.”.md",
-    "Poem.md",
-    "Sarah Lancaster.md",
-    "Privatization as a substitute for government..md",
-    "Note to self.md",
-    "Journal/Daily/2025-12-17.md",
-    "ReadItLater Inbox/5 Songs From The '70s That Nail The Meaning Of Life.md",
+    "ReadItLater Inbox/The Guardian view on sending letters the writing’s on the wall.md",
+    "Journal/Daily/2025-12-22.md",
+    "ReadItLater Inbox/American Diabetes Association releases new Standards of Care.md",
+    "tech/index-1.md",
+    "church/church/Preaching as circular not linear.md",
+    "tech/index.md",
     "Journal/Daily/2025-12-15.md",
     "ReadItLater Inbox/‘A very hostile climate for workers’ US labor movement struggles under Trump.md",
     "ReadItLater Inbox/Threshold the choir who sing to the dying - documentary.md",
@@ -218,6 +214,10 @@
     "Journal/Daily/2025-11-28.md",
     "Journal/Daily/2025-12-09.md",
     "Journal/Daily/2025-12-03.md",
-    "Journal/Weekly/2025-W50.md"
+    "Journal/Weekly/2025-W50.md",
+    "Journal/Monthly/2025-12.md",
+    "templater/Weekly2.md",
+    "Journal/Monthly/2025-11.md",
+    "templater/Monthly1.md"
   ]
 }
