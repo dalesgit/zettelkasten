@@ -18,7 +18,7 @@
   "autoRevealIgnoreRightSidebar": true,
   "multiSelectModifier": "cmdCtrl",
   "startView": "files",
-  "homepage": null,
+  "homepage": "Inbox.md",
   "mobileHomepage": null,
   "useMobileHomepage": false,
   "showTooltips": false,
@@ -299,9 +299,9 @@
   "navigationSeparators": {},
   "recentColors": [],
   "lastShownVersion": "",
-  "latestKnownRelease": "1.9.2",
+  "latestKnownRelease": "1.9.3",
   "lastAnnouncedRelease": "1.9.1",
-  "lastReleaseCheckAt": 1766405178167,
+  "lastReleaseCheckAt": 1766721159460,
   "rootFolderOrder": [],
   "rootTagOrder": []
 }

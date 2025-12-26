@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac5c9288cd407fa7",
+            "id": "bd15a2c65658ffd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-22.md",
+                "file": "Journal/Daily/2025-12-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-22"
+              "title": "2025-12-26"
+            }
+          },
+          {
+            "id": "4081c50b6625a113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,13 +119,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -116,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2025-11-12.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-11-12"
+              "title": "Backlinks for Inbox"
             }
           },
           {
@@ -135,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2025-11-12.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-11-12"
+              "title": "Outgoing links from Inbox"
             }
           },
           {
@@ -204,11 +227,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 448.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,47 +248,48 @@
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ac5c9288cd407fa7",
+  "active": "4081c50b6625a113",
   "lastOpenFiles": [
-    "christmas_gifts.md",
-    "Journal/Daily/2025-12-22.md",
-    "CPG.md",
-    "cpg-health-form-data-2025.md",
-    "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
-    "Poetry/poetry-12-21.md",
-    "conflict-files-obsidian-git.md",
-    "Poetry/poetry-12-22.md",
+    "Journal/Daily/2025-12-26.md",
+    "Clippings/Every remote worker should own this $30 desk gadget.md",
+    "Poetry/writing-12-26.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Inbox.md",
+    "insight about light on a hill.md",
+    "Nathan shel ha Shem.md",
+    "Genocide in Somalia.md",
+    "Life giving habits.md",
+    "Dr. Hamill, page 2.md",
+    "Trump dementia.md",
+    "The true measure of any society.md",
+    "The good news is that God is out there.md",
+    "Remember the signs.md",
+    "Music examples.md",
+    "Music examples 1.md",
+    "Espresso martini.md",
+    "December 17, 2025 - dermatologist.md",
+    "Hebrew for \"gratitude\".md",
+    "Note to self.md",
+    "church/church/Ignatius of Loyola.md",
+    "Journal/Daily/2025-12-24.md",
     "Journal/Daily/2025-12-21.md",
-    "Poetry/poem-12-20-25.md",
+    "inbox/personal/rfk-ignore-20-years-autism.md",
+    "church/Preaching/preaching.md",
+    "Poetry/christmas-25.md~",
     "Poetry/poem-12-20-25.md~",
-    "Journal/Daily/2025-12-20.md",
-    "Journal/Daily/2025-12-19.md",
-    "Clippings/Opinion  Why Tolkien’s ‘The Lord of the Rings’ Endures - The New York Times.md",
-    "Clippings/Opinion  What Is an American - The New York Times.md",
-    "Journal/Daily/2025-12-18.md",
-    "Clippings/Exploring Hawaii’s Big Island on a Budget - The New York Times.md",
-    "Clippings/‘Pretty birds and silly moos’ the women behind the Sex Discrimination Act  Feminism  The Guardian.md",
-    "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md",
     "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md~",
-    "Journal/Daily/2025-12-17.md",
     "Clippers",
-    "personal/Despair has a message for us. Gareth..md",
-    "Clippings/Opinion  Our Petty, Hollow, Squalid Ogre in Chief - The New York Times.md",
-    "Journal/Daily/2025-12-16.md",
-    "Clippings/The art of intellectual solitude 9 reasons why the smartest people often prefer being alone – VegOut.md",
-    "archive/Daily notes/2025-08-06.md",
     "Clippings",
-    "personal/kitchen/15 Cozy Stew Recipes Perfect for Crisp Fall Nights.md",
-    "personal/health/10 Scandinavian habits that quietly explain why Nordic happiness always scores so high.md",
     "church/2025 Advent and Christmas Resources.md~",
     "christmas_gifts.md~",
     "inbox/world/The Last Jew in Vinnitsa.pdf",
     "contemporary-events",
     "inbox/world 1",
-    "tech/Untitled.base",
     "Clippings3/rejected_by_trump_Screenshot_2025-12-13_08-00-09.png",
     "assets/stop-sign.png",
     "printable-stop-sign.png",
