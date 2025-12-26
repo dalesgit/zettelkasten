@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8184969e8af16563",
+        "id": "7c4e2eda266e63bb",
         "type": "tabs",
         "children": [
           {
-            "id": "05a63eba1343d825",
+            "id": "b0120956c766d6bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-15.md",
+                "file": "Begin music theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-15"
+              "title": "Begin music theory"
             }
           }
         ]
@@ -175,6 +175,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,8 +191,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "05a63eba1343d825",
+  "active": "b0120956c766d6bb",
   "lastOpenFiles": [
+    "MP feet.md",
+    "Begin music theory.md",
+    "https   vegoutmag.com lifestyle k-longevity-researchers-say-people-who-live-past-90-all-share-these-8-surprising-daily-habits.md",
+    "The Hebrew word for “give thanks” in the Old Testament is yadah and it literally means “to acknowledge God in the middle of the mess.”.md",
+    "Poem.md",
+    "Sarah Lancaster.md",
+    "Privatization as a substitute for government..md",
+    "Note to self.md",
+    "Journal/Daily/2025-12-17.md",
+    "ReadItLater Inbox/5 Songs From The '70s That Nail The Meaning Of Life.md",
+    "Journal/Daily/2025-12-15.md",
     "ReadItLater Inbox/‘A very hostile climate for workers’ US labor movement struggles under Trump.md",
     "ReadItLater Inbox/Threshold the choir who sing to the dying - documentary.md",
     "ReadItLater Inbox/It’s the media’s job to hold power to account. This year, too many got into bed with it instead  Arwa Mahdawi.md",
@@ -205,17 +218,6 @@
     "Journal/Daily/2025-11-28.md",
     "Journal/Daily/2025-12-09.md",
     "Journal/Daily/2025-12-03.md",
-    "Journal/Weekly/2025-W50.md",
-    "Journal/Monthly/2025-12.md",
-    "templater/Weekly2.md",
-    "Journal/Monthly/2025-11.md",
-    "templater/Monthly1.md",
-    "templates/Weekly Template.md",
-    "templates/Monthly Template.md",
-    "templates/new-poem.md",
-    "Music examples.md",
-    "https   geediting.com d-i-came-of-age-with-rock-and-roll-these-10-songs-changed-everything-for-me.md",
-    "ReadItLater Inbox/Trump’s Power Paradox.md",
-    "ReadItLater Inbox/Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies.md"
+    "Journal/Weekly/2025-W50.md"
   ]
 }
