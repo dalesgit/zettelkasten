@@ -119,12 +119,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -282,6 +282,35 @@
     "church/church/Ignatius of Loyola.md",
     "Journal/Daily/2025-12-24.md",
     "Poetry/christmas-25.md~",
+  "active": "266b950ea84f6542",
+  "lastOpenFiles": [
+    "church/church/Ignatius of Loyola.md",
+    "Inbox.md",
+    "Journal/Daily/2025-12-24.md",
+    "Journal/Daily/2025-12-21.md",
+    "inbox/personal/rfk-ignore-20-years-autism.md",
+    "church/Preaching/preaching.md",
+    "pages/Post - Luhmann vs Digital Zettelkasten.md",
+    "Journal/Daily/2025-12-22.md",
+    "Journal/Daily/2025-12-23.md",
+    "History’s mysteries solved by science in 2025  CNN.md",
+    "Journal/Weekly/2025-W52.md",
+    "Poetry/christmas-25.md",
+    "Poetry/christmas-25.md~",
+    "Journal/Weekly/2025-W49.md",
+    "Journal/Monthly/2025-11.md",
+    "Journal/Daily/2025-11-24.md",
+    "Journal/Weekly/2025-W50.md",
+    "Journal/Weekly/2025-W51.md",
+    "2025-W52.md",
+    "Journal/Monthly/2025-12.md",
+    "Linda.md",
+    "2025-10.md",
+    "Journal/Weekly/2025-W47.md",
+    "Journal/Weekly/2025-W48.md",
+    "christmas_gifts.md",
+    "CPG.md",
+    "cpg-health-form-data-2025.md",
     "Poetry/poem-12-20-25.md~",
     "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md~",
     "Clippers",
