@@ -8,6 +8,8 @@ tags: []
 - [[Post - Luhmann vs Digital Zettelkasten]]
 - [[overview Zettelkasten]]
 - [[Ignatius of Loyola]]
+- [[What America Might Look Like With Zero Immigration]]
+- 
 ## [[2025-12-24]]
 
 ## 2025-12-25

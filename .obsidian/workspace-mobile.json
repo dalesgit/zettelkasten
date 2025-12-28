@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/What America Might Look Like With Zero Immigration.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What America Might Look Like With Zero Immigration"
+              "title": "Inbox"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "b0120956c766d6bb",
   "lastOpenFiles": [
-    "Inbox.md",
     "ReadItLater Inbox/What America Might Look Like With Zero Immigration.md",
+    "Inbox.md",
     "Remember the signs.md",
     "Nathan shel ha Shem.md",
     "Genocide in Somalia.md",
