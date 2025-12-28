@@ -96,3 +96,14 @@ REM Nov 08 +2 AT 09:00 MSG CP intro workshop 3.5 hours %b%
 REM Nov 13 +2 AT 15:30 MSG DH Kalarni followup %b%
 REM FROM Nov 16 2025 UNTIL Nov 22 2025 MSG Hilton Head with Kids %b% 
 REM FROM Jan 06 2026 UNTIL Jan 13 2026 MSG DH to Colorado with Julian %b% 
+REM Tue 2025 AT 10:30 MSG LA Fitness %b%
+REM Fri 2025 AT 11:30 MSG LA Fitness %b%
+REM Tue 2026 AT 10:30 MSG LA Fitness %b%
+REM Fri 2026 AT 11:30 MSG LA Fitness %b%
+REM Dec 29 2025 AT 14:15 MSG Gardner Audiology %b%
+REM Dec 29 2025 MSG Call Hamil re. f/u biopsy %b%
+REM Dec 30 2025 AT 14:00  MSG Hamil f/u appt in Hudson %b%
+REM Thu 2025 AT 10:30 MSG Centering Prayer %b%
+REM Thu 2026 AT 10:30 MSG Centering Prayer %b%
+REM Jan 2 2026 AT 12:45 MSG Dr. Brown (MPS) %b%
+REM Jan 1 2026 AT 13:00 MSG Barbecue at Brians %b%
