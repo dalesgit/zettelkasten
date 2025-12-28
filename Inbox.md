@@ -3,6 +3,9 @@ id: Inbox
 aliases: []
 tags: []
 ---
+## 2025-12-28
+
+- [[A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way  George Monbiot]]
 ## archived
 - [[preaching]]
 - [[Post - Luhmann vs Digital Zettelkasten]]
