@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "Poetry/writing-12-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "writing-12-27"
             }
           }
         ],
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "db7a80e2846d5f24",
@@ -248,17 +249,20 @@
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "4081c50b6625a113",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-27.md",
+    "Poetry/writing-12-27.md",
+    "Inbox.md",
     "Journal/Daily/2025-12-26.md",
     "Clippings/Every remote worker should own this $30 desk gadget.md",
     "Poetry/writing-12-26.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Inbox.md",
     "insight about light on a hill.md",
     "Nathan shel ha Shem.md",
     "Genocide in Somalia.md",
@@ -277,8 +281,6 @@
     "church/church/Ignatius of Loyola.md",
     "Journal/Daily/2025-12-24.md",
     "Journal/Daily/2025-12-21.md",
-    "inbox/personal/rfk-ignore-20-years-autism.md",
-    "church/Preaching/preaching.md",
     "Poetry/christmas-25.md~",
     "Poetry/poem-12-20-25.md~",
     "Clippers/National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times.md~",
