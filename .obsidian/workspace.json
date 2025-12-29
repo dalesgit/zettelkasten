@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Poetry/writing-12-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "writing-12-26"
+            }
+          },
+          {
+            "id": "90a13b9c04d67b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Journal/Daily/2025-12-29.md",
                 "mode": "source",
                 "source": false,
@@ -30,32 +54,9 @@
               "icon": "lucide-file",
               "title": "2025-12-29"
             }
-          },
-          {
-            "id": "90a13b9c04d67b0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-12-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-22"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -240,9 +241,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "adca96f0ca4b8045",
+  "active": "90a13b9c04d67b0e",
   "lastOpenFiles": [
     "Journal/Daily/2025-12-22.md",
+    "Poetry/writing-12-26.md",
+    "Poetry/christmas-25.md",
+    "Poetry/writing-12-27.md",
     "Journal/Daily/2025-12-29.md",
     "CPG.md",
     "archive/Daily notes/2025-10-27.md",
