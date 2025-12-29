@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPG.md",
+                "file": "Journal/Daily/2025-12-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPG"
+              "title": "2025-12-29"
+            }
+          },
+          {
+            "id": "90a13b9c04d67b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-12-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-22"
             }
           }
         ]
@@ -94,8 +118,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,12 +216,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,12 +240,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "823bcc6a69aed16d",
+  "active": "adca96f0ca4b8045",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-22.md",
     "Journal/Daily/2025-12-29.md",
+    "CPG.md",
     "archive/Daily notes/2025-10-27.md",
     "archive/Daily notes/2025-10-21.md",
-    "CPG.md",
     "Inbox.md",
     "Clippings/A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way  George Monbiot.md"
   ]
