@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-29.md",
+                "file": "CPG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-29"
+              "title": "CPG"
             }
           }
         ]
@@ -220,10 +220,10 @@
   },
   "active": "823bcc6a69aed16d",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-29.md",
     "archive/Daily notes/2025-10-27.md",
     "archive/Daily notes/2025-10-21.md",
     "CPG.md",
-    "Journal/Daily/2025-12-29.md",
     "Inbox.md",
     "Clippings/A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way  George Monbiot.md"
   ]
