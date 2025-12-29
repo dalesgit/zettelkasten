@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "Journal/Daily/2025-12-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "2025-12-29"
             }
           }
         ]
@@ -83,8 +83,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "ef298de4d013e0a4",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,12 +214,17 @@
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "823bcc6a69aed16d",
   "lastOpenFiles": [
-    "Clippings/A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way  George Monbiot.md",
-    "Inbox.md"
+    "archive/Daily notes/2025-10-27.md",
+    "archive/Daily notes/2025-10-21.md",
+    "CPG.md",
+    "Journal/Daily/2025-12-29.md",
+    "Inbox.md",
+    "Clippings/A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way  George Monbiot.md"
   ]
 }
