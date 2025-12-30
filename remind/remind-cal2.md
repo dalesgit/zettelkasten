@@ -62,8 +62,6 @@ REM Mar 28 +2 MSG James Solomon Russell, Priest, 1935 %b%
 REM Mar 29 +2 MSG John Keble, Priest and Poet, 1866 %b%
 REM Mar 30 +2 MSG Mary of Egypt, Monastic, c.421 %b%
 REM Mar 31 +2 MSG John Donne, Priest and Poet, 1631 %b%
-;
-
 REM Jan 1 +2 MSG The Holy Name of Our Lord Jesus Christ %b%
 REM Jan 6 +2 MSG The Epiphany of Our Lord Jesus Christ %b%
 REM Jan 18 +2 MSG The Confession of Saint Peter the Apostle %b%
