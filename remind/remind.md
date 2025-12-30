@@ -1,3 +1,8 @@
+DO /home/dale/Repositories/zettelkasten/remind/remind.md
+DO /home/dale/Repositories/zettelkasten/remind/remind-cal.md
+DO /home/dale/Repositories/zettelkasten/remind/remind-cal2.md
+;DO /home/dale/Repositories/zettelkasten/remind/remind-cruise.md
+DO /home/dale/Repositories/zettelkasten/remind/remind-bd.md
 REM Dec 15 2024 MSG This is my first customization
 REM Nov 28 2024 +2 MSG Eucharist     AT 6:00 PM %b%
 REM Dec 06 2024 +2 MSG Linda session    AT 6:30 PM %b%
