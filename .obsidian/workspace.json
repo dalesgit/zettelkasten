@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-30.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-30"
+              "title": "Inbox"
             }
           }
         ],
@@ -245,8 +245,8 @@
   },
   "active": "90a13b9c04d67b0e",
   "lastOpenFiles": [
-    "Inbox.md",
     "Journal/Daily/2025-12-30.md",
+    "Inbox.md",
     "Journal/Daily/2025-12-29.md",
     "Journal/Daily/2025-12-22.md",
     "Poetry/writing-12-26.md",
