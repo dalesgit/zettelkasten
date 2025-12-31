@@ -4,83 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "232caea01c05985c",
+        "id": "7490af6cc7c71bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "dfcd2352c79a9b81",
+            "id": "1d9a130141ea340f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-12-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-30"
-            }
-          },
-          {
-            "id": "8a24ca3a0cbda565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2025-12-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-30"
-            }
-          },
-          {
-            "id": "2e3240f4e7e5fbf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Becky Lannon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Becky Lannon"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,10 +203,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e3240f4e7e5fbf5",
+  "active": "1d9a130141ea340f",
   "lastOpenFiles": [
-    "Becky Lannon.md",
     "Journal/Daily/2025-12-30.md",
+    "Becky Lannon.md",
     "notes/Miriam.md",
     "Poetry/writing-12-26.md~",
     "notes/Miriam.md~",
