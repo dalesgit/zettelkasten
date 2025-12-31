@@ -11,12 +11,52 @@
             "id": "1d9a130141ea340f",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "CPG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CPG"
+            }
+          },
+          {
+            "id": "d7135ce4aa4f3042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2025-12-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-31"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,20 +243,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1d9a130141ea340f",
+  "active": "d7135ce4aa4f3042",
   "lastOpenFiles": [
+    "Journal/Daily/2025-12-22.md",
+    "Journal/Daily/2025-12-31.md",
+    "CPG.md",
+    "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
+    "1763397800-LZUO.md",
+    "Inbox.md",
     "Journal/Daily/2025-12-30.md",
     "Becky Lannon.md",
     "notes/Miriam.md",
     "Poetry/writing-12-26.md~",
     "notes/Miriam.md~",
     "Poetry/writing-12-26.md",
-    "Inbox.md",
     "Journal/Daily/2025-12-29.md",
-    "Journal/Daily/2025-12-22.md",
     "Poetry/christmas-25.md",
     "Poetry/writing-12-27.md",
-    "CPG.md",
     "archive/Daily notes/2025-10-27.md",
     "archive/Daily notes/2025-10-21.md",
     "Clippings/A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way  George Monbiot.md"
