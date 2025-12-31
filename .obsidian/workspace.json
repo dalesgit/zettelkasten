@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-12-31.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-31"
+              "title": "Inbox"
             }
           }
         ],
@@ -245,8 +245,8 @@
   },
   "active": "d7135ce4aa4f3042",
   "lastOpenFiles": [
-    "Journal/Daily/2025-12-22.md",
     "Journal/Daily/2025-12-31.md",
+    "Journal/Daily/2025-12-22.md",
     "CPG.md",
     "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
     "1763397800-LZUO.md",
