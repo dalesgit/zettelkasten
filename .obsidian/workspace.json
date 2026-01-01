@@ -11,9 +11,24 @@
             "id": "81e6333e97a432c1",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2026-01-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-01"
             }
           }
         ]
@@ -205,12 +220,14 @@
   },
   "active": "81e6333e97a432c1",
   "lastOpenFiles": [
+    "Clippings/People who grew up before the internet developed these 7 cognitive abilities that are now nearly impossible to acquire.md",
+    "Journal/Daily/2026-01-01.md",
+    "Inbox.md",
     "archive/Daily notes/2025-10-21.md",
     "personal/health/Pension Fund Insurance.md",
     "CPG.md",
     "assets/edited-2026 GMA enrollment form.pdf",
     "archive/Daily notes/2025-10-27.md",
-    "Inbox.md",
     "Journal/Daily/2025-12-31.md",
     "Journal/Daily/2025-12-22.md",
     "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
