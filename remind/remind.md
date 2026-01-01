@@ -75,3 +75,7 @@ REM Thu 2025 AT 10:30 MSG Centering Prayer %b%
 REM Thu 2026 AT 10:30 MSG Centering Prayer %b%
 REM Jan 2 2026 AT 12:45 MSG Dr. Brown (MPS) %b%
 REM Jan 1 2026 AT 13:00 MSG Barbecue at Brians %b%
+REM Jan 3 2026 AT 18:30 MSG Dinner with Rebecca %b%
+REM Jan 4 2026 AT 09:30 MSG p/u Diane for church %b%
+REM Jan 6 2026 AT 15:00 MSG leave for airport to CO %b%
+REM Jan 13 2026 AT 12:00 MSG Flight to Tampa (14:00 EST) %b%
