@@ -32,7 +32,7 @@ REM Aug 18 +4 MSG Mary Pat's birthday %b%
 REM Aug 20 +2 MSG Statehood Day %b%
 REM Aug 21 +2 MSG Solar eclipse? %b%
 REM Aug 26 +2 MSG River birthday %b%
-REM Aug 28 +2 MSG Wild Goose Festival %b%
+REM Aug 28 2025 +2 MSG Wild Goose Festival %b%
 REM Aug 29 +2 MSG Gini's birthday %b%
 REM Aug 31 +2 MSG Ralph & Carol Ahle's anniversary %b%
 REM Nov 03 +2 MSG Will Corum birthday %b%

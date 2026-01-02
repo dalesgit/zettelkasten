@@ -60,10 +60,10 @@ REM Feb 27 2025 +2 AT 15:30 MSG Victoria dermatology for DH %b%
 REM [easterdate()] MSG Easter
 REM Feb 27 2025 +10 AT 11:30 MSG DH verbatim %b%
 REM Feb 25 2025 AT 12:30 +2 MSG Clergy lunch loc. tba %b%
-REM Jul 12 2025 *1 UNTIL Jul 19 2025 MSG with Bud/Bertha in Orlando %b% 
+;REM Jul 12 2025 1 UNTIL Jul 19 2025 MSG with Bud/Bertha in Orlando %b% 
 REM Fri FROM Oct 01 2025 UNTIL Nov 29 2025 +2 AT 15:00 MSG Meet with Zack  %b%
 REM FROM Nov 16 2025 UNTIL Nov 22 2025 MSG Hilton Head with Kids %b% 
-REM FROM Jan 06 2026 UNTIL Jan 13 2026 MSG DH to Colorado with Julian %b% 
+REM FROM Jan 06 2026 UNTIL Jan 13 2026 SPECIAL COLOR 255 0 255 DH to Colorado with Julian %b% 
 REM Tue 2025 AT 10:30 MSG LA Fitness %b%
 REM Fri 2025 AT 11:30 MSG LA Fitness %b%
 REM Tue 2026 AT 10:30 MSG LA Fitness %b%
