@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-01-01.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-01"
+              "title": "Inbox"
             }
           }
         ]
@@ -90,8 +90,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ]
@@ -178,12 +178,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
             "id": "632a03d95364ae18",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "e2e7354097c103cb",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -193,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -211,17 +221,15 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "periodic-notes:Open today": false,
       "notebook-navigator:Notebook Navigator": false,
-      "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "81e6333e97a432c1",
   "lastOpenFiles": [
-    "Clippings/People who grew up before the internet developed these 7 cognitive abilities that are now nearly impossible to acquire.md",
     "Journal/Daily/2026-01-01.md",
+    "Clippings/People who grew up before the internet developed these 7 cognitive abilities that are now nearly impossible to acquire.md",
     "Inbox.md",
     "archive/Daily notes/2025-10-21.md",
     "personal/health/Pension Fund Insurance.md",
