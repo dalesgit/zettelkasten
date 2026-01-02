@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8662b05e971a5a8a",
+        "id": "0e994cd7007d3849",
         "type": "tabs",
         "children": [
           {
-            "id": "81e6333e97a432c1",
+            "id": "34f10095e57837a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "templater/Weekly2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Weekly2"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b679a834ef3ef70",
@@ -178,8 +177,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -203,12 +202,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 430.5,
-    "collapsed": true
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,12 +226,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81e6333e97a432c1",
+  "active": "34f10095e57837a2",
   "lastOpenFiles": [
+    "templater/Weekly1.md",
+    "templater/Weekly.md",
+    "Journal/Weekly/2026-W01.md",
+    "Journal/Daily/2026-01-02.md",
+    "Inbox.md",
     "journal/2026-01-01.md",
     "Journal/Daily/2026-01-01.md",
     "Clippings/People who grew up before the internet developed these 7 cognitive abilities that are now nearly impossible to acquire.md",
-    "Inbox.md",
     "archive/Daily notes/2025-10-21.md",
     "personal/health/Pension Fund Insurance.md",
     "CPG.md",
