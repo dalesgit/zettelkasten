@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templater/Weekly2.md",
+                "file": "Journal/Monthly/2026-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weekly2"
+              "title": "2026-01"
             }
           }
         ]
@@ -228,10 +228,14 @@
   },
   "active": "34f10095e57837a2",
   "lastOpenFiles": [
+    "Journal/Weekly/2026-W01.md",
+    "Journal/Monthly/2026-01.md",
+    "Journal/Daily/2026-01-02.md",
+    "writing.md",
+    "weekly templates.md",
+    "templater/Weekly2.md",
     "templater/Weekly1.md",
     "templater/Weekly.md",
-    "Journal/Weekly/2026-W01.md",
-    "Journal/Daily/2026-01-02.md",
     "Inbox.md",
     "journal/2026-01-01.md",
     "Journal/Daily/2026-01-01.md",
@@ -252,8 +256,6 @@
     "notes/Miriam.md~",
     "Poetry/writing-12-26.md",
     "Journal/Daily/2025-12-29.md",
-    "Poetry/christmas-25.md",
-    "Poetry/writing-12-27.md",
-    "Clippings/A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way  George Monbiot.md"
+    "Poetry/christmas-25.md"
   ]
 }
