@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "Clippings/Books That Open the Mind.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Books That Open the Mind"
             }
           }
         ]
@@ -220,9 +220,11 @@
   },
   "active": "81e6333e97a432c1",
   "lastOpenFiles": [
+    "Journal/Daily/2026-01-04.md",
+    "Clippings/Books That Open the Mind.md",
+    "Inbox.md",
     "Journal/Daily/2026-01-01.md",
     "Clippings/People who grew up before the internet developed these 7 cognitive abilities that are now nearly impossible to acquire.md",
-    "Inbox.md",
     "archive/Daily notes/2025-10-21.md",
     "personal/health/Pension Fund Insurance.md",
     "CPG.md",
