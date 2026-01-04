@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-01-01.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-01"
+              "title": "Inbox"
             }
           }
         ]
@@ -220,8 +220,8 @@
   },
   "active": "81e6333e97a432c1",
   "lastOpenFiles": [
-    "Clippings/People who grew up before the internet developed these 7 cognitive abilities that are now nearly impossible to acquire.md",
     "Journal/Daily/2026-01-01.md",
+    "Clippings/People who grew up before the internet developed these 7 cognitive abilities that are now nearly impossible to acquire.md",
     "Inbox.md",
     "archive/Daily notes/2025-10-21.md",
     "personal/health/Pension Fund Insurance.md",
