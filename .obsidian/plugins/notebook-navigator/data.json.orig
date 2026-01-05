@@ -18,7 +18,7 @@
   "autoRevealIgnoreRightSidebar": true,
   "multiSelectModifier": "cmdCtrl",
   "startView": "files",
-  "homepage": null,
+  "homepage": "Inbox.md",
   "mobileHomepage": null,
   "useMobileHomepage": false,
   "showTooltips": false,
@@ -73,12 +73,12 @@
   "showTags": true,
   "showTagIcons": true,
   "showAllTagsFolder": true,
-  "showUntagged": false,
+  "showUntagged": true,
   "tagSortOrder": "alpha-asc",
   "keepEmptyTagsProperty": false,
   "defaultFolderSort": "modified-desc",
   "revealFileOnListChanges": true,
-  "listPaneTitle": "header",
+  "listPaneTitle": "list",
   "noteGrouping": "date",
   "filterPinnedByFolder": false,
   "showPinnedGroupHeader": true,
@@ -287,7 +287,9 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "/": "created-desc"
+  },
   "folderAppearances": {},
   "tagIcons": {},
   "tagColors": {},
@@ -297,9 +299,13 @@
   "navigationSeparators": {},
   "recentColors": [],
   "lastShownVersion": "",
-  "latestKnownRelease": "",
-  "lastAnnouncedRelease": "",
-  "lastReleaseCheckAt": null,
+  "latestKnownRelease": "2.0.3",
+  "lastAnnouncedRelease": "2.0.0",
+<<<<<<< HEAD
+  "lastReleaseCheckAt": 1767589087727,
+=======
+  "lastReleaseCheckAt": 1767526776262,
+>>>>>>> 4b401524fa2462b5380bd086112a7c3b85639464
   "rootFolderOrder": [],
   "rootTagOrder": []
 }
