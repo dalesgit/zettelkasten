@@ -2,16 +2,19 @@
 
 ## clothes
 
+### pants
 - [ ] 2 long training pants
 - [ ] 2 long sleeve flannel
+### clothes
 - [ ] sweater
+- [ ] training shoes
+- [ ] underwear
+- [ ] socks
+- [ ] pull-on shorts (2)
+- 
 - [x] 1 cotton short sleeve
 - [x] Aloha shirt
-- [x] training shoes
-- [x] underwear
-- [x] socks
 - [x] crocs
-- [x] pull-on shorts (2)
 - [x] swimsuit 
 ### Dressy
 
@@ -19,29 +22,30 @@
 
 ### Variable temperature
 
-- [x] jacket
-- [x] hat
+- [ ] jacket
+- [ ] hat
 - [x] bicycle equipment
 - [x] bike stuff: 
 - [x] stool, front bag, helmet, pump
-- [x] exercise bag with headphones
+- [ ] exercise bag with headphones
+- 
 ## bathroom
  
-- [x] Black bag
-- [x] water pic portable
+- [ ] Black bag
+- [ ] water pic portable
 - [ ] wipes
-- [x] toothbrush
+- [ ] toothbrush
 - [ ] shampoos
-- [x] scrunchy cloth
+- [ ] scrunchy cloth
 - [ ] electric clipper
-- [x] second Bathroom bag  
-- [x] nightlight 
+- [ ] second Bathroom bag  
+- [ ] nightlight 
 ## Meds
 
-- [x] first aid
+- [ ] first aid
 - [x] fungal
 - [ ] eczema
-- [x] Regular meds 
+- [ ] Regular meds (2)
 
 ## Other
 
@@ -52,14 +56,25 @@
 - [x] snacks
 - [x] cheese
 - [x] trail mix
-- [x] Strength chord
+- [ ] Strength chord
 
 ### tech
 
-- [x] bookx
-- [x] new keyboard
-- [x] tablet
-- [x] chargers: hearing, watch, iphone, usb a, usb c, computer
-- [x] combo cube -- and/or new cord
-- [x] hearing aid
-- [x] journal
+- [ ] bookx
+- [ ] new keyboard
+- [ ] tablet
+- [ ] chargers: hearing, watch, iphone, usb a, usb c, computer
+- [ ] combo cube -- and/or new cord
+- [ ] hearing aid
+- [ ] journal
+- [ ] charger
+
+## Carry on
+- [ ] charger
+- [ ] headphones
+- [ ] neck pillow
+- [ ] pencil / paper
+- [ ] journal
+- [ ] lenovo notebook
+- [ ] samsung tablet
+- [ ] 

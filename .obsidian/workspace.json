@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2026-01-05"
             }
+          },
+          {
+            "id": "4813f4e853fa6cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "travel/packing-colorado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "packing-colorado"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,21 +242,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "47eb4de8ffec6dd2",
+  "active": "4813f4e853fa6cec",
   "lastOpenFiles": [
+    "travel/packing checklist.md",
+    "travel/packing-colorado.md",
+    "Journal/Daily/2026-01-05.md",
+    "Inbox.md",
     "Clippings/Gmail Users Were Automatically Opted In to This Controversial Setting. Here's How To Turn It Off..md",
     "Journal/Weekly/2026-W02.md",
     "ReadItLater Inbox/10 Linux apps I tried in 2025 that I'm still using daily.md",
     "Journal/Daily/2025-12-29.md",
-    "Journal/Daily/2026-01-05.md",
-    "travel/packing checklist.md",
-    "travel/packing-colorado.md",
     "travel/packing-hilton-head.md",
     "writing/headed_for_colorado.md",
     "writing",
     "templates/new-writing.md",
     "templates/new-poem.md",
-    "Inbox.md",
     "Clippings/Hope in a Time of Cynicism.md",
     "Journal/Daily/2026-01-04.md",
     "Clippings/How I save any web page to my Obsidian vault (and actually read it later).md",
