@@ -3,32 +3,33 @@
 ## clothes
 
 ### pants
-- [ ] 2 long training pants
-- [ ] 2 long sleeve flannel
+- [x]  2 long training pants
+- [x] 2 long sleeve flannel
+- [x] levis with belt
+- [x] Gerry pants
 ### clothes
-- [ ] sweater
-- [ ] training shoes
-- [ ] underwear
+- [x] sweater (green )
+- [x] Julian flannel pull-over
+- [x] training shoes
+- [x] underwear
 - [ ] socks
-- [ ] pull-on shorts (2)
-- 
-- [x] 1 cotton short sleeve
-- [x] Aloha shirt
-- [x] crocs
-- [x] swimsuit 
+- [x] pull-on shorts
+- [x] short sleeve pullon
+- [x] long-sleeves pullover (3)
+- [x] 2 belts
 ### Dressy
 
-- [x] good shirt & slacks?
 
 ### Variable temperature
 
-- [ ] jacket
-- [ ] hat
-- [x] bicycle equipment
-- [x] bike stuff: 
-- [x] stool, front bag, helmet, pump
+- [x] jacket (New Zealand)
+- [x] down vest
+- [x] beanie hat
+- [x] soft gloves
+- [x] scarf
 - [ ] exercise bag with headphones
-- 
+
+---
 ## bathroom
  
 - [ ] Black bag
@@ -43,7 +44,6 @@
 ## Meds
 
 - [ ] first aid
-- [x] fungal
 - [ ] eczema
 - [ ] Regular meds (2)
 
@@ -51,30 +51,33 @@
 
 ### Hotel rooms
 
-- [x] coffee & filters
-- [x] wine & cork screw
-- [x] snacks
-- [x] cheese
-- [x] trail mix
 - [ ] Strength chord
-
+- [ ] 2 glasses
+- [ ] 2 meds
+- [ ] bluetooth earpods
+- [ ] j5create adapter
+- [ ] micro card
+- [ ] belly pack
 ### tech
 
 - [ ] bookx
 - [ ] new keyboard
-- [ ] tablet
-- [ ] chargers: hearing, watch, iphone, usb a, usb c, computer
+- [ ] chargers: 
+	- [ ] hearing aids, 
+	- [ ] watch, 
+	- [ ] high capacity adapter
+	- [ ] stylus
 - [ ] combo cube -- and/or new cord
-- [ ] hearing aid
-- [ ] journal
+- [ ] hearings aid spare
 - [ ] charger
 
-## Carry on
+### Carry on
 - [ ] charger
 - [ ] headphones
-- [ ] neck pillow
-- [ ] pencil / paper
-- [ ] journal
-- [ ] lenovo notebook
-- [ ] samsung tablet
-- [ ] 
+- [x] neck pillow
+- [x] pencil / paper
+- [x] journal
+- [x] lenovo notebook
+- [x] samsung tablet
+- [x] phone stand
+
