@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0e994cd7007d3849",
+        "id": "8662b05e971a5a8a",
         "type": "tabs",
         "children": [
           {
-            "id": "34f10095e57837a2",
+            "id": "81e6333e97a432c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "Journal/Daily/2026-01-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "2026-01-04"
             }
           }
         ]
@@ -90,15 +90,16 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook",
+              "title": "Notebook Navigator"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b679a834ef3ef70",
@@ -187,16 +188,6 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "e2e7354097c103cb",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
@@ -206,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 430.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,21 +214,18 @@
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "34f10095e57837a2",
+  "active": "81e6333e97a432c1",
   "lastOpenFiles": [
-    "Journal/Monthly/2026-01.md",
-    "Journal/Weekly/2026-W01.md",
-    "Journal/Daily/2026-01-02.md",
-    "writing.md",
-    "weekly templates.md",
-    "templater/Weekly2.md",
-    "templater/Weekly1.md",
-    "templater/Weekly.md",
+    "Clippings/How I save any web page to my Obsidian vault (and actually read it later).md",
+    "Journal/Daily/2026-01-04.md",
+    "Clippings/8 Great Books You'll Think About for Years.md",
+    "Clippings/7 small physical abilities people lose in their 60s that signal decline has begun—most don't notice until 5 is gone.md",
+    "Clippings/Books That Open the Mind.md",
     "Inbox.md",
-    "journal/2026-01-01.md",
     "Journal/Daily/2026-01-01.md",
     "Clippings/People who grew up before the internet developed these 7 cognitive abilities that are now nearly impossible to acquire.md",
     "archive/Daily notes/2025-10-21.md",
@@ -255,6 +244,8 @@
     "notes/Miriam.md~",
     "Poetry/writing-12-26.md",
     "Journal/Daily/2025-12-29.md",
-    "Poetry/christmas-25.md"
+    "Poetry/christmas-25.md",
+    "Poetry/writing-12-27.md",
+    "Clippings/A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way  George Monbiot.md"
   ]
 }
