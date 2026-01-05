@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Monthly/2026-01.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01"
+              "title": "Inbox"
             }
           }
         ]
@@ -219,17 +219,16 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "periodic-notes:Open today": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "34f10095e57837a2",
   "lastOpenFiles": [
-    "Journal/Weekly/2026-W01.md",
     "Journal/Monthly/2026-01.md",
+    "Journal/Weekly/2026-W01.md",
     "Journal/Daily/2026-01-02.md",
     "writing.md",
     "weekly templates.md",
