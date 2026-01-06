@@ -11,9 +11,24 @@
             "id": "bbbda379b1a51db3",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2026-01-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-06"
             }
           }
         ]
@@ -204,9 +219,11 @@
   },
   "active": "bbbda379b1a51db3",
   "lastOpenFiles": [
+    "Journal/Daily/2026-01-06.md~",
+    "Inbox.md",
+    "Journal/Daily/2026-01-06.md",
     "Journal/Daily/2026-01-05.md",
     "Clippings/Corporation for Public Broadcasting Votes to Shut Down.md",
-    "Inbox.md",
     "travel/packing-colorado.md",
     "travel/packing checklist.md",
     "Clippings/Gmail Users Were Automatically Opted In to This Controversial Setting. Here's How To Turn It Off..md",
@@ -230,8 +247,6 @@
     "personal/health/Pension Fund Insurance.md",
     "CPG.md",
     "assets/edited-2026 GMA enrollment form.pdf",
-    "archive/Daily notes/2025-10-27.md",
-    "Journal/Daily/2025-12-31.md",
     "Poetry/writing-12-26.md~",
     "notes/Miriam.md~"
   ]
