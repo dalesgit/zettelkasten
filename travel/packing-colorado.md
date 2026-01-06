@@ -12,7 +12,7 @@
 - [x] Julian flannel pull-over
 - [x] training shoes
 - [x] underwear
-- [ ] socks
+- [x] socks
 - [x] pull-on shorts
 - [x] short sleeve pullon
 - [x] long-sleeves pullover (3)
@@ -32,47 +32,47 @@
 ---
 ## bathroom
  
-- [ ] Black bag
-- [ ] water pic portable
-- [ ] wipes
-- [ ] toothbrush
-- [ ] shampoos
+- [x] Black bag
+- [x] water pic portable
+- [x] wipes
+- [x] toothbrush
+- [x] shampoos
 - [ ] scrunchy cloth
 - [ ] electric clipper
 - [ ] second Bathroom bag  
-- [ ] nightlight 
+- [x] nightlight 
 ## Meds
 
 - [ ] first aid
 - [ ] eczema
-- [ ] Regular meds (2)
+- [x] Regular meds (2)
 
 ## Other
 
 ### Hotel rooms
 
 - [ ] Strength chord
-- [ ] 2 glasses
-- [ ] 2 meds
-- [ ] bluetooth earpods
-- [ ] j5create adapter
-- [ ] micro card
-- [ ] belly pack
+- [x] 2 glasses
+- [x] 2 meds
+- [x] bluetooth earpods
+- [x] j5create adapter
+- [x] micro card
+- [x] belly pack
 ### tech
 
-- [ ] bookx
-- [ ] new keyboard
-- [ ] chargers: 
-	- [ ] hearing aids, 
-	- [ ] watch, 
-	- [ ] high capacity adapter
-	- [ ] stylus
-- [ ] combo cube -- and/or new cord
-- [ ] hearings aid spare
-- [ ] charger
+- [x] bookx
+- [x] new keyboard
+- [x] chargers: 
+	- [x] hearing aids, 
+	- [x] watch,
+	- [x] high capacity adapter
+	- [x] stylus
+- [x] combo cube -- and/or new cord
+- [x] hearings aid spare
+- [x] charger
 
 ### Carry on
-- [ ] charger
+- [x] charger
 - [ ] headphones
 - [x] neck pillow
 - [x] pencil / paper
