@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Trump Blurts Out Dark Truth About Venezuela Plan—and About MAGA Voters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Trump Blurts Out Dark Truth About Venezuela Plan—and About MAGA Voters"
-            }
-          },
-          {
-            "id": "030205af57dc07bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
@@ -54,9 +30,32 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
+          },
+          {
+            "id": "030205af57dc07bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippers/Why You Should Make a Pot of Soup Every Week.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Why You Should Make a Pot of Soup Every Week"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,14 +241,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "030205af57dc07bd",
+  "active": "f94ac755a5a2cb93",
   "lastOpenFiles": [
-    "Clippers/When A Person Loses Their Motivation In Life, These 11 Habits Disappear First  YourTango.md",
+    "Clippings/Trump Blurts Out Dark Truth About Venezuela Plan—and About MAGA Voters.md",
+    "Clippers/Why You Should Make a Pot of Soup Every Week.md",
     "Inbox.md",
+    "Clippers/When A Person Loses Their Motivation In Life, These 11 Habits Disappear First  YourTango.md",
     "Inbox.md~",
     "Clippings/The Best Time of Day to Exercise for Healthy Blood Sugar, According to Science.md",
     "Journal/Daily/2026-01-07.md",
-    "Clippings/Trump Blurts Out Dark Truth About Venezuela Plan—and About MAGA Voters.md",
     "Note to self.md",
     "Clippings/12 Notes to Self We Should All Memorize Before the End of the Year.md~",
     "Note to self.md~",
@@ -274,7 +274,6 @@
     "Clippings/How I save any web page to my Obsidian vault (and actually read it later).md",
     "Clippings/8 Great Books You'll Think About for Years.md",
     "Clippings/7 small physical abilities people lose in their 60s that signal decline has begun—most don't notice until 5 is gone.md",
-    "Clippings/Books That Open the Mind.md",
     "assets/edited-2026 GMA enrollment form.pdf",
     "Poetry/writing-12-26.md~",
     "notes/Miriam.md~"
