@@ -9,6 +9,8 @@ tags: []
 - [[The Best Time of Day to Exercise for Healthy Blood Sugar, According to Science]]
 - [[When A Person Loses Their Motivation In Life, These 11 Habits Disappear First  YourTango]]
 - [[Why You Should Make a Pot of Soup Every Week]]
+- [[3 journaling applications for the Linux desktop]] I need something I can go to quickly on linux notebooks
+- 
 ## 2025-12-28
 
 - [[A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way  George Monbiot]]
