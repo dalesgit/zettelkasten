@@ -3,6 +3,9 @@ id: Inbox
 aliases: []
 tags: []
 ---
+## 2026-01-09
+- [[Trump pulls US out of international cultural property preservation centre and coalition of arts agencies - The Art Newspaper - International art news and events]] the behavior of a spoiled 3 year old.
+- [[Minneapolis Cancels School After Federal Agents Attack Students  The New Republic]] one horror after another.
 ## 2026-01-07
 
 - [[Trump Blurts Out Dark Truth About Venezuela Plan—and About MAGA Voters]]
