@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "414ee1861fc7dc6a",
+        "id": "eba54a6a7e2bdb2d",
         "type": "tabs",
         "children": [
           {
-            "id": "cdca3696f1335dfa",
+            "id": "1703e36262c61c83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippers/We Have the King That Thomas Paine Feared.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "We Have the King That Thomas Paine Feared"
-            }
-          },
-          {
-            "id": "ba5f9537d2891087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2026-01-09.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-09"
+              "title": "Inbox"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +217,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ba5f9537d2891087",
+  "active": "1703e36262c61c83",
   "lastOpenFiles": [
     "Clippers/We Have the King That Thomas Paine Feared.md",
+    "Clippers/The Philosopher Who Explains Stephen Miller - The Atlantic.md",
+    "Inbox.md",
     "Journal/Daily/2026-01-09.md",
     "Clippers/The Many Lives of a Radical Founder - The New York Times.md",
-    "Inbox.md",
     "Clippers/Minneapolis Cancels School After Federal Agents Attack Students  The New Republic.md",
     "Clippers/Trump pulls US out of international cultural property preservation centre and coalition of arts agencies - The Art Newspaper - International art news and events.md",
     "Clippings/3 journaling applications for the Linux desktop.md",
@@ -273,7 +249,6 @@
     "ReadItLater Inbox/10 Linux apps I tried in 2025 that I'm still using daily.md",
     "Journal/Daily/2025-12-29.md",
     "travel/packing-hilton-head.md",
-    "writing/headed_for_colorado.md",
     "writing",
     "assets/edited-2026 GMA enrollment form.pdf",
     "Poetry/writing-12-26.md~",

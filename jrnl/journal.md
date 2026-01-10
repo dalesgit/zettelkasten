@@ -35,3 +35,43 @@ Julian washes his SUV 4-5 times since buying "because it's still new."
 [2026-01-08 04:58:44 PM] ICE shot and killed a woman.
 It seems so amazing that it is unsurprising to huge swathes of the popultion. Julian seems not quite a-political. But he described matter-of-factly when ICE had moved into Silverthorne, witness the many people speaking Spanish (among the workers). But the situation he mentioned
 was of a local program that delivers food to needy folks, but as they moved away, sometimes food kept getting delivered to the address.
+
+[2026-01-09 06:17:26 PM] An hour out in the weather.,
+Beauty that took the breath away. Equally telling, however, is my statement to MP that sometimes I feel like crying here.
+
+[2026-01-09 06:21:27 PM] today
+
+[2026-01-09 06:55:46 PM] encrypted message from CPG.
+#security: dch2Mimecast!
+ https://login-us.mimecast.com/m/secure/app/?tkn=3.nXiTCxhqbbKS7pMB6lioPMYdnU-FVSbG1V06mo2ZpFdqhdMNx3hWyxv8iXGxMhLDuN_JRfTdUMyiYQ2gfz15apqsQx46zKB-teJvST16EdfDBdYtev-Cb79rPkhh3CqPYlVizpR_tEoqrKi8lV2CtTw2gZPs1fxcZXFF-5vh5_qAppT5-HWOvk78eFad00fp.B0vrMT4RvpP9FK5V4XbMmA#/inbox
+
+Your enrollment confirmation has been sent through an encrypted email via Mimecast secure messaging. The message was emailed to you today at 12:56 P.M. ET and will require you to log into the Mimecast mailbox. Please be advised that email from Mimecast does not come from cpg.org. If you do not receive this email, please check your spam, junk, and phishing folders.
+
+ 
+
+If you have already created a Mimecast account in the past, you will need to log in with your credentials.
+
+If you do not remember your Mimecast credentials, click the ‘Forgot your password’ link. Fill in your email address and click on the Reset Password button.
+If this is your first time receiving a secure email from Mimecast, please click the Create a Password link. Create the password you would like to use for this secure service. 
+ 
+
+Participants can review their benefits and update their personal information on www.cpg.org by clicking MY CPG (Sign In / Create Account at the top right of the screen).
+
+[2026-01-09 11:15:14 PM] We stayed up late 11 talking about a miscellany.
+I thought earlier that I didn't know what we would find to fill the time. And then:
+    
+- He was interested in the early stories about Charles and Polly Carroll.
+- He asked about the churches that are having to close, seeing stories about them being transformed into climbing gyms, etc.
+- I told about how I thought the Holocaust changed so much about what Christians can and ought to teach.
+- He showed me his guitars: One was made from a kit (Owen) and sold on Amaazon. One from the neck of a broken guitar fused to the body of a broken guitar.
+- I told about Mike and the ukulele he is making for me.
+- He told of a dream that one day he would own land on which he could build a home (shack if need be). "The American Dream."
+- I told of Scott and I sharing that we only have today to live.
+- I told him of how I saw similarities with us that we each fail to focus on one thing to master it, but do and know lots of things.
+
+[2026-01-09 11:48:20 PM] Julian and Mo.
+- He acknowledged the special relationship he has with her. I said (maybe mistakenly) in addition to **friend** she is also **mother**.
+
+[2026-01-10 08:28:12 AM] Mary Pat in tears.
+#current
+She had been up a while and on her way out to have lunch with Diane. She was still in bed when she read a story about Sarah Goode, actually a sermon by an ELCA pastor. She was adamant that the church needs to be forceful in response. She thought of turning her keys in and resigning from the vestry if there's not a forceful response.
