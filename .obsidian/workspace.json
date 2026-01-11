@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "633b85dc5b9f5ac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/White Christians Must Destroy White Christian Nationalism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "White Christians Must Destroy White Christian Nationalism"
-            }
-          },
-          {
             "id": "c914972181d97cf9",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               "title": "Inbox"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,9 +219,15 @@
   },
   "active": "c914972181d97cf9",
   "lastOpenFiles": [
-    "Clippers/Opinion  The ‘Attention Economy’ Is a Lie - The New York Times.md",
+    "Clippers/how often and how well - dhath12@gmail.com - Gmail.md",
+    "Clippers/The Sourdough to Conspiracy Pipeline - dhath12@gmail.com - Gmail.md",
     "Inbox.md",
+    "Clippers/When the State Terrorizes the People - dhath12@gmail.com - Gmail.md",
+    "Clippers/When the State Terrorizes the People - dhath12@gmail.com - Gmail.md~",
+    "Clippers/Fwd Saturday Morning Covfefe 5 Things That Explain This Moment - dhath12@gmail.com - Gmail.md",
+    "Clippers/Fwd Sunday Musings Baptism of Solidarity - dhath12@gmail.com - Gmail.md",
     "Clippings/White Christians Must Destroy White Christian Nationalism.md",
+    "Clippers/Opinion  The ‘Attention Economy’ Is a Lie - The New York Times.md",
     "Clippings/Cox-Richardson-on_fascism_January_9,_2026.md",
     "Clippings/I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic.md",
     "Inbox.md~",
@@ -270,15 +251,9 @@
     "Clippings/12 Notes to Self We Should All Memorize Before the End of the Year.md",
     "Journal/Daily/2026-01-05.md",
     "travel/packing checklist.md",
-    "travel/packing-colorado.md",
-    "Journal/Daily/2026-01-04.md",
-    "Journal/Daily/2026-01-06.md",
     "Journal/Daily/2026-01-06.md~",
-    "Clippings/Corporation for Public Broadcasting Votes to Shut Down.md",
-    "Clippings/Gmail Users Were Automatically Opted In to This Controversial Setting. Here's How To Turn It Off..md",
     "writing",
     "assets/edited-2026 GMA enrollment form.pdf",
-    "Poetry/writing-12-26.md~",
-    "notes/Miriam.md~"
+    "Poetry/writing-12-26.md~"
   ]
 }
