@@ -39,8 +39,6 @@ was of a local program that delivers food to needy folks, but as they moved away
 [2026-01-09 06:17:26 PM] An hour out in the weather.,
 Beauty that took the breath away. Equally telling, however, is my statement to MP that sometimes I feel like crying here.
 
-[2026-01-09 06:21:27 PM] today
-
 [2026-01-09 06:55:46 PM] encrypted message from CPG.
 #security: dch2Mimecast!
  https://login-us.mimecast.com/m/secure/app/?tkn=3.nXiTCxhqbbKS7pMB6lioPMYdnU-FVSbG1V06mo2ZpFdqhdMNx3hWyxv8iXGxMhLDuN_JRfTdUMyiYQ2gfz15apqsQx46zKB-teJvST16EdfDBdYtev-Cb79rPkhh3CqPYlVizpR_tEoqrKi8lV2CtTw2gZPs1fxcZXFF-5vh5_qAppT5-HWOvk78eFad00fp.B0vrMT4RvpP9FK5V4XbMmA#/inbox
@@ -74,4 +72,22 @@ I thought earlier that I didn't know what we would find to fill the time. And th
 
 [2026-01-10 08:28:12 AM] Mary Pat in tears.
 #current
-She had been up a while and on her way out to have lunch with Diane. She was still in bed when she read a story about Sarah Goode, actually a sermon by an ELCA pastor. She was adamant that the church needs to be forceful in response. She thought of turning her keys in and resigning from the vestry if there's not a forceful response.
+She had been up a while and on her way out to have lunch with Diane. She was still in bed when she read a story about Renee Goode, actually a sermon by an ELCA pastor. She was adamant that the church needs to be forceful in response. She thought of turning her keys in and resigning from the vestry if there's not a forceful response.
+
+[2026-01-10 07:19:22 PM] Mo and dogs.
+- 6-7 years ago she ran over her beloved Anna at Ring Lake Ranch. The sensation of seeing with her 2 big dogs. Julian called it "Adventure" dog.
+
+Mo sends greetings to Mary Pat. Her spiritual connections are deep.
+
+- She has been Ireland 4 times, but is their kind of go-to cook
+- her break-up with the chapel came at the time of Gene Peterson, and ACNA etc.
+- plus "Lee" didn't like it (why?)
+- Her connection with the nuns
+- She had an intensive intro to Thomas Keating in the 90's
+- I had told Julian about our attraction to the church in Milwaukee
+- her singing to people at time of death
+- her presence with Sophie's children at their birth, singing for 36 hours as she drove to the birth of her first-born.
+- she is going to the demonstration tomorrow for Renee Good
+- she is mono-focused on her own stuff
+- she has had health issues. Cataract problems, cardiac (A-fib), cpak- etc.
+- emotional passion -- cp MP
