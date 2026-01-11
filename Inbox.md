@@ -9,6 +9,7 @@ tags: []
 - [[I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic|Clippings/I am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic]]
 - [[Cox-Richardson-on_fascism_January_9,_2026]] We were a different country then.
 - [[White Christians Must Destroy White Christian Nationalism]] MP referred.
+- [[Opinion  The ‘Attention Economy’ Is a Lie - The New York Times]]
 ## 2026-01-09
 - [[Trump pulls US out of international cultural property preservation centre and coalition of arts agencies - The Art Newspaper - International art news and events]] the behavior of a spoiled 3 year old.
 - [[Minneapolis Cancels School After Federal Agents Attack Students  The New Republic]] one horror after another.
