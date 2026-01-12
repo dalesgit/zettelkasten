@@ -91,3 +91,10 @@ Mo sends greetings to Mary Pat. Her spiritual connections are deep.
 - she is mono-focused on her own stuff
 - she has had health issues. Cataract problems, cardiac (A-fib), cpak- etc.
 - emotional passion -- cp MP
+
+[2026-01-11 10:19:17 PM] Solar eclipses and Google Photos.
+August 17. In the Collection. How many other things are in the massive collection?
+
+https://www.timeanddate.com/eclipse/2017
+
+This main site has several interesting areas, including "This day in history"
