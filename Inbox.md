@@ -66,3 +66,5 @@ Part 2
 ### 2025-12-26
 
 - [[Every remote worker should own this $30 desk gadget]]
+
+https://www.nytimes.com/2026/01/12/climate/trump-epa-air-pollution.html?smid=nytcore-ios-share
