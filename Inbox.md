@@ -9,6 +9,7 @@ tags: []
 - [[When the State Terrorizes the People - dhath12@gmail.com - Gmail]]
 - [[how often and how well - dhath12@gmail.com - Gmail]] Renee Good's poem
 - [[The Sourdough to Conspiracy Pipeline - dhath12@gmail.com - Gmail]] use of language, regime, 1984
+- [[Expert Review of Tony Dokoupil's Premiere on CBS Evening News]] the demise of a fabled network
 ## 2026-01-10
 
 - [[The Philosopher Who Explains Stephen Miller - The Atlantic]] reminder that scenario that drives Miller was for Hobbes the **problem** that needed to be solved.
