@@ -3,6 +3,8 @@ id: Inbox
 aliases: []
 tags: []
 ---
+## 2026-01-12
+- [[Opinion  This Rural Congresswoman Thinks Democrats Have Lost Their Minds. She Has a Point. - The New York Times]] sanity at work
 ## 2026-01-11
 - [[Fwd Sunday Musings Baptism of Solidarity - dhath12@gmail.com - Gmail]] good grounding for Sunday mass
 - [[Fwd Saturday Morning Covfefe 5 Things That Explain This Moment - dhath12@gmail.com - Gmail]] The shift in reality this past week.

@@ -98,3 +98,34 @@ August 17. In the Collection. How many other things are in the massive collectio
 https://www.timeanddate.com/eclipse/2017
 
 This main site has several interesting areas, including "This day in history"
+
+[2026-01-12 08:14:28 AM] Where is the psalm project I did.
+It's not in Simplenote.
+
+[2026-01-12 08:15:11 AM] Where is the chart of sprinkler heads.
+
+[2026-01-12 07:33:55 PM] From here to Mt Princeton and back.
+- Stopped in Frisco to clean a hot tub.
+- A book on History of US as a part of global history.
+- Leadville: Trailhead clothes and Simple Food
+- Crisco molybdenum mine, stretching from mountain to mountain.
+- *Blast Festival* in Leadville Julian might go to with rocks with holes that hold the "blast"
+- Luxury of driving to see the Beauty
+- Julian knows he spends time scrolling in order to procrastinate the things need doing
+- I asked who best friends were: in CoSpgs it's Graham. Gone through marriage where he thought not good, divorce, but now he's pretty happy.
+- Jesse, … one schyzophrenic … bands, etc. ole friends I've heard before.
+- Ronnie his co-worker his best friend in Silverthorne
+- Hot springs: surrounded by such beauty in the snowy peaks.
+- catalog of 14'ers many 13'ers
+- he feels free when creative project
+- 3d modeling, painting the, welding with Lee, learning how to do things,
+- notanizer the phone app (from Mo) that takes photo and makes it a painting, or breaks into primary colors.
+- "**Jasmin** and I used to hangout and now we don't," was all he would say about their relationship. But then he seemed to hint that her personality was not good for him. (Too volatile?) He acknowledged that their relationship was hard to explain.
+
+[2026-01-12 08:35:07 PM] schedule Tuesday.
+10 - arrive DIA
+8-10 - drive Silverthorne to Denver
+7:30-8:00 - eat breakfast
+7-7:30 - cook breakfast
+6:30-7 - talk, prep
+6-6:30 - wake up
