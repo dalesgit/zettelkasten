@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f5cab8cde82e112d",
+        "id": "d4ce234a33778d1d",
         "type": "tabs",
         "children": [
           {
-            "id": "d6946ad5465b16c6",
+            "id": "8cdac56d530aeb74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippers/Want to Stop ICE Go After Its Corporate Collaborators.  The Nation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Want to Stop ICE Go After Its Corporate Collaborators.  The Nation"
+            }
+          },
+          {
+            "id": "bbcda852046bb4dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,32 +54,9 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
-          },
-          {
-            "id": "5c6fd418c9058d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2026-01-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-12"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +242,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d6946ad5465b16c6",
+  "active": "bbcda852046bb4dd",
   "lastOpenFiles": [
-    "Journal/Daily/2026-01-12.md",
     "Inbox.md",
+    "Clippers/Want to Stop ICE Go After Its Corporate Collaborators.  The Nation.md",
+    "Journal/Daily/2026-01-13.md",
+    "Journal/Daily/2026-01-12.md",
+    "Inbox.md~",
     "Clippers/Opinion  This Rural Congresswoman Thinks Democrats Have Lost Their Minds. She Has a Point. - The New York Times.md",
     "tech/index.md",
     "Clippers/Expert Review of Tony Dokoupil's Premiere on CBS Evening News.md",
@@ -259,7 +263,6 @@
     "Clippers/Opinion  The ‘Attention Economy’ Is a Lie - The New York Times.md",
     "Clippings/Cox-Richardson-on_fascism_January_9,_2026.md",
     "Clippings/I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic.md",
-    "Inbox.md~",
     "I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic|/Clippings",
     "I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic|",
     "Clippers/We Have the King That Thomas Paine Feared.md",
@@ -271,8 +274,6 @@
     "Clippings/3 journaling applications for the Linux desktop.md",
     "Clippers/Why You Should Make a Pot of Soup Every Week.md",
     "Clippings/Trump Blurts Out Dark Truth About Venezuela Plan—and About MAGA Voters.md",
-    "Clippers/When A Person Loses Their Motivation In Life, These 11 Habits Disappear First  YourTango.md",
-    "Clippings/The Best Time of Day to Exercise for Healthy Blood Sugar, According to Science.md",
     "Clippings/12 Notes to Self We Should All Memorize Before the End of the Year.md~",
     "Note to self.md~",
     "Journal/Daily/2026-01-06.md~",
