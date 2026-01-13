@@ -299,13 +299,13 @@
   "navigationSeparators": {},
   "recentColors": [],
   "lastShownVersion": "",
-  "latestKnownRelease": "2.0.3",
+  "latestKnownRelease": "2.0.4",
   "lastAnnouncedRelease": "2.0.0",
 <<<<<<< HEAD
-  "lastReleaseCheckAt": 1767589087727,
+  "lastReleaseCheckAt": 1768309436686,
 =======
-  "lastReleaseCheckAt": 1767526776262,
->>>>>>> 4b401524fa2462b5380bd086112a7c3b85639464
+  "lastReleaseCheckAt": 1768243209017,
+>>>>>>> 963a4ccead99190df127e407d2f48f0dbbb099f1
   "rootFolderOrder": [],
   "rootTagOrder": []
 }
