@@ -136,3 +136,5 @@ Ronnie and he can't talk politics.
 - Andra? 
 - his friend who is math whiz
 - clearly his politics are sympathetic to my own.
+
+[2026-01-14 08:30:27 AM] MP suggests that I plan on regular visits to my children.
