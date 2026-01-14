@@ -129,3 +129,10 @@ It's not in Simplenote.
 7-7:30 - cook breakfast
 6:30-7 - talk, prep
 6-6:30 - wake up
+
+[2026-01-13 08:44:08 PM] Julian and politics.
+Ronnie and he can't talk politics. 
+
+- Andra? 
+- his friend who is math whiz
+- clearly his politics are sympathetic to my own.
