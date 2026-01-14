@@ -63,3 +63,7 @@ The Episcopal Church Medical Trust continues to offer medical coverage to retire
 If you don’t know whom to contact for medical, dental, vision, or behavioral health needs, call Quantum. They’ll point you in the right direction and connect you with the resource you need. If, however, you know whose help you require, such as UnitedHealthcare or EyeMed, you can contact them directly.
 
 Cariloop is a new resource for GMA members that replaces Health Advocate (discontinued at the end of 2024). Quantum can also put you in touch with Cariloop Care Coaches. They are doctors, nurses, social workers, occupational therapists, certified dementia practitioners, and other seasoned professionals who can help you and your caregivers with everything from obtaining a preauthorization and navigating a cancer diagnosis to finding the right nursing home and understanding an advanced directive.
+
+Login info:
+- **mydalesuhc**
+- **dch2Unitedhealth!**
