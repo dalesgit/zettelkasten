@@ -82,5 +82,5 @@ REM Jan 13 2026 AT 12:00 MSG Flight to Tampa (14:00 EST) %b%
 REM FROM Jan 20 2026 UNTIL Jan 25 2026 SPECIAL COLOR 255 0 255 Naples with Cruise friends %b%
 REM Jan 29 MSG Marlene's 90th birthday %b%
 REM Jan 31 2026 THROUGH Feb 1 2026 MSG DH Preach %b%
-REM Feb 1 2026 THROUGH Feb 8 2026 SPECIAL COLOR 255 0 255 Charleston African American Museum %b%
-REM Jan 27 2026 AT 11:00 SPECIAL COLOR 0 250 0 Linda Serepca
+REM Feb 1 2026 THROUGH Feb 8 2026 SPECIAL COLOR 0 218 255 Charleston African American Museum %b%
+REM Jan 27 2026 AT 11:00 SPECIAL COLOR 0 218 255 Linda Serepca

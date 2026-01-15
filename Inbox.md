@@ -83,3 +83,7 @@ Part 2
 - https://www.nytimes.com/2026/01/12/us/politics/us-boat-attacks-law.html?smid=nytcore-ios-share
 - https://www.nytimes.com/2026/01/13/world/asia/myanmar-scam-complex-fraud.html?smid=nytcore-ios-share
 - https://www.nytimes.com/2026/01/13/world/asia/myanmar-scam-center.html?smid=nytcore-ios-share
+## 2026-01-15
+- [[Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International]]
+- [[I've been using these 8 core Linux commands wrong for years]]
+- 
