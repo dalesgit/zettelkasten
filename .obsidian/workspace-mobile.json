@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0120956c766d6bb",
+            "id": "ccd3248d12773cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/Daily driving Linux for 3 years taught me these 6 habits.md",
+                "file": "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daily driving Linux for 3 years taught me these 6 habits"
+              "title": "We are living in a time of polycrisis. If you feel trapped – you’re not alone"
             }
           },
           {
-            "id": "ccd3248d12773cec",
+            "id": "23e13a8d736c8fd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -215,10 +215,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ccd3248d12773cec",
+  "active": "23e13a8d736c8fd3",
   "lastOpenFiles": [
-    "ReadItLater Inbox/Daily driving Linux for 3 years taught me these 6 habits.md",
+    "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
     "Inbox.md",
+    "ReadItLater Inbox/Daily driving Linux for 3 years taught me these 6 habits.md",
     "Journal/Daily/2026-01-06.md",
     "Journal/Daily/2025-12-29.md",
     "Passing script variable.md",
@@ -241,7 +242,6 @@
     "Trump dementia.md",
     "Espresso martini.md",
     "Music examples 1.md",
-    "The true measure of any society.md",
-    "Music examples.md"
+    "The true measure of any society.md"
   ]
 }
