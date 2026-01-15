@@ -77,3 +77,6 @@ Part 2
 
 ## 2026-01-13
 - [[Want to Stop ICE Go After Its Corporate Collaborators.  The Nation]]
+## 2026-01-15
+- [[Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International]]
+- 
