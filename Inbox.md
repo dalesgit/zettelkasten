@@ -79,4 +79,5 @@ Part 2
 - [[Want to Stop ICE Go After Its Corporate Collaborators.  The Nation]]
 ## 2026-01-15
 - [[Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International]]
+- [[I've been using these 8 core Linux commands wrong for years]]
 - 
