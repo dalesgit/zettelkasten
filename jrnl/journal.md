@@ -138,3 +138,47 @@ Ronnie and he can't talk politics.
 - clearly his politics are sympathetic to my own.
 
 [2026-01-14 08:30:27 AM] MP suggests that I plan on regular visits to my children.
+
+[2026-01-14 04:57:43 PM] Obituary Tracy.
+Tracy, Paul John 	93 	Notre Dame, IN 	[Sarah Tracy (Decd)] 	12/15/2025
+
+[2026-01-14 06:05:00 PM] Report to SW Florida diocese.
+I am grateful to be able to exercise the particular gifts of my ordination. Celebrating the Eucharist touches deep spiritual touchstones. Preaching is a part of what I report on monthly to my spiritual director. She recognizes the importance it has for my own spiritual health. 
+
+I would like to add that this past year has been quite difficult because of the destruction and evil that has been perpetrated by the ruling party in our country. It affects me personally but just as importantly my concern for the life of the Church. I believe deeply that complacency or silence at this time is tantamount to complicity.
+
+[2026-01-14 06:34:48 PM] Report to Hawaii diocese.
+## Please list your continuing education (workshops attended, books read, etc) during the past year.*
+
+I am active in several discussion groups at our church. We attended the "Wild Goose Festival" in North Carolina.
+
+Charles Williams; _Indigenous Continent: The Episc Contest for North America_; _Etty Hillesum: a life transformed_; _Why: explaining the Holocaust_; a varity of novels. 
+
+Butler, Octavia E. _Parable of the Sower_. 2023.  
+Chu, Jeff. _Good Soil_. Convergent, 2025.  
+Desmond, Matthew. _Poverty, by America_. Crown trade paperback edition, Crown, 2024.  
+Granberg-Michaelson, Wesley. _The Soulwork of Justice: Four Movements for Contemplative Action_. Orbis Books, 2025.  
+Halík, Tomáš, and Gerald Turner. _Touch the Wounds: On Suffering, Trust, and Transformation_. English language, University of Notre Dame Press, 2023.  
+McMahon, Sharon. _The Small and the Mighty: Twelve Unsung Americans Who Changed the Course of History, from the Founding to the Civil Rights Movement_. 1st ed, Penguin Publishing Group, 2024.  
+Pagels, Elaine H. _Miracles and Wonder: The Historical Mystery of Jesus_. First edition, Doubleday, 2025.  
+Rohr, Richard. _The Tears of Things: Prophetic Wisdom for an Age of Outrage_. 1st ed, Potter/Ten Speed/Harmony/Rodale, 2025.  
+
+## What are you doing to care for yourself physically, emotionally, and spiritually? Is there something I should know?*
+
+The most important element is really my monthly time with my spiritual director. I keep up with medical appointments and am committed to regular exercise. My wife and I pray together daily.
+
+## How are you exercising your ministry? Are you doing something new or different?*
+
+I am one of 4 retired clergy at our parish. 
+
+## Is there anything else that you would like to tell me? How can I support you?*
+
+Thank you for your witness to the evil and injustice being perpetrated by the current regime in our country.
+
+[2026-01-14 07:29:52 PM] Julian on Florida.
+He said at one point that he (and lots of other folks) regard anyone from Florida as a majestic joke.
+
+[2026-01-15 09:04:12 AM] MP deeply moving narrative.
+This morning during **lectio** at home, MP told her familiar story Morris, 1st spiritual director, leader of **Centering Prayer** at Newman Center, descent to suicide, -- in a somehow new and powerful way. She said, 
+
+> "In a way all of my work in **Centering Prayer** for the last 20 years is a commemoration, in honor of, because of, Morris. He showed up and handed me the keys to the Newman Center, and left to check himself into the hospital. I don't think he wanted it to be me. I was new. Perhaps he hoped it would be June. But I was the one."
