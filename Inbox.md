@@ -86,4 +86,8 @@ Part 2
 ## 2026-01-15
 - [[Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International]]
 - [[I've been using these 8 core Linux commands wrong for years]]
-- 
+- https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/](https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/)
+https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/](https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/)
+
+This sounds significant. Both desktop and Mobile. 
+This sounds significant. Both desktop and Mobile. 
