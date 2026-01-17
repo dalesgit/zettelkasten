@@ -8,6 +8,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "bd15a2c65658ffd4",
             "type": "leaf",
             "state": {
@@ -53,12 +54,14 @@
               },
               "icon": "lucide-file",
               "title": "Inbox"
+=======
             "id": "293ae582b2758821",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
               "state": {},
               "title": "New tab"
+>>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
             }
           }
         ],
@@ -129,8 +132,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 433.5
+=======
     "width": 300
+>>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
   },
   "right": {
     "id": "1b679a834ef3ef70",
@@ -224,16 +230,19 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 448.5,
+=======
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 430.5,
+>>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
     "collapsed": true
   },
   "left-ribbon": {
@@ -250,6 +259,7 @@
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
+<<<<<<< HEAD
       "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
@@ -302,6 +312,7 @@
     "grocy-app/assets/grocy-pics/meal-plan.png",
     "grocy-app/assets/grocy-pics/equipment.png",
     "grocy-app/assets/grocy-pics/chores-overview.png"
+=======
       "periodic-notes:Open today": false
     }
   },
@@ -343,5 +354,6 @@
     "writing",
     "assets/edited-2026 GMA enrollment form.pdf",
     "Poetry/writing-12-26.md~"
+>>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
   ]
 }

@@ -1,6 +1,6 @@
-from [[packing-hilton-head]]
+from [[packing-colorado]]
 ```dataview
 task 
-from "travel/packing-hilton-head"
+from "travel/packing-colorado"
 where  !fullyCompleted
 ```

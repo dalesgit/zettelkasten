@@ -1,23 +1,27 @@
 {
   "main": {
-    "id": "28c668a48caae21b",
+    "id": "a3ed0319cb12beff",
     "type": "split",
     "children": [
       {
-        "id": "cdf0b323e697e192",
+        "id": "7c4e2eda266e63bb",
         "type": "tabs",
         "children": [
           {
-            "id": "9d3ee075547a4fc8",
+<<<<<<< HEAD
+            "id": "b0120956c766d6bb",
+=======
+            "id": "ccd3248d12773cec",
+>>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
-                "file": "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
+                "file": "Inbox.md",
 =======
-                "file": "Clippings/The James Webb Space Telescope may have finally found the 1st stars in the universe.md",
->>>>>>> bd5e7f039171a13b5680e52f6bdd07233855ae60
+                "file": "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
+>>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -33,19 +37,34 @@
               },
               "icon": "lucide-file",
 <<<<<<< HEAD
-              "title": "Wealthy People Have Always Shaped Universities. This Time Is Different."
+              "title": "Inbox"
+=======
+              "title": "We are living in a time of polycrisis. If you feel trapped – you’re not alone"
             }
           },
           {
-            "id": "1b1b41c3a7ce0a08",
+            "id": "23e13a8d736c8fd3",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-=======
-              "title": "The James Webb Space Telescope may have finally found the 1st stars in the universe"
->>>>>>> bd5e7f039171a13b5680e52f6bdd07233855ae60
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian 1.11 is a massive update for desktop, iPhone, and Android"
+>>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
             }
           }
         ],
@@ -55,16 +74,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0cb3cd07af282082",
+    "id": "918aa43e37eea8de",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f6fdc390ac9486d4",
+        "id": "b5efaa31bbc26293",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -72,12 +91,12 @@
         }
       },
       {
-        "id": "2f3bbc665c994e7b",
+        "id": "608750d8e301cdbf",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#dream",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -89,12 +108,12 @@
         }
       },
       {
-        "id": "67649377b1e9be18",
+        "id": "487cb8487b8b7c55",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "frequency",
             "useHierarchy": true,
             "showSearch": false,
             "searchQuery": ""
@@ -104,7 +123,7 @@
         }
       },
       {
-        "id": "8522c6657e276db3",
+        "id": "9eed73c901ba1e08",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -112,36 +131,21 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
-      },
-      {
-        "id": "9be8fa93ec5f4945",
-        "type": "leaf",
-        "state": {
-          "type": "notebook-navigator",
-          "state": {},
-          "icon": "notebook",
-          "title": "Notebook Navigator"
-        }
       }
     ],
-<<<<<<< HEAD
-    "currentTab": 4,
-    "pinned": true
-=======
-    "currentTab": 4
->>>>>>> bd5e7f039171a13b5680e52f6bdd07233855ae60
+    "currentTab": 0
   },
   "right": {
-    "id": "6e622f711dda0683",
+    "id": "ad92f39174edb5d8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "badc9ee7199e970f",
+        "id": "aba5e6759ef32de3",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ReadItLater Inbox/U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore.md",
+            "file": "ReadItLater Inbox/I should have started using this open-source graphics tool before paying for Adobe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,12 +159,12 @@
         }
       },
       {
-        "id": "8160fcdc3dfe0f61",
+        "id": "92437612b614d108",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Journal/Daily/2025-11-20.md",
+            "file": "ReadItLater Inbox/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -169,12 +173,12 @@
         }
       },
       {
-        "id": "6e4dd3cb108298e3",
+        "id": "76a9230e16280cdc",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/Daily/2025-11-20.md",
+            "file": "ReadItLater Inbox/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,7 +188,7 @@
         }
       },
       {
-        "id": "4d0da2ba91c5bb77",
+        "id": "68c7a82b472db884",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -194,7 +198,7 @@
         }
       },
       {
-        "id": "364c3848ce4c57e1",
+        "id": "2173598b704d10a3",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -208,7 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -218,42 +222,68 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-git:Open Git source control": false,
       "notebook-navigator:Notebook Navigator": false,
+      "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false
     }
   },
 <<<<<<< HEAD
-  "active": "1b1b41c3a7ce0a08",
-=======
-  "active": "9be8fa93ec5f4945",
->>>>>>> bd5e7f039171a13b5680e52f6bdd07233855ae60
+  "active": "b0120956c766d6bb",
   "lastOpenFiles": [
-    "Clippings/Wealthy People Have Always Shaped Universities. This Time Is Different..md",
-    "Journal/Daily/2025-11-30.md",
-    "Journal/Daily/2025-11-29.md",
-    "Journal/Daily/2025-11-28.md",
-    "ReadItLater Inbox/Africa’s forests transformed from carbon sink to carbon source, study finds.md",
-    "ReadItLater Inbox/At Last, a Name for the Murderous Face in a Holocaust Photo.md",
-    "ReadItLater Inbox/The Guardian view on Ukraine peace talks Putin is taking Trump for another ride on the Kremlin carousel  Editorial.md",
-    "ReadItLater Inbox/How Amazon turned our capitalist era of free markets into the age of technofeudalism  Yanis Varoufakis.md",
-    "Journal/Daily/2025-11-27.md",
-    "ReadItLater Inbox/3 Folk Lyrics From the 1960s That Still Leave You Asking Yourself Some Awfully Big Questions.md",
-    "ReadItLater Inbox/The Writer Who Dared Criticize Silicon Valley.md",
-    "ReadItLater Inbox/I built a Linux recovery drive that doubles as a persistent portable workstation.md",
-    "Irvin.md",
-    "ReadItLater Inbox/When Is My Thanksgiving Turkey Done and More Thanksgiving Questions Answered.md",
-    "ReadItLater Inbox/I wish I'd found this free tool before paying for Readwise.md",
-    "ReadItLater Inbox/Six Word Memoirs Home.md",
-    "Journal/Daily/2025-11-26.md",
-    "Poetry/poetry-11-26.md",
-    "Poetry/poetry-10-26.md",
-    "ReadItLater Inbox/12 Daily “Notes to Self” We Should All Memorize Before Life Gets Any Tougher.md",
-    "Thanksgiving examples.md",
-    "Journal/Daily/2025-11-24.md",
-    "Poetry/poetry-10-31.md",
-    "dream.md",
-    "ReadItLater Inbox/Americans are unprepared for the expensive and complex process of aging – a geriatrician explains how they can start planning.md",
-    "ReadItLater Inbox/Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be.md"
+=======
+  "active": "23e13a8d736c8fd3",
+  "lastOpenFiles": [
+    "Inbox.md",
+    "ReadItLater Inbox/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
+    "remind/remind-lit.md",
+    "remind/remind-drs.md",
+    "Clippers/Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International.md",
+    "Clippers/I've been using these 8 core Linux commands wrong for years.md",
+    "Journal/Daily/2026-01-15.md",
+    "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
+    "ReadItLater Inbox/Daily driving Linux for 3 years taught me these 6 habits.md",
+    "Journal/Daily/2026-01-06.md",
+    "Journal/Daily/2025-12-29.md",
+    "Passing script variable.md",
+    "passing variables with file names.md",
+    "ReadItLater Inbox/10 Linux apps I tried in 2025 that I'm still using daily.md",
+    "Journal/Daily/2025-12-28.md",
+    "ReadItLater Inbox/What America Might Look Like With Zero Immigration.md",
+    "ReadItLater Inbox/The Guardian view on sending letters the writing’s on the wall.md",
+    "Journal/Daily/2025-12-24.md",
+    "Journal/Daily/2025-12-27.md",
+    "Journal/Daily/2025-12-26.md",
+    "ReadItLater Inbox/New College of Florida Was Progressive. Then Gov. DeSantis Overhauled It..md",
+>>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
+    "Remember the signs.md",
+    "Nathan shel ha Shem.md",
+    "Genocide in Somalia.md",
+    "￼I insight about light on a hill.md",
+<<<<<<< HEAD
+    "Dr. Hamill, page 2.md",
+    "December 17, 2025 - dermatologist.md",
+    "The good news is that God is out there.md",
+    "Trump dementia.md",
+    "Espresso martini.md",
+    "Inbox.md",
+    "Journal/Daily/2025-12-24.md",
+    "Music examples 1.md",
+    "The true measure of any society.md",
+    "Music examples.md",
+    "Journal/Daily/2025-12-22.md",
+    "ReadItLater Inbox/The Guardian view on sending letters the writing’s on the wall.md",
+    "ReadItLater Inbox/American Diabetes Association releases new Standards of Care.md",
+    "tech/index-1.md",
+    "church/church/Preaching as circular not linear.md",
+    "tech/index.md",
+    "Journal/Daily/2025-12-15.md",
+    "ReadItLater Inbox/‘A very hostile climate for workers’ US labor movement struggles under Trump.md",
+    "ReadItLater Inbox/Threshold the choir who sing to the dying - documentary.md",
+    "ReadItLater Inbox/It’s the media’s job to hold power to account. This year, too many got into bed with it instead  Arwa Mahdawi.md",
+    "Journal/Daily/2025-12-14.md",
+    "advent_4-sermon.md"
+=======
+    "Dr. Hamill, page 2.md"
+>>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
   ]
 }

@@ -9,11 +9,13 @@
         "children": [
           {
             "id": "b0120956c766d6bb",
+            "id": "ccd3248d12773cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Inbox.md",
+                "file": "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,9 +31,35 @@
               },
               "icon": "lucide-file",
               "title": "Inbox"
+              "title": "We are living in a time of polycrisis. If you feel trapped – you’re not alone"
+            }
+          },
+          {
+            "id": "23e13a8d736c8fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian 1.11 is a massive update for desktop, iPhone, and Android"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +204,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,6 +220,29 @@
   },
   "active": "b0120956c766d6bb",
   "lastOpenFiles": [
+  "active": "23e13a8d736c8fd3",
+  "lastOpenFiles": [
+    "Inbox.md",
+    "ReadItLater Inbox/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
+    "remind/remind-lit.md",
+    "remind/remind-drs.md",
+    "Clippers/Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International.md",
+    "Clippers/I've been using these 8 core Linux commands wrong for years.md",
+    "Journal/Daily/2026-01-15.md",
+    "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
+    "ReadItLater Inbox/Daily driving Linux for 3 years taught me these 6 habits.md",
+    "Journal/Daily/2026-01-06.md",
+    "Journal/Daily/2025-12-29.md",
+    "Passing script variable.md",
+    "passing variables with file names.md",
+    "ReadItLater Inbox/10 Linux apps I tried in 2025 that I'm still using daily.md",
+    "Journal/Daily/2025-12-28.md",
+    "ReadItLater Inbox/What America Might Look Like With Zero Immigration.md",
+    "ReadItLater Inbox/The Guardian view on sending letters the writing’s on the wall.md",
+    "Journal/Daily/2025-12-24.md",
+    "Journal/Daily/2025-12-27.md",
+    "Journal/Daily/2025-12-26.md",
+    "ReadItLater Inbox/New College of Florida Was Progressive. Then Gov. DeSantis Overhauled It..md",
     "Remember the signs.md",
     "Nathan shel ha Shem.md",
     "Genocide in Somalia.md",
@@ -219,5 +269,6 @@
     "ReadItLater Inbox/It’s the media’s job to hold power to account. This year, too many got into bed with it instead  Arwa Mahdawi.md",
     "Journal/Daily/2025-12-14.md",
     "advent_4-sermon.md"
+    "Dr. Hamill, page 2.md"
   ]
 }

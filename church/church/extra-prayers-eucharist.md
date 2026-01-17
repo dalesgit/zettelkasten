@@ -1,4 +1,9 @@
-- [[A prayer for reconciliation  Friends of Silence]]
+---
+id: extra-prayers-eucharist
+aliases: []
+tags: []
+---
+  - [[A prayer for reconciliation  Friends of Silence]] 
 - [[rite-1-prayers]]
 - [[rite-2-prayers]] 
 - [[blessings]]
