@@ -114,8 +114,9 @@ Part 2
 ## 2026-01-15
 - [[Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International]]
 - [[I've been using these 8 core Linux commands wrong for years]]
-- https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/](https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/)
-- https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/](https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/)
-	- This sounds sign🔗ificant. Both desktop and Mobile. 
+- [[Clippers/Obsidian 1.11 is a massive update for desktop, iPhone, and Android]]
 - https://www.nytimes.com/2026/01/17/us/politics/colorado-water-trump-veto.html
 	- This is Lauren Boebert's territory but Trump killed it. JFK promised it to Colorado.
+	- [[A Trump Veto Leaves Republicans in Colorado Parched and Bewildered]]
+## 2026-01-17
+- [[Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill]] important?
