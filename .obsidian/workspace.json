@@ -4,59 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d7b1e9013019af7f",
+        "id": "dde6cc20b5bdec17",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7818f57af3f1f0",
+            "id": "293ae582b2758821",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippers/Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International"
-            }
-          },
-          {
-            "id": "812740d383a65055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inbox"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,13 +79,11 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b679a834ef3ef70",
@@ -243,12 +201,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "812740d383a65055",
+  "active": "293ae582b2758821",
   "lastOpenFiles": [
-    "Clippers/I've been using these 8 core Linux commands wrong for years.md",
-    "Inbox.md",
-    "Journal/Daily/2026-01-15.md",
+    "Journal/Daily/2026-01-16.md",
+    "templater/Daily1.md",
     "Clippers/Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International.md",
+    "templater/Daily.md",
+    "templates/Daily note template.md",
+    "ReadItLater Inbox/Note 2026-01-16 19-31-40.md",
+    "Inbox.md",
+    "Clippers/I've been using these 8 core Linux commands wrong for years.md",
+    "Journal/Daily/2026-01-15.md",
     "Clippings2/Church Pension Group  CPG Connect - Your 2026 Healthcare Annual Enrollment 101.md",
     "archive/Daily notes/2025-11-10.md",
     "Journal/Daily/2026-01-13.md",
@@ -268,13 +231,8 @@
     "Clippers/Fwd Saturday Morning Covfefe 5 Things That Explain This Moment - dhath12@gmail.com - Gmail.md",
     "Clippers/Fwd Sunday Musings Baptism of Solidarity - dhath12@gmail.com - Gmail.md",
     "Clippings/White Christians Must Destroy White Christian Nationalism.md",
-    "Clippers/Opinion  The ‘Attention Economy’ Is a Lie - The New York Times.md",
-    "Clippings/Cox-Richardson-on_fascism_January_9,_2026.md",
-    "Clippings/I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic.md",
     "I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic|/Clippings",
     "I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic|",
-    "Clippers/We Have the King That Thomas Paine Feared.md",
-    "Clippers/The Philosopher Who Explains Stephen Miller - The Atlantic.md",
     "Clippings/12 Notes to Self We Should All Memorize Before the End of the Year.md~",
     "Note to self.md~",
     "Journal/Daily/2026-01-06.md~",
