@@ -84,3 +84,4 @@ REM Jan 29 MSG Marlene's 90th birthday %b%
 REM Jan 31 2026 THROUGH Feb 1 2026 MSG DH Preach %b%
 REM Feb 1 2026 THROUGH Feb 8 2026 SPECIAL COLOR 0 218 255 Charleston African American Museum %b%
 REM Jan 27 2026 AT 11:00 SPECIAL COLOR 0 218 255 Linda Serepca
+REM Jan 30 2026 +2 AT 17:00 SPECIAL COLOR 0 255 255 Poetry Discussion Group %b%

@@ -182,3 +182,12 @@ He said at one point that he (and lots of other folks) regard anyone from Florid
 This morning during **lectio** at home, MP told her familiar story Morris, 1st spiritual director, leader of **Centering Prayer** at Newman Center, descent to suicide, -- in a somehow new and powerful way. She said, 
 
 > "In a way all of my work in **Centering Prayer** for the last 20 years is a commemoration, in honor of, because of, Morris. He showed up and handed me the keys to the Newman Center, and left to check himself into the hospital. I don't think he wanted it to be me. I was new. Perhaps he hoped it would be June. But I was the one."
+
+[2026-01-16 10:25:20 AM] Projects worked on.
+Yesterday I edited "**quotes to live by**".
+
+Today I have just finished smoothing out and refining "**Zen quotes**"
+
+The previous day I had found my **Psalm project** and used it to compare the psalm of "Give us this day", and found the Marianist version to be powerful.
+
+Yesterday and today I opened up the app "Infinite Painter" on the tablet. I might be able to pursue **creativity** with that.
