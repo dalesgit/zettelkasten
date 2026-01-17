@@ -1,80 +1,37 @@
 {
   "main": {
-    "id": "a3ed0319cb12beff",
+    "id": "d5be8a0e7fc4322d",
     "type": "split",
     "children": [
       {
-        "id": "7c4e2eda266e63bb",
+        "id": "2d4cee781fd6d048",
         "type": "tabs",
         "children": [
           {
-            "id": "b0120956c766d6bb",
-            "id": "ccd3248d12773cec",
+            "id": "25dec01b162fa794",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox.md",
-                "file": "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inbox"
-              "title": "We are living in a time of polycrisis. If you feel trapped – you’re not alone"
-            }
-          },
-          {
-            "id": "23e13a8d736c8fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian 1.11 is a massive update for desktop, iPhone, and Android"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "918aa43e37eea8de",
+    "id": "4b7ee90e6454f94e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b5efaa31bbc26293",
+        "id": "1752fc47fb9a2a5f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -82,7 +39,7 @@
         }
       },
       {
-        "id": "608750d8e301cdbf",
+        "id": "e2efb10e50a3f99b",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -99,7 +56,7 @@
         }
       },
       {
-        "id": "487cb8487b8b7c55",
+        "id": "2deb550f0de2abe5",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -114,7 +71,7 @@
         }
       },
       {
-        "id": "9eed73c901ba1e08",
+        "id": "16c024cbefdd137f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -127,16 +84,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "ad92f39174edb5d8",
+    "id": "9b8fa293bb63eeed",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "aba5e6759ef32de3",
+        "id": "f07bde6fb7f9fced",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ReadItLater Inbox/I should have started using this open-source graphics tool before paying for Adobe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,12 +106,11 @@
         }
       },
       {
-        "id": "92437612b614d108",
+        "id": "28ffa62d9d390cf2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ReadItLater Inbox/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -164,12 +119,11 @@
         }
       },
       {
-        "id": "76a9230e16280cdc",
+        "id": "bc60fc27b427ac88",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "ReadItLater Inbox/‘It would take 11 seconds to hit the ground’ the roughneck daredevils who built the Empire State Building.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -179,7 +133,7 @@
         }
       },
       {
-        "id": "68c7a82b472db884",
+        "id": "8ea9352b44ec281a",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -189,7 +143,7 @@
         }
       },
       {
-        "id": "2173598b704d10a3",
+        "id": "a103f55a75cefd27",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -199,11 +153,10 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "dashboard-navigator:Open dashboard navigator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -215,60 +168,13 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "b0120956c766d6bb",
+  "active": "25dec01b162fa794",
   "lastOpenFiles": [
-  "active": "23e13a8d736c8fd3",
-  "lastOpenFiles": [
-    "Inbox.md",
-    "ReadItLater Inbox/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
-    "remind/remind-lit.md",
-    "remind/remind-drs.md",
-    "Clippers/Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International.md",
-    "Clippers/I've been using these 8 core Linux commands wrong for years.md",
-    "Journal/Daily/2026-01-15.md",
-    "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
-    "ReadItLater Inbox/Daily driving Linux for 3 years taught me these 6 habits.md",
-    "Journal/Daily/2026-01-06.md",
-    "Journal/Daily/2025-12-29.md",
-    "Passing script variable.md",
-    "passing variables with file names.md",
-    "ReadItLater Inbox/10 Linux apps I tried in 2025 that I'm still using daily.md",
-    "Journal/Daily/2025-12-28.md",
-    "ReadItLater Inbox/What America Might Look Like With Zero Immigration.md",
-    "ReadItLater Inbox/The Guardian view on sending letters the writing’s on the wall.md",
-    "Journal/Daily/2025-12-24.md",
-    "Journal/Daily/2025-12-27.md",
-    "Journal/Daily/2025-12-26.md",
-    "ReadItLater Inbox/New College of Florida Was Progressive. Then Gov. DeSantis Overhauled It..md",
-    "Remember the signs.md",
-    "Nathan shel ha Shem.md",
-    "Genocide in Somalia.md",
-    "￼I insight about light on a hill.md",
-    "Dr. Hamill, page 2.md",
-    "December 17, 2025 - dermatologist.md",
-    "The good news is that God is out there.md",
-    "Trump dementia.md",
-    "Espresso martini.md",
-    "Inbox.md",
-    "Journal/Daily/2025-12-24.md",
-    "Music examples 1.md",
-    "The true measure of any society.md",
-    "Music examples.md",
-    "Journal/Daily/2025-12-22.md",
-    "ReadItLater Inbox/The Guardian view on sending letters the writing’s on the wall.md",
-    "ReadItLater Inbox/American Diabetes Association releases new Standards of Care.md",
-    "tech/index-1.md",
-    "church/church/Preaching as circular not linear.md",
-    "tech/index.md",
-    "Journal/Daily/2025-12-15.md",
-    "ReadItLater Inbox/‘A very hostile climate for workers’ US labor movement struggles under Trump.md",
-    "ReadItLater Inbox/Threshold the choir who sing to the dying - documentary.md",
-    "ReadItLater Inbox/It’s the media’s job to hold power to account. This year, too many got into bed with it instead  Arwa Mahdawi.md",
-    "Journal/Daily/2025-12-14.md",
-    "advent_4-sermon.md"
-    "Dr. Hamill, page 2.md"
+    "Journal/Daily/2026-01-17.md",
+    "Inbox.md"
   ]
 }
