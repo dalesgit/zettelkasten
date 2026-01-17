@@ -1,0 +1,46 @@
+REM Mar 04 2025 +2 MSG Fly to Honolulu %b%
+REM Mar 16 2025 +2 MSG on 5pm Auckland, New Zealand %b%
+REM Mar 16 2025 +2 MSG Departs 5pm DAY 1 - AUCKLAND, NEW ZEALAND %b%
+REM Mar 17 2025 +2 MSG In Port - 8am to 5pm DAY 2 - TAURANGA (ROTORUA), NEW ZEALAND %b%
+REM Mar 18 2025 +2 MSG NAPIER, NEW ZEALAND March 18 In Port - 12am to 6pm %b%
+REM Mar 19 2025 +2 MSG In Port - 10am to 6pm DAY 4 - WELLINGTON, NEW ZEALAND %b%
+REM Mar 20 2025 +2 MSG In Port - 8am to 5pm DAY 5 - PICTON, NEW ZEALAND %b%
+REM Mar 21 2025 +2 MSG In Port - 8am to 5pm DAY 6 - LYTTELTON (CHRISTCHURCH), NEW ZEALAND %b%
+REM Mar 22 2025 +2 MSG In Port - 7am to 6pm DAY 7 - PORT CHALMERS (DUNEDIN), NEW ZEALAND %b%
+REM Mar 23 2025 +2 MSG DAY 8 - CRUISING FIORDLAND NonL PARK %b%
+REM Mar 24 2025 +2 MSG DAY 9 - on SEA %b%
+REM Mar 25 2025 +2 MSG DAY 10 - on SEA %b%
+REM Mar 26 2025 +2 MSG In Port - 8am to 5pm DAY 11 - HOBART, TASMANIA, AUSTRALIA %b%
+REM Mar 27 2025 +2 MSG DAY 12 - on SEA %b%
+REM Mar 28 2025 +2 MSG In Port - 8am to 5pm DAY 13 - MELBOURNE, AUSTRALIA %b%
+REM Mar 29 2025 +2 MSG DAY 14 - on SEA %b%
+REM Mar 30 2025 +2 MSG SYDNEY, AUSTRALIA https://www.hollandamerica.com/sf/itinerary?date=1732668544952 %b%
+REM Mar 30 2025 +2 MSG In Port - 7am to 6:45pm PLANNED ACTIVITIES: %b%
+REM Mar 31 2025 +2 MSG DAY 16 - on SEA %b%
+REM Apr 01 2025 +2 MSG DAY 17 - on SEA %b%
+REM Apr 02 2025 +2 MSG In Port - 8am to 10pm DAY 18 - NOUMEA, NEW CALEDONIA %b%
+REM Apr 03 2025 +2 MSG In Port - 8am to 5pm DAY 19 - EASO, LIFOU, NEW CALEDONIA %b%
+REM Apr 04 2025 +2 MSG In Port - 8am to 5pm DAY 20 - MYSTERY ISLAND, VANUonU %b%
+REM Apr 05 2025 +2 MSG In Port - 8am to 5pm DAY 21 - PORT VILA, VANUonU %b%
+REM Apr 06 2025 +2 MSG DAY 22 - on SEA %b%
+REM Apr 07 2025 +2 MSG In Port - 8am to 5pm DAY 23 - LAUTOKA, FIJI %b%
+REM Apr 08 2025 +2 MSG In Port - 8am to 11pm %b%
+REM Apr 09 2025 +2 MSG In Port - 8am to 5pm DAY 25 - DRAVUNI ISLAND, FIJI %b%
+REM Apr 10 2025 +2 MSG In Port - 8am to 4pm DAY 26 - SAVUSAVU, VANUA LEVI, FIJI %b%
+REM Apr 11 2025 +2 MSG In Port - 9am to 5pm DAY 27 - PAGO PAGO, TUTUILA, AMERICAN SAMOA %b%
+REM Apr 12 2025 +2 MSG DAY 28 - on SEA %b%
+REM Apr 13 2025 +2 MSG DAY 29 - CROSSING THE EQUATOR %b%
+REM Apr 14 2025 +2 MSG DAY 30 - on SEA %b%
+REM Apr 15 2025 +2 MSG DAY 31 - on SEA %b%
+REM Apr 16 2025 +2 MSG DAY 32 - on SEA %b%
+REM Apr 17 2025 +2 MSG In Port - 8am to 9pm DAY 33 - Hilo, HAWAII, US %b%
+REM Apr 18 2025 +2 MSG In Port - 8am to 5pm DAY 34 - Honolulu, HAWAII, US %b%
+REM Apr 19 2025 +2 MSG Arrives - 7am DAY 35 - HONOLULU, HAWAII, US %b%
+REM Apr 20 2025 +2 MSG Departs 5pm DAY 36 - HONOLULU, HAWAII, US %b%
+REM Apr 21 2025 +2 MSG DAY 37 - on SEA %b%
+REM Apr 22 2025 +2 MSG DAY 38 - on SEA %b%
+REM Apr 23 2025 +2 MSG DAY 39 - on SEA %b%
+REM Apr 24 2025 +2 MSG DAY 40 - on SEA %b%
+REM Apr 25 2025 +2 MSG DAY 41 - on SEA %b%
+REM Apr 26 2025 +2 MSG In Port - 8am to 11pm DAY 42 - VICTORIA, BRITISH COLUMBIA, CANADA %b%
+REM Apr 27 2025 +2 MSG Arrives - 7am DAY 43 - SEonTLE, WASHINGTON, US %b%
