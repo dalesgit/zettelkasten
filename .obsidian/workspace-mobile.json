@@ -11,9 +11,24 @@
             "id": "25dec01b162fa794",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
             }
           }
         ]
@@ -31,7 +46,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -174,7 +189,8 @@
   },
   "active": "25dec01b162fa794",
   "lastOpenFiles": [
-    "Journal/Daily/2026-01-17.md",
-    "Inbox.md"
+    "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
+    "Inbox.md",
+    "Journal/Daily/2026-01-17.md"
   ]
 }
