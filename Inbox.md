@@ -110,7 +110,7 @@ Part 2
 - https://www.nytimes.com/2026/01/12/opinion/resistance-libs-trump-fascism.html?smid=nytcore-ios-share
 - https://www.nytimes.com/2026/01/12/us/politics/us-boat-attacks-law.html?smid=nytcore-ios-share
 - https://www.nytimes.com/2026/01/13/world/asia/myanmar-scam-complex-fraud.html?smid=nytcore-ios-share
-- https://www.nytimes.com/2026/01/13/world/asia/myanmar-scam-center.html?smid=nytcore-ios-share
+- https://www.nytimes.com/2026/01/13/world/asia/myanmar-scam-center.html?smid=nytcore-ios-shareG
 ## 2026-01-15
 - [[Iran Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International]]
 - [[I've been using these 8 core Linux commands wrong for years]]
@@ -124,3 +124,4 @@ Part 2
 ## 2026-01-18
 - [[Thecla, the beast fighter The saint who faced down lions and killer seals is one of many ‘leading ladies’ in early Christian texts]] -- Christian tradition re. women heroes
 - [[The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut]]
+- Isaiah 11 and Justice and music
