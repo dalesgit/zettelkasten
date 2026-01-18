@@ -8,11 +8,12 @@ tags: []
 - [[Post - Luhmann vs Digital Zettelkasten]]
 - [[overview Zettelkasten]]
 - [[Ignatius of Loyola]]
-## [[2025-12-24]]
+## 2025-12-24
 
 ## 2025-12-25
 
 ### from "Drafts on Iphone"
+
 - [[Begin music theory]]
 - [[MP feet]]
 - [[Note to self]]
@@ -32,7 +33,6 @@ Part 2
 - [[Espresso martini]]
 - [[December 17, 2025 - dermatologist]] -- [[Dr. Hamill, page 2]]
 - [[Nathan shel ha Shem]]
-
 ### 2025-12-26
 
 - [[Every remote worker should own this $30 desk gadget]]
@@ -120,5 +120,7 @@ Part 2
 	- [[A Trump Veto Leaves Republicans in Colorado Parched and Bewildered]]
 ## 2026-01-17
 - [[Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill]] importantdd
-
-[ken Burns on his American Revolution documentary ‘We won’t work on a more important film’](Clippings3/Ken%20Burns%20on%20his%20American%20Revolution%20documentary%20‘We%20won’t%20work%20on%20a%20more%20important%20film’.md)
+- [ken Burns on his American Revolution documentary ‘We won’t work on a more important film’](Clippings3/Ken%20Burns%20on%20his%20American%20Revolution%20documentary%20‘We%20won’t%20work%20on%20a%20more%20important%20film’.md) testing ability of "nvim" to make a link to existing files
+## 2026-01-18
+- [[Thecla, the beast fighter The saint who faced down lions and killer seals is one of many ‘leading ladies’ in early Christian texts]] -- Christian tradition re. women heroes
+- [[The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut]]

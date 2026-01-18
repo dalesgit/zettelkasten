@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b5e6e032d7b43aa",
+            "id": "7f24738e248b29e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippers/Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill.md",
+                "file": "The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill"
+              "title": "The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut"
             }
           },
           {
-            "id": "0c9f15e7c5a1f906",
+            "id": "375f3c5c7d02d3b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Inbox"
-            }
-          },
-          {
-            "id": "4bc6a015898896d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippers/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian 1.11 is a massive update for desktop, iPhone, and Android"
             }
           }
         ],
@@ -255,11 +231,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c9f15e7c5a1f906",
+  "active": "375f3c5c7d02d3b7",
   "lastOpenFiles": [
+    "The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut.md",
+    "Clippers/Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill.md",
+    "Journal/Daily/2026-01-18.md",
+    "Thecla, the beast fighter The saint who faced down lions and killer seals is one of many ‘leading ladies’ in early Christian texts.md",
     "Clippers/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
     "Inbox.md",
-    "ReadItLater Inbox/A Trump Veto Leaves Republicans in Colorado Parched and Bewildered.md",
-    "Clippers/Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill.md"
+    "Espresso martini.md",
+    "ReadItLater Inbox/A Trump Veto Leaves Republicans in Colorado Parched and Bewildered.md"
   ]
 }
