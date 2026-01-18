@@ -119,4 +119,6 @@ Part 2
 	- This is Lauren Boebert's territory but Trump killed it. JFK promised it to Colorado.
 	- [[A Trump Veto Leaves Republicans in Colorado Parched and Bewildered]]
 ## 2026-01-17
-- [[Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill]] important?
+- [[Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill]] importantdd
+
+[ken Burns on his American Revolution documentary ‘We won’t work on a more important film’](Clippings3/Ken%20Burns%20on%20his%20American%20Revolution%20documentary%20‘We%20won’t%20work%20on%20a%20more%20important%20film’.md)
