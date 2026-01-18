@@ -1,3 +1,8 @@
+---
+id: journal
+aliases: []
+tags: []
+---
 [2026-01-07 11:59:57 PM] This is going to be challenging.
 Staying with Julian is both heart-warming and way outside my comfort zone.
 
@@ -100,7 +105,7 @@ https://www.timeanddate.com/eclipse/2017
 This main site has several interesting areas, including "This day in history"
 
 [2026-01-12 08:14:28 AM] Where is the psalm project I did.
-It's not in Simplenote.
+It's not in Simplenote. It was in "wiki-vim".
 
 [2026-01-12 08:15:11 AM] Where is the chart of sprinkler heads.
 
@@ -191,3 +196,10 @@ Today I have just finished smoothing out and refining "**Zen quotes**"
 The previous day I had found my **Psalm project** and used it to compare the psalm of "Give us this day", and found the Marianist version to be powerful.
 
 Yesterday and today I opened up the app "Infinite Painter" on the tablet. I might be able to pursue **creativity** with that.
+
+[2026-01-18 08:06:53 AM] Isaiah 11 Justice Music.
+Lectio on Isaiah 11 focused on "justice". A primordial part of growing up from toddler-hood on. Our country doesn't know about biblical "fairness" and "justice". "Justice" of death penalty? 
+
+Insight for me is that it feels like the same kind of primordial sensation as "justice". Getting the vibrations right. Harmony. 
+
+It seems that it extends to the importance of singing in our prayer at home. It's a scary thing that we are now doing again -- following the Marianists.
