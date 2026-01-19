@@ -1,8 +1,3 @@
----
-id: journal
-aliases: []
-tags: []
----
 [2026-01-07 11:59:57 PM] This is going to be challenging.
 Staying with Julian is both heart-warming and way outside my comfort zone.
 
@@ -203,3 +198,15 @@ Lectio on Isaiah 11 focused on "justice". A primordial part of growing up from t
 Insight for me is that it feels like the same kind of primordial sensation as "justice". Getting the vibrations right. Harmony. 
 
 It seems that it extends to the importance of singing in our prayer at home. It's a scary thing that we are now doing again -- following the Marianists.
+
+[2026-01-19 08:52:41 AM] Lectio.
+Scripture Job 36:5-7, 10-12
+
+Look, God is great, not disdainful; / his strength of purpose is great. 
+
+Allahu Akbar (Arabic: الله أكبر) is an Arabic phrase, called Takbir, meaning "God is greater" or "God is [the] greatest".
+
+"disdainful" ?
+
+[2026-01-19 09:10:46 AM] Singing together reaches to the spheres.
+Quest to sing the blessing? My desire to sing harmony or not at all at church.
