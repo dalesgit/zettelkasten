@@ -83,7 +83,8 @@ REM FROM Jan 20 2026 UNTIL Jan 25 2026 SPECIAL COLOR 255 0 255 Naples with Cruis
 REM Jan 29 MSG Marlene's 90th birthday %b%
 REM Jan 31 2026 THROUGH Feb 1 2026 MSG DH Preach %b%
 REM Feb 1 2026 THROUGH Feb 8 2026 SPECIAL COLOR 255 0 255 Charleston African American Museum %b%
-REM Jan 27 2026 AT 11:00 SPECIAL COLOR 0 250 0 Linda Serepca
-REM Feb 1 2026 THROUGH Feb 8 2026 SPECIAL COLOR 0 218 255 Charleston African American Museum %b%
-REM Jan 27 2026 AT 11:00 SPECIAL COLOR 0 218 255 Linda Serepca
-REM Jan 30 2026 +2 AT 17:00 SPECIAL COLOR 0 255 255 Poetry Discussion Group %b%
+;REM Jan 27 2026 AT 11:00 SPECIAL COLOR 0 250 0 Linda Serepca
+;REM Feb 1 2026 THROUGH Feb 8 2026 SPECIAL COLOR 0 128 255 Charleston African American Museum %b%
+REM Jan 27 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
+REM Jan 30 2026 +2 AT 17:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group %b%
+REM Feb 21 2026 AT 9:30 SPECIAL COLOR 0 128 255 Centering Prayer quiet day
