@@ -88,3 +88,4 @@ REM Feb 1 2026 THROUGH Feb 8 2026 SPECIAL COLOR 255 0 255 Charleston African Ame
 REM Jan 27 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
 REM Jan 30 2026 +2 AT 17:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group %b%
 REM Feb 21 2026 AT 9:30 SPECIAL COLOR 0 128 255 Centering Prayer quiet day
+REM Jan 19 2026 MSG Mark and Angela arrive %b%
