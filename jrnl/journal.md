@@ -210,3 +210,27 @@ Allahu Akbar (Arabic: الله أكبر) is an Arabic phrase, called Takbir, mea
 
 [2026-01-19 09:10:46 AM] Singing together reaches to the spheres.
 Quest to sing the blessing? My desire to sing harmony or not at all at church.
+
+[2026-01-20 07:14:43 AM] I couldnt join in 3 hours of conversation with Mark and Angela.
+
+[2026-01-20 07:27:33 AM] adjust termux appearance.
+#technical
+Alternative tools like **termux-nf** (GitHub: arnavgr/termux-nf) provide a script to easily install and manage Nerd Fonts directly in Termux.  Use curl -fsSL https://raw.githubusercontent.com/arnavgr/termux-nf/main/install.sh | bash to install it, then run getnf to browse and apply fonts.
+
+or
+
+**Termux:Styling** is the official add-on app for customizing Termux's font and color theme.  Install it via F-Droid (recommended) or download the APK from the F-Droid package page.  After installation, long-press anywhere in the Termux terminal, select "Style", and choose from a wide selection of powerline-ready fonts and color schemes.
+
+[2026-01-20 08:01:35 AM] Sabbath - lectio.
+#thought
+Deut. 5. I made the claim that I think most Christians (maybe some Jews) don't really understand the fundamental and all-encompassing notion that "Shabbat" is. Appreciate what Jesus was criticizing? 
+
+Mary Pat responded with the familiar "rules-based" reasoning that she identified with the Catholic church of her childhood, but which I think sprouts in any friendly soil. 
+
+My recolleciton is that the Torah gives two basic reasons for Shabbat: 1) as in Dt. 5 that "you once were slaves and were set free by HaShem" and 2) that God rested on the 7th day. 
+
+Together these speak of the fundamental nature of which I speak. It's somehow in God's nature. It points to a universal.
+
+---
+
+And interestingly, like some of the other things I harp on about, I seem to not express myself clearly enough that the really get the significance. (My communication? or their ears?) Cp. the importance I gave on Sunday to paying attention to what the intention of the narrative is. By missing the intention of Gen. 3 we get 2,000 years of bad theology.

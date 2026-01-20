@@ -106,9 +106,12 @@ Part 2
 ## 2026-01-13
 - [[Want to Stop ICE Go After Its Corporate Collaborators.  The Nation]]
 - https://www.nytimes.com/2026/01/13/opinion/ezra-klein-podcast-james-talarico.html?smid=nytcore-ios-share
+- [Opinion  Can James Talarico Reclaim Christianity for the Left - The New York Times](Clippers/Opinion%20%20Can%20James%20Talarico%20Reclaim%20Christianity%20for%20the%20Left%20-%20The%20New%20York%20Times.md)
 - https://www.nytimes.com/2026/01/13/opinion/trump-jerome-powell-federal-reserve.html?smid=nytcore-ios-share
 - https://www.nytimes.com/2026/01/12/opinion/resistance-libs-trump-fascism.html?smid=nytcore-ios-share
 - https://www.nytimes.com/2026/01/12/us/politics/us-boat-attacks-law.html?smid=nytcore-ios-share
+- [The Resistance Libs Were Right - The New York Times](Clippers/The%20Resistance%20Libs%20Were%20Right%20-%20The%20New%20York%20Times.md)
+- 
 - https://www.nytimes.com/2026/01/13/world/asia/myanmar-scam-complex-fraud.html?smid=nytcore-ios-share
 - https://www.nytimes.com/2026/01/13/world/asia/myanmar-scam-center.html?smid=nytcore-ios-shareG
 ## 2026-01-15
@@ -125,3 +128,8 @@ Part 2
 - [[Thecla, the beast fighter The saint who faced down lions and killer seals is one of many ‘leading ladies’ in early Christian texts]] -- Christian tradition re. women heroes
 - [[The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut]]
 - Isaiah 11 and Justice and music
+
+## 2026-01-20
+
+- [trumps_letter_to_norway_should_be_last_straw](Clippers/trumps_letter_to_norway_should_be_last_straw.md)
+- [5 Android subscriptions you can easily replace with free apps](Clippers/5%20Android%20subscriptions%20you%20can%20easily%20replace%20with%20free%20apps.md) #tech #android
