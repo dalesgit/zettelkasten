@@ -234,3 +234,6 @@ Together these speak of the fundamental nature of which I speak. It's somehow in
 ---
 
 And interestingly, like some of the other things I harp on about, I seem to not express myself clearly enough that the really get the significance. (My communication? or their ears?) Cp. the importance I gave on Sunday to paying attention to what the intention of the narrative is. By missing the intention of Gen. 3 we get 2,000 years of bad theology.
+
+[2026-01-21 12:14:06 PM] Scott at noon.
+At Melas? Reservations.

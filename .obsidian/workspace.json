@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f673ed79fa544c2d",
@@ -233,12 +234,13 @@
   },
   "active": "375f3c5c7d02d3b7",
   "lastOpenFiles": [
+    "Clippers/Cubans in Florida Are Being Deported in Record Numbers - The New York Times.md",
+    "Inbox.md",
     "The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut.md",
     "Clippers/Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill.md",
     "Journal/Daily/2026-01-18.md",
     "Thecla, the beast fighter The saint who faced down lions and killer seals is one of many ‘leading ladies’ in early Christian texts.md",
     "Clippers/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
-    "Inbox.md",
     "Espresso martini.md",
     "ReadItLater Inbox/A Trump Veto Leaves Republicans in Colorado Parched and Bewildered.md"
   ]
