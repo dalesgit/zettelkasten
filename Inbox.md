@@ -135,4 +135,5 @@ Part 2
 - [5 Android subscriptions you can easily replace with free apps](Clippers/5%20Android%20subscriptions%20you%20can%20easily%20replace%20with%20free%20apps.md) #tech #android
 - [[Cubans in Florida Are Being Deported in Record Numbers - The New York Times]] 
 - [[We ran high-level US civil war simulations. Minnesota is exactly how they start  Claire Finkelstein  The Guardian]] pay attention.
-
+- [['Sapiens' Author Harari Says AI Will Create 2 Crises for Countries - Business Insider]] intriguing thought projection
+- [[This Is the End - by Jonathan V. Last - The Bulwark]] exactly
