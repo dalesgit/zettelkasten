@@ -140,3 +140,5 @@ Part 2
 - [[Clippers/I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic|I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic]] #preaching 
 - [[Opinion  Trump’s Norway Letter Proves This Isn’t Sustainable - The New York Times]] cp. Nixon as he slunk to oblivion
 - [[Opinion  Trump’s Politics Are Not America First. They’re Me First. - The New York Times]] This is so spot on.
+- [[‘The most dangerous man in America’ how Paul Robeson went from Hollywood to blacklist  Books  The Guardian]] Paul Robeson cp. today's world
+- [[American democracy on the brink a year after Trump’s inauguration, experts say  Donald Trump  The Guardian]] just so
