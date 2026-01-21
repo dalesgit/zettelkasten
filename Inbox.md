@@ -137,3 +137,6 @@ Part 2
 - [[We ran high-level US civil war simulations. Minnesota is exactly how they start  Claire Finkelstein  The Guardian]] pay attention.
 - [['Sapiens' Author Harari Says AI Will Create 2 Crises for Countries - Business Insider]] intriguing thought projection
 - [[This Is the End - by Jonathan V. Last - The Bulwark]] exactly
+- [[Clippers/I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic|I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic]] #preaching 
+- [[Opinion  Trump’s Norway Letter Proves This Isn’t Sustainable - The New York Times]] cp. Nixon as he slunk to oblivion
+- [[Opinion  Trump’s Politics Are Not America First. They’re Me First. - The New York Times]] This is so spot on.
