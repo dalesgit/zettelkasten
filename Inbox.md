@@ -134,4 +134,5 @@ Part 2
 - [trumps_letter_to_norway_should_be_last_straw](Clippers/trumps_letter_to_norway_should_be_last_straw.md)
 - [5 Android subscriptions you can easily replace with free apps](Clippers/5%20Android%20subscriptions%20you%20can%20easily%20replace%20with%20free%20apps.md) #tech #android
 - [[Cubans in Florida Are Being Deported in Record Numbers - The New York Times]] 
+- [[We ran high-level US civil war simulations. Minnesota is exactly how they start  Claire Finkelstein  The Guardian]] pay attention.
 

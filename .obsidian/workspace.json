@@ -54,6 +54,30 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
+          },
+          {
+            "id": "5d185821d7fc645a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippers/We ran high-level US civil war simulations. Minnesota is exactly how they start  Claire Finkelstein  The Guardian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "We ran high-level US civil war simulations. Minnesota is exactly how they start  Claire Finkelstein  The Guardian"
+            }
           }
         ],
         "currentTab": 1
@@ -234,6 +258,7 @@
   },
   "active": "375f3c5c7d02d3b7",
   "lastOpenFiles": [
+    "Clippers/We ran high-level US civil war simulations. Minnesota is exactly how they start  Claire Finkelstein  The Guardian.md",
     "Clippers/Cubans in Florida Are Being Deported in Record Numbers - The New York Times.md",
     "Inbox.md",
     "The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut.md",
