@@ -234,3 +234,27 @@ Together these speak of the fundamental nature of which I speak. It's somehow in
 ---
 
 And interestingly, like some of the other things I harp on about, I seem to not express myself clearly enough that the really get the significance. (My communication? or their ears?) Cp. the importance I gave on Sunday to paying attention to what the intention of the narrative is. By missing the intention of Gen. 3 we get 2,000 years of bad theology.
+
+[2026-01-21 12:14:06 PM] Scott at noon.
+At Melas? Reservations.
+
+[2026-01-22 08:45:14 AM] Eternal covenant.
+MP was disturbed by my saying that I wasn't sure I believed in that. I cut her off from asking me, "What do you believe?" It has something to do with, "What can I rely on you for, O God?" Or, "Why can't you choose someone else for a while?"
+
+see the following about Nhat Hanh for what I do whole-heartedly affirm.
+
+[2026-01-22 08:45:27 AM] Thich Nhat Hanh.
+**Thich Nhat Hanh**
+_Monk, Poet, Peacemaker (1926–2022)_
+
+Long before his death in 2022, Vietnamese Zen master Thich Nhat Hanh was regarded as one of the great spiritual teachers of our time. Born in Hue, he became a Buddhist monk at sixteen. As war increasingly enveloped his country in the 1960s, he responded by advocating for what he called “engaged Buddhism,” extending meditation and spiritual practice to social action to alleviate suffering
+
+In 1966, he traveled to the United States to promote the message of peace. He befriended Martin Luther King Jr., who nominated him for the Nobel Peace Prize, and Thomas Merton. But as a result of his witness, he was not permitted to return to South Vietnam until after the Communist victory in 1975.
+
+Settling in Paris, he began to acquire an international reputation for his spiritual teachings, including the practice of “mindfulness,” a discipline of attentiveness to the present moment. He also promoted the Buddhist principle of “interbeing”—an awareness of the interrelationship between all things. For example, in contemplating an orange, we should see the sun, soil, and water that nourished it, the hands that picked and served it. He believed that peace in the world must be rooted in peace in ourselves, the fruit of daily, disciplined practice.
+
+Nhat Hanh wrote extensively on parallels between the ways of Jesus and Buddha, and his audience was drawn from many religious traditions. After suffering a stroke, he was permitted to return to his old monastery in Vietnam, where he spent his remaining days. He died on January 22, 2022, at the age of 95.
+
+_“We don’t need to wish our friends, ‘Peace be with you.’ Peace is already with them. We only need to help them cultivate the habit of touching peace in each moment_.”—Thich Nhat Hanh
+
+[2026-01-22 08:52:51 AM] tagged

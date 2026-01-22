@@ -137,3 +137,16 @@ Part 2
 
 - [america_vs_the_world](Clippers/america_vs_the_world.md)
 
+- [[Cubans in Florida Are Being Deported in Record Numbers - The New York Times]] 
+- [[We ran high-level US civil war simulations. Minnesota is exactly how they start  Claire Finkelstein  The Guardian]] pay attention.
+- [['Sapiens' Author Harari Says AI Will Create 2 Crises for Countries - Business Insider]] intriguing thought projection
+- [[This Is the End - by Jonathan V. Last - The Bulwark]] exactly
+- [[Clippers/I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic|I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic]] #preaching 
+- [[Opinion  Trump’s Norway Letter Proves This Isn’t Sustainable - The New York Times]] cp. Nixon as he slunk to oblivion
+- [[Opinion  Trump’s Politics Are Not America First. They’re Me First. - The New York Times]] This is so spot on.
+- [[‘The most dangerous man in America’ how Paul Robeson went from Hollywood to blacklist  Books  The Guardian]] Paul Robeson cp. today's world
+- [[American democracy on the brink a year after Trump’s inauguration, experts say  Donald Trump  The Guardian]] just so
+## 2026-01-22
+- [[Defining peace in a Trumpian era - CSMonitor.com]]
+- [[From ancient Rome to today, war-makers have talked constantly about peace]]
+- [[Refusing Despair in a Despairing Time  The Nation]]

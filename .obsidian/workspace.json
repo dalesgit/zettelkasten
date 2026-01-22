@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70751c6b402cc85b",
+        "id": "ec5e4f936551a9be",
         "type": "tabs",
         "children": [
           {
-            "id": "7f24738e248b29e2",
+            "id": "781089177f22172c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut.md",
+                "file": "Clippers/Defining peace in a Trumpian era - CSMonitor.com.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut"
+              "title": "Defining peace in a Trumpian era - CSMonitor.com"
             }
           },
           {
-            "id": "375f3c5c7d02d3b7",
+            "id": "06a557a8cd1cd96b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f673ed79fa544c2d",
@@ -148,12 +149,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Inbox"
+              "title": "Outgoing links"
             }
           },
           {
@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -231,14 +231,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "375f3c5c7d02d3b7",
+  "active": "06a557a8cd1cd96b",
   "lastOpenFiles": [
+    "Inbox.md",
+    "Clippers/Refusing Despair in a Despairing Time  The Nation.md",
+    "Clippers/From ancient Rome to today, war-makers have talked constantly about peace.md",
+    "Clippers/Defining peace in a Trumpian era - CSMonitor.com.md",
+    "Clippers/Opinion  Trump’s Politics Are Not America First. They’re Me First. - The New York Times.md",
+    "Clippers/American democracy on the brink a year after Trump’s inauguration, experts say  Donald Trump  The Guardian.md",
+    "Clippers/‘The most dangerous man in America’ how Paul Robeson went from Hollywood to blacklist  Books  The Guardian.md",
+    "Clippers/Opinion  Trump’s Norway Letter Proves This Isn’t Sustainable - The New York Times.md",
+    "Clippers/I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic.md",
+    "Clippers/This Is the End - by Jonathan V. Last - The Bulwark.md",
+    "Clippers/'Sapiens' Author Harari Says AI Will Create 2 Crises for Countries - Business Insider.md",
     "The art of aging well 7 simple mindset shifts Boomers make that bitter ones resist – VegOut.md",
+    "Clippers/We ran high-level US civil war simulations. Minnesota is exactly how they start  Claire Finkelstein  The Guardian.md",
+    "Clippers/Cubans in Florida Are Being Deported in Record Numbers - The New York Times.md",
     "Clippers/Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill.md",
     "Journal/Daily/2026-01-18.md",
     "Thecla, the beast fighter The saint who faced down lions and killer seals is one of many ‘leading ladies’ in early Christian texts.md",
     "Clippers/Obsidian 1.11 is a massive update for desktop, iPhone, and Android.md",
-    "Inbox.md",
     "Espresso martini.md",
     "ReadItLater Inbox/A Trump Veto Leaves Republicans in Colorado Parched and Bewildered.md"
   ]
