@@ -133,3 +133,7 @@ Part 2
 
 - [trumps_letter_to_norway_should_be_last_straw](Clippers/trumps_letter_to_norway_should_be_last_straw.md)
 - [5 Android subscriptions you can easily replace with free apps](Clippers/5%20Android%20subscriptions%20you%20can%20easily%20replace%20with%20free%20apps.md) #tech #android
+## 2026-01-21
+
+- [america_vs_the_world](Clippers/america_vs_the_world.md)
+
