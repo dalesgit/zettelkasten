@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ReadItLater Inbox/David and Victoria Beckham learned the hard way – modern kids go ‘no contact’ with no guilt or stigma at all  Emma Brockes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "David and Victoria Beckham learned the hard way – modern kids go ‘no contact’ with no guilt or stigma at all  Emma Brockes"
+            }
+          },
+          {
+            "id": "af019c5adba77ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "Inbox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,12 +178,22 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       },
       {
         "id": "a103f55a75cefd27",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "todo"
+        }
+      },
+      {
+        "id": "83b1c2aa3d388247",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -181,16 +216,17 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "periodic-notes:Open today": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "periodic-notes:Open today": false
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "25dec01b162fa794",
+  "active": "af019c5adba77ccd",
   "lastOpenFiles": [
-    "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
+    "ReadItLater Inbox/David and Victoria Beckham learned the hard way – modern kids go ‘no contact’ with no guilt or stigma at all  Emma Brockes.md",
     "Inbox.md",
+    "ReadItLater Inbox/We are living in a time of polycrisis. If you feel trapped – you’re not alone.md",
     "Journal/Daily/2026-01-17.md"
   ]
 }

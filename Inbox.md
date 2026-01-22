@@ -150,3 +150,4 @@ Part 2
 - [[Defining peace in a Trumpian era - CSMonitor.com]]
 - [[From ancient Rome to today, war-makers have talked constantly about peace]]
 - [[Refusing Despair in a Despairing Time  The Nation]]
+- [[David and Victoria Beckham learned the hard way – modern kids go ‘no contact’ with no guilt or stigma at all  Emma Brockes]] cf. Emma
