@@ -142,3 +142,7 @@ Part 2
 - [[Opinion  Trump’s Politics Are Not America First. They’re Me First. - The New York Times]] This is so spot on.
 - [[‘The most dangerous man in America’ how Paul Robeson went from Hollywood to blacklist  Books  The Guardian]] Paul Robeson cp. today's world
 - [[American democracy on the brink a year after Trump’s inauguration, experts say  Donald Trump  The Guardian]] just so
+## 2026-01-22
+- [[Defining peace in a Trumpian era - CSMonitor.com]]
+- [[From ancient Rome to today, war-makers have talked constantly about peace]]
+- [[Refusing Despair in a Despairing Time  The Nation]]

@@ -11,12 +11,52 @@
             "id": "781089177f22172c",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Clippers/Defining peace in a Trumpian era - CSMonitor.com.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Defining peace in a Trumpian era - CSMonitor.com"
+            }
+          },
+          {
+            "id": "06a557a8cd1cd96b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +231,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "781089177f22172c",
+  "active": "06a557a8cd1cd96b",
   "lastOpenFiles": [
+    "Inbox.md",
+    "Clippers/Refusing Despair in a Despairing Time  The Nation.md",
+    "Clippers/From ancient Rome to today, war-makers have talked constantly about peace.md",
+    "Clippers/Defining peace in a Trumpian era - CSMonitor.com.md",
     "Clippers/Opinion  Trump’s Politics Are Not America First. They’re Me First. - The New York Times.md",
     "Clippers/American democracy on the brink a year after Trump’s inauguration, experts say  Donald Trump  The Guardian.md",
-    "Inbox.md",
     "Clippers/‘The most dangerous man in America’ how Paul Robeson went from Hollywood to blacklist  Books  The Guardian.md",
     "Clippers/Opinion  Trump’s Norway Letter Proves This Isn’t Sustainable - The New York Times.md",
     "Clippers/I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic.md",
