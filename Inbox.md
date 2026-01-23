@@ -154,3 +154,4 @@ Part 2
 - [[The Trump administration has a Nazi problem  Mehdi Hasan]] amazing
 ## 2026-01-23
 - [[Autocracy in America Defund Science]]
+- [['There's no other poem like it' Why this Robert Burns classic is a masterpiece]]
