@@ -152,6 +152,7 @@ Part 2
 - [[Refusing Despair in a Despairing Time  The Nation]]
 - [[David and Victoria Beckham learned the hard way – modern kids go ‘no contact’ with no guilt or stigma at all  Emma Brockes]] cf. Emma
 - [[The Trump administration has a Nazi problem  Mehdi Hasan]] amazing
+- [[Holocaust educator points to ‘warning signs’ in history when looking at ICE in Minnesota]] 
 ## 2026-01-23
 - [[Autocracy in America Defund Science]]
 - [['There's no other poem like it' Why this Robert Burns classic is a masterpiece]]
