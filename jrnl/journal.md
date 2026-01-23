@@ -1,3 +1,8 @@
+---
+id: journal
+aliases: []
+tags: []
+---
 [2026-01-07 11:59:57 PM] This is going to be challenging.
 Staying with Julian is both heart-warming and way outside my comfort zone.
 
@@ -193,6 +198,8 @@ The previous day I had found my **Psalm project** and used it to compare the psa
 Yesterday and today I opened up the app "Infinite Painter" on the tablet. I might be able to pursue **creativity** with that.
 
 [2026-01-18 08:06:53 AM] Isaiah 11 Justice Music.
+
+#lectio
 Lectio on Isaiah 11 focused on "justice". A primordial part of growing up from toddler-hood on. Our country doesn't know about biblical "fairness" and "justice". "Justice" of death penalty? 
 
 Insight for me is that it feels like the same kind of primordial sensation as "justice". Getting the vibrations right. Harmony. 
@@ -202,6 +209,7 @@ It seems that it extends to the importance of singing in our prayer at home. It'
 [2026-01-19 08:52:41 AM] Lectio.
 Scripture Job 36:5-7, 10-12
 
+#lectio
 Look, God is great, not disdainful; / his strength of purpose is great. 
 
 Allahu Akbar (Arabic: الله أكبر) is an Arabic phrase, called Takbir, meaning "God is greater" or "God is [the] greatest".
@@ -222,7 +230,7 @@ or
 **Termux:Styling** is the official add-on app for customizing Termux's font and color theme.  Install it via F-Droid (recommended) or download the APK from the F-Droid package page.  After installation, long-press anywhere in the Termux terminal, select "Style", and choose from a wide selection of powerline-ready fonts and color schemes.
 
 [2026-01-20 08:01:35 AM] Sabbath - lectio.
-#thought
+#thought #lectio
 Deut. 5. I made the claim that I think most Christians (maybe some Jews) don't really understand the fundamental and all-encompassing notion that "Shabbat" is. Appreciate what Jesus was criticizing? 
 
 Mary Pat responded with the familiar "rules-based" reasoning that she identified with the Catholic church of her childhood, but which I think sprouts in any friendly soil. 
@@ -239,6 +247,8 @@ And interestingly, like some of the other things I harp on about, I seem to not 
 At Melas? Reservations.
 
 [2026-01-22 08:45:14 AM] Eternal covenant.
+
+#lectio
 MP was disturbed by my saying that I wasn't sure I believed in that. I cut her off from asking me, "What do you believe?" It has something to do with, "What can I rely on you for, O God?" Or, "Why can't you choose someone else for a while?"
 
 see the following about Nhat Hanh for what I do whole-heartedly affirm.
@@ -247,6 +257,7 @@ see the following about Nhat Hanh for what I do whole-heartedly affirm.
 **Thich Nhat Hanh**
 _Monk, Poet, Peacemaker (1926–2022)_
 
+#lectio
 Long before his death in 2022, Vietnamese Zen master Thich Nhat Hanh was regarded as one of the great spiritual teachers of our time. Born in Hue, he became a Buddhist monk at sixteen. As war increasingly enveloped his country in the 1960s, he responded by advocating for what he called “engaged Buddhism,” extending meditation and spiritual practice to social action to alleviate suffering
 
 In 1966, he traveled to the United States to promote the message of peace. He befriended Martin Luther King Jr., who nominated him for the Nobel Peace Prize, and Thomas Merton. But as a result of his witness, he was not permitted to return to South Vietnam until after the Communist victory in 1975.
