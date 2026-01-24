@@ -161,4 +161,5 @@ Part 2
 - [[Sarah Jarosz – Run Away]] listen
 - [[Robert Burns and Mary, Queen of Scots how the poet shaped the enduring cultural legacy of the executed monarch]]
 - [[The 'Irritable' Condition That's Becoming So Common Among Men That Doctors Are Starting To Take Notice]]
-- 
+## 2026-01-24
+- [[‘There is a sense of things careening towards a head’ TS Eliot prize winner Karen Solie]] poetry
