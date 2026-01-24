@@ -156,3 +156,9 @@ Part 2
 ## 2026-01-23
 - [[Autocracy in America Defund Science]]
 - [['There's no other poem like it' Why this Robert Burns classic is a masterpiece]]
+- [[‘I ain’t goin nowhere’ Gullah Geechee people fight off developers with a historic referendum]]
+- [[‘I ain’t goin nowhere’ Gullah Geechee people fight off developers with a historic referendum]]
+- [[Sarah Jarosz – Run Away]] listen
+- [[Robert Burns and Mary, Queen of Scots how the poet shaped the enduring cultural legacy of the executed monarch]]
+- [[The 'Irritable' Condition That's Becoming So Common Among Men That Doctors Are Starting To Take Notice]]
+- 

@@ -8,7 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ee914752c13c1ce",
+            "id": "87ac97d4b8cac96f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/Robert Burns and Mary, Queen of Scots how the poet shaped the enduring cultural legacy of the executed monarch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Robert Burns and Mary, Queen of Scots how the poet shaped the enduring cultural legacy of the executed monarch"
+            }
+          },
+          {
+            "id": "bdd9b9fc4632ddd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/The 'Irritable' Condition That's Becoming So Common Among Men That Doctors Are Starting To Take Notice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The 'Irritable' Condition That's Becoming So Common Among Men That Doctors Are Starting To Take Notice"
+            }
+          },
+          {
+            "id": "8c6c5af3e725d81b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +79,8 @@
               "title": "Inbox"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,10 +247,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4ee914752c13c1ce",
+  "active": "8c6c5af3e725d81b",
   "lastOpenFiles": [
-    "ReadItLater Inbox/'There's no other poem like it' Why this Robert Burns classic is a masterpiece.md",
+    "ReadItLater Inbox/The 'Irritable' Condition That's Becoming So Common Among Men That Doctors Are Starting To Take Notice.md",
     "Inbox.md",
+    "ReadItLater Inbox/Robert Burns and Mary, Queen of Scots how the poet shaped the enduring cultural legacy of the executed monarch.md",
+    "ReadItLater Inbox/Sarah Jarosz – Run Away.md",
+    "ReadItLater Inbox/‘I ain’t goin nowhere’ Gullah Geechee people fight off developers with a historic referendum.md",
+    "ReadItLater Inbox/'There's no other poem like it' Why this Robert Burns classic is a masterpiece.md",
     "ReadItLater Inbox/Holocaust educator points to ‘warning signs’ in history when looking at ICE in Minnesota.md",
     "ReadItLater Inbox/Autocracy in America Defund Science.md",
     "ReadItLater Inbox/David and Victoria Beckham learned the hard way – modern kids go ‘no contact’ with no guilt or stigma at all  Emma Brockes.md",
