@@ -168,4 +168,5 @@ Part 2
 - [[In Minneapolis, Trump Administrations ICE Crackdown Shows the U.S. Unraveling - The New York Times]] "This is the end, my friend."
 - [[Washington Week with The Atlantic full episode, 12326  Washington Week with The Atlantic]] 
 - [[The taking of Liam Ramos reveals the sheer sadism of ICE  Moira Donegan  The Guardian]]
-- 
+- [['There's no other poem like it' Why this Robert Burns classic is a masterpiece]] Tam O'Shanter
+- [[Write a card, read a poem, take fewer photos how to feel more human in 2026  Australian lifestyle  The Guardian]] write, by hand, reach out

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5dba9f8deeb83b6d",
+        "id": "adf072ec768d7114",
         "type": "tabs",
         "children": [
           {
-            "id": "d2a17bdab95d3e27",
+            "id": "e9285feb8a495d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Inbox"
-            }
-          },
-          {
-            "id": "c52430f6225a67fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The taking of Liam Ramos reveals the sheer sadism of ICE  Moira Donegan  The Guardian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The taking of Liam Ramos reveals the sheer sadism of ICE  Moira Donegan  The Guardian"
             }
           }
         ]
@@ -230,9 +206,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d2a17bdab95d3e27",
+  "active": "e9285feb8a495d2a",
   "lastOpenFiles": [
+    "Write a card, read a poem, take fewer photos how to feel more human in 2026  Australian lifestyle  The Guardian.md",
     "The taking of Liam Ramos reveals the sheer sadism of ICE  Moira Donegan  The Guardian.md",
+    "'There's no other poem like it' Why this Robert Burns classic is a masterpiece.md",
     "Inbox.md",
     "Washington Week with The Atlantic full episode, 12326  Washington Week with The Atlantic.md",
     "In Minneapolis, Trump Administrations ICE Crackdown Shows the U.S. Unraveling - The New York Times.md",
