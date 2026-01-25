@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "In Minneapolis, Trump Administrations ICE Crackdown Shows the U.S. Unraveling - The New York Times.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "In Minneapolis, Trump Administrations ICE Crackdown Shows the U.S. Unraveling - The New York Times"
+            }
+          },
+          {
+            "id": "c3e854c2bfd3ff8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,10 +255,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "797de09ca0fcb6b0",
+  "active": "c3e854c2bfd3ff8c",
   "lastOpenFiles": [
-    "I replaced my task manager with a notes app and I'm not going back.md",
+    "In Minneapolis, Trump Administrations ICE Crackdown Shows the U.S. Unraveling - The New York Times.md",
     "Inbox.md",
+    "I replaced my task manager with a notes app and I'm not going back.md",
     "Clippers/Defining peace in a Trumpian era - CSMonitor.com.md",
     "Clippers/Refusing Despair in a Despairing Time  The Nation.md",
     "Clippers/From ancient Rome to today, war-makers have talked constantly about peace.md",

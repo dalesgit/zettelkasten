@@ -165,3 +165,4 @@ Part 2
 - [[‘There is a sense of things careening towards a head’ TS Eliot prize winner Karen Solie]] poetry
 ## 2026-01-25
 - [[I replaced my task manager with a notes app and I'm not going back]] Joplin!
+- [[In Minneapolis, Trump Administrations ICE Crackdown Shows the U.S. Unraveling - The New York Times]] "This is the end, my friend."
