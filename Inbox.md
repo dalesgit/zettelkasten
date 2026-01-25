@@ -170,3 +170,4 @@ Part 2
 - [[The taking of Liam Ramos reveals the sheer sadism of ICE  Moira Donegan  The Guardian]]
 - [['There's no other poem like it' Why this Robert Burns classic is a masterpiece]] Tam O'Shanter
 - [[Write a card, read a poem, take fewer photos how to feel more human in 2026  Australian lifestyle  The Guardian]] write, by hand, reach out
+- [[Opinion  State Terror Has Arrived - The New York Times]] state terror
