@@ -166,3 +166,6 @@ Part 2
 ## 2026-01-25
 - [[I replaced my task manager with a notes app and I'm not going back]] Joplin!
 - [[In Minneapolis, Trump Administrations ICE Crackdown Shows the U.S. Unraveling - The New York Times]] "This is the end, my friend."
+- [[Washington Week with The Atlantic full episode, 12326  Washington Week with The Atlantic]] 
+- [[The taking of Liam Ramos reveals the sheer sadism of ICE  Moira Donegan  The Guardian]]
+- 
