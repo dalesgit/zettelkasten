@@ -163,3 +163,5 @@ Part 2
 - [[The 'Irritable' Condition That's Becoming So Common Among Men That Doctors Are Starting To Take Notice]]
 ## 2026-01-24
 - [[‘There is a sense of things careening towards a head’ TS Eliot prize winner Karen Solie]] poetry
+## 2026-01-25
+- [[I replaced my task manager with a notes app and I'm not going back]] Joplin!
