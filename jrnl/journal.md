@@ -1,8 +1,3 @@
----
-id: journal
-aliases: []
-tags: []
----
 [2026-01-07 11:59:57 PM] This is going to be challenging.
 Staying with Julian is both heart-warming and way outside my comfort zone.
 
@@ -198,7 +193,6 @@ The previous day I had found my **Psalm project** and used it to compare the psa
 Yesterday and today I opened up the app "Infinite Painter" on the tablet. I might be able to pursue **creativity** with that.
 
 [2026-01-18 08:06:53 AM] Isaiah 11 Justice Music.
-
 #lectio
 Lectio on Isaiah 11 focused on "justice". A primordial part of growing up from toddler-hood on. Our country doesn't know about biblical "fairness" and "justice". "Justice" of death penalty? 
 
@@ -247,7 +241,6 @@ And interestingly, like some of the other things I harp on about, I seem to not 
 At Melas? Reservations.
 
 [2026-01-22 08:45:14 AM] Eternal covenant.
-
 #lectio
 MP was disturbed by my saying that I wasn't sure I believed in that. I cut her off from asking me, "What do you believe?" It has something to do with, "What can I rely on you for, O God?" Or, "Why can't you choose someone else for a while?"
 
@@ -269,3 +262,5 @@ Nhat Hanh wrote extensively on parallels between the ways of Jesus and Buddha, a
 _“We don’t need to wish our friends, ‘Peace be with you.’ Peace is already with them. We only need to help them cultivate the habit of touching peace in each moment_.”—Thich Nhat Hanh
 
 [2026-01-22 08:52:51 AM] tagged
+
+[2026-01-26 08:11:59 AM] lectio 1-25
