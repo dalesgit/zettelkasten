@@ -267,3 +267,12 @@ _“We don’t need to wish our friends, ‘Peace be with you.’ Peace is alrea
 "My people." Ezek 37. Help me to know how to act and speak in this time of already but not yet.
 
 MP as a model of compassion as she spontaneously weeps over the suffering she sees. She thinks, "I don't do anything." Perhaps weeping is enough.
+
+[2026-01-26 09:29:25 AM] call to UHC re Mounjaro.
+The person I reached said that the reason for the high cost was that I was paying the deductible. It seemed like she said that that amount was $150 and so satisfied it now. 
+
+She was being coy, however, and vague. 
+
+copay 25$ now or long-term $60. submit a prior authorization then request 3 mos.
+
+she will email to register now (this year?)
