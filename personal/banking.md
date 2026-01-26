@@ -14,7 +14,8 @@ title: banking-info
 ## South State
 
 https://www.southstatebank.com/personal
-
+:> [!WARNING]
+> 
 mph2South$ [South State]
 
 mpshoe  
@@ -27,7 +28,8 @@ Chrome on Acer is set up to accept her login. 10/29/25
 ~~mbh2SouthState~~
 
 hathashoe2 (5/2025)
-dch2Southstate!
+~~dch2Southstate!~~
+dch2SouthState26! (1/25/26)
 
 ## Citibank (Costco)
 
