@@ -265,3 +265,5 @@ _“We don’t need to wish our friends, ‘Peace be with you.’ Peace is alrea
 
 [2026-01-26 08:11:59 AM] lectio 1-25
 "My people." Ezek 37. Help me to know how to act and speak in this time of already but not yet.
+
+MP as a model of compassion as she spontaneously weeps over the suffering she sees. She thinks, "I don't do anything." Perhaps weeping is enough.
