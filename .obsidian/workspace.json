@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "personal/banking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "banking"
+            }
+          },
+          {
+            "id": "2d1d8da851020717",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://secure.southstatebank.com/southstatebankonline/uux.aspx#/login",
+                "title": "SouthState Bank",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "SouthState Bank"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +221,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e9285feb8a495d2a",
+  "active": "2d1d8da851020717",
   "lastOpenFiles": [
+    "personal/banking.md",
+    "Journal/Daily/2026-01-26.md",
+    "Inbox.md",
     "Opinion  State Terror Has Arrived - The New York Times.md",
     "Journal/Daily/2026-01-15.md",
     "Journal/Daily/2026-01-16.md",
@@ -230,9 +248,6 @@
     "Journal/Daily/2025-12-29.md",
     "Journal/Daily/2025-12-28.md",
     "Journal/Daily/2025-12-27.md",
-    "Journal/Daily/2025-12-26.md",
-    "Journal/Daily/2025-12-24.md",
-    "Journal/Daily/2025-12-23.md",
-    "Journal/Daily/2025-12-22.md"
+    "Journal/Daily/2025-12-26.md"
   ]
 }
