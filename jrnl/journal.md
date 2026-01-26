@@ -276,3 +276,29 @@ She was being coy, however, and vague.
 copay 25$ now or long-term $60. submit a prior authorization then request 3 mos.
 
 she will email to register now (this year?)
+
+[2026-01-26 11:17:09 AM] call cpg re cards etc.
+She has her own client number. When available, call verify the same etc. account creation.
+
+Current coverage not yet available on UHC. That's why all we see is 2024 and earlier. Call them directly or cpg relay information.
+
+Dental coverage
+
+She will send the dental id. 
+
+> Semaglutide is a prescription medication used to treat type 2 diabetes, promote weight loss, and reduce the risk of major cardiovascular and kidney events in adults with certain conditions.  It is a glucagon-like peptide-1 (GLP-1) receptor agonist that mimics a natural hormone to regulate blood sugar, reduce appetite, and slow digestion
+
+
+Ann: from UHC. assistance. Re. card. I am on her account as a co-person not needing personal authorization.
+
+Jan 13 card sent. This week or next for receiving. ID number is: 976-332-411.
+Group nu. 16241
+
+rx bin nu.610097
+rx group: mpdurs
+rx bcn: 9999
+
+wegovy: requires prior-authorization. such was sent earlier. on jan 19. requires
+weight-loss: Laura was the provider. They can process an appeal. She can send. Substantiate weight-loss need. 
+
+unless medically necessary
