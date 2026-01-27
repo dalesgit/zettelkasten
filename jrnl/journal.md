@@ -302,3 +302,7 @@ wegovy: requires prior-authorization. such was sent earlier. on jan 19. requires
 weight-loss: Laura was the provider. They can process an appeal. She can send. Substantiate weight-loss need. 
 
 unless medically necessary
+
+[2026-01-26 11:18:21 AM] call cpg re cards etc.
+
+[2026-01-26 11:24:13 AM] call cpg re cards etc.
