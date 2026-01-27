@@ -35,14 +35,24 @@
             "id": "2d1d8da851020717",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://secure.southstatebank.com/southstatebankonline/uux.aspx#/login",
-                "title": "SouthState Bank",
-                "mode": "webview"
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "SouthState Bank"
+              "icon": "lucide-file",
+              "title": "Inbox"
             }
           }
         ],
@@ -223,6 +233,7 @@
   },
   "active": "2d1d8da851020717",
   "lastOpenFiles": [
+    "When the world prays the solitary and individual becomes communal and universal  Ali Hammoud  The Guardian.md",
     "personal/banking.md",
     "Journal/Daily/2026-01-26.md",
     "Inbox.md",
@@ -247,7 +258,6 @@
     "Journal/Daily/2025-12-30.md",
     "Journal/Daily/2025-12-29.md",
     "Journal/Daily/2025-12-28.md",
-    "Journal/Daily/2025-12-27.md",
-    "Journal/Daily/2025-12-26.md"
+    "Journal/Daily/2025-12-27.md"
   ]
 }

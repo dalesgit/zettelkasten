@@ -171,3 +171,4 @@ Part 2
 - [['There's no other poem like it' Why this Robert Burns classic is a masterpiece]] Tam O'Shanter
 - [[Write a card, read a poem, take fewer photos how to feel more human in 2026  Australian lifestyle  The Guardian]] write, by hand, reach out
 - [[Opinion  State Terror Has Arrived - The New York Times]] state terror
+- [[When the world prays the solitary and individual becomes communal and universal  Ali Hammoud  The Guardian]] This may be in the direction I want to go for Ash Wednesday #preaching 
