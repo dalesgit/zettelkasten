@@ -67,3 +67,4 @@
 {"description":"call United Health Care","entry":"20260126T125639Z","modified":"20260126T125639Z","status":"pending","uuid":"3ba6b7a3-3114-41c0-8ef5-09d2a91bb56c"}
 {"description":"call United Health Care","end":"20260127T112843Z","entry":"20260126T125639Z","modified":"20260127T112847Z","status":"deleted","uuid":"3ba6b7a3-3114-41c0-8ef5-09d2a91bb56c"}
 {"description":"test zoom on machines","entry":"20260127T172137Z","modified":"20260127T172137Z","project":"technical","status":"pending","uuid":"0addd1c9-4368-4207-b2d0-76bdf87574cf"}
+{"description":"call Folino for Feb appt","end":"20260128T014919Z","entry":"20260116T154132Z","modified":"20260128T014921Z","status":"deleted","uuid":"3f36a9de-b6eb-4e57-ae18-24f4802bef57"}
