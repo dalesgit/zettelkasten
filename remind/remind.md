@@ -90,8 +90,9 @@ REM Jan 30 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group %b%
 REM Feb 21 2026 AT 9:30 SPECIAL COLOR 0 128 255 Centering Prayer quiet day
 REM Jan 19 2026 MSG Mark and Angela arrive %b%
 REM Jan 22 2026 AT 12:00 MSG Lunch with Scott and Loa at Melas %b%
-REM Jan 23 2026 AT 17:30 MSG Dinner with Marlene %b%<<<<<<< HEAD
+REM Jan 23 2026 AT 17:30 MSG Dinner with Marlene %b%
 ;REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
-REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 255 Dinner with Larry & Kathy %b%======
+REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 255 Dinner with Larry & Kathy %b%
 REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b 
 REM Feb 24 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
+REM Jan 25 2026 AT 11:00 MSG MPS to Spiritual Direction %b%
