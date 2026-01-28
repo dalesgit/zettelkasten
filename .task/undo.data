@@ -241,3 +241,7 @@ time 1769564961
 old [description:"call Folino for Feb appt" entry:"1768578092" modified:"1768578092" status:"pending" uuid:"3f36a9de-b6eb-4e57-ae18-24f4802bef57"]
 new [description:"call Folino for Feb appt" end:"1769564959" entry:"1768578092" modified:"1769564961" status:"deleted" uuid:"3f36a9de-b6eb-4e57-ae18-24f4802bef57"]
 ---
+time 1769606859
+old [description:"test zoom on machines" entry:"1769534497" modified:"1769534497" project:"technical" status:"pending" uuid:"0addd1c9-4368-4207-b2d0-76bdf87574cf"]
+new [description:"test zoom on machines" end:"1769606855" entry:"1769534497" modified:"1769606859" project:"technical" status:"deleted" uuid:"0addd1c9-4368-4207-b2d0-76bdf87574cf"]
+---

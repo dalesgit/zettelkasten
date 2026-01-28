@@ -40,7 +40,7 @@ REM Dec 30 2024 +2 MSG Hathaway Family Phone Call AT 05:30 PM %b%
 REM Dec 31 2024 +2 MSG Vascular ultrasound Dr. Kalani AT 11:30 AM %b%
 REM Thu Jan 2025 +2 MSG Healing Mass AT noon %b%
 REM FROM Jan 4 2025 UNTIL Jan 5 2025 +2 MSG Dale Celebrating %b%
-;REM FROM Jan 11 2025 UNTIL Jan 12 2025 +2 MSG Dale Preaching %b%
+REM FROM Jan 11 2025 UNTIL Jan 12 2025 +2 MSG Dale Preaching %b%
 REM FROM Feb 15 2025 UNTIL Feb 16 2025 +2 MSG Dale Celebrating %b%
 REM FROM Feb 22 2025 UNTIL Feb 23 2025 +2 MSG Dale Preaching %b%
 REM Dec 19 2025 +2 MSG Dr. Aaron Davis (DH eyedoctor) AT 9:15 AM %b%
@@ -95,4 +95,4 @@ REM Jan 23 2026 AT 17:30 MSG Dinner with Marlene %b%
 REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 255 Dinner with Larry & Kathy %b%
 REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
 REM Feb 24 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
-REM Jan 28 2026 AT 11:00 MSG MPS to Spiritual Direction %b%
+

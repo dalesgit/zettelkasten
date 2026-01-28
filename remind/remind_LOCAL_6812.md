@@ -40,7 +40,7 @@ REM Dec 30 2024 +2 MSG Hathaway Family Phone Call AT 05:30 PM %b%
 REM Dec 31 2024 +2 MSG Vascular ultrasound Dr. Kalani AT 11:30 AM %b%
 REM Thu Jan 2025 +2 MSG Healing Mass AT noon %b%
 REM FROM Jan 4 2025 UNTIL Jan 5 2025 +2 MSG Dale Celebrating %b%
-;REM FROM Jan 11 2025 UNTIL Jan 12 2025 +2 MSG Dale Preaching %b%
+REM FROM Jan 11 2025 UNTIL Jan 12 2025 +2 MSG Dale Preaching %b%
 REM FROM Feb 15 2025 UNTIL Feb 16 2025 +2 MSG Dale Celebrating %b%
 REM FROM Feb 22 2025 UNTIL Feb 23 2025 +2 MSG Dale Preaching %b%
 REM Dec 19 2025 +2 MSG Dr. Aaron Davis (DH eyedoctor) AT 9:15 AM %b%
@@ -81,7 +81,7 @@ REM Jan 6 2026 AT 15:00 MSG leave for airport to CO %b%
 REM Jan 13 2026 AT 12:00 MSG Flight to Tampa (14:00 EST) %b%
 REM FROM Jan 20 2026 UNTIL Jan 25 2026 SPECIAL COLOR 255 0 255 Naples with Cruise friends %b%
 REM Jan 29 MSG Marlene's 90th birthday %b%
-;REM Jan 31 2026 THROUGH Feb 1 2026 MSG DH Preach %b%
+REM Jan 31 2026 THROUGH Feb 1 2026 MSG DH Preach %b%
 REM Feb 1 2026 THROUGH Feb 8 2026 SPECIAL COLOR 255 0 255 Charleston African American Museum %b%
 ;REM Jan 27 2026 AT 11:00 SPECIAL COLOR 0 250 0 Linda Serepca
 ;REM Feb 1 2026 THROUGH Feb 8 2026 SPECIAL COLOR 0 128 255 Charleston African American Museum %b%
@@ -90,9 +90,9 @@ REM Jan 30 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group %b%
 REM Feb 21 2026 AT 9:30 SPECIAL COLOR 0 128 255 Centering Prayer quiet day
 REM Jan 19 2026 MSG Mark and Angela arrive %b%
 REM Jan 22 2026 AT 12:00 MSG Lunch with Scott and Loa at Melas %b%
-REM Jan 23 2026 AT 17:30 MSG Dinner with Marlene %b%
+REM Jan 23 2026 AT 17:30 MSG Dinner with Marlene %b%<<<<<<< HEAD
 ;REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
-REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 255 Dinner with Larry & Kathy %b%
-REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
+REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 255 Dinner with Larry & Kathy %b%======
+REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b 
 REM Feb 24 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
-REM Jan 28 2026 AT 11:00 MSG MPS to Spiritual Direction %b%
+>>>>>>> 2bc0202dbd1f63f27f7c72bacefc36455eed161b
