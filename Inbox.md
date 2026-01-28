@@ -3,7 +3,7 @@ id: Inbox
 aliases: []
 tags: []
 ---
-## archived
+qq## archived
 - [[preaching]]
 - [[Post - Luhmann vs Digital Zettelkasten]]
 - [[overview Zettelkasten]]
