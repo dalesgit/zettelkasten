@@ -1,3 +1,9 @@
+; blue: rgb(51, 102, 255)
+; green: rgb(102, 255, 153)
+; yellow: rgb(255, 255, 0)
+; red: rgb(255, 0, 0)
+; blue: rgb(0, 0, 255)
+;
 REM Dec 15 2024 MSG This is my first customization
 REM Nov 28 2024 +2 MSG Eucharist     AT 6:00 PM %b%
 REM Dec 06 2024 +2 MSG Linda session    AT 6:30 PM %b%
@@ -96,3 +102,6 @@ REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 255 Dinner with Larry & Kathy %b%
 REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
 REM Feb 24 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
 REM Jan 28 2026 AT 11:00 MSG MPS to Spiritual Direction %b%
+REM Mar 04 2026 AT 10:00 SPECIAL COLOR 0 128 255 Dr. Folino cleaning %b% 
+REM Feb 12 2026 AT 14:00 SPECIAL COLOR 0 128 255 Airhawk service %b% 
+REM Feb 09 2026 AT 14:30 SPECIAL COLOR 0 128 255 MASA meal at Red Lobster %b% 
