@@ -319,3 +319,62 @@ What does it tell me about being a father.
 Part of my experience walking with you: no matter what's going on around me, in culture etc., i have a rich inner world that saves me. Inner world that saves me. Inner Eden. That is what sustains us.
 
 She met my prisoner. Has a long-term girl friend who visits.
+
+[2026-01-28 10:05:56 AM] project:prison-ministry Getting started.
+#prison-ministry
+
+I dropped the ball on this.  Michael Taylor is still seeking a spiritual advisor.
+
+- If you can **establish an account on JPAY**, you can write him and begin a conversation.  
+- His Doc # is 586730 at La State Penitentiary.  
+- You will have to purchase stamps on a credit/debit card.  
+- Once you hear back, you can arrange a time to talk on the phone.  
+- They get a free 10 min call weekly.  
+- Once you schedule a call, 
+- download **Securus** and same thing, purchase a certain amount of money on your card.  (an hour call is about $6)  Then he can call you and the amount of the call will be deducted from your account.  If you keep your receipts, I can reimburse you.  (some directors donate their calls but that is not necessary) 
+
+It sounds more complicated than it is.  See how things go and then I can advise you from there.
+
+THANKS!
+Linda
+
+[2026-01-28 06:45:42 PM] Odd times.
+#writing
+
+It's odd isn't it that these are the times we live in.\
+These are the facts on the ground, the boots on the ground,\
+that we have to work with. \
+We weren't given a choice in parents. \
+No choice that I was born a white dude\
+in a world where by comparison \
+my family was wildly wealthy\
+and most people carried more pigmentation\
+than any of "my people".\
+No choice where we would have to choose.\
+Choice after choice after choice. \
+My father said, "Don't go listen\
+to Joan Baez. The FBI will know."\
+I did. I chose.\
+I chose to march against the war at Ft. Carson\
+when I met a prophetic, angelic, man in a black suit.\
+He walked straight out of a union march from the 1930's.\
+Most of my compatriots paid him not a lick of time.\
+He taught me more about economics, politics, and business\
+than any professor I knew. I chose.\
+We don't choose the times we have to make choices in.
+
+> Wherever two or three are gathered … \
+> There you have politics. 
+
+Another lesson from later on, \
+a lesson I wouldn't have heard but for the choices I made.\
+There is no political-free arena. No choices there.\
+πολισ, _polis_, it's a city man\
+two or three or more\
+where everyone makes choices.\
+That's what we have to work with.\
+There is no option to not choose.\
+That's a choice. Your choice.
+
+Who's your neighbor?\
+Will you connect with kindness or violence?
