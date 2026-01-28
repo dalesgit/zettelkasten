@@ -302,3 +302,20 @@ wegovy: requires prior-authorization. such was sent earlier. on jan 19. requires
 weight-loss: Laura was the provider. They can process an appeal. She can send. Substantiate weight-loss need. 
 
 unless medically necessary
+
+[2026-01-26 11:18:21 AM] call cpg re cards etc.
+
+[2026-01-26 11:24:13 AM] call cpg re cards etc.
+
+[2026-01-27 12:16:44 PM] Linda zoom.
+So much of what I related is good and about relationships.
+
+I don't need to continue to have the nourishing experiences like: music, etc.
+
+What was shimmering? 
+
+What does it tell me about being a father.
+
+Part of my experience walking with you: no matter what's going on around me, in culture etc., i have a rich inner world that saves me. Inner world that saves me. Inner Eden. That is what sustains us.
+
+She met my prisoner. Has a long-term girl friend who visits.

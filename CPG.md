@@ -24,7 +24,7 @@ Use email: dhath12@gmail.com
 
 
 MPS: 293-40-2749
-
+thi
 ---
 {from info 2021}
 
@@ -35,7 +35,7 @@ client number: 368-765-97
 user: dalescpg
 password: dch2cpg$ (old)
 as of 11/14/2020 dch2cpg!
-866-802-6333
+**866-802-6333** This was re. info re. insurance 
 800-480-9967 (client services, use this)
 met wife: Honolulu
 youngest brother birth date: March 1960

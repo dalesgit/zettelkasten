@@ -27,14 +27,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-<<<<<<< HEAD
 current_page=1
 FILE_NAME_0=0;None;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2FRepositories%2Fzettelkasten%2Fremind%2Fremind.rem;0;4
 FILE_NAME_1=0;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2FRepositories%2Fzettelkasten%2Fremind%2Fremind.md;0;4
-=======
-current_page=0
-FILE_NAME_0=5551;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2FRepositories%2Fzettelkasten%2Fremind%2Fremind.md;0;4
->>>>>>> 2bc0202dbd1f63f27f7c72bacefc36455eed161b
 
 [VTE]
 last_dir=/home/dale
