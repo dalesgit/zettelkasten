@@ -27,12 +27,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=119;None;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2F.reminders;0;4
-FILE_NAME_1=1867;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2FRepositories%2Fzettelkasten%2Fremind%2Fremind.md;0;4
-FILE_NAME_2=1;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2FRepositories%2Fzettelkasten%2Fremind%2Fremind-cal2.md;0;4
-FILE_NAME_3=16365;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2FRepositories%2Fzettelkasten%2Fremind%2Fremind-cal.md;0;4
-FILE_NAME_4=172;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2FRepositories%2Fzettelkasten%2Fremind%2Fremind-bd.md;0;4
+current_page=1
+FILE_NAME_0=0;None;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2FRepositories%2Fzettelkasten%2Fremind%2Fremind.rem;0;4
+FILE_NAME_1=0;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fdale%2FRepositories%2Fzettelkasten%2Fremind%2Fremind.md;0;4
 
 [VTE]
 last_dir=/home/dale
