@@ -1,3 +1,8 @@
+---
+id: remind
+aliases: []
+tags: []
+---
 REM Dec 15 2024 MSG This is my first customization
 REM Nov 28 2024 +2 MSG Eucharist     AT 6:00 PM %b%
 REM Dec 06 2024 +2 MSG Linda session    AT 6:30 PM %b%
@@ -94,5 +99,7 @@ REM Jan 23 2026 AT 17:30 MSG Dinner with Marlene %b%
 ;REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
 REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 255 Dinner with Larry & Kathy %b%
 REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
-REM Feb 24 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
+REM Feb 24 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca %b%
+REM Feb 12 2026 AT 14:00 SPECIAL COLOR 0 128 255 Airhawk HVAC service %b%
+REM Mar 04 2026 AT 10:00 SPECIAL COLOR $GREEN Dr. Folino for cleaning (DH) %b%
 
