@@ -3,7 +3,7 @@ id: Inbox
 aliases: []
 tags: []
 ---
-qq## archived
+## archived
 - [[preaching]]
 - [[Post - Luhmann vs Digital Zettelkasten]]
 - [[overview Zettelkasten]]
@@ -174,3 +174,4 @@ Part 2
 - say [[When the world prays the solitary and individual becomes communal and universal  Ali Hammoud  The Guardian]] This may be in the direction I want to go for Ash Wednesday #preaching 
 ## 2026-01-29
 - [Three_Hawaiian_daughters](pages/Three Hawaiian Daughters.md)
+- [[What DOGE says is 'wasteful,' 'excessive' spending in Hillsborough, Pinellas and Manatee counties  wtsp.com]]
