@@ -379,3 +379,11 @@ That's a choice. Your choice.
 
 Who's your neighbor?\
 Will you connect with kindness or violence?
+
+[2026-01-28 07:36:52 PM] Common good and human dignity.
+#church_state
+Cardinal Tobin on PBS newshour tonight. Advocating for "common good" rather than competing rights be the measure for decision making.
+
+He also pointed to the marker of "human dignity" of all persons as a guide (for Christians?)
+
+"Doing inhuman things to people …"
