@@ -245,3 +245,6 @@ time 1769606859
 old [description:"test zoom on machines" entry:"1769534497" modified:"1769534497" project:"technical" status:"pending" uuid:"0addd1c9-4368-4207-b2d0-76bdf87574cf"]
 new [description:"test zoom on machines" end:"1769606855" entry:"1769534497" modified:"1769606859" project:"technical" status:"deleted" uuid:"0addd1c9-4368-4207-b2d0-76bdf87574cf"]
 ---
+time 1769655029
+new [description:"Ash Wednesday sermon" entry:"1769655029" modified:"1769655029" project:"preaching" status:"pending" uuid:"742410b7-197f-4038-bb01-cce955071799"]
+---

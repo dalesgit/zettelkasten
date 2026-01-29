@@ -69,3 +69,4 @@
 {"description":"test zoom on machines","entry":"20260127T172137Z","modified":"20260127T172137Z","project":"technical","status":"pending","uuid":"0addd1c9-4368-4207-b2d0-76bdf87574cf"}
 {"description":"call Folino for Feb appt","end":"20260128T014919Z","entry":"20260116T154132Z","modified":"20260128T014921Z","status":"deleted","uuid":"3f36a9de-b6eb-4e57-ae18-24f4802bef57"}
 {"description":"test zoom on machines","end":"20260128T132735Z","entry":"20260127T172137Z","modified":"20260128T132739Z","project":"technical","status":"deleted","uuid":"0addd1c9-4368-4207-b2d0-76bdf87574cf"}
+{"description":"Ash Wednesday sermon","entry":"20260129T025029Z","modified":"20260129T025029Z","project":"preaching","status":"pending","uuid":"742410b7-197f-4038-bb01-cce955071799"}
