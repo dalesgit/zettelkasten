@@ -387,3 +387,20 @@ Cardinal Tobin on PBS newshour tonight. Advocating for "common good" rather than
 He also pointed to the marker of "human dignity" of all persons as a guide (for Christians?)
 
 "Doing inhuman things to people …"
+
+[2026-01-29 08:17:39 AM] Give us this day.
+## Blessed Among Us
+
+_Fyodor Dostoevsky_
+
+**Novelist (1821–1881)**
+
+Dostoevsky, who was born in Moscow, studied engineering before deciding to pursue a literary career. His first story, “Poor People,” was published in 1846; it reflected his lifelong concern for the sufferings of common people. In 1849, Dostoevsky was arrested for his role in a socialist study circle. Sentenced to death, he was reprieved within minutes of his scheduled execution. He spent the next four years in hard labor in a Siberian prison camp. In this experience, with only the New Testament as his companion, he imbibed the themes that would dominate his novels: the common human solidarity in the sin of the world, the redemptive meaning of suffering, and the power of Christ’s love.
+
+Dostoevsky’s life was marked by deep anguish. He suffered from epileptic seizures; his compulsive gambling contributed to lifelong penury. Two of his children died, and he was wracked with guilt over the early death of his first wife, whom he had treated disdainfully.
+
+His brilliant novels, Crime and Punishment, The Idiot, and The Brothers Karamazov, were marked by an acute understanding of psychology and an obsession with the nature of evil, the condition of human rebellion against God, and the quest for salvation. Though his work was honored in the Soviet era, he had prophesied the oppressive nature of any effort to achieve a utopia apart from God. For Dostoevsky, authentic community and human fellowship could be founded only on a living faith in Christ. He died on January 28, 1881.
+
+“God will save Russia, as he has saved her many times. Salvation will come from the people, from their faith and their weakness.”
+
+—Fyodor Dostoevsky
