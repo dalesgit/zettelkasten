@@ -98,7 +98,7 @@ REM Jan 19 2026 MSG Mark and Angela arrive %b%
 REM Jan 22 2026 AT 12:00 MSG Lunch with Scott and Loa at Melas %b%
 REM Jan 23 2026 AT 17:30 MSG Dinner with Marlene %b%
 ;REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
-REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 255 Dinner with Larry & Kathy %b%
-REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
+REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 0 Dinner with Larry & Kathy %b%
+REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %**b**%
 REM Feb 12 2026 AT 14:00 SPECIAL COLOR 0 128 255 Airhawk service %b% 
 REM Feb 09 2026 AT 14:30 SPECIAL COLOR 0 128 255 MASA meal at Red Lobster %b% 

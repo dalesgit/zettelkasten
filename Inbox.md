@@ -173,4 +173,4 @@ Part 2
 - [[Opinion  State Terror Has Arrived - The New York Times]] state terror
 - say [[When the world prays the solitary and individual becomes communal and universal  Ali Hammoud  The Guardian]] This may be in the direction I want to go for Ash Wednesday #preaching 
 ## 2026-01-29
-- [Three_Hawaiian_daughters](pages/Three_Hawaiian_daughters.md)
+- [Three_Hawaiian_daughters](pages/Three Hawaiian Daughters.md)
