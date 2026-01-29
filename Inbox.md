@@ -8,6 +8,8 @@ tags: []
 - [[Post - Luhmann vs Digital Zettelkasten]]
 - [[overview Zettelkasten]]
 - [[Ignatius of Loyola]]
+
+January
 ## 2025-12-24
 
 ## 2025-12-25
@@ -173,7 +175,11 @@ Part 2
 - [[Opinion  State Terror Has Arrived - The New York Times]] state terror
 - say [[When the world prays the solitary and individual becomes communal and universal  Ali Hammoud  The Guardian]] This may be in the direction I want to go for Ash Wednesday #preaching 
 ## 2026-01-29
-- [Three_Hawaiian_daughters](pages/Three Hawaiian Daughters.md)
-- [[What DOGE says is 'wasteful,' 'excessive' spending in Hillsborough, Pinellas and Manatee counties  wtsp.com]]
-- [[Do You Have Old Electronics Lying Around Costco Will Trade You For Them]]
--  [[Three Hawaiian Daughters]]
+
+- [[What DOGE says is 'wasteful,' 'excessive' spending in Hillsborough, Pinellas and Manatee counties  wtsp.com]] local weirdness
+- [[Do You Have Old Electronics Lying Around Costco Will Trade You For Them]] interesting
+-  [[Three Hawaiian Daughters]] Lili'uokalani was today on the calendar
+- [[The Minneapolis revolt tells us this even in Trump’s America, the people have power too  Aditya Chakrabortty  The Guardian]] power to the people
+- [[Shut it down! The US is better off with no government than with the one it has  Judith Levine  The Guardian]] This time stand up Democrats
+- [[The Accidental Winners of the War on Higher Ed - The Atlantic]]
+- 
