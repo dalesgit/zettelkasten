@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/banking.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "banking"
+              "title": "Inbox"
             }
           }
         ]
@@ -209,10 +209,11 @@
   },
   "active": "e9285feb8a495d2a",
   "lastOpenFiles": [
+    "personal/banking.md",
+    "Do You Have Old Electronics Lying Around Costco Will Trade You For Them.md",
     "Inbox.md",
     "What DOGE says is 'wasteful,' 'excessive' spending in Hillsborough, Pinellas and Manatee counties  wtsp.com.md",
     "When the world prays the solitary and individual becomes communal and universal  Ali Hammoud  The Guardian.md",
-    "personal/banking.md",
     "Journal/Daily/2026-01-26.md",
     "Opinion  State Terror Has Arrived - The New York Times.md",
     "Journal/Daily/2026-01-15.md",
@@ -233,7 +234,6 @@
     "Journal/Daily/2026-01-01.md",
     "Journal/Daily/2025-12-31.md",
     "Journal/Daily/2025-12-30.md",
-    "Journal/Daily/2025-12-29.md",
-    "Journal/Daily/2025-12-28.md"
+    "Journal/Daily/2025-12-29.md"
   ]
 }
