@@ -245,6 +245,12 @@ time 1769606859
 old [description:"test zoom on machines" entry:"1769534497" modified:"1769534497" project:"technical" status:"pending" uuid:"0addd1c9-4368-4207-b2d0-76bdf87574cf"]
 new [description:"test zoom on machines" end:"1769606855" entry:"1769534497" modified:"1769606859" project:"technical" status:"deleted" uuid:"0addd1c9-4368-4207-b2d0-76bdf87574cf"]
 ---
+<<<<<<< HEAD
+time 1769633483
+old [description:"make appt for HVAC checkup" entry:"1768605766" modified:"1768606196" project:"Home" status:"pending" uuid:"a2c84303-5de7-4207-9f4f-289ac97aabbc"]
+new [description:"make appt for HVAC checkup" end:"1769633481" entry:"1768605766" modified:"1769633483" project:"Home" status:"deleted" uuid:"a2c84303-5de7-4207-9f4f-289ac97aabbc"]
+=======
 time 1769655029
 new [description:"Ash Wednesday sermon" entry:"1769655029" modified:"1769655029" project:"preaching" status:"pending" uuid:"742410b7-197f-4038-bb01-cce955071799"]
+>>>>>>> 51ca62d0f79f6f225102315594f51d54906a4867
 ---

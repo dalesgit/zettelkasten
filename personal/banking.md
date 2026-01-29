@@ -14,7 +14,6 @@ title: banking-info
 ## South State
 
 https://www.southstatebank.com/personal
-:> [!WARNING]
 > 
 mph2South$ [South State]
 

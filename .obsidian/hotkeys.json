@@ -160,5 +160,13 @@
       ],
       "key": "S"
     }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
   ]
 }

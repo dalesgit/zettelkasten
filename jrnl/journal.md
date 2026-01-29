@@ -320,3 +320,87 @@ What does it tell me about being a father.
 Part of my experience walking with you: no matter what's going on around me, in culture etc., i have a rich inner world that saves me. Inner world that saves me. Inner Eden. That is what sustains us.
 
 She met my prisoner. Has a long-term girl friend who visits.
+
+[2026-01-28 10:05:56 AM] project:prison-ministry Getting started.
+#prison-ministry
+
+I dropped the ball on this.  Michael Taylor is still seeking a spiritual advisor.
+
+- If you can **establish an account on JPAY**, you can write him and begin a conversation.  
+- His Doc # is 586730 at La State Penitentiary.  
+- You will have to purchase stamps on a credit/debit card.  
+- Once you hear back, you can arrange a time to talk on the phone.  
+- They get a free 10 min call weekly.  
+- Once you schedule a call, 
+- download **Securus** and same thing, purchase a certain amount of money on your card.  (an hour call is about $6)  Then he can call you and the amount of the call will be deducted from your account.  If you keep your receipts, I can reimburse you.  (some directors donate their calls but that is not necessary) 
+
+It sounds more complicated than it is.  See how things go and then I can advise you from there.
+
+THANKS!
+Linda
+
+[2026-01-28 06:45:42 PM] Odd times.
+#writing
+
+It's odd isn't it that these are the times we live in.\
+These are the facts on the ground, the boots on the ground,\
+that we have to work with. \
+We weren't given a choice in parents. \
+No choice that I was born a white dude\
+in a world where by comparison \
+my family was wildly wealthy\
+and most people carried more pigmentation\
+than any of "my people".\
+No choice where we would have to choose.\
+Choice after choice after choice. \
+My father said, "Don't go listen\
+to Joan Baez. The FBI will know."\
+I did. I chose.\
+I chose to march against the war at Ft. Carson\
+when I met a prophetic, angelic, man in a black suit.\
+He walked straight out of a union march from the 1930's.\
+Most of my compatriots paid him not a lick of time.\
+He taught me more about economics, politics, and business\
+than any professor I knew. I chose.\
+We don't choose the times we have to make choices in.
+
+> Wherever two or three are gathered … \
+> There you have politics. 
+
+Another lesson from later on, \
+a lesson I wouldn't have heard but for the choices I made.\
+There is no political-free arena. No choices there.\
+πολισ, _polis_, it's a city man\
+two or three or more\
+where everyone makes choices.\
+That's what we have to work with.\
+There is no option to not choose.\
+That's a choice. Your choice.
+
+Who's your neighbor?\
+Will you connect with kindness or violence?
+
+[2026-01-28 07:36:52 PM] Common good and human dignity.
+#church_state
+Cardinal Tobin on PBS newshour tonight. Advocating for "common good" rather than competing rights be the measure for decision making.
+
+He also pointed to the marker of "human dignity" of all persons as a guide (for Christians?)
+
+"Doing inhuman things to people …"
+
+[2026-01-29 08:17:39 AM] Give us this day.
+## Blessed Among Us
+
+_Fyodor Dostoevsky_
+
+**Novelist (1821–1881)**
+
+Dostoevsky, who was born in Moscow, studied engineering before deciding to pursue a literary career. His first story, “Poor People,” was published in 1846; it reflected his lifelong concern for the sufferings of common people. In 1849, Dostoevsky was arrested for his role in a socialist study circle. Sentenced to death, he was reprieved within minutes of his scheduled execution. He spent the next four years in hard labor in a Siberian prison camp. In this experience, with only the New Testament as his companion, he imbibed the themes that would dominate his novels: the common human solidarity in the sin of the world, the redemptive meaning of suffering, and the power of Christ’s love.
+
+Dostoevsky’s life was marked by deep anguish. He suffered from epileptic seizures; his compulsive gambling contributed to lifelong penury. Two of his children died, and he was wracked with guilt over the early death of his first wife, whom he had treated disdainfully.
+
+His brilliant novels, Crime and Punishment, The Idiot, and The Brothers Karamazov, were marked by an acute understanding of psychology and an obsession with the nature of evil, the condition of human rebellion against God, and the quest for salvation. Though his work was honored in the Soviet era, he had prophesied the oppressive nature of any effort to achieve a utopia apart from God. For Dostoevsky, authentic community and human fellowship could be founded only on a living faith in Christ. He died on January 28, 1881.
+
+“God will save Russia, as he has saved her many times. Salvation will come from the people, from their faith and their weakness.”
+
+—Fyodor Dostoevsky
