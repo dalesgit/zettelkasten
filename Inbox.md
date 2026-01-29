@@ -144,7 +144,7 @@ Part 2
 - [[Clippers/I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic|I Am a Minneapolis Mother and Pastor, and I Know Where I Stand  The New Republic]] #preaching 
 - [[Opinion  Trump’s Norway Letter Proves This Isn’t Sustainable - The New York Times]] cp. Nixon as he slunk to oblivion
 - [[Opinion  Trump’s Politics Are Not America First. They’re Me First. - The New York Times]] This is so spot on.
-- [[‘The most dangerous man in America’ how Paul Robeson went from Hollywood to blacklist  Books  The Guardian]] Paul Robeson cp. today's world
+- [[‘The most dangerous man in America’ how Paul Robeson went from Hollywood to blacklist  Books  The Guardian]] Paul Robeson cp. today's worlhd
 - [[American democracy on the brink a year after Trump’s inauguration, experts say  Donald Trump  The Guardian]] just so
 ## 2026-01-22
 - [[Defining peace in a Trumpian era - CSMonitor.com]]
@@ -171,4 +171,6 @@ Part 2
 - [['There's no other poem like it' Why this Robert Burns classic is a masterpiece]] Tam O'Shanter
 - [[Write a card, read a poem, take fewer photos how to feel more human in 2026  Australian lifestyle  The Guardian]] write, by hand, reach out
 - [[Opinion  State Terror Has Arrived - The New York Times]] state terror
-- [[When the world prays the solitary and individual becomes communal and universal  Ali Hammoud  The Guardian]] This may be in the direction I want to go for Ash Wednesday #preaching 
+- say [[When the world prays the solitary and individual becomes communal and universal  Ali Hammoud  The Guardian]] This may be in the direction I want to go for Ash Wednesday #preaching 
+## 2026-01-29
+- [Three_Hawaiian_daughters](pages/Three_Hawaiian_daughters.md)
