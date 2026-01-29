@@ -1,0 +1,256 @@
+time 1766855871
+new [description:"Figure TW out later" entry:"1766855871" modified:"1766855871" status:"pending" uuid:"3abf2076-488d-468c-92d7-6eb14a59bfdf"]
+---
+time 1766855894
+new [description:"read something 3" entry:"1766855894" modified:"1766855894" status:"pending" uuid:"576af9fd-84f8-46a0-b480-91673c2611bc"]
+---
+time 1766855945
+old [description:"read something 3" entry:"1766855894" modified:"1766855894" status:"pending" uuid:"576af9fd-84f8-46a0-b480-91673c2611bc"]
+new [description:"read something 3" end:"1766855944" entry:"1766855894" modified:"1766855945" status:"deleted" uuid:"576af9fd-84f8-46a0-b480-91673c2611bc"]
+---
+time 1766872886
+new [description:"buy Basil Hayden bourbon whiskey" entry:"1766872886" modified:"1766872886" status:"pending" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
+---
+time 1766873213
+new [description:"Thank you to Becky" entry:"1766873213" modified:"1766873213" status:"pending" uuid:"62c3251b-e1c4-41fe-9c57-70a6a531e0eb"]
+---
+time 1766873247
+new [description:"Thank you to Miriam and kids" entry:"1766873247" modified:"1766873247" status:"pending" uuid:"15635f4f-4eed-4c3a-838a-ffa6b2bfe940"]
+---
+time 1766873341
+new [description:"submit proposal to Homeowners assoc" entry:"1766873341" modified:"1766873341" status:"pending" uuid:"82c54f61-a293-4efc-8235-61a079e7bca2"]
+---
+time 1766873972
+new [description:"thankyou:Becky" entry:"1766873972" modified:"1766873972" status:"pending" uuid:"5964e3da-9b55-460e-905d-e2f6853fed0e"]
+---
+time 1766873990
+old [description:"thankyou:Becky" entry:"1766873972" modified:"1766873972" status:"pending" uuid:"5964e3da-9b55-460e-905d-e2f6853fed0e"]
+new [description:"thankyou:Becky" end:"1766873988" entry:"1766873972" modified:"1766873990" status:"deleted" uuid:"5964e3da-9b55-460e-905d-e2f6853fed0e"]
+---
+time 1766874061
+new [description:"Becky" entry:"1766874061" modified:"1766874061" project:"thank you" status:"pending" uuid:"369eb779-15c9-4d89-ab31-e99cce25e129"]
+---
+time 1766874119
+new [description:"Miriam and kids" entry:"1766874119" modified:"1766874119" project:"thank you" status:"pending" uuid:"88215936-004a-43b1-a61f-ae69d718966b"]
+---
+time 1766874132
+old [description:"Thank you to Becky" entry:"1766873213" modified:"1766873213" status:"pending" uuid:"62c3251b-e1c4-41fe-9c57-70a6a531e0eb"]
+new [description:"Thank you to Becky" end:"1766874130" entry:"1766873213" modified:"1766874132" status:"deleted" uuid:"62c3251b-e1c4-41fe-9c57-70a6a531e0eb"]
+---
+time 1766874148
+old [description:"Miriam and kids" entry:"1766874119" modified:"1766874119" project:"thank you" status:"pending" uuid:"88215936-004a-43b1-a61f-ae69d718966b"]
+new [description:"Miriam and kids" end:"1766874146" entry:"1766874119" modified:"1766874148" project:"thank you" status:"deleted" uuid:"88215936-004a-43b1-a61f-ae69d718966b"]
+---
+time 1766874162
+old [description:"Thank you to Miriam and kids" entry:"1766873247" modified:"1766873247" status:"pending" uuid:"15635f4f-4eed-4c3a-838a-ffa6b2bfe940"]
+new [description:"Thank you to Miriam and kids" end:"1766874160" entry:"1766873247" modified:"1766874162" status:"deleted" uuid:"15635f4f-4eed-4c3a-838a-ffa6b2bfe940"]
+---
+time 1766874331
+new [description:"Miriam and kids" entry:"1766874331" modified:"1766874331" project:"thank you" status:"pending" uuid:"23b9f18c-7827-4b50-9632-9c03c75d6148"]
+---
+time 1766874370
+new [description:"Funnytimes" entry:"1766874370" modified:"1766874370" project:"subscriptions" status:"pending" uuid:"1f37c11b-a23c-4a6d-a784-43ebe65b3667"]
+---
+time 1766874383
+new [description:"America" entry:"1766874383" modified:"1766874383" project:"subscriptions" status:"pending" uuid:"2d2870a9-04f1-4785-9159-1e1a80de8c9b"]
+---
+time 1766874403
+new [description:"Commonweal" entry:"1766874403" modified:"1766874403" project:"subscriptions" status:"pending" uuid:"6a3a314e-0665-4cab-8503-40abba23f0ca"]
+---
+time 1766874428
+new [description:"Bibletoday" entry:"1766874428" modified:"1766874428" project:"subscriptions" status:"pending" uuid:"074f5d5c-7769-422b-a275-c496724ce1b4"]
+---
+time 1767135114
+old [description:"America" entry:"1766874383" modified:"1766874383" project:"subscriptions" status:"pending" uuid:"2d2870a9-04f1-4785-9159-1e1a80de8c9b"]
+new [description:"America" end:"1767135111" entry:"1766874383" modified:"1767135114" project:"subscriptions" status:"deleted" uuid:"2d2870a9-04f1-4785-9159-1e1a80de8c9b"]
+---
+time 1767135131
+old [description:"Bibletoday" entry:"1766874428" modified:"1766874428" project:"subscriptions" status:"pending" uuid:"074f5d5c-7769-422b-a275-c496724ce1b4"]
+new [description:"Bibletoday" end:"1767135129" entry:"1766874428" modified:"1767135131" project:"subscriptions" status:"deleted" uuid:"074f5d5c-7769-422b-a275-c496724ce1b4"]
+---
+time 1767135264
+old [description:"Figure TW out later" entry:"1766855871" modified:"1766855871" status:"pending" uuid:"3abf2076-488d-468c-92d7-6eb14a59bfdf"]
+new [description:"Figure TW out later Task Warrior" entry:"1766855871" modified:"1767135264" status:"pending" uuid:"3abf2076-488d-468c-92d7-6eb14a59bfdf"]
+---
+time 1767136973
+old [description:"Commonweal" entry:"1766874403" modified:"1766874403" project:"subscriptions" status:"pending" uuid:"6a3a314e-0665-4cab-8503-40abba23f0ca"]
+new [description:"Commonweal" end:"1767136970" entry:"1766874403" modified:"1767136973" project:"subscriptions" status:"deleted" uuid:"6a3a314e-0665-4cab-8503-40abba23f0ca"]
+---
+time 1767136987
+old [description:"Funnytimes" entry:"1766874370" modified:"1766874370" project:"subscriptions" status:"pending" uuid:"1f37c11b-a23c-4a6d-a784-43ebe65b3667"]
+new [description:"Funnytimes" end:"1767136985" entry:"1766874370" modified:"1767136987" project:"subscriptions" status:"deleted" uuid:"1f37c11b-a23c-4a6d-a784-43ebe65b3667"]
+---
+time 1767137012
+old [description:"submit proposal to Homeowners assoc" entry:"1766873341" modified:"1766873341" status:"pending" uuid:"82c54f61-a293-4efc-8235-61a079e7bca2"]
+new [description:"submit proposal to Homeowners assoc" end:"1767137010" entry:"1766873341" modified:"1767137012" status:"deleted" uuid:"82c54f61-a293-4efc-8235-61a079e7bca2"]
+---
+time 1767142012
+old [description:"Becky" entry:"1766874061" modified:"1766874061" project:"thank you" status:"pending" uuid:"369eb779-15c9-4d89-ab31-e99cce25e129"]
+new [description:"Becky" end:"1767142010" entry:"1766874061" modified:"1767142012" project:"thank you" status:"deleted" uuid:"369eb779-15c9-4d89-ab31-e99cce25e129"]
+---
+time 1767142022
+old [description:"Miriam and kids" entry:"1766874331" modified:"1766874331" project:"thank you" status:"pending" uuid:"23b9f18c-7827-4b50-9632-9c03c75d6148"]
+new [description:"Miriam and kids" end:"1767142020" entry:"1766874331" modified:"1767142022" project:"thank you" status:"deleted" uuid:"23b9f18c-7827-4b50-9632-9c03c75d6148"]
+---
+time 1767186352
+new [description:"buy travel pillow" entry:"1767186352" modified:"1767186352" status:"pending" uuid:"93dc2b83-884b-47b5-ba73-32ea4f80611a"]
+---
+time 1767225646
+new [description:"thank you: for cheesecake" entry:"1767225646" modified:"1767225646" status:"pending" uuid:"f5870a89-6ab7-41be-8fa6-ccfc0e9cff59"]
+---
+time 1767225663
+old [description:"thank you: for cheesecake" entry:"1767225646" modified:"1767225646" status:"pending" uuid:"f5870a89-6ab7-41be-8fa6-ccfc0e9cff59"]
+new [description:"thank you: for cheesecake" end:"1767225662" entry:"1767225646" modified:"1767225663" status:"deleted" uuid:"f5870a89-6ab7-41be-8fa6-ccfc0e9cff59"]
+---
+time 1767225669
+new [description:"thank you:for cheesecake" entry:"1767225669" modified:"1767225669" status:"pending" uuid:"f1734bce-1c69-41f1-9c03-0004b7b84425"]
+---
+time 1767225682
+old [description:"thank you:for cheesecake" entry:"1767225669" modified:"1767225669" status:"pending" uuid:"f1734bce-1c69-41f1-9c03-0004b7b84425"]
+new [description:"thank you:for cheesecake" end:"1767225679" entry:"1767225669" modified:"1767225682" status:"deleted" uuid:"f1734bce-1c69-41f1-9c03-0004b7b84425"]
+---
+time 1767226035
+new [description:"lady for cheesecake" entry:"1767226035" modified:"1767226035" project:"Thank you" status:"pending" uuid:"b606fc6f-d6fa-4b6c-aa1d-77c2c58c9ce4"]
+---
+time 1767226066
+old [description:"buy travel pillow" entry:"1767186352" modified:"1767186352" status:"pending" uuid:"93dc2b83-884b-47b5-ba73-32ea4f80611a"]
+new [description:"buy travel pillow" end:"1767226064" entry:"1767186352" modified:"1767226066" status:"deleted" uuid:"93dc2b83-884b-47b5-ba73-32ea4f80611a"]
+---
+time 1767289950
+new [description:"establish nfs-server" entry:"1767289950" modified:"1767289950" project:"beelink" status:"pending" uuid:"a6c8906e-b843-4537-bdfa-e55c06408490"]
+---
+time 1767289991
+new [description:"backup home directory somewhere" entry:"1767289991" modified:"1767289991" project:"beelink" status:"pending" uuid:"6a607137-2a32-407e-9bc9-98e857002505"]
+---
+time 1767290024
+new [description:"install new OS" entry:"1767290024" modified:"1767290024" project:"beelink" status:"pending" uuid:"0148e696-0f2e-4f4e-9a33-7142f1ab350d"]
+---
+time 1767290169
+new [description:"prepare guest room for guests" entry:"1767290169" modified:"1767290169" project:"Colo" status:"pending" uuid:"c8293b26-f678-4477-9620-534aacb420d5"]
+---
+time 1767290182
+new [description:"pack" entry:"1767290182" modified:"1767290182" project:"Colo" status:"pending" uuid:"92665a54-d2eb-4f93-a558-c86d983970f3"]
+---
+time 1767290215
+new [description:"show MP make coffee" entry:"1767290215" modified:"1767290215" project:"Colo" status:"pending" uuid:"a88a8c16-dbeb-45f1-b640-92a8b4efcd8a"]
+---
+time 1767290341
+new [description:"sort MP3s Music-Google" entry:"1767290341" modified:"1767290341" project:"music" status:"pending" uuid:"2c52f0d7-a76f-45e9-8bc2-d7a87e08f91c"]
+---
+time 1767442116
+old [description:"establish nfs-server" entry:"1767289950" modified:"1767289950" project:"beelink" status:"pending" uuid:"a6c8906e-b843-4537-bdfa-e55c06408490"]
+new [description:"establish nfs-server" end:"1767442114" entry:"1767289950" modified:"1767442116" project:"beelink" status:"deleted" uuid:"a6c8906e-b843-4537-bdfa-e55c06408490"]
+---
+time 1767531894
+old [description:"prepare guest room for guests" entry:"1767290169" modified:"1767290169" project:"Colo" status:"pending" uuid:"c8293b26-f678-4477-9620-534aacb420d5"]
+new [description:"prepare guest room for guests" end:"1767531892" entry:"1767290169" modified:"1767531894" project:"Colo" status:"deleted" uuid:"c8293b26-f678-4477-9620-534aacb420d5"]
+---
+time 1767531909
+old [description:"show MP make coffee" entry:"1767290215" modified:"1767290215" project:"Colo" status:"pending" uuid:"a88a8c16-dbeb-45f1-b640-92a8b4efcd8a"]
+new [description:"show MP make coffee" end:"1767531908" entry:"1767290215" modified:"1767531909" project:"Colo" status:"deleted" uuid:"a88a8c16-dbeb-45f1-b640-92a8b4efcd8a"]
+---
+time 1767697929
+old [description:"pack" entry:"1767290182" modified:"1767290182" project:"Colo" status:"pending" uuid:"92665a54-d2eb-4f93-a558-c86d983970f3"]
+new [description:"pack" end:"1767697928" entry:"1767290182" modified:"1767697929" project:"Colo" status:"deleted" uuid:"92665a54-d2eb-4f93-a558-c86d983970f3"]
+---
+time 1767697939
+old [description:"lady for cheesecake" entry:"1767226035" modified:"1767226035" project:"Thank you" status:"pending" uuid:"b606fc6f-d6fa-4b6c-aa1d-77c2c58c9ce4"]
+new [description:"lady for cheesecake" end:"1767697937" entry:"1767226035" modified:"1767697939" project:"Thank you" status:"deleted" uuid:"b606fc6f-d6fa-4b6c-aa1d-77c2c58c9ce4"]
+---
+time 1767698882
+new [description:"ask Julian re. guest bed" entry:"1767698882" modified:"1767698882" status:"pending" uuid:"ff554e8f-070e-4a9f-99f7-9b91194e603e"]
+---
+time 1767705120
+new [description:"forward ins. app. to MP" entry:"1767705120" modified:"1767705120" status:"pending" uuid:"0d003faa-d0da-49f3-a4d7-414304cc600f"]
+---
+time 1767706787
+old [description:"forward ins. app. to MP" entry:"1767705120" modified:"1767705120" status:"pending" uuid:"0d003faa-d0da-49f3-a4d7-414304cc600f"]
+new [description:"forward ins. app. to MP" end:"1767706785" entry:"1767705120" modified:"1767706787" status:"deleted" uuid:"0d003faa-d0da-49f3-a4d7-414304cc600f"]
+---
+time 1767881522
+new [description:"register preaching schedule in Remind" entry:"1767881522" modified:"1767881522" status:"pending" uuid:"d0516595-12d8-43c4-8ec4-69289f8e530e"]
+---
+time 1767881556
+new [description:"buy nose drops" entry:"1767881556" modified:"1767881556" status:"pending" uuid:"caef71ce-3ecb-48d4-b4ea-a0f297359fcc"]
+---
+time 1767966521
+old [description:"buy nose drops" entry:"1767881556" modified:"1767881556" status:"pending" uuid:"caef71ce-3ecb-48d4-b4ea-a0f297359fcc"]
+new [description:"buy nose drops" end:"1767966520" entry:"1767881556" modified:"1767966521" status:"deleted" uuid:"caef71ce-3ecb-48d4-b4ea-a0f297359fcc"]
+---
+time 1767966534
+old [description:"ask Julian re. guest bed" entry:"1767698882" modified:"1767698882" status:"pending" uuid:"ff554e8f-070e-4a9f-99f7-9b91194e603e"]
+new [description:"ask Julian re. guest bed" end:"1767966533" entry:"1767698882" modified:"1767966534" status:"deleted" uuid:"ff554e8f-070e-4a9f-99f7-9b91194e603e"]
+---
+time 1768153710
+new [description:"reports to dioceses" entry:"1768153710" modified:"1768153710" status:"pending" uuid:"804ef2c0-19ae-411d-a4ff-26d5f71da54b"]
+---
+time 1768230940
+new [description:"psalm project" entry:"1768230940" modified:"1768230940" status:"pending" uuid:"db51c038-23a7-4e13-9f2b-afef81be4bbc"]
+---
+time 1768230985
+new [description:"identify sprinkler heads. When water pressure." entry:"1768230984" modified:"1768230984" status:"pending" uuid:"7dd9d859-d119-4022-ba60-eb051845de6d"]
+---
+time 1768578092
+new [description:"call Folino for Feb appt" entry:"1768578092" modified:"1768578092" status:"pending" uuid:"3f36a9de-b6eb-4e57-ae18-24f4802bef57"]
+---
+time 1768578108
+old [description:"identify sprinkler heads. When water pressure." entry:"1768230984" modified:"1768230984" status:"pending" uuid:"7dd9d859-d119-4022-ba60-eb051845de6d"]
+new [description:"identify sprinkler heads. When water pressure." end:"1768578106" entry:"1768230984" modified:"1768578108" status:"deleted" uuid:"7dd9d859-d119-4022-ba60-eb051845de6d"]
+---
+time 1768578118
+old [description:"psalm project" entry:"1768230940" modified:"1768230940" status:"pending" uuid:"db51c038-23a7-4e13-9f2b-afef81be4bbc"]
+new [description:"psalm project" end:"1768578117" entry:"1768230940" modified:"1768578118" status:"deleted" uuid:"db51c038-23a7-4e13-9f2b-afef81be4bbc"]
+---
+time 1768578147
+old [description:"reports to dioceses" entry:"1768153710" modified:"1768153710" status:"pending" uuid:"804ef2c0-19ae-411d-a4ff-26d5f71da54b"]
+new [description:"reports to dioceses" end:"1768578130" entry:"1768153710" modified:"1768578147" status:"deleted" uuid:"804ef2c0-19ae-411d-a4ff-26d5f71da54b"]
+---
+time 1768578166
+old [description:"register preaching schedule in Remind" entry:"1767881522" modified:"1767881522" status:"pending" uuid:"d0516595-12d8-43c4-8ec4-69289f8e530e"]
+new [description:"register preaching schedule in Remind" end:"1768578164" entry:"1767881522" modified:"1768578166" status:"deleted" uuid:"d0516595-12d8-43c4-8ec4-69289f8e530e"]
+---
+time 1768605766
+new [description:"make appt for HVAC checkup" entry:"1768605766" modified:"1768605766" status:"pending" uuid:"a2c84303-5de7-4207-9f4f-289ac97aabbc"]
+---
+time 1768606196
+old [description:"make appt for HVAC checkup" entry:"1768605766" modified:"1768605766" status:"pending" uuid:"a2c84303-5de7-4207-9f4f-289ac97aabbc"]
+new [description:"make appt for HVAC checkup" entry:"1768605766" modified:"1768606196" project:"Home" status:"pending" uuid:"a2c84303-5de7-4207-9f4f-289ac97aabbc"]
+---
+time 1768617888
+new [description:"buy watersoftener salt" entry:"1768617888" modified:"1768617888" status:"pending" uuid:"3f53ba6f-227a-467f-93a3-48c21b41c72f"]
+---
+time 1768617937
+old [description:"buy watersoftener salt" entry:"1768617888" modified:"1768617888" status:"pending" uuid:"3f53ba6f-227a-467f-93a3-48c21b41c72f"]
+new [description:"buy watersoftener salt" entry:"1768617888" modified:"1768617937" project:"Home" status:"pending" uuid:"3f53ba6f-227a-467f-93a3-48c21b41c72f"]
+---
+time 1768887246
+old [description:"buy watersoftener salt" entry:"1768617888" modified:"1768617937" project:"Home" status:"pending" uuid:"3f53ba6f-227a-467f-93a3-48c21b41c72f"]
+new [description:"buy watersoftener salt" end:"1768887243" entry:"1768617888" modified:"1768887246" project:"Home" status:"deleted" uuid:"3f53ba6f-227a-467f-93a3-48c21b41c72f"]
+---
+time 1769432199
+new [description:"call United Health Care" entry:"1769432199" modified:"1769432199" status:"pending" uuid:"3ba6b7a3-3114-41c0-8ef5-09d2a91bb56c"]
+---
+time 1769513327
+old [description:"call United Health Care" entry:"1769432199" modified:"1769432199" status:"pending" uuid:"3ba6b7a3-3114-41c0-8ef5-09d2a91bb56c"]
+new [description:"call United Health Care" end:"1769513323" entry:"1769432199" modified:"1769513327" status:"deleted" uuid:"3ba6b7a3-3114-41c0-8ef5-09d2a91bb56c"]
+---
+time 1769534497
+new [description:"test zoom on machines" entry:"1769534497" modified:"1769534497" project:"technical" status:"pending" uuid:"0addd1c9-4368-4207-b2d0-76bdf87574cf"]
+---
+time 1769564961
+old [description:"call Folino for Feb appt" entry:"1768578092" modified:"1768578092" status:"pending" uuid:"3f36a9de-b6eb-4e57-ae18-24f4802bef57"]
+new [description:"call Folino for Feb appt" end:"1769564959" entry:"1768578092" modified:"1769564961" status:"deleted" uuid:"3f36a9de-b6eb-4e57-ae18-24f4802bef57"]
+---
+time 1769606859
+old [description:"test zoom on machines" entry:"1769534497" modified:"1769534497" project:"technical" status:"pending" uuid:"0addd1c9-4368-4207-b2d0-76bdf87574cf"]
+new [description:"test zoom on machines" end:"1769606855" entry:"1769534497" modified:"1769606859" project:"technical" status:"deleted" uuid:"0addd1c9-4368-4207-b2d0-76bdf87574cf"]
+---
+<<<<<<< HEAD
+time 1769633483
+old [description:"make appt for HVAC checkup" entry:"1768605766" modified:"1768606196" project:"Home" status:"pending" uuid:"a2c84303-5de7-4207-9f4f-289ac97aabbc"]
+new [description:"make appt for HVAC checkup" end:"1769633481" entry:"1768605766" modified:"1769633483" project:"Home" status:"deleted" uuid:"a2c84303-5de7-4207-9f4f-289ac97aabbc"]
+=======
+time 1769655029
+new [description:"Ash Wednesday sermon" entry:"1769655029" modified:"1769655029" project:"preaching" status:"pending" uuid:"742410b7-197f-4038-bb01-cce955071799"]
+>>>>>>> 51ca62d0f79f6f225102315594f51d54906a4867
+---

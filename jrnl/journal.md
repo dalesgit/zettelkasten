@@ -103,7 +103,7 @@ This main site has several interesting areas, including "This day in history"
 It's not in Simplenote. It was in "wiki-vim".
 
 [2026-01-12 08:15:11 AM] Where is the chart of sprinkler heads.
-"gitjournal/apr-jun/…"
+"gitjournal/apr-jun/…" see "**Simplenote**"
 
 [2026-01-12 07:33:55 PM] From here to Mt Princeton and back.
 - Stopped in Frisco to clean a hot tub.
