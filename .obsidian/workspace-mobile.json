@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "387b49a8d9fecc38",
+        "id": "b6e38cac5dce5bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "2f4e3bd335ad4ad5",
+            "id": "f5762fdbe6a8908e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Julian to Zack have you heard of king gizzard and the lizard wizard.md",
+                "file": "jrnl/journal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Julian to Zack have you heard of king gizzard and the lizard wizard"
-            }
-          },
-          {
-            "id": "0eefc4cc71ceee0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "from drafts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "from drafts"
+              "title": "journal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "from drafts.md",
+            "file": "jrnl/journal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,19 +198,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0eefc4cc71ceee0d",
+  "active": "f5762fdbe6a8908e",
   "lastOpenFiles": [
-    "Mo thinks we agreed to bee at one another's deathbed. 1.md",
-    "from drafts.md",
+    "Inbox.md",
+    "Liliʻuokalani.md",
+    "pages/Three Hawaiian Daughters.md",
+    "Queen Emma of Hawaii.md",
+    "Kaʻiulani.md",
+    "Julian to Zack have you heard of king gizzard and the lizard wizard.md",
     "CPG 1.md",
+    "from drafts.md",
+    "Mo thinks we agreed to bee at one another's deathbed. 1.md",
     "https   www.queenofthesciences.com e the-bible-in-one-hand-and-the-newspaper-in-the-other.md",
     "https   en.wikipedia.org wiki The_Camp_of_the_Saints wprov=sfti1.md",
     "Four dead in Ohio..md",
     "Mark and Angela.md",
     "https   en.wikipedia.org wiki Longplayer.md",
     "The sally gardens by wb yeats.md",
-    "Julian to Zack have you heard of king gizzard and the lizard wizard.md",
-    "Inbox.md",
     "January 16 with Zack.md",
     "Kate book to zack.md",
     "Our microwave.md",
@@ -246,10 +225,6 @@
     "Sermon George Floyd for mp.md",
     "Hike shoes for mp.md",
     "Julian thinks of I were to come out here's to ski-- Nordic or Alpine--.md",
-    "Julian remembers 2 summers.md",
-    "See Emma's Christmas letter with small photos..md",
-    "Julian.md",
-    "Mo thinks we agreed to bee at one another's deathbed..md",
-    "https   freshairarchives.com guests a.md"
+    "Julian remembers 2 summers.md"
   ]
 }
