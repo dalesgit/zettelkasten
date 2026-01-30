@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "Opinion  This Week Has Revealed 3 Types of Americans - The New York Times.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Opinion  This Week Has Revealed 3 Types of Americans - The New York Times"
             }
           },
           {
@@ -200,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -217,10 +218,11 @@
   },
   "active": "ff5567139946833d",
   "lastOpenFiles": [
+    "Inbox.md",
+    "Opinion  This Week Has Revealed 3 Types of Americans - The New York Times.md",
     "travel/packing-Charleston.md",
     "Opinion  A Farewell Column From David Brooks - The New York Times.md",
     "travel/packing checklist.md",
-    "Inbox.md",
     "travel/packing-colorado.md",
     "travel/packing-hilton-head.md",
     "travel/Travels of DH & MPH.md",
@@ -242,7 +244,6 @@
     "Journal/Daily/2026-01-26.md",
     "Opinion  State Terror Has Arrived - The New York Times.md",
     "Journal/Daily/2026-01-15.md",
-    "Journal/Daily/2026-01-16.md",
-    "Journal/Daily/2026-01-17.md"
+    "Journal/Daily/2026-01-16.md"
   ]
 }
