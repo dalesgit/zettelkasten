@@ -188,3 +188,4 @@ Part 2
 - [[The Accidental Winners of the War on Higher Ed - The Atlantic]]
 ### 2026-01-30
 - [[Opinion  A Farewell Column From David Brooks - The New York Times]] this is a masterful appraisal of the vast disease infecting our society
+- [[Opinion  This Week Has Revealed 3 Types of Americans - The New York Times]] an interesting take on who we are as a nation
