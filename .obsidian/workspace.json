@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/packing-Charleston.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "packing-Charleston"
+              "title": "Inbox"
+            }
+          },
+          {
+            "id": "3dde5a1a67ae39d4",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -208,9 +217,10 @@
   },
   "active": "ff5567139946833d",
   "lastOpenFiles": [
+    "travel/packing-Charleston.md",
+    "Opinion  A Farewell Column From David Brooks - The New York Times.md",
     "travel/packing checklist.md",
     "Inbox.md",
-    "travel/packing-Charleston.md",
     "travel/packing-colorado.md",
     "travel/packing-hilton-head.md",
     "travel/Travels of DH & MPH.md",
@@ -233,7 +243,6 @@
     "Opinion  State Terror Has Arrived - The New York Times.md",
     "Journal/Daily/2026-01-15.md",
     "Journal/Daily/2026-01-16.md",
-    "Journal/Daily/2026-01-17.md",
-    "Journal/Daily/2026-01-18.md"
+    "Journal/Daily/2026-01-17.md"
   ]
 }

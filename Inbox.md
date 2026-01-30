@@ -186,5 +186,5 @@ Part 2
 - [[The Minneapolis revolt tells us this even in Trump’s America, the people have power too  Aditya Chakrabortty  The Guardian]] power to the people
 - [[Shut it down! The US is better off with no government than with the one it has  Judith Levine  The Guardian]] This time stand up Democrats
 - [[The Accidental Winners of the War on Higher Ed - The Atlantic]]
-### 2026-01-2026
-- 
+### 2026-01-30
+- [[Opinion  A Farewell Column From David Brooks - The New York Times]] this is a masterful appraisal of the vast disease infecting our society
