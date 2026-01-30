@@ -103,4 +103,6 @@ REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %**b**%
 REM Feb 12 2026 AT 14:00 SPECIAL COLOR 0 128 255 Airhawk service %b% 
 REM Feb 09 2026 AT 14:30 SPECIAL COLOR 0 128 255 MASA meal at Red Lobster %b% 
 REM Feb 21 2026 AT 9:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
+REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %**b**%
+REM Jan 30 2026 AT 14:00 SPECIAL COLOR 0 128 255 Talk with Peter about current events %b% 
 
