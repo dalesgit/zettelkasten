@@ -189,3 +189,6 @@ Part 2
 ### 2026-01-30
 - [[Opinion  A Farewell Column From David Brooks - The New York Times]] this is a masterful appraisal of the vast disease infecting our society
 - [[Opinion  This Week Has Revealed 3 Types of Americans - The New York Times]] an interesting take on who we are as a nation
+### 2026-01-31
+- [[‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian]]
+- 
