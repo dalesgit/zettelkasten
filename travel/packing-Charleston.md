@@ -2,103 +2,95 @@
 
 ## clothes
 
-### pants
+- [ ] Shirts
+	  - [ ] Julian flannel pull-over
+	- [ ] Julian gift pull-over
+	- [x] short sleeve pullon
+	- [ ] long-sleeves pullover (3)
+ - [ ] pants
+	- [ ] 2 long training pants
+	- [ ] 2 long sleeve flannel
+	- [ ] levis with belt
+	- [ ] Gerry pants
+	- [ ] pull-on shorts
+	- [ ] 2 belts
 
-- [~] 2 long training pants
-- [~] 2 long sleeve flannel
-- [ ] levis with belt
-- [ ] Gerry pants
-- [ ] pull-on shorts
-- [ ] 2 belts
+ - [ ] Small bag
+	- [ ] underwear
+	- [ ] socks
+	- [ ] handkerchief
 
-### Small bag
+ - [ ] shoes 
+	- [ ] crocs 
+	- [ ] training shoes
 
-- [ ] underwear
-- [ ] socks
+ - [ ] Layering 
+	- [ ] sweater (green )
+	- [ ] soft gloves
+	- [ ] jacket (New Zealand)
+	- [ ] down vest
+	- [ ] beanie hat
+	- [ ] scarf
 
-### shoes 
+ - [ ] Dressy
 
-- [ ] crocs 
-- [ ] training shoes
-
-### Layering 
-
-- [ ] sweater (green )
-- [ ] Julian flannel pull-over
-- [ ] Julian gift pull-over
-- [ ] short sleeve pullon
-- [ ] long-sleeves pullover (3)
-- [ ] soft gloves
-- [ ] jacket (New Zealand)
-- [ ] down vest
-- [ ] beanie hat
-- [ ] scarf
-
-### Dressy
-
-
-### Extra
-
-- [ ] exercise bag with headphones
-- [ ] Strength chord
+ - [ ] Extra
+	- [ ] exercise bag with headphones
+	- [ ] Strength chord
 
 ---
 
 ## bathroom
  
 - [ ] Black bag
-- [ ] water pic portable
-- [ ] wipes
-- [ ] toothbrush
-- [ ] shampoos
-- [ ] scrunchy cloth
-- [ ] electric clipper
+	- [ ] toothbrush
+	- [ ] scrunchy cloth
 - [ ] second Bathroom bag  
-- [ ] nightlight 
+	- [ ] water pic portable
+	- [ ] wipes
+	- [ ] shampoos
+	- [x] electric clipper
+	- [ ] nightlight 
 
-### Meds
-
-- [ ] first aid
-- [ ] eczema
-- [ ] Regular meds (2)
+ - [ ] Meds
+	- [ ] first aid
+	- [ ] eczema
+	- [ ] Regular meds (2)
 
 ## Other
 
-### Hotel rooms
+ - [ ] Hotel rooms
+	- [ ] 2 glasses
+	- [ ] 2 meds
+	- [ ] bluetooth earpods
+	- [ ] j5create adapter
+	- [ ] micro card
+	- [ ] belly pack
+ - [ ] tech
+	- [ ] chargers: 
+	- [ ] new keyboard
+		- [ ] hearing aids, 
+		- [ ] watch,
+		- [ ] high capacity adapter
+		- [ ] stylus
+	- [ ] combo cube -- and/or new cord
+	- [ ] hearings aid spare
+	- [ ] charger
 
-- [ ] 2 glasses
-- [ ] 2 meds
-- [ ] bluetooth earpods
-- [ ] j5create adapter
-- [ ] micro card
-- [ ] belly pack
-### tech
-- [ ] chargers: 
-- [ ] new keyboard
-	- [ ] hearing aids, 
-	- [ ] watch,
-	- [ ] high capacity adapter
-	- [ ] stylus
-- [ ] combo cube -- and/or new cord
-- [ ] hearings aid spare
-- [ ] charger
+ - [ ] devices
+	- [ ] bookx
+	- [ ] tablet
+	- [ ] Lenovo 
 
-### devices
-
-- [ ] bookx
-- [ ] tablet
-- [ ] Lenovo 
-
-### Carry on
-
-- [ ] charger
-- [ ] headphones
-- [ ] neck pillow
-- [ ] pencil / paper
-- [ ] journal
-- [ ] lenovo notebook
-- [ ] samsung tablet
-- [ ] phone stand
+ - [ ] Carry on
+	- [ ] charger
+	- [ ] headphones
+	- [ ] neck pillow
+	- [ ] pencil / paper
+	- [ ] journal
+	- [ ] lenovo notebook
+	- [ ] samsung tablet
+	- [ ] phone stand
 
 
 
