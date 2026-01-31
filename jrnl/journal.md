@@ -415,3 +415,5 @@ His brilliant novels, Crime and Punishment, The Idiot, and The Brothers Karamazo
 - I told re. 9/11. At how that changed everything.
 - I suggested that he needs to listen to new voices.
 - I told about Bob telling me that I may have missed the wave. He said that his experience of ministry was not that, but rather that slow and study, showing up. That was the testimony of (what's her name) who was at St. Elizabeth. She was the healer, the interim. David was the one who caught the wave. St Marks.
+
+[2026-01-31 08:59:41 AM] Scripture Wisdom 11:22-26.
