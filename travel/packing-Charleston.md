@@ -3,33 +3,47 @@
 ## clothes
 
 ### pants
-- [ ]  2 long training pants
+
+- [ ] 2 long training pants
 - [ ] 2 long sleeve flannel
 - [ ] levis with belt
 - [ ] Gerry pants
-### clothes
-- [ ] sweater (green )
-- [ ] Julian flannel pull-over
-- [ ] training shoes
+- [ ] pull-on shorts
+- [ ] 2 belts
+
+### Small bag
+
 - [ ] underwear
 - [ ] socks
-- [ ] pull-on shorts
+
+### shoes 
+
+- [ ] crocs 
+- [ ] training shoes
+
+### Layering 
+
+- [ ] sweater (green )
+- [ ] Julian flannel pull-over
+- [ ] Julian gift pull-over
 - [ ] short sleeve pullon
 - [ ] long-sleeves pullover (3)
-- [ ] 2 belts
-### Dressy
-
-
-### Variable temperature
-
+- [ ] soft gloves
 - [ ] jacket (New Zealand)
 - [ ] down vest
 - [ ] beanie hat
-- [ ] soft gloves
 - [ ] scarf
+
+### Dressy
+
+
+### Extra
+
 - [ ] exercise bag with headphones
+- [ ] Strength chord
 
 ---
+
 ## bathroom
  
 - [ ] Black bag
@@ -41,7 +55,8 @@
 - [ ] electric clipper
 - [ ] second Bathroom bag  
 - [ ] nightlight 
-## Meds
+
+### Meds
 
 - [ ] first aid
 - [ ] eczema
@@ -51,7 +66,6 @@
 
 ### Hotel rooms
 
-- [ ] Strength chord
 - [ ] 2 glasses
 - [ ] 2 meds
 - [ ] bluetooth earpods
@@ -59,10 +73,8 @@
 - [ ] micro card
 - [ ] belly pack
 ### tech
-
-- [ ] bookx
-- [ ] new keyboard
 - [ ] chargers: 
+- [ ] new keyboard
 	- [ ] hearing aids, 
 	- [ ] watch,
 	- [ ] high capacity adapter
@@ -71,7 +83,14 @@
 - [ ] hearings aid spare
 - [ ] charger
 
+### devices
+
+- [ ] bookx
+- [ ] tablet
+- [ ] Lenovo 
+
 ### Carry on
+
 - [ ] charger
 - [ ] headphones
 - [ ] neck pillow
