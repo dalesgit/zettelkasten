@@ -6,10 +6,9 @@
 	  - [ ] Julian flannel pull-over
 	- [ ] Julian gift pull-over
 	- [x] short sleeve pullon
+	- [ ] long sleeve flannel
 	- [ ] long-sleeves pullover (3)
- - [ ] pants
-	- [ ] 2 long training pants
-	- [ ] 2 long sleeve flannel
+ - [ ] pants- [x] 2 long traini
 	- [ ] levis with belt
 	- [ ] Gerry pants
 	- [ ] pull-on shorts
