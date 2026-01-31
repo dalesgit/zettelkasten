@@ -2,42 +2,40 @@
 
 ## clothes
 
- - [ ] pants
-	- [ ] 2 long training pants
-	- [ ] 2 long sleeve flannel
-	- [ ] levis with belt
-	- [ ] Gerry pants
-	- [x] pull-on shorts
-	- [ ] 2 belts
+### pants
 
- - [ ] Small bag
-	- [ ] underwear
-	- [ ] handkerchief
-	- [ ] socks
+- [~] 2 long training pants
+- [~] 2 long sleeve flannel
+- [ ] levis with belt
+- [ ] Gerry pants
+- [ ] pull-on shorts
+- [ ] 2 belts
 
- - [ ] shoes 
+### Small bag
 
-	- [ ] crocs 
-	- [ ] training shoes
+- [ ] underwear
+- [ ] socks
+
+### shoes 
+
+- [ ] crocs 
+- [ ] training shoes
 
 ### Layering 
 
-- [ ] coat(s)
-	- [ ] wool coat
-	- [ ] sweater (green )
-- [ ] shirt(s)
-	- [ ] Julian flannel pull-over
-	- [ ] black flannel pullover
-	- [ ] Julian Melanzana
-	- long-sleeves lounging (2)
-	- [x] jacket (New Zealand)
-	- [x] short sleeve pullon
-- [ ] add-ons
-	- [ ] beanie hat
-	- [ ] soft gloves
-	- [ ] flannel vest
-	- [ ] scarf
+- [ ] sweater (green )
+- [ ] Julian flannel pull-over
+- [ ] Julian gift pull-over
+- [ ] short sleeve pullon
+- [ ] long-sleeves pullover (3)
+- [ ] soft gloves
+- [ ] jacket (New Zealand)
+- [ ] down vest
+- [ ] beanie hat
+- [ ] scarf
+
 ### Dressy
+
 
 ### Extra
 
@@ -49,64 +47,64 @@
 ## bathroom
  
 - [ ] Black bag
-- [ ] toothbrush
-- [ ] hair brush comb
-- [ ] scrunchy cloth
 - [ ] water pic portable
-- [ ] chargers: flossing, toothbrush
 - [ ] wipes
-- [ ] eczema shampoo
-- [x] electric clipper
+- [ ] toothbrush
+- [ ] shampoos
+- [ ] scrunchy cloth
+- [ ] electric clipper
 - [ ] second Bathroom bag  
 - [ ] nightlight 
-- [ ] 
 
 ### Meds
 
-- [ ] nausea pill
+- [ ] first aid
 - [ ] eczema
-- [ ] week of meds
-- [ ] eye drops
-- [ ] topical analgesic
-- [ ] nose drops
-- [ ] pepcid
+- [ ] Regular meds (2)
 
 ## Other
 
 ### Hotel rooms
 
 - [ ] 2 glasses
-- [x] 2 meds
+- [ ] 2 meds
 - [ ] bluetooth earpods
 - [ ] j5create adapter
 - [ ] micro card
 - [ ] belly pack
 ### tech
-- [ ] watch, hearing aid chargers: 
-- [ ] combo cube -- and/or new cord
+- [ ] chargers: 
 - [ ] new keyboard
 	- [ ] hearing aids, 
 	- [ ] watch,
 	- [ ] high capacity adapter
-	- [ ] stylus: usba cable
-- [ ] cables: usbc->usbc; usba->usbc;
+	- [ ] stylus
+- [ ] combo cube -- and/or new cord
 - [ ] hearings aid spare
-- [x] charger
+- [ ] charger
 
 ### devices
 
 - [ ] bookx
-- [x] tablet
-- [x] Lenovo
-- [ ] samsung tablet
-- [ ] lenovo computer
+- [ ] tablet
+- [ ] Lenovo 
 
 ### Carry on
 
 - [ ] charger
-- [x] headphones
+- [ ] headphones
 - [ ] neck pillow
 - [ ] pencil / paper
 - [ ] journal
+- [ ] lenovo notebook
+- [ ] samsung tablet
 - [ ] phone stand
+
+
+
+
+
+
+
+
 
