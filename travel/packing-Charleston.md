@@ -3,15 +3,15 @@
 ## clothes
 
 - [ ] Shirts
-	  - [ ] Julian flannel pull-over
+	- [ ] Julian flannel pull-over
 	- [ ] Julian gift pull-over
 	- [x] short sleeve pullon
 	- [ ] long sleeve flannel
 	- [ ] long-sleeves pullover (3)
- - [ ] pants- [x] 2 long traini
+ - [ ] pants
+    - [ ] 2 long training pants
 	- [ ] levis with belt
 	- [ ] Gerry pants
-	- [ ] pull-on shorts
 	- [ ] 2 belts
 
  - [ ] Small bag
@@ -26,8 +26,7 @@
  - [ ] Layering 
 	- [ ] sweater (green )
 	- [ ] soft gloves
-	- [ ] jacket (New Zealand)
-	- [ ] down vest
+	- [ ] vest
 	- [ ] beanie hat
 	- [ ] scarf
 
