@@ -417,3 +417,18 @@ His brilliant novels, Crime and Punishment, The Idiot, and The Brothers Karamazo
 - I told about Bob telling me that I may have missed the wave. He said that his experience of ministry was not that, but rather that slow and study, showing up. That was the testimony of (what's her name) who was at St. Elizabeth. She was the healer, the interim. David was the one who caught the wave. St Marks.
 
 [2026-01-31 08:59:41 AM] Scripture Wisdom 11:22-26.
+ndeed, before you the whole universe is like a grain from a balance, / or a drop of morning dew come down upon the earth.
+
+But you have mercy on all, because you can do all things; / and you overlook sins for the sake of repentance. / For you love all things that are / and loathe nothing that you have made; / for you would not fashion what you hate. / How could a thing remain, unless you willed it; / or be preserved, had it not been called forth by you? / But you spare all things, because they are yours, / O Ruler and Lover of souls.
+
+#lectio
+Each sentence seems so pregnant and full. Before this vision, the power and hubris ᾽υβρισ 
+
+αβψδεφγηιξκλμνοπ;ρστθωςχυζ abcdefghijklmnopqrstuvxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ - ΑΒΨΔΕΦΓΗΞΚΛΜΝΟΠ:ΡΣΤΘΩΖ ΥΖ
+
+ctrl ^ (from insert mode) toggles
+
+set it by set keyboard=(greek …)
+
+#greek
