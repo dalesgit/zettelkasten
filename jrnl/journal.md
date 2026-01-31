@@ -404,3 +404,14 @@ His brilliant novels, Crime and Punishment, The Idiot, and The Brothers Karamazo
 “God will save Russia, as he has saved her many times. Salvation will come from the people, from their faith and their weakness.”
 
 —Fyodor Dostoevsky
+
+[2026-01-30 10:50:32 PM] Talk with Peter.
+- He seemed to be genuinely asking me to be a voice he listens to 
+- He made clear that he is struggling. He has "hunkered down" because he doesn't know what to do.
+- I described this as being a time that the world has shifted
+- It seems like a time that may not be for healing, but rather for taking a stand
+- He has a vision that dove-tails with his gifts having to do with peace-making, with living together in harmony and living with the differences. His gifts have to do with healing.
+- He recognized that he fell short this past weekend. [He doesn't get the magnitude of what's going on.]
+- I told re. 9/11. At how that changed everything.
+- I suggested that he needs to listen to new voices.
+- I told about Bob telling me that I may have missed the wave. He said that his experience of ministry was not that, but rather that slow and study, showing up. That was the testimony of (what's her name) who was at St. Elizabeth. She was the healer, the interim. David was the one who caught the wave. St Marks.
