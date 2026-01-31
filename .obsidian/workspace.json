@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "Journal/Daily/2026-01-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "2026-01-31"
             }
           },
           {
-            "id": "aa9cc427e48f50f7",
+            "id": "e8a3da69113d06ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
+                "file": "travel/packing-Charleston.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian"
+              "title": "packing-Charleston"
+            }
+          },
+          {
+            "id": "ab71caeed44e0755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "travel/packing checklist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "packing checklist"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,14 +256,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f461d6dbb1d88fdb",
+  "active": "e8a3da69113d06ab",
   "lastOpenFiles": [
-    "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
-    "Inbox.md",
-    "Opinion  This Week Has Revealed 3 Types of Americans - The New York Times.md",
-    "travel/packing-Charleston.md",
-    "Opinion  A Farewell Column From David Brooks - The New York Times.md",
     "travel/packing checklist.md",
+    "travel/packing-Charleston.md",
+    "Journal/Daily/2026-01-31.md",
+    "Inbox.md",
+    "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
+    "Opinion  This Week Has Revealed 3 Types of Americans - The New York Times.md",
+    "Opinion  A Farewell Column From David Brooks - The New York Times.md",
     "travel/packing-colorado.md",
     "travel/packing-hilton-head.md",
     "travel/Travels of DH & MPH.md",
@@ -258,7 +284,6 @@
     "What DOGE says is 'wasteful,' 'excessive' spending in Hillsborough, Pinellas and Manatee counties  wtsp.com.md",
     "When the world prays the solitary and individual becomes communal and universal  Ali Hammoud  The Guardian.md",
     "Journal/Daily/2026-01-26.md",
-    "Opinion  State Terror Has Arrived - The New York Times.md",
-    "Journal/Daily/2026-01-15.md"
+    "Opinion  State Terror Has Arrived - The New York Times.md"
   ]
 }
