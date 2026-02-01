@@ -70,26 +70,26 @@
 	- [ ] new keyboard
 		- [x] hearing aids,
 		- [ ] watch,
-		- [ ] high capacity adapter
-		- [ ] stylus
-	- [ ] combo cube -- and/or new cord
+		- [x] high capacity adapter
+		- [x] stylus
+	- [x] combo cube -- and/or new cord
 	- [ ] hearings aid spare
 	- [ ] charger
 
  - [ ] devices
-	- [ ] bookx
+	- [x] bookx
 	- [ ] tablet
-	- [ ] Lenovo 
+	- [x] Lenovo
 
  - [ ] Carry on
-	- [ ] charger
+	- [x] charger
 	- [ ] headphones
-	- [ ] neck pillow
-	- [ ] pencil / paper
-	- [ ] journal
-	- [ ] lenovo notebook
-	- [ ] samsung tablet
-	- [ ] phone stand
+	- [x] neck pillow
+	- [x] pencil / paper
+	- [x] journal
+	- [x] lenovo notebook
+	- [x] samsung tablet
+	- [x] phone stand
 
 
 
