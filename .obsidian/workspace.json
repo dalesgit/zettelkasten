@@ -4,16 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cafa37f99130bcc8",
+        "id": "a7ceba0fa11d63ec",
         "type": "tabs",
         "children": [
           {
-            "id": "f461d6dbb1d88fdb",
+            "id": "ca437b23289c7490",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c82d6aadf9655ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "travel/packing checklist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +37,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "packing checklist"
+            }
+          },
+          {
+            "id": "ff7b1d902619533e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "travel/packing-Charleston.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "packing-Charleston"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f673ed79fa544c2d",
@@ -207,13 +240,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f461d6dbb1d88fdb",
+  "active": "c82d6aadf9655ab0",
   "lastOpenFiles": [
-    "Journal/Daily/2026-01-31.md",
     "travel/packing-Charleston.md",
     "travel/packing checklist.md",
-    "travel/4913",
+    "Journal/Daily/2026-01-31.md",
     "Inbox.md",
+    "travel/4913",
     "travel/packing-Charleston.md~",
     "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
     "Opinion  This Week Has Revealed 3 Types of Americans - The New York Times.md",
