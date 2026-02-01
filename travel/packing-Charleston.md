@@ -42,7 +42,7 @@
  
 - [ ] Black bag
 	- [ ] toothbrush
-	- [ ] scrunchy cloth
+	- [x] scrunchy cloth ✅ 2026-01-31
 - [ ] second Bathroom bag  
 	- [x] water pic portable ✅ 2026-01-31
 	- [ ] wipes
@@ -61,14 +61,14 @@
  - [ ] Hotel rooms
 	- [x] 2 glasses ✅ 2026-01-31
 	- [ ] 2 meds
-	- [ ] bluetooth earpods
-	- [ ] j5create adapter
-	- [ ] micro card
+	- [x] bluetooth earpods
+	- [x] j5create adapter
+	- [x] micro card
 	- [ ] belly pack
  - [ ] tech
 	- [ ] chargers: 
 	- [ ] new keyboard
-		- [ ] hearing aids, 
+		- [x] hearing aids,
 		- [ ] watch,
 		- [ ] high capacity adapter
 		- [ ] stylus
