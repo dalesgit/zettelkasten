@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-01-31.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-31"
+              "title": "Inbox"
             }
           }
         ]
@@ -203,17 +203,18 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "dashboard-navigator:Open dashboard navigator": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "f461d6dbb1d88fdb",
   "lastOpenFiles": [
+    "Journal/Daily/2026-01-31.md",
     "travel/packing-Charleston.md",
     "travel/packing checklist.md",
     "travel/4913",
     "Inbox.md",
     "travel/packing-Charleston.md~",
-    "Journal/Daily/2026-01-31.md",
     "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
     "Opinion  This Week Has Revealed 3 Types of Americans - The New York Times.md",
     "Opinion  A Farewell Column From David Brooks - The New York Times.md",
