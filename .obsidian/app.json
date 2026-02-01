@@ -34,5 +34,6 @@
     "editor:swap-line-up",
     "editor:swap-line-down"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "openBehavior": ""
 }

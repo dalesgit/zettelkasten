@@ -4,37 +4,37 @@
 
 - [ ] Shirts
 	- [ ] Julian flannel pull-over
-	- [ ] Julian gift pull-over
+	- [x] Julian gift pull-over ✅ 2026-01-31
 	- [x] short sleeve pullon
-	- [ ] long sleeve flannel
-	- [ ] long-sleeves pullover (3)
+	- [x] long sleeve flannel ✅ 2026-01-31
+	- [x] long-sleeves pullover (3) ✅ 2026-01-31
  - [ ] pants
-    - [ ] 2 long training pants
-	- [ ] levis with belt
-	- [ ] Gerry pants
-	- [ ] 2 belts
+    - [x] 2 long training pants ✅ 2026-01-31
+	- [x] levis with belt ✅ 2026-01-31
+	- [x] Gerry pants ✅ 2026-01-31
+	- [x] 2 belts ✅ 2026-01-31
 
  - [ ] Small bag
-	- [ ] underwear
-	- [ ] socks
-	- [ ] handkerchief
+	- [x] underwear ✅ 2026-01-31
+	- [x] socks ✅ 2026-01-31
+	- [x] handkerchief ✅ 2026-01-31
 
  - [ ] shoes 
-	- [ ] crocs 
-	- [ ] training shoes
+	- [x] crocs ✅ 2026-01-31
+	- [x] training shoes ✅ 2026-01-31
 
  - [ ] Layering 
-	- [ ] sweater (green )
-	- [ ] soft gloves
-	- [ ] vest
-	- [ ] beanie hat
-	- [ ] scarf
+	- [x] sweater (green ) ✅ 2026-01-31
+	- [x] soft gloves ✅ 2026-01-31
+	- [x] vest ✅ 2026-01-31
+	- [x] beanie hat ✅ 2026-01-31
+	- [x] scarf ✅ 2026-01-31
 
  - [ ] Dressy
 
  - [ ] Extra
 	- [ ] exercise bag with headphones
-	- [ ] Strength chord
+	- [x] Strength chord ✅ 2026-01-31
 
 ---
 
@@ -44,11 +44,12 @@
 	- [ ] toothbrush
 	- [ ] scrunchy cloth
 - [ ] second Bathroom bag  
-	- [ ] water pic portable
+	- [x] water pic portable ✅ 2026-01-31
 	- [ ] wipes
 	- [ ] shampoos
 	- [x] electric clipper
-	- [ ] nightlight 
+	- [x] nightlight ✅ 2026-01-31
+	- [x] vibrator ✅ 2026-01-31
 
  - [ ] Meds
 	- [ ] first aid
@@ -58,7 +59,7 @@
 ## Other
 
  - [ ] Hotel rooms
-	- [ ] 2 glasses
+	- [x] 2 glasses ✅ 2026-01-31
 	- [ ] 2 meds
 	- [ ] bluetooth earpods
 	- [ ] j5create adapter
