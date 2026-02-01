@@ -203,8 +203,7 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "periodic-notes:Open today": false
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
   "active": "f461d6dbb1d88fdb",
