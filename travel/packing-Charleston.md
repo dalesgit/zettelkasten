@@ -2,8 +2,8 @@
 
 ## clothes
 
-- [x] Shirts
-	- [x] Julian flannel pull-over
+- [x] Shirts ✅ 2026-01-31
+	- [x] Julian flannel pull-over ✅ 2026-01-31
 	- [x] Julian gift pull-over ✅ 2026-01-31
 	- [x] short sleeve pullon
 	- [x] long sleeve flannel ✅ 2026-01-31
@@ -22,6 +22,7 @@
  - [x] shoes ✅ 2026-01-31
 	- [x] crocs ✅ 2026-01-31
 	- [x] training shoes ✅ 2026-01-31
+	- [x] slippers ✅ 2026-01-31
 
  - [x] Layering ✅ 2026-01-31
 	- [x] sweater (green ) ✅ 2026-01-31
@@ -76,14 +77,14 @@
 	- [ ] hearings aid spare
 	- [ ] charger
 
- - [x] devices ✅ 2026-01-31
+ - [ ] devices
 	- [x] bookx
-	- [x] tablet ✅ 2026-01-31
+	- [ ] tablet
 	- [x] Lenovo
 
- - [x] Carry on ✅ 2026-01-31
+ - [ ] Carry on
 	- [x] charger
-	- [x] headphones ✅ 2026-01-31
+	- [ ] headphones
 	- [x] neck pillow
 	- [x] pencil / paper
 	- [x] journal
