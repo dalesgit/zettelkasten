@@ -2,38 +2,38 @@
 
 ## clothes
 
-- [ ] Shirts
-	- [ ] Julian flannel pull-over
+- [x] Shirts
+	- [x] Julian flannel pull-over
 	- [x] Julian gift pull-over ✅ 2026-01-31
 	- [x] short sleeve pullon
 	- [x] long sleeve flannel ✅ 2026-01-31
 	- [x] long-sleeves pullover (3) ✅ 2026-01-31
- - [ ] pants
+ - [x] pants ✅ 2026-01-31
     - [x] 2 long training pants ✅ 2026-01-31
 	- [x] levis with belt ✅ 2026-01-31
 	- [x] Gerry pants ✅ 2026-01-31
 	- [x] 2 belts ✅ 2026-01-31
 
- - [ ] Small bag
+ - [x] Small bag ✅ 2026-01-31
 	- [x] underwear ✅ 2026-01-31
 	- [x] socks ✅ 2026-01-31
 	- [x] handkerchief ✅ 2026-01-31
 
- - [ ] shoes 
+ - [x] shoes ✅ 2026-01-31
 	- [x] crocs ✅ 2026-01-31
 	- [x] training shoes ✅ 2026-01-31
 
- - [ ] Layering 
+ - [x] Layering ✅ 2026-01-31
 	- [x] sweater (green ) ✅ 2026-01-31
 	- [x] soft gloves ✅ 2026-01-31
 	- [x] vest ✅ 2026-01-31
 	- [x] beanie hat ✅ 2026-01-31
 	- [x] scarf ✅ 2026-01-31
 
- - [ ] Dressy
+ - [x] Dressy ✅ 2026-01-31
 
- - [ ] Extra
-	- [ ] exercise bag with headphones
+ - [x] Extra ✅ 2026-01-31
+	- [x] exercise bag with headphones ✅ 2026-01-31
 	- [x] Strength chord ✅ 2026-01-31
 
 ---
@@ -76,14 +76,14 @@
 	- [ ] hearings aid spare
 	- [ ] charger
 
- - [ ] devices
+ - [x] devices ✅ 2026-01-31
 	- [x] bookx
-	- [ ] tablet
+	- [x] tablet ✅ 2026-01-31
 	- [x] Lenovo
 
- - [ ] Carry on
+ - [x] Carry on ✅ 2026-01-31
 	- [x] charger
-	- [ ] headphones
+	- [x] headphones ✅ 2026-01-31
 	- [x] neck pillow
 	- [x] pencil / paper
 	- [x] journal
