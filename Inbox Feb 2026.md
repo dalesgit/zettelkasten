@@ -1,0 +1,1 @@
+- https://www.nytimes.com/2026/02/02/us/supreme-court-nondisclosure-agreements.html

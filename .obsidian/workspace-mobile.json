@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-02-02.md",
+                "file": "Inbox Feb 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-02"
+              "title": "Inbox Feb 2026"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/Daily/2026-02-02.md",
+            "file": "Inbox Feb 2026.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,6 +202,7 @@
   "active": "1fee26adc8a7e664",
   "lastOpenFiles": [
     "Journal/Daily/2026-02-02.md",
+    "Inbox Feb 2026.md",
     "tech/index.md",
     "Kaʻiulani.md",
     "Inbox Jan 2026.md",
@@ -225,7 +226,6 @@
     "January 16 with Zack.md",
     "Kate book to zack.md",
     "Our microwave.md",
-    "[https   www.howtogeek.com obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android ](https   www.howtogeek.com obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android ).md",
-    "Beaver Brook and Floyd hill.md"
+    "[https   www.howtogeek.com obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android ](https   www.howtogeek.com obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android ).md"
   ]
 }
