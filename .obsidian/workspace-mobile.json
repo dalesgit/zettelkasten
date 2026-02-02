@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b17fd0b6057e7032",
+        "id": "86e3aae88a48d507",
         "type": "tabs",
         "children": [
           {
-            "id": "027a6c784b114946",
+            "id": "1fee26adc8a7e664",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2026-02-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-02"
             }
           }
         ]
@@ -93,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "travel/packing-Charleston.md",
+            "file": "Journal/Daily/2026-02-02.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,8 +154,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "calendar"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
@@ -164,7 +179,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,17 +199,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "027a6c784b114946",
+  "active": "1fee26adc8a7e664",
   "lastOpenFiles": [
+    "Journal/Daily/2026-02-02.md",
+    "tech/index.md",
+    "Kaʻiulani.md",
+    "Inbox Jan 2026.md",
     "travel/packing checklist.md",
     "travel/packing-Charleston.md",
-    "Inbox.md",
     "Julian.md",
     "jrnl/journal.md",
     "Liliʻuokalani.md",
     "pages/Three Hawaiian Daughters.md",
     "Queen Emma of Hawaii.md",
-    "Kaʻiulani.md",
     "Julian to Zack have you heard of king gizzard and the lizard wizard.md",
     "CPG 1.md",
     "from drafts.md",
@@ -209,8 +226,6 @@
     "Kate book to zack.md",
     "Our microwave.md",
     "[https   www.howtogeek.com obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android ](https   www.howtogeek.com obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android ).md",
-    "Beaver Brook and Floyd hill.md",
-    "Peter Lane and Susan.md",
-    "Floyd hill and beaver Brook project on I 70.md"
+    "Beaver Brook and Floyd hill.md"
   ]
 }

@@ -30,7 +30,7 @@
  - [Help us, we pray, in the midst of things we cannot understand, to believe and trust in the communion of saints, the forgiveness of sins, and the resurrection to life everlasting. Amen..md](./Help us, we pray, in the midst of things we cannot understand, to believe and trust in the communion of saints, the forgiveness of sins, and the resurrection to life everlasting. Amen..md)
  - [Home.md](Home.md)
  - [Ignatius of Loyola.md](./Ignatius of Loyola.md)
- - [Inbox.md](Inbox.md)
+ - [Inbox.md](Inbox%20Jan%202026.md)
  - [Luke 11.1-13.md](./Luke 11.1-13.md)
  - [MP.md](MP.md)
  - [Obsidian Charts - Plugin.md](./Obsidian Charts - Plugin.md)
