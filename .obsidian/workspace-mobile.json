@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86e3aae88a48d507",
+        "id": "50a23fea6cedcaa6",
         "type": "tabs",
         "children": [
           {
-            "id": "1fee26adc8a7e664",
+            "id": "8ffc6a93b630b2be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,7 +183,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,13 +194,20 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "dashboard-navigator:Open dashboard navigator": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "1fee26adc8a7e664",
+  "active": "8ffc6a93b630b2be",
   "lastOpenFiles": [
-    "Journal/Daily/2026-02-02.md",
+    "misinformation and truth.md",
     "Inbox Feb 2026.md",
+    "cascading impact of loss of affirmative action.md",
+    "health-ins-subsidies-cliff.md",
+    "ReadItLater Inbox/Article 2026-02-03 07-01-17.md",
+    "sc-non-disclosure.md",
+    "Journal/Daily/2026-02-03.md",
+    "Journal/Daily/2026-02-02.md",
     "tech/index.md",
     "Kaʻiulani.md",
     "Inbox Jan 2026.md",
@@ -219,12 +225,6 @@
     "https   www.queenofthesciences.com e the-bible-in-one-hand-and-the-newspaper-in-the-other.md",
     "https   en.wikipedia.org wiki The_Camp_of_the_Saints wprov=sfti1.md",
     "Four dead in Ohio..md",
-    "Mark and Angela.md",
-    "https   en.wikipedia.org wiki Longplayer.md",
-    "The sally gardens by wb yeats.md",
-    "January 16 with Zack.md",
-    "Kate book to zack.md",
-    "Our microwave.md",
-    "[https   www.howtogeek.com obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android ](https   www.howtogeek.com obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android ).md"
+    "Mark and Angela.md"
   ]
 }
