@@ -6,3 +6,5 @@
 	- [[health-ins-subsidies-cliff]]
 - [[cascading impact of loss of affirmative action]]
 - [[misinformation and truth]]
+- ![[Pasted image 20260203202837.jpg]]
+- from David on Facebook
