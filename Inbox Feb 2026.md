@@ -8,3 +8,7 @@
 - [[misinformation and truth]]
 - ![[Pasted image 20260203202837.jpg]]
 - from David on Facebook
+## 2026-02-04
+- [[‘Neoroyalism’ and What It Says About Trump]]
+- [[Opinion  Common Ground Is for Suckers]]
+- [[‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian]]
