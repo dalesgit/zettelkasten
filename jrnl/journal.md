@@ -322,7 +322,7 @@ Part of my experience walking with you: no matter what's going on around me, in 
 She met my prisoner. Has a long-term girl friend who visits.
 
 [2026-01-28 10:05:56 AM] project:prison-ministry Getting started.
-#prison-ministry
+@prison-ministry
 
 I dropped the ball on this.  Michael Taylor is still seeking a spiritual advisor.
 
@@ -340,7 +340,7 @@ THANKS!
 Linda
 
 [2026-01-28 06:45:42 PM] Odd times.
-#writing
+@writing
 
 It's odd isn't it that these are the times we live in.\
 These are the facts on the ground, the boots on the ground,\
@@ -381,7 +381,7 @@ Who's your neighbor?\
 Will you connect with kindness or violence?
 
 [2026-01-28 07:36:52 PM] Common good and human dignity.
-#church_state
+@church_state
 Cardinal Tobin on PBS newshour tonight. Advocating for "common good" rather than competing rights be the measure for decision making.
 
 He also pointed to the marker of "human dignity" of all persons as a guide (for Christians?)
@@ -421,7 +421,7 @@ ndeed, before you the whole universe is like a grain from a balance, / or a drop
 
 But you have mercy on all, because you can do all things; / and you overlook sins for the sake of repentance. / For you love all things that are / and loathe nothing that you have made; / for you would not fashion what you hate. / How could a thing remain, unless you willed it; / or be preserved, had it not been called forth by you? / But you spare all things, because they are yours, / O Ruler and Lover of souls.
 
-#lectio
+@lectio
 Each sentence seems so pregnant and full. Before this vision, the power and hubris ᾽υβρισ 
 
 αβψδεφγηιξκλμνοπ;ρστθωςχυζ abcdefghijklmnopqrstuvxyz
@@ -431,4 +431,9 @@ ctrl ^ (from insert mode) toggles
 
 set it by set keyboard=(greek …)
 
-#greek
+@greek
+
+[2026-02-09 11:12:37 AM] Lectio Isaiah today.
+**The Voice** was pointed in its expression.
+
+@lectio The striking thing for me was "bent reed not broken". God's justice requires care for the forgotten, the beat-down …
