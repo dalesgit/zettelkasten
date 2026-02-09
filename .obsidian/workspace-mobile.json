@@ -179,8 +179,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       },
       {
@@ -195,6 +195,16 @@
       },
       {
         "id": "83b1c2aa3d388247",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "todo"
+        }
+      },
+      {
+        "id": "4f30137c93d39217",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -216,14 +226,10 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "periodic-notes:Open today": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "16b961d248b4278f",
+  "active": "4f30137c93d39217",
   "lastOpenFiles": [
     "ReadItLater Inbox/‘Neoroyalism’ and What It Says About Trump.md",
     "ReadItLater Inbox/Opinion  Common Ground Is for Suckers.md",
