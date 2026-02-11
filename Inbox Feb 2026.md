@@ -17,4 +17,7 @@ tags: []
 - [[Opinion  Common Ground Is for Suckers]]
 - [[‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian]]
 ## 2026-02-09
+
+## 2026-02-11
+- [[How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat]]
 - 

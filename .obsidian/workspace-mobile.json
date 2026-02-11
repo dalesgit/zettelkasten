@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat"
+            }
+          },
+          {
+            "id": "1c74f184d65ee5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Inbox Feb 2026.md",
                 "mode": "source",
                 "source": false,
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,8 +203,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "calendar"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
@@ -218,6 +242,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "notebook-navigator:Notebook Navigator": false,
+      "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -226,14 +253,16 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "4f30137c93d39217",
+  "active": "1c74f184d65ee5db",
   "lastOpenFiles": [
+    "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
+    "Inbox Feb 2026.md",
     "ReadItLater Inbox/‘Neoroyalism’ and What It Says About Trump.md",
     "ReadItLater Inbox/Opinion  Common Ground Is for Suckers.md",
-    "Inbox Feb 2026.md",
     "assets/Pasted image 20260203202837.jpg",
     "misinformation and truth.md",
     "cascading impact of loss of affirmative action.md",
@@ -256,7 +285,6 @@
     "CPG 1.md",
     "from drafts.md",
     "Mo thinks we agreed to bee at one another's deathbed. 1.md",
-    "https   www.queenofthesciences.com e the-bible-in-one-hand-and-the-newspaper-in-the-other.md",
-    "https   en.wikipedia.org wiki The_Camp_of_the_Saints wprov=sfti1.md"
+    "https   www.queenofthesciences.com e the-bible-in-one-hand-and-the-newspaper-in-the-other.md"
   ]
 }
