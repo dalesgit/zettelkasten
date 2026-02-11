@@ -252,3 +252,11 @@ time 1769884125
 old [description:"make appt for HVAC checkup" entry:"1768605766" modified:"1768606196" project:"Home" status:"pending" uuid:"a2c84303-5de7-4207-9f4f-289ac97aabbc"]
 new [description:"make appt for HVAC checkup" end:"1769884123" entry:"1768605766" modified:"1769884125" project:"Home" status:"deleted" uuid:"a2c84303-5de7-4207-9f4f-289ac97aabbc"]
 ---
+time 1770776750
+old [description:"backup home directory somewhere" entry:"1767289991" modified:"1767289991" project:"beelink" status:"pending" uuid:"6a607137-2a32-407e-9bc9-98e857002505"]
+new [description:"backup home directory somewhere" end:"1770776748" entry:"1767289991" modified:"1770776750" project:"beelink" status:"deleted" uuid:"6a607137-2a32-407e-9bc9-98e857002505"]
+---
+time 1770776767
+old [description:"install new OS" entry:"1767290024" modified:"1767290024" project:"beelink" status:"pending" uuid:"0148e696-0f2e-4f4e-9a33-7142f1ab350d"]
+new [description:"install new OS" end:"1770776765" entry:"1767290024" modified:"1770776767" project:"beelink" status:"deleted" uuid:"0148e696-0f2e-4f4e-9a33-7142f1ab350d"]
+---
