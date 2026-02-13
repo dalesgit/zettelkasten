@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ffc6a93b630b2be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/‘Neoroyalism’ and What It Says About Trump.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "‘Neoroyalism’ and What It Says About Trump"
-            }
-          },
-          {
-            "id": "16b961d248b4278f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat"
-            }
-          },
-          {
             "id": "1c74f184d65ee5db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
+                "file": "ReadItLater Inbox/Apocalypse no how almost everything we thought we knew about the Maya is wrong.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat"
+              "title": "Apocalypse no how almost everything we thought we knew about the Maya is wrong"
+            }
+          },
+          {
+            "id": "e92ebf8b9cd9aff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox Feb 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox Feb 2026"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,10 +233,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1c74f184d65ee5db",
+  "active": "e92ebf8b9cd9aff7",
   "lastOpenFiles": [
-    "Inbox Feb 2026.md",
+    "ReadItLater Inbox/Apocalypse no how almost everything we thought we knew about the Maya is wrong.md",
     "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
+    "Inbox Feb 2026.md",
     "ReadItLater Inbox/‘Neoroyalism’ and What It Says About Trump.md",
     "ReadItLater Inbox/Opinion  Common Ground Is for Suckers.md",
     "assets/Pasted image 20260203202837.jpg",
@@ -284,7 +261,6 @@
     "Julian to Zack have you heard of king gizzard and the lizard wizard.md",
     "CPG 1.md",
     "from drafts.md",
-    "Mo thinks we agreed to bee at one another's deathbed. 1.md",
-    "https   www.queenofthesciences.com e the-bible-in-one-hand-and-the-newspaper-in-the-other.md"
+    "Mo thinks we agreed to bee at one another's deathbed. 1.md"
   ]
 }
