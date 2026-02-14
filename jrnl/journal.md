@@ -40,7 +40,7 @@ was of a local program that delivers food to needy folks, but as they moved away
 Beauty that took the breath away. Equally telling, however, is my statement to MP that sometimes I feel like crying here.
 
 [2026-01-09 06:55:46 PM] encrypted message from CPG.
-#security: dch2Mimecast!
+@security: dch2Mimecast!
  https://login-us.mimecast.com/m/secure/app/?tkn=3.nXiTCxhqbbKS7pMB6lioPMYdnU-FVSbG1V06mo2ZpFdqhdMNx3hWyxv8iXGxMhLDuN_JRfTdUMyiYQ2gfz15apqsQx46zKB-teJvST16EdfDBdYtev-Cb79rPkhh3CqPYlVizpR_tEoqrKi8lV2CtTw2gZPs1fxcZXFF-5vh5_qAppT5-HWOvk78eFad00fp.B0vrMT4RvpP9FK5V4XbMmA#/inbox
 
 Your enrollment confirmation has been sent through an encrypted email via Mimecast secure messaging. The message was emailed to you today at 12:56 P.M. ET and will require you to log into the Mimecast mailbox. Please be advised that email from Mimecast does not come from cpg.org. If you do not receive this email, please check your spam, junk, and phishing folders.
@@ -71,7 +71,7 @@ I thought earlier that I didn't know what we would find to fill the time. And th
 - He acknowledged the special relationship he has with her. I said (maybe mistakenly) in addition to **friend** she is also **mother**.
 
 [2026-01-10 08:28:12 AM] Mary Pat in tears.
-#current
+@current
 She had been up a while and on her way out to have lunch with Diane. She was still in bed when she read a story about Renee Goode, actually a sermon by an ELCA pastor. She was adamant that the church needs to be forceful in response. She thought of turning her keys in and resigning from the vestry if there's not a forceful response.
 
 [2026-01-10 07:19:22 PM] Mo and dogs.
@@ -194,7 +194,7 @@ The previous day I had found my **Psalm project** and used it to compare the psa
 Yesterday and today I opened up the app "Infinite Painter" on the tablet. I might be able to pursue **creativity** with that.
 
 [2026-01-18 08:06:53 AM] Isaiah 11 Justice Music.
-#lectio
+@lectio
 Lectio on Isaiah 11 focused on "justice". A primordial part of growing up from toddler-hood on. Our country doesn't know about biblical "fairness" and "justice". "Justice" of death penalty? 
 
 Insight for me is that it feels like the same kind of primordial sensation as "justice". Getting the vibrations right. Harmony. 
@@ -204,7 +204,7 @@ It seems that it extends to the importance of singing in our prayer at home. It'
 [2026-01-19 08:52:41 AM] Lectio.
 Scripture Job 36:5-7, 10-12
 
-#lectio
+@lectio
 Look, God is great, not disdainful; / his strength of purpose is great. 
 
 Allahu Akbar (Arabic: الله أكبر) is an Arabic phrase, called Takbir, meaning "God is greater" or "God is [the] greatest".
@@ -217,7 +217,7 @@ Quest to sing the blessing? My desire to sing harmony or not at all at church.
 [2026-01-20 07:14:43 AM] I couldnt join in 3 hours of conversation with Mark and Angela.
 
 [2026-01-20 07:27:33 AM] adjust termux appearance.
-#technical
+@technical
 Alternative tools like **termux-nf** (GitHub: arnavgr/termux-nf) provide a script to easily install and manage Nerd Fonts directly in Termux.  Use curl -fsSL https://raw.githubusercontent.com/arnavgr/termux-nf/main/install.sh | bash to install it, then run getnf to browse and apply fonts.
 
 or
@@ -225,7 +225,7 @@ or
 **Termux:Styling** is the official add-on app for customizing Termux's font and color theme.  Install it via F-Droid (recommended) or download the APK from the F-Droid package page.  After installation, long-press anywhere in the Termux terminal, select "Style", and choose from a wide selection of powerline-ready fonts and color schemes.
 
 [2026-01-20 08:01:35 AM] Sabbath - lectio.
-#thought #lectio
+@thought @lectio
 Deut. 5. I made the claim that I think most Christians (maybe some Jews) don't really understand the fundamental and all-encompassing notion that "Shabbat" is. Appreciate what Jesus was criticizing? 
 
 Mary Pat responded with the familiar "rules-based" reasoning that she identified with the Catholic church of her childhood, but which I think sprouts in any friendly soil. 
@@ -242,7 +242,7 @@ And interestingly, like some of the other things I harp on about, I seem to not 
 At Melas? Reservations.
 
 [2026-01-22 08:45:14 AM] Eternal covenant.
-#lectio
+@lectio
 MP was disturbed by my saying that I wasn't sure I believed in that. I cut her off from asking me, "What do you believe?" It has something to do with, "What can I rely on you for, O God?" Or, "Why can't you choose someone else for a while?"
 
 see the following about Nhat Hanh for what I do whole-heartedly affirm.
@@ -251,7 +251,7 @@ see the following about Nhat Hanh for what I do whole-heartedly affirm.
 **Thich Nhat Hanh**
 _Monk, Poet, Peacemaker (1926–2022)_
 
-#lectio
+@lectio
 Long before his death in 2022, Vietnamese Zen master Thich Nhat Hanh was regarded as one of the great spiritual teachers of our time. Born in Hue, he became a Buddhist monk at sixteen. As war increasingly enveloped his country in the 1960s, he responded by advocating for what he called “engaged Buddhism,” extending meditation and spiritual practice to social action to alleviate suffering
 
 In 1966, he traveled to the United States to promote the message of peace. He befriended Martin Luther King Jr., who nominated him for the Nobel Peace Prize, and Thomas Merton. But as a result of his witness, he was not permitted to return to South Vietnam until after the Communist victory in 1975.
@@ -448,4 +448,3 @@ measured by the ruler it looks more like 10.4 in
 [2026-02-09 01:44:39 PM] diary This is a diary entry.
 
 [2026-02-09 01:45:56 PM] list
-
