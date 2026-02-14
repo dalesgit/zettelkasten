@@ -11,9 +11,24 @@
             "id": "5a89f1dcff13ddfe",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Inbox Feb 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox Feb 2026"
             }
           }
         ]
@@ -195,10 +210,10 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "periodic-notes:Open today": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "dashboard-navigator:Open dashboard navigator": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "5a89f1dcff13ddfe",
