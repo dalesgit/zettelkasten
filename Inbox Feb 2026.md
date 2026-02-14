@@ -21,3 +21,5 @@ tags: []
 ## 2026-02-11
 - [[How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat]]
 - [[Apocalypse no how almost everything we thought we knew about the Maya is wrong]]
+## 2026-02-14
+- [[poems-from-checkvist]]

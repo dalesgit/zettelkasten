@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c8ea34af2c62c81",
+        "id": "a199f67a6b6cfd7b",
         "type": "tabs",
         "children": [
           {
-            "id": "d24448affacffb29",
+            "id": "f1cd9ca87064657b",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -193,10 +193,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d24448affacffb29",
+  "active": "f1cd9ca87064657b",
   "lastOpenFiles": [
-    "ReadItLater Inbox/Apocalypse no how almost everything we thought we knew about the Maya is wrong.md",
     "Inbox Feb 2026.md",
+    "poems-from-checkvist.md",
+    "ReadItLater Inbox/Apocalypse no how almost everything we thought we knew about the Maya is wrong.md",
     "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
     "ReadItLater Inbox/‘Neoroyalism’ and What It Says About Trump.md",
     "ReadItLater Inbox/Opinion  Common Ground Is for Suckers.md",
@@ -220,7 +221,6 @@
     "Queen Emma of Hawaii.md",
     "Julian to Zack have you heard of king gizzard and the lizard wizard.md",
     "CPG 1.md",
-    "from drafts.md",
-    "Mo thinks we agreed to bee at one another's deathbed. 1.md"
+    "from drafts.md"
   ]
 }
