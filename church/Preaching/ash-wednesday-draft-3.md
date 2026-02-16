@@ -1,7 +1,7 @@
 ---
 id: ash-wednesday-draft-3
-aliases: []
 title: "Ash Wednesday 2026: draft 3"
+aliases: []
 tags: []
 ---
 
@@ -38,7 +38,7 @@ I have thought all these years that that there was a missing "comma", or perhaps
 
 I point this out because it is that phrase **notorious sins** that is the real source of my insight. We think, I suppose, that we all know what that would mean: "**notorious sins**". But really the word, **notorious**, is very much in the eye of the beholder. In this audience alone, I am certain that there are a variety of opinions as to what is regarded as **notorious**. What was **notorious** in the year 800 is no doubt different from what it is today, and in these divided times what one person regards as notorious another person would count as laudable. What one person sees as notorious sin another might well see as a courageous activity. 
 
-As we look around, our community, is broken by many different views of what is notorious. It's not enough to say what is notorious to you, or me, or any of us individually. We are called to ask what is the sin that we as a community regard as sin. The call to a _Holy Lent_ for me this year has to do with listening with new ears. Hearing it with fresh ears.
+As we look around, our community is broken by many different views of what is notorious. It's not enough to say what is notorious to you, or me, or any of us individually. We are called to ask what is the sin that we as a community regard as sin. The call to a _Holy Lent_ for me this year has to do with listening with new ears. Hearing it with fresh ears.
 
 ## My insight this year: Taking stock is not a private/individual thing
 
@@ -50,7 +50,7 @@ The question for us today is not what I individually might think is notorious si
 
 ## From we to me 
 
-For many years -- centuries, really -- we have been moving from a sense of "we" to a focus on "I" (the individual). Back in the 80's I heard(Noel) Paul Stookey -- yes, that one from Peter Paul and Mary -- introduced his "Wedding Song" with a monologue about how society has moved from "we" to "I". He used the illustration of moving from a concern for all of life, turning inward, and focusing on finally on the individual.
+For many years -- centuries, really -- we have been moving from a sense of "we" to a focus on "I" (the individual). Back in the 80's I heard (Noel) Paul Stookey -- yes, that one from Peter Paul and Mary -- introduced his "Wedding Song" with a monologue about how society has moved from "we" to "I". He used the illustration of moving from a concern for all of life, turning inward, and focusing on finally on the individual.
 
 - once there was a magazine called **Life**
 - then a new publication **People**
@@ -61,19 +61,19 @@ For many years -- centuries, really -- we have been moving from a sense of "we" 
 
 Some may resist my suggestion that our Lenten self-examination be directed at us and not me. Some might make the claim that social concerns should be left outside the pulpit. Some might proclaim, "Keep politics out of the church."
 
-One of my mentors from Notre Dame made the distinction between "issues" and "politics". He said that when most people say, "Keep politics out of the church," what they mean is, "keep political **issues** out of the church." Politics, he argued -- as have many people -- is everywhere. It's in the church, Jesus was political. "Whenever 2 or 3 are gathered together, there you have politics", as another of my teachers said. Where politics is an essential part of any gathering of people, including the church, **silence** is a political statement. Not to look at "we" and instead focus just on "I" is a political decision and action.
+One of my mentors from Notre Dame made the distinction between "issues" and "politics". He said that what most people mean when they say, "Keep politics out of the church," is something like, "keep political **issues** out of the church." Politics, he argued -- as have many people -- is **everywhere**. It's in the church and Jesus was as political any of the rest of us. "Whenever 2 or 3 are gathered together, there you have politics", as another of my teachers said. Where politics is an essential part of any gathering of people, including the church, **silence** is a political statement. Not to look at "we" and instead focus just on "I" is a political decision and action.
 
 ## Jesus died accused of a sin against the state
 
-For me, at least, the call to a Holy Lent, is about a self-examination aimed at "we." Jesus was concerned with individuals to be sure. When he healed a person, for that moment, he was totally focused on him or her. But Jesus was also focused on the whole of creation, on all of humanity within that creation. He was concerned about the whole web of relationships around him. And the web surrounding us is vastly greater than we can possibly imagine.
+For me, at least, the call to a Holy Lent, is about self-examination aimed at "we." Jesus was concerned with individuals to be sure. When he healed a person, for that moment, he was totally focused on him or her. But Jesus was also focused on the whole of creation, on all of humanity within that creation. He was concerned about the whole web of relationships around him. And the web surrounding us is vastly greater than we can possibly imagine.
 
 And we have gone astray, it seems to me, by focusing exclusively on the individual and not enough on the community. 
 
 ## Who is my community? Who is my neighbor? 
 
-Is the child in an interment camp any less a neighbor than the widow who lives next door to us? Did Jesus not feed the multitudes without asking first for an id? Jesus didn't ask are you of this political part or that one. 
+Is the child in an interment camp any less a neighbor than the widow who lives next door to us? Did Jesus not feed the multitudes without asking first for an id? Jesus didn't ask, "Are you of this political party or that one." 
 
-What is my community? Is it St. Alfred's? Is it just Christians? Jesus looked to his wider world and saw Greeks, Romans, Samaritans, Egyptians, and more. How much more do we look at a world filled with an incredible rich array of neighbors from countless cultures and languages. We have billions of neighbors where Jesus had maybe a few million.
+What is my community? Is it St. Alfred's? Is it just Christians? Jesus looked to his wider world and saw Greeks, Romans, Samaritans, Egyptians, and more. How much more do we look at a world filled with an incredibly rich array of neighbors from countless cultures and languages. We have billions of neighbors where Jesus had maybe a few million.
 
 We have fallen so woefully short in our appreciation of who "we" is. This Lent is a time for taking stock of that.
 
@@ -81,15 +81,15 @@ We have fallen so woefully short in our appreciation of who "we" is. This Lent i
 
 There is a very old tradition, stretching back centuries, of asking those who come seeking baptism, "**What do you seek?**" 
 
-Someone I count as a neighbor, a friend, I never met. He was a Buddhist though he wrote about how Jesus and Buddha were similar. Thich Nhat Hanh was his name. He was a Monk, a Poet, and a Peacemaker (1926–2022). He knew that "we" extended far and wide and that we are all neighbors on this planet. He said, 
+Someone I count as a neighbor, a friend, but I never met, was a Buddhist, though he wrote about how Jesus and Buddha were similar. Thich Nhat Hanh was his name. He was a Monk, a Poet, and a Peacemaker (1926–2022). He knew that "we" extended far and wide and that we are all neighbors on this planet. He said, 
 
 > *“We don’t need to wish our friends, ‘Peace be with you.’ Peace is already with them. We only need to help them cultivate the habit of touching peace in each moment.”*
 
 That is the same **Peace** that Jesus offers us and each Eucharist we extend to one another. We seek **Peace**. But that's not the only thing we seek. We seek **Fairness**. Three year olds are developing a sense of fairness and they'll call out a playmate if they're not being fair. We seek **Love** to be sure. But as with many of the words we commonly use in church, **Love** is not easily defined or limited. The love we seek from the creator of all is not the same love I sought from a parent or family member. We seek, in the end **Glory**. To be in the presence of the creator of all.
 
-To say what that is like could be a life-long project. But I can say quite easily, that for each of the things we seek, we have fallen short. Peace, fairness, Love, Glory. Whether we look at we as St. Alfred's, we as a citizen of the US, we as a member of the wealthy class of humans, we as a human being, … we have fallen short.
+To say what that is like, however, could be a life-long project. But I can say quite easily, that for each of the things we seek, we have fallen short. Peace, Fairness, Love, Glory. Whether we look at we as St. Alfred's, we as a citizen of the US, we as a member of the wealthy class of humans, we as a human being, … we have fallen short.
 
-We have not yet arrived at the place we seek by the time we are but dust and ashes.
+We will not yet have arrived at the place we seek by the time we are but dust and ashes. Ash Wednesday is a time to put things into perspective.
 
 ## Let us trust that it will be sufficient.
 
