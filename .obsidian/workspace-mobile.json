@@ -81,6 +81,19 @@
           }
         ],
         "currentTab": 2
+        "id": "a199f67a6b6cfd7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1cd9ca87064657b",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,6 +279,10 @@
     "ReadItLater Inbox/An existentialist philosopher on why we should not let fear dictate love.md",
     "ReadItLater Inbox/This free app does what Photoshop does for most people.md",
     "ReadItLater Inbox/Opinion  A.I. Companies Are Eating Higher Education.md",
+  "active": "f1cd9ca87064657b",
+  "lastOpenFiles": [
+    "Inbox Feb 2026.md",
+    "poems-from-checkvist.md",
     "ReadItLater Inbox/Apocalypse no how almost everything we thought we knew about the Maya is wrong.md",
     "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
     "ReadItLater Inbox/‘Neoroyalism’ and What It Says About Trump.md",
@@ -285,6 +302,11 @@
     "travel/packing-Charleston.md",
     "Julian.md",
     "jrnl/journal.md",
-    "Liliʻuokalani.md"
+    "Liliʻuokalani.md",
+    "pages/Three Hawaiian Daughters.md",
+    "Queen Emma of Hawaii.md",
+    "Julian to Zack have you heard of king gizzard and the lizard wizard.md",
+    "CPG 1.md",
+    "from drafts.md"
   ]
 }

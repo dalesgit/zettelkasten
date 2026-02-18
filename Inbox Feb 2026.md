@@ -29,3 +29,5 @@ tags: []
 ## 2026-02-17
 - [[Stop using your browser for these 6 tasks — the terminal does them better]] esp the weather. wttr.in
 - 
+## 2026-02-14
+- [[poems-from-checkvist]]
