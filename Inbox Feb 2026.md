@@ -21,3 +21,11 @@ tags: []
 ## 2026-02-11
 - [[How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat]]
 - [[Apocalypse no how almost everything we thought we knew about the Maya is wrong]]
+- [[This free app does what Photoshop does for most people]]
+- [[Opinion  A.I. Companies Are Eating Higher Education]]
+- [[An existentialist philosopher on why we should not let fear dictate love]]
+- [[7 of the Most Scandalous Romantic Plot Twists in Classic Literature]]
+- [[‘Deeply illogical’ this man’s life work could end homelessness – and Trump is doing all he can to stop it]]
+## 2026-02-17
+- [[Stop using your browser for these 6 tasks — the terminal does them better]] esp the weather. wttr.in
+- 

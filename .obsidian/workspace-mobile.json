@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50a23fea6cedcaa6",
+        "id": "571325eb107d7d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "1c74f184d65ee5db",
+            "id": "153b211059c6d05f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/Apocalypse no how almost everything we thought we knew about the Maya is wrong.md",
+                "file": "ReadItLater Inbox/‘Deeply illogical’ this man’s life work could end homelessness – and Trump is doing all he can to stop it.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Apocalypse no how almost everything we thought we knew about the Maya is wrong"
+              "title": "‘Deeply illogical’ this man’s life work could end homelessness – and Trump is doing all he can to stop it"
             }
           },
           {
-            "id": "e92ebf8b9cd9aff7",
+            "id": "94288f0fa1940943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadItLater Inbox/Stop using your browser for these 6 tasks — the terminal does them better.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stop using your browser for these 6 tasks — the terminal does them better"
+            }
+          },
+          {
+            "id": "fd6ffd0ba189b231",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,11 +257,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e92ebf8b9cd9aff7",
+  "active": "fd6ffd0ba189b231",
   "lastOpenFiles": [
+    "ReadItLater Inbox/Stop using your browser for these 6 tasks — the terminal does them better.md",
+    "Inbox Feb 2026.md",
+    "ReadItLater Inbox/‘Deeply illogical’ this man’s life work could end homelessness – and Trump is doing all he can to stop it.md",
+    "ReadItLater Inbox/7 of the Most Scandalous Romantic Plot Twists in Classic Literature.md",
+    "ReadItLater Inbox/An existentialist philosopher on why we should not let fear dictate love.md",
+    "ReadItLater Inbox/This free app does what Photoshop does for most people.md",
+    "ReadItLater Inbox/Opinion  A.I. Companies Are Eating Higher Education.md",
     "ReadItLater Inbox/Apocalypse no how almost everything we thought we knew about the Maya is wrong.md",
     "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
-    "Inbox Feb 2026.md",
     "ReadItLater Inbox/‘Neoroyalism’ and What It Says About Trump.md",
     "ReadItLater Inbox/Opinion  Common Ground Is for Suckers.md",
     "assets/Pasted image 20260203202837.jpg",
@@ -255,12 +285,6 @@
     "travel/packing-Charleston.md",
     "Julian.md",
     "jrnl/journal.md",
-    "Liliʻuokalani.md",
-    "pages/Three Hawaiian Daughters.md",
-    "Queen Emma of Hawaii.md",
-    "Julian to Zack have you heard of king gizzard and the lizard wizard.md",
-    "CPG 1.md",
-    "from drafts.md",
-    "Mo thinks we agreed to bee at one another's deathbed. 1.md"
+    "Liliʻuokalani.md"
   ]
 }
