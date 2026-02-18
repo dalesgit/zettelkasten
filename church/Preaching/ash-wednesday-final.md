@@ -24,6 +24,8 @@ Back in January when I first began to read the lessons and the Ash Wednesday lit
 
 > What more could one want? Such "**aha moments** are just the kind of thing a preacher is trying to bring about among the listeners." Perhaps to learn something. Perhaps to wrestle with an idea. Perhaps to get a distinctive image. All these are examples of hearing the gospel with new ears.
 
+> _You may wish to turn to page 4 in your bulletin_
+
 For over 40 years when I have read that invitation, I have felt that there was a grammatical mistake in the text of the _Book of Common Prayer_.
 
 The text notes that centuries ago Lent was the time of preparation for baptism. Baptisms were normally done at Easter. The **preparation** for baptism included particularly a time of self examination and repentance.
@@ -38,17 +40,17 @@ I point this out because it is that phrase -- **notorious sins** -- that is the 
 
 As we look around, our community is broken by many different views of what is notorious. It's not enough to say what is notorious to you, or me, or any of us individually. We are called to ask what is it that we as a community regard as **sin**. The call to a _Holy Lent_ for me this year has to do with listening with new ears. Hearing with fresh ears.
 
-## My insight this year: Taking stock is not a private/individual thing
+## My insight this year: 
+
+Taking stock is not a private/individual thing. Taking stock is is a we thing.
 
 I hear it as directed not only to me personally, but more powerfully directed to **us**. There is, in fact, no solitary "I" --- there is only "We." No surprise! We are not alone. John Dunne wrote it centuries ago, "No man is an island, entire of itself, … " We are connected to an uncountable number of other people, past and present, to an impossibly rich and varied set of circumstances and environments.
 
 We are so accustomed to hearing this call to repentance as an inward-turning, individual-oriented call. I am convinced that the call is something different. I am convinced that we need to heed the call with **new ears**. The pervasive sense that Christian faith is a solitary, personal, concern is a peculiarly modern sensibility.
 
-The question for us today is not what I individually might think is notorious sin. It is what do we understand as sin. It's not me. It's us.
+The question for us today is not what I individually might think is notorious sin. It is what do we understand as sin. Not me. It's us.
 
-## From we to me 
-
-For many years -- centuries, really -- we have been moving from a sense of "we" to a focus on "I" (the individual). Back in the 80's I heard (Noel) Paul Stookey -- yes, that one from Peter Paul and Mary -- introduce his "Wedding Song" with a monologue about how society has moved from "we" to "I". He used the illustration of moving from a concern for all of life, turning inward, and focusing on finally on the individual.
+For a long time there has been a shift of focus from we to me. Perhaps more in this country than elsewhere. But across the globe. For centuries, really, there has been an ever-growing importance placed on the individual, the I, at the expense of the we. Back in the 80's I heard (Noel) Paul Stookey -- yes, that one from Peter Paul and Mary -- introduce his "Wedding Song" with a monologue about how society has moved from "we" to "I". He used the illustration of moving from a concern for all of life, turning inward, and focusing finally on the individual.
 
 - once there was a magazine called **Life**
 - then a new publication **People**
@@ -61,7 +63,7 @@ Some may resist my suggestion that our Lenten self-examination be directed at us
 
 One of my mentors from Notre Dame made the distinction between "issues" and "politics". He said that what most people mean when they say, "Keep politics out of the church," is something like, "keep political **issues** out of the church." Politics, he argued -- as have many people -- is **everywhere**. It's in the church and Jesus was as political any of the rest of us, as another of my teachers said, "Whenever 2 or 3 are gathered together, there you have politics." Where politics is an essential part of any gathering of people, including the church, **silence** is a political statement. Not to look at "we" and instead focus just on "I" is a political decision and action.
 
-## Jesus died accused of a sin against the state
+Jesus died accused of a sin against the state. To the rulers of his day Jesus was clearly perceived as political.
 
 For me, at least, the call to a Holy Lent is about self-examination aimed at "we." Jesus was concerned with individuals to be sure. When he healed a person, for that moment, he was totally focused on him or her. But Jesus was also focused on the whole of creation, on all of humanity within that creation. He was concerned about the whole web of relationships around him. And the web surrounding us is vastly greater than we can possibly imagine.
 
@@ -79,7 +81,7 @@ We have fallen so woefully short in our appreciation of who "we" is. This Lent i
 
 There is a very old tradition, stretching back centuries, of asking those who come seeking baptism, "**What do you seek?**" 
 
-Someone I count as a neighbor, a friend, but I never met, was a Buddhist, though he wrote about how Jesus and Buddha were similar. Thich Nhat Hanh was his name. He was a Monk, a Poet, and a Peacemaker (1926–2022). He knew that "we" extended far and wide and that we are all neighbors on this planet. He said, 
+Someone I count as a neighbor, a friend, yet never met, was a Buddhist. He wrote about how Jesus and Buddha were so very similar. Thich Nhat Hanh was his name. He was a Monk, a Poet, and a Peacemaker (1926–2022). He knew that "we" extended far and wide and that we are all neighbors on this planet. He said, 
 
 > *“We don’t need to wish our friends, ‘Peace be with you.’ Peace is already with them. We only need to help them cultivate the habit of touching peace in each moment.”*
 
@@ -90,6 +92,8 @@ To say what that is like, however, could be a life-long project. But I can say q
 We will not yet have arrived at the place we seek by the time we are but dust and ashes. Ash Wednesday is a time to put things into perspective.
 
 ## Let us trust that it will be sufficient.
+
+> I have made a few copies of this prayer available at the back of the church.
 
 Let us pray with Thomas Merton in this Lenten journey that we undertake today:
 
