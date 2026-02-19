@@ -48,7 +48,7 @@ As we look around, our community is broken by many different views of what is no
 
 ## My insight this year: 
 
-Taking stock is not a private individual thing. Taking stock is is a we thing.
+Taking stock is not a private individual thing. Taking stock is a we thing.
 
 I hear it as directed not only to me personally, but more powerfully directed to **us**. There is, in fact, no solitary "I" -- there is only "We." 
 
