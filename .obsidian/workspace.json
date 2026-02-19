@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Inbox Feb 2026"
             }
+          },
+          {
+            "id": "6a1dc1f488574043",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "naples",
+                "query": "markdown preview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f673ed79fa544c2d",
@@ -216,7 +228,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a89f1dcff13ddfe",
+  "active": "77f907bdac539cd0",
   "lastOpenFiles": [
     "Clippings2/Opinion  We Need to Think Straight About God and Politics.md",
     "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
