@@ -32,7 +32,8 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "editor:swap-line-up",
-    "editor:swap-line-down"
+    "editor:swap-line-down",
+    "command-palette:open"
   ],
   "promptDelete": false,
   "openBehavior": ""
