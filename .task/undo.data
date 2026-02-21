@@ -263,3 +263,9 @@ new [description:"install new OS" end:"1770776765" entry:"1767290024" modified:"
 time 1771506505
 new [description:"investigate micro-watering solutions" entry:"1771506505" modified:"1771506505" project:"house" status:"pending" uuid:"5b3ddb1e-a556-499e-9be5-c9a2cd4d0704"]
 ---
+time 1771673173
+new [description:"cancel nordvpn and write to michael" entry:"1771673173" modified:"1771673173" status:"pending" uuid:"b2c46bf3-fc0f-486a-9ccc-f79595cd2f1d"]
+---
+time 1771673202
+new [description:"contact and gift to Julian" entry:"1771673202" modified:"1771673202" status:"pending" uuid:"0ed63636-e8a4-4fd3-a400-e4c766ce24ec"]
+---
