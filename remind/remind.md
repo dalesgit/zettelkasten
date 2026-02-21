@@ -105,4 +105,4 @@ REM Feb 09 2026 AT 14:30 SPECIAL COLOR 0 128 255 MASA meal at Red Lobster %b%
 REM Feb 21 2026 AT 9:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
 REM Mar 28 2026 SPECIAL COLOR 0 128 255 No Kings Protest %b% 
 REM Feb 17 2026 AT 17:00 SPECIAL COLOR 255 0 255 Pancake supper %b% 
-REM Feb 20 2026 +2 AT 17:30 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+REM Feb 20 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
