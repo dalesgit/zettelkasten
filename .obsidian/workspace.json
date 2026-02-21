@@ -35,12 +35,24 @@
             "id": "6a1dc1f488574043",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Inbox Feb 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Inbox Feb 2026"
             }
           }
         ],
@@ -179,8 +191,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -204,12 +216,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,13 +239,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "77f907bdac539cd0",
+  "active": "6a1dc1f488574043",
   "lastOpenFiles": [
+    "Journal/Daily/2026-02-02.md",
+    "Journal/Daily/2026-01-31.md",
+    "Journal/Daily/2026-01-27.md",
     "Clippings2/Opinion  We Need to Think Straight About God and Politics.md",
     "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
     "Inbox Feb 2026.md",
     "Journal/Daily/2026-02-09.md",
-    "Journal/Daily/2026-01-31.md",
     "travel/packing-Charleston.md",
     "travel/packing checklist.md",
     "travel/4913",
@@ -256,8 +269,6 @@
     "Clippers/Shut it down! The US is better off with no government than with the one it has  Judith Levine  The Guardian.md",
     "jrnl/journal.md",
     "Clippers/The Minneapolis revolt tells us this even in Trump’s America, the people have power too  Aditya Chakrabortty  The Guardian.md",
-    "pages/Three.md",
-    "personal/banking.md",
-    "Do You Have Old Electronics Lying Around Costco Will Trade You For Them.md"
+    "pages/Three.md"
   ]
 }

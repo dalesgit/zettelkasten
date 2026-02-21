@@ -263,22 +263,9 @@ new [description:"install new OS" end:"1770776765" entry:"1767290024" modified:"
 time 1771506505
 new [description:"investigate micro-watering solutions" entry:"1771506505" modified:"1771506505" project:"house" status:"pending" uuid:"5b3ddb1e-a556-499e-9be5-c9a2cd4d0704"]
 ---
-time 1771539991
-new [description:"new hoses" entry:"1771539991" modified:"1771539991" project:"house" status:"pending" uuid:"455e4664-0ece-4583-9001-bbbcb6441c4f"]
+time 1771673173
+new [description:"cancel nordvpn and write to michael" entry:"1771673173" modified:"1771673173" status:"pending" uuid:"b2c46bf3-fc0f-486a-9ccc-f79595cd2f1d"]
 ---
-time 1771540018
-new [description:"adapter for hose" entry:"1771540018" modified:"1771540018" project:"house" status:"pending" uuid:"dc2efc0b-55c9-4f59-9723-68eb21fd1461"]
----
-time 1771540038
-new [description:"3 50 lb bags of sand" entry:"1771540038" modified:"1771540038" project:"house" status:"pending" uuid:"3951b154-91e5-4e4b-a8c0-31222086fb04"]
----
-time 1771540059
-old [description:"Ash Wednesday sermon" entry:"1769655029" modified:"1769655029" project:"preaching" status:"pending" uuid:"742410b7-197f-4038-bb01-cce955071799"]
-new [description:"Ash Wednesday sermon" end:"1771540057" entry:"1769655029" modified:"1771540059" project:"preaching" status:"deleted" uuid:"742410b7-197f-4038-bb01-cce955071799"]
----
-time 1771540071
-new [description:"sermon" entry:"1771540071" modified:"1771540071" project:"post" status:"pending" uuid:"0dbd63a2-54d1-4b48-be4f-ca626dc327e1"]
----
-time 1771545116
-new [description:"buy tonic" entry:"1771545116" modified:"1771545116" project:"grocery" status:"pending" uuid:"83684e3d-19d7-4cd6-ba70-a97005a27eb2"]
+time 1771673202
+new [description:"contact and gift to Julian" entry:"1771673202" modified:"1771673202" status:"pending" uuid:"0ed63636-e8a4-4fd3-a400-e4c766ce24ec"]
 ---

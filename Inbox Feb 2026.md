@@ -31,3 +31,6 @@ tags: []
 - 
 ## 2026-02-14
 - [[poems-from-checkvist]]
+## 2026-02-20
+- [[What If Trevor Noah Is Right About the Left and Religion]]
+- 
