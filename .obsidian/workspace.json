@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox Feb 2026.md",
+                "file": "Journal/Weekly/2026-W05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox Feb 2026"
+              "title": "2026-W05"
             }
           }
         ],
@@ -241,12 +241,17 @@
   },
   "active": "6a1dc1f488574043",
   "lastOpenFiles": [
+    "Journal/Weekly/2026-W08.md",
+    "Journal/Weekly/2026-W05.md",
+    "Journal/Weekly/2026-W07.md",
+    "Journal/Weekly/2026-W06.md",
+    "Journal/Weekly/2026-W09.md",
+    "Inbox Feb 2026.md",
     "Journal/Daily/2026-02-02.md",
     "Journal/Daily/2026-01-31.md",
     "Journal/Daily/2026-01-27.md",
     "Clippings2/Opinion  We Need to Think Straight About God and Politics.md",
     "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
-    "Inbox Feb 2026.md",
     "Journal/Daily/2026-02-09.md",
     "travel/packing-Charleston.md",
     "travel/packing checklist.md",
@@ -264,11 +269,6 @@
     "travel/packing-old/Naples-planning Oct 20.md",
     "Journal/Daily/2026-01-05.md",
     "Clippers/The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic.md",
-    "Clippers/The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic.md~",
-    "Clippers/The Accidental Winners of the War on Higher Ed - The Atlantic.md",
-    "Clippers/Shut it down! The US is better off with no government than with the one it has  Judith Levine  The Guardian.md",
-    "jrnl/journal.md",
-    "Clippers/The Minneapolis revolt tells us this even in Trump’s America, the people have power too  Aditya Chakrabortty  The Guardian.md",
-    "pages/Three.md"
+    "Clippers/The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic.md~"
   ]
 }
