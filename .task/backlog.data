@@ -76,3 +76,8 @@
 {"description":"investigate micro-watering solutions","entry":"20260219T130825Z","modified":"20260219T130825Z","project":"house","status":"pending","uuid":"5b3ddb1e-a556-499e-9be5-c9a2cd4d0704"}
 {"description":"cancel nordvpn and write to michael","entry":"20260221T112613Z","modified":"20260221T112613Z","status":"pending","uuid":"b2c46bf3-fc0f-486a-9ccc-f79595cd2f1d"}
 {"description":"contact and gift to Julian","entry":"20260221T112642Z","modified":"20260221T112642Z","status":"pending","uuid":"0ed63636-e8a4-4fd3-a400-e4c766ce24ec"}
+{"description":"Ash Wednesday sermon","end":"20260223T162759Z","entry":"20260129T025029Z","modified":"20260223T162800Z","project":"preaching","status":"deleted","uuid":"742410b7-197f-4038-bb01-cce955071799"}
+{"description":"investigate micro-watering solutions","end":"20260223T162812Z","entry":"20260219T130825Z","modified":"20260223T162814Z","project":"house","status":"deleted","uuid":"5b3ddb1e-a556-499e-9be5-c9a2cd4d0704"}
+{"description":"cancel nordvpn and write to michael","end":"20260223T162827Z","entry":"20260221T112613Z","modified":"20260223T162830Z","status":"deleted","uuid":"b2c46bf3-fc0f-486a-9ccc-f79595cd2f1d"}
+{"description":"contact and gift to Julian","end":"20260223T162843Z","entry":"20260221T112642Z","modified":"20260223T162848Z","status":"deleted","uuid":"0ed63636-e8a4-4fd3-a400-e4c766ce24ec"}
+{"description":"buy sand, construct stand","entry":"20260223T162944Z","modified":"20260223T162944Z","project":"house","status":"pending","uuid":"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"}
