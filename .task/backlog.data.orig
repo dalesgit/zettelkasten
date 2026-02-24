@@ -74,14 +74,14 @@
 {"description":"backup home directory somewhere","end":"20260211T022548Z","entry":"20260101T175311Z","modified":"20260211T022550Z","project":"beelink","status":"deleted","uuid":"6a607137-2a32-407e-9bc9-98e857002505"}
 {"description":"install new OS","end":"20260211T022605Z","entry":"20260101T175344Z","modified":"20260211T022607Z","project":"beelink","status":"deleted","uuid":"0148e696-0f2e-4f4e-9a33-7142f1ab350d"}
 {"description":"investigate micro-watering solutions","entry":"20260219T130825Z","modified":"20260219T130825Z","project":"house","status":"pending","uuid":"5b3ddb1e-a556-499e-9be5-c9a2cd4d0704"}
-<<<<<<< HEAD
-{"description":"new hoses","entry":"20260219T222631Z","modified":"20260219T222631Z","project":"house","status":"pending","uuid":"455e4664-0ece-4583-9001-bbbcb6441c4f"}
-{"description":"adapter for hose","entry":"20260219T222658Z","modified":"20260219T222658Z","project":"house","status":"pending","uuid":"dc2efc0b-55c9-4f59-9723-68eb21fd1461"}
-{"description":"3 50 lb bags of sand","entry":"20260219T222718Z","modified":"20260219T222718Z","project":"house","status":"pending","uuid":"3951b154-91e5-4e4b-a8c0-31222086fb04"}
-{"description":"Ash Wednesday sermon","end":"20260219T222737Z","entry":"20260129T025029Z","modified":"20260219T222739Z","project":"preaching","status":"deleted","uuid":"742410b7-197f-4038-bb01-cce955071799"}
-{"description":"sermon","entry":"20260219T222751Z","modified":"20260219T222751Z","project":"post","status":"pending","uuid":"0dbd63a2-54d1-4b48-be4f-ca626dc327e1"}
-{"description":"buy tonic","entry":"20260219T235156Z","modified":"20260219T235156Z","project":"grocery","status":"pending","uuid":"83684e3d-19d7-4cd6-ba70-a97005a27eb2"}
-=======
 {"description":"cancel nordvpn and write to michael","entry":"20260221T112613Z","modified":"20260221T112613Z","status":"pending","uuid":"b2c46bf3-fc0f-486a-9ccc-f79595cd2f1d"}
 {"description":"contact and gift to Julian","entry":"20260221T112642Z","modified":"20260221T112642Z","status":"pending","uuid":"0ed63636-e8a4-4fd3-a400-e4c766ce24ec"}
->>>>>>> 9cc98ea4df4b527c291ae8a476ded186b6ad9210
+<<<<<<< HEAD
+{"description":"send Julian 00.","entry":"20260223T024054Z","modified":"20260223T024054Z","status":"pending","uuid":"51b67d83-c68b-4a87-9166-c8f92ac90893"}
+=======
+{"description":"Ash Wednesday sermon","end":"20260223T162759Z","entry":"20260129T025029Z","modified":"20260223T162800Z","project":"preaching","status":"deleted","uuid":"742410b7-197f-4038-bb01-cce955071799"}
+{"description":"investigate micro-watering solutions","end":"20260223T162812Z","entry":"20260219T130825Z","modified":"20260223T162814Z","project":"house","status":"deleted","uuid":"5b3ddb1e-a556-499e-9be5-c9a2cd4d0704"}
+{"description":"cancel nordvpn and write to michael","end":"20260223T162827Z","entry":"20260221T112613Z","modified":"20260223T162830Z","status":"deleted","uuid":"b2c46bf3-fc0f-486a-9ccc-f79595cd2f1d"}
+{"description":"contact and gift to Julian","end":"20260223T162843Z","entry":"20260221T112642Z","modified":"20260223T162848Z","status":"deleted","uuid":"0ed63636-e8a4-4fd3-a400-e4c766ce24ec"}
+{"description":"buy sand, construct stand","entry":"20260223T162944Z","modified":"20260223T162944Z","project":"house","status":"pending","uuid":"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"}
+>>>>>>> 17bebd67073707fa0ca88f0a14d8411a69a942c2
