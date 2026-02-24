@@ -29,8 +29,11 @@ tags: []
 ## 2026-02-17
 - [[Stop using your browser for these 6 tasks — the terminal does them better]] esp the weather. wttr.in
 - 
-## 2026-02-14
+**##** 2026-02-14
 - [[poems-from-checkvist]]
 ## 2026-02-20
 - [[What If Trevor Noah Is Right About the Left and Religion]]
-- 
+
+## 2026-02-23
+
+- [[Linda_Feb_2026]]
