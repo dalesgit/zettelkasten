@@ -63,7 +63,7 @@ REM Jan 25 2025 +2 MSG Centering Prayer workshop AT 10:00 AM %b%
 REM Jan 28 2025 +2 AT 15:00 MSG Dr. Kalani f/u for DH %b%
 REM Feb 27 2025 +2 AT 15:30 MSG Victoria dermatology for DH %b%
 ;REM Mar 05 2025 +2 MSG Ash Wednesday %b%
-REM [easterdate()] MSG Easter
+REM [easterdate()] SPECIAL COLOR 255 0 0 Easter
 REM Feb 27 2025 +10 AT 11:30 MSG DH verbatim %b%
 REM Feb 25 2025 AT 12:30 +2 MSG Clergy lunch loc. tba %b%
 ;REM Jul 12 2025 1 UNTIL Jul 19 2025 MSG with Bud/Bertha in Orlando %b% 
@@ -105,6 +105,7 @@ REM Feb 09 2026 AT 14:30 SPECIAL COLOR 0 128 255 MASA meal at Red Lobster %b%
 REM Feb 21 2026 AT 9:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
 REM Mar 28 2026 SPECIAL COLOR 0 128 255 No Kings Protest %b% 
 REM Feb 17 2026 AT 17:00 SPECIAL COLOR 255 0 255 Pancake supper %b% 
-REM Feb 20 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+;REM Feb 20 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
 REM Feb 25 2026 +2 AT 10:30 SPECIAL COLOR 0 128 255 Meet with Michael re finances %b%
-
+REM Friday 8 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+REM Friday 22 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
