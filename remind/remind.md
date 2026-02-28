@@ -107,5 +107,5 @@ REM Mar 28 2026 SPECIAL COLOR 0 128 255 No Kings Protest %b%
 REM Feb 17 2026 AT 17:00 SPECIAL COLOR 255 0 255 Pancake supper %b% 
 ;REM Feb 20 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
 REM Feb 25 2026 +2 AT 10:30 SPECIAL COLOR 0 128 255 Meet with Michael re finances %b%
-REM Friday 8 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
-REM Friday 22 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+REM Friday 1 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+REM Friday 15 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
