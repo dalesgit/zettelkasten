@@ -211,12 +211,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "574d836dd676d945",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -233,13 +243,10 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a1dc1f488574043",
+  "active": "574d836dd676d945",
   "lastOpenFiles": [
     "Journal/Weekly/2026-W08.md",
     "Journal/Weekly/2026-W05.md",
