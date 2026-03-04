@@ -5,10 +5,6 @@ An analysis finds that flagship state universities, as well as less selective co
 
 Listen to this article · 5:24 min [Learn more](https://help.nytimes.com/hc/en-us/articles/24318293692180)
 
-- Share full article
-    
-
-- 10
     
 
 ![A red building near trees features a stately white facade with ionic columns and a clock near the top.](https://static01.nyt.com/images/2026/02/03/multimedia/03nat-college-demographics-bvjh/03nat-college-demographics-bvjh-articleLarge.jpg?quality=75&auto=webp&disable=upscale)

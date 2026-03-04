@@ -300,3 +300,9 @@ new [description:"replace\/reverse screen door" entry:"1772300303" modified:"177
 time 1772300334
 new [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1772300334" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
 ---
+time 1772538374
+new [description:"Separate out subscriptions" entry:"1772538374" modified:"1772538374" project:"bank" status:"pending" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+---
+time 1772589512
+new [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
+---
