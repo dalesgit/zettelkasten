@@ -18,7 +18,7 @@ Messengers from brokerage houses crowd around a hard-to-obtain newspaper on 24 O
 
 Andrew Ross Sorkin’s new book 1929 takes readers back to the crash that changed the US and looks at what we can learn from it today
 
-A ndrew Ross Sorkin’s first book, [Too Big to Fail](https://www.theguardian.com/books/2009/dec/13/too-big-to-fail-sorkin), was a bestseller about the financial crisis of 2008, published the following year. His second, 1929, out this week, takes readers “Inside the Greatest Crash in Wall Street History – and How it Shattered a Nation”.
+Andrew Ross Sorkin’s first book, [Too Big to Fail](https://www.theguardian.com/books/2009/dec/13/too-big-to-fail-sorkin), was a bestseller about the financial crisis of 2008, published the following year. His second, 1929, out this week, takes readers “Inside the Greatest Crash in Wall Street History – and How it Shattered a Nation”.
 
 It’s been 16 years between books, but Sorkin hasn’t been idle. A columnist for the New York Times, he founded its DealBook newsletter and summit; he’s a Squawk Box co-anchor for CNBC; and after Too Big to Fail was filmed by HBO, he co-created Billions, a huge hit for Showtime starring Damian Lewis and Paul Giamatti.
 

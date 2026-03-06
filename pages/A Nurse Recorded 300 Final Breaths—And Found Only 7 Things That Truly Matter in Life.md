@@ -17,6 +17,8 @@ author: Thomas Blake
 
 ](https://substackcdn.com/image/fetch/$s_!gVyH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c12075-ff22-45ba-ab08-f23f3bd55266_8000x5332.jpeg)
 
+[[taking_stock]] [[Ash_Wednesday]]
+
 When nurse Laura M. began recording the final words of her patients, she didn’t expect to uncover a map of the human soul.  
 Over fifteen years and more than three hundred deaths, she heard the same confessions, regrets, and revelations—different voices, same truths.  
 Her notes reveal something haunting yet hopeful: most people don’t fear dying. They fear _not having really lived._
