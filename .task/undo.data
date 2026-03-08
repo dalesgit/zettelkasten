@@ -306,3 +306,9 @@ new [description:"Separate out subscriptions" entry:"1772538374" modified:"17725
 time 1772589512
 new [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
 ---
+time 1772935693
+new [description:"Look for Teenie Weenie photos" entry:"1772935693" modified:"1772935693" status:"pending" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
+---
+time 1772935790
+new [description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1772935790" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
+---
