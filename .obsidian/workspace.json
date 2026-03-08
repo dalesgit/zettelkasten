@@ -54,9 +54,35 @@
               "icon": "lucide-file",
               "title": "2026-W05"
             }
+          },
+          {
+            "id": "1abf84d8257a08ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
+            "id": "2aea580c331cc3c5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://help.obsidian.md/cli",
+                "title": "Obsidian CLI - Obsidian Help",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Obsidian CLI - Obsidian Help"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +265,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a1dc1f488574043",
+  "active": "2aea580c331cc3c5",
   "lastOpenFiles": [
     "Journal/Weekly/2026-W08.md",
     "Journal/Weekly/2026-W05.md",
