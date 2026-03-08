@@ -1,0 +1,1 @@
+[I stopped using this Google app years ago until a surprise update changed everything](https://www.androidpolice.com/stopped-using-google-app-years-ago-surprise-update-changed-everything/)

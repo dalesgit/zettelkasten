@@ -20,7 +20,7 @@ Each Sunday we eat little pieces of what we call bread -- though they don't look
 
 ## grammar in invitation
 
-Back in January when I first began to read the lessons and the Ash Wednesday liturgy in preparation for preaching this day I had a revelation. I had an insight and a breakthrough. 
+Back in January when I first began to read the lessons and the Ash ednesday liturgy in preparation for preaching this day I had a revelation. I had an insight and a breakthrough. 
 
 > What more could one want? Such "**aha moments** are just the kind of thing a preacher is trying to bring about among the listeners." Perhaps to learn something. Perhaps to wrestle with an idea. Perhaps to get a distinctive image. All these are examples of hearing the gospel with new ears.
 

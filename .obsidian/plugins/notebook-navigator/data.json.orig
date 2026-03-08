@@ -300,14 +300,14 @@
   "recentColors": [],
   "lastShownVersion": "",
 <<<<<<< HEAD
-  "latestKnownRelease": "1.9.3",
-  "lastAnnouncedRelease": "1.9.1",
-  "lastReleaseCheckAt": 1766721159460,
-=======
-  "latestKnownRelease": "2.1.0",
+  "latestKnownRelease": "2.4.2",
   "lastAnnouncedRelease": "2.0.0",
-  "lastReleaseCheckAt": 1768609634214,
->>>>>>> 796431cfa5f84fb3c0ac42317896b27d2761b631
+  "lastReleaseCheckAt": 1772251313659,
+=======
+  "latestKnownRelease": "2.4.3",
+  "lastAnnouncedRelease": "2.0.0",
+  "lastReleaseCheckAt": 1772904347826,
+>>>>>>> bad1071d6e6927e66e0f17bf772e2e80c3ff9335
   "rootFolderOrder": [],
   "rootTagOrder": []
 }

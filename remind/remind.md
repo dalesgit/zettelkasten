@@ -63,7 +63,7 @@ REM Jan 25 2025 +2 MSG Centering Prayer workshop AT 10:00 AM %b%
 REM Jan 28 2025 +2 AT 15:00 MSG Dr. Kalani f/u for DH %b%
 REM Feb 27 2025 +2 AT 15:30 MSG Victoria dermatology for DH %b%
 ;REM Mar 05 2025 +2 MSG Ash Wednesday %b%
-REM [easterdate()] MSG Easter
+REM [easterdate()] SPECIAL COLOR 255 0 0 Easter
 REM Feb 27 2025 +10 AT 11:30 MSG DH verbatim %b%
 REM Feb 25 2025 AT 12:30 +2 MSG Clergy lunch loc. tba %b%
 ;REM Jul 12 2025 1 UNTIL Jul 19 2025 MSG with Bud/Bertha in Orlando %b% 
@@ -83,7 +83,7 @@ REM Jan 2 2026 AT 12:45 MSG Dr. Brown (MPS) %b%
 REM Jan 1 2026 AT 13:00 MSG Barbecue at Brians %b%
 REM Jan 3 2026 AT 18:30 MSG Dinner with Rebecca %b%
 REM Jan 4 2026 AT 09:30 MSG p/u Diane for church %b%
-REM Jan 6 2026 AT 15:00 MSG leave for airport to CO %b%
+REM Jan 6 2026 AT 15:00 MSG leave for airport to CO %b%:
 REM Jan 13 2026 AT 12:00 MSG Flight to Tampa (14:00 EST) %b%
 REM FROM Jan 20 2026 UNTIL Jan 25 2026 SPECIAL COLOR 255 0 255 Naples with Cruise friends %b%
 REM Jan 29 MSG Marlene's 90th birthday %b%
@@ -102,9 +102,16 @@ REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 0 Dinner with Larry & Kathy %b%
 REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %**b**%
 REM Feb 12 2026 AT 14:00 SPECIAL COLOR 0 128 255 Airhawk service %b% 
 REM Feb 09 2026 AT 14:30 SPECIAL COLOR 0 128 255 MASA meal at Red Lobster %b% 
-REM Feb 21 2026 AT 9:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
+REM Feb 21 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
 REM Mar 28 2026 SPECIAL COLOR 0 128 255 No Kings Protest %b% 
 REM Feb 17 2026 AT 17:00 SPECIAL COLOR 255 0 255 Pancake supper %b% 
-REM Feb 20 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+;REM Feb 20 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
 REM Feb 25 2026 +2 AT 10:30 SPECIAL COLOR 0 128 255 Meet with Michael re finances %b%
-
+REM Friday 1 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+REM Friday 8 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Faith in the Public Square %b%
+REM Friday 15 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+REM Mar 7 2026 +2 AT 10:45 SPECIAL COLOR 0 128 255 United in prayer %b%
+REM Mar 7 2026 +2 AT 12:30 SPECIAL COLOR 0 128 255 Check out Labyrinth %b%
+REM Mar 5 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Hoopers %b%
+REM Mar 5 2026 +2 AT 14:00 SPECIAL COLOR 102 125 250 Eastlake to see patio furniture %b%
+REM Mar 9 2026 +2 AT 11:00 SPECIAL COLOR 102 125 250 Bonefish grill for Neptune Soc. %b%

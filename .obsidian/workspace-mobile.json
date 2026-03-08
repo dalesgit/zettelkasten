@@ -4,59 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f7876da522dbe44b",
+        "id": "448990d980517d00",
         "type": "tabs",
         "children": [
           {
-            "id": "2488618707f328bc",
+            "id": "c5e326cc1f2c722b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadItLater Inbox/What If Trevor Noah Is Right About the Left and Religion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What If Trevor Noah Is Right About the Left and Religion"
-            }
-          },
-          {
-            "id": "4a2ded33131b9388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox Feb 2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inbox Feb 2026"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox Feb 2026.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -215,8 +174,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4a2ded33131b9388",
+  "active": "c5e326cc1f2c722b",
   "lastOpenFiles": [
-    "ReadItLater Inbox/What If Trevor Noah Is Right About the Left and Religion.md"
+    "ReadItLater Inbox/What If Trevor Noah Is Right About the Left and Religion.md",
+    "Inbox Feb 2026.md",
+    "I run these 5 commands on every fresh Linux install to save hours of work.md"
   ]
 }

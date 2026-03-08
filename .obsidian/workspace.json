@@ -54,35 +54,9 @@
               "icon": "lucide-file",
               "title": "2026-W05"
             }
-          },
-          {
-            "id": "1abf84d8257a08ff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "2aea580c331cc3c5",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://help.obsidian.md/cli",
-                "title": "Obsidian CLI - Obsidian Help",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Obsidian CLI - Obsidian Help"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,12 +211,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "574d836dd676d945",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -250,6 +234,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "notebook-navigator:Notebook Navigator": false,
+      "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -258,14 +245,10 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "periodic-notes:Open today": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "2aea580c331cc3c5",
+  "active": "574d836dd676d945",
   "lastOpenFiles": [
     "Journal/Weekly/2026-W08.md",
     "Journal/Weekly/2026-W05.md",
