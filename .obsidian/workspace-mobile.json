@@ -15,6 +15,15 @@
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "fad385c5ef1a9564",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
           }
         ]
       }
