@@ -1,12 +1,13 @@
 [description:"Figure TW out later Task Warrior" entry:"1766855871" modified:"1767135264" status:"pending" uuid:"3abf2076-488d-468c-92d7-6eb14a59bfdf"]
 [description:"buy Basil Hayden bourbon whiskey" entry:"1766872886" modified:"1766872886" status:"pending" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
 [description:"sort MP3s Music-Google" entry:"1767290341" modified:"1767290341" project:"music" status:"pending" uuid:"2c52f0d7-a76f-45e9-8bc2-d7a87e08f91c"]
-<<<<<<< HEAD
-[description:"Ash Wednesday sermon" entry:"1769655029" modified:"1769655029" project:"preaching" status:"pending" uuid:"742410b7-197f-4038-bb01-cce955071799"]
-[description:"investigate micro-watering solutions" entry:"1771506505" modified:"1771506505" project:"house" status:"pending" uuid:"5b3ddb1e-a556-499e-9be5-c9a2cd4d0704"]
-[description:"cancel nordvpn and write to michael" entry:"1771673173" modified:"1771673173" status:"pending" uuid:"b2c46bf3-fc0f-486a-9ccc-f79595cd2f1d"]
-[description:"contact and gift to Julian" entry:"1771673202" modified:"1771673202" status:"pending" uuid:"0ed63636-e8a4-4fd3-a400-e4c766ce24ec"]
-[description:"send Julian 00." entry:"1771814454" modified:"1771814454" status:"pending" uuid:"51b67d83-c68b-4a87-9166-c8f92ac90893"]
-=======
 [description:"buy sand, construct stand" entry:"1771864184" modified:"1771864184" project:"house" status:"pending" uuid:"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"]
->>>>>>> 17bebd67073707fa0ca88f0a14d8411a69a942c2
+[description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1773061979" project:"household" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+[description:"subscriptions and transfers in Homebank" entry:"1772538374" modified:"1773060438" project:"bank" status:"pending" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+[description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
+<<<<<<< HEAD
+[description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773061921" project:"family" status:"pending" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
+=======
+[description:"Look for Teenie Weenie photos" entry:"1772935693" modified:"1772935693" status:"pending" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
+[description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1772935790" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
+>>>>>>> 7a25913fc7ca493b0288051187f2d5e8f5264ce0

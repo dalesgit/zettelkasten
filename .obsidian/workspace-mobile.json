@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "448990d980517d00",
+        "id": "1b7fa49551f18fea",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e326cc1f2c722b",
+            "id": "890694fbece2020b",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Neptune burial seminar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Neptune burial seminar"
             }
           }
         ]
@@ -93,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Neptune burial seminar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,8 +190,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c5e326cc1f2c722b",
+  "active": "890694fbece2020b",
   "lastOpenFiles": [
+    "Clippings3/How Teacher Evaluations Broke the University.md",
+    "Neptune burial seminar.md",
+    "Journal/Daily/2026-03-09.md",
     "ReadItLater Inbox/What If Trevor Noah Is Right About the Left and Religion.md",
     "Inbox Feb 2026.md",
     "I run these 5 commands on every fresh Linux install to save hours of work.md"
