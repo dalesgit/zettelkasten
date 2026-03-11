@@ -306,3 +306,26 @@ new [description:"Separate out subscriptions" entry:"1772538374" modified:"17725
 time 1772589512
 new [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
 ---
+time 1773060190
+old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773060187" entry:"1771897968" modified:"1773060190" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+---
+time 1773060214
+old [description:"replace\/reverse screen door" entry:"1772300303" modified:"1772300303" project:"house" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
+new [description:"replace\/reverse screen door" end:"1773060212" entry:"1772300303" modified:"1773060214" project:"house" status:"deleted" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
+---
+time 1773060245
+old [description:"zettel, Dropbox-task, tiddly" entry:"1771904103" modified:"1771904103" project:"sync" status:"pending" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+new [description:"zettel, Dropbox-task, tiddly" end:"1773060242" entry:"1771904103" modified:"1773060245" project:"sync" status:"deleted" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+---
+time 1773060438
+old [description:"Separate out subscriptions" entry:"1772538374" modified:"1772538374" project:"bank" status:"pending" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+new [description:"subscriptions and transfers in Homebank" entry:"1772538374" modified:"1773060438" project:"bank" status:"pending" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+---
+time 1773061921
+new [description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773061921" project:"family" status:"pending" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
+---
+time 1773061979
+old [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1772300334" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+new [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1773061979" project:"household" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+---
