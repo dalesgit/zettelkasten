@@ -312,3 +312,7 @@ new [description:"Look for Teenie Weenie photos" entry:"1772935693" modified:"17
 time 1772935790
 new [description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1772935790" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
 ---
+time 1773274154
+old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773274152" entry:"1771897968" modified:"1773274154" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+---
