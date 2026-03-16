@@ -87,6 +87,14 @@
 {"description":"list of subscriptions for NOKBOX","entry":"20260228T173854Z","modified":"20260228T173854Z","status":"pending","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
 {"description":"Separate out subscriptions","entry":"20260303T114614Z","modified":"20260303T114614Z","project":"bank","status":"pending","uuid":"6b4fc075-d01f-4104-8001-0eae816f036d"}
 {"description":"Replace screen door with reversed hinges","entry":"20260304T015832Z","modified":"20260304T015832Z","project":"house","status":"pending","uuid":"59ad7e25-b329-4665-b505-7991839d045d"}
+{"description":"use turkey pieces for stock and steak pieces for soup","end":"20260309T124307Z","entry":"20260224T015248Z","modified":"20260309T124310Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+{"description":"replace\/reverse screen door","end":"20260309T124332Z","entry":"20260228T173823Z","modified":"20260309T124334Z","project":"house","status":"deleted","uuid":"2058a46f-903b-406d-af26-cb9d9cc07236"}
+{"description":"zettel, Dropbox-task, tiddly","end":"20260309T124402Z","entry":"20260224T033503Z","modified":"20260309T124405Z","project":"sync","status":"deleted","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
+{"description":"subscriptions and transfers in Homebank","entry":"20260303T114614Z","modified":"20260309T124718Z","project":"bank","status":"pending","uuid":"6b4fc075-d01f-4104-8001-0eae816f036d"}
+{"description":"Lydia requests perhaps ship","entry":"20260309T131201Z","modified":"20260309T131201Z","project":"family","status":"pending","uuid":"7e04a36a-1c02-4944-87dc-026fbd98b08c"}
+{"description":"list of subscriptions for NOKBOX","entry":"20260228T173854Z","modified":"20260309T131259Z","project":"household","status":"pending","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
 {"description":"Look for Teenie Weenie photos","entry":"20260308T020813Z","modified":"20260308T020813Z","status":"pending","uuid":"ef831443-34bd-425a-a496-4521101d256c"}
 {"description":"send Lydia one or more stoles and record in NokBox","entry":"20260308T020950Z","modified":"20260308T020950Z","status":"pending","uuid":"fa3216c0-c897-4e6e-aa2f-8b2026197a69"}
-{"description":"use turkey pieces for stock and steak pieces for soup","end":"20260312T000912Z","entry":"20260224T015248Z","modified":"20260312T000914Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+{"description":"list of subscriptions for NOKBOX","end":"20260312T104034Z","entry":"20260228T173854Z","modified":"20260312T104039Z","status":"deleted","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
+{"description":"zettel, Dropbox-task, tiddly","end":"20260312T104107Z","entry":"20260224T033503Z","modified":"20260312T104110Z","project":"sync","status":"deleted","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
+{"description":"use turkey pieces for stock and steak pieces for soup","end":"20260312T104416Z","entry":"20260224T015248Z","modified":"20260312T104418Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
