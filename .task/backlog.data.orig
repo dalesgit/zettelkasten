@@ -97,4 +97,11 @@
 =======
 {"description":"Look for Teenie Weenie photos","entry":"20260308T020813Z","modified":"20260308T020813Z","status":"pending","uuid":"ef831443-34bd-425a-a496-4521101d256c"}
 {"description":"send Lydia one or more stoles and record in NokBox","entry":"20260308T020950Z","modified":"20260308T020950Z","status":"pending","uuid":"fa3216c0-c897-4e6e-aa2f-8b2026197a69"}
+<<<<<<< HEAD
+{"description":"use turkey pieces for stock and steak pieces for soup","end":"20260312T000912Z","entry":"20260224T015248Z","modified":"20260312T000914Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+=======
 >>>>>>> 7a25913fc7ca493b0288051187f2d5e8f5264ce0
+{"description":"list of subscriptions for NOKBOX","end":"20260312T104034Z","entry":"20260228T173854Z","modified":"20260312T104039Z","status":"deleted","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
+{"description":"zettel, Dropbox-task, tiddly","end":"20260312T104107Z","entry":"20260224T033503Z","modified":"20260312T104110Z","project":"sync","status":"deleted","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
+{"description":"use turkey pieces for stock and steak pieces for soup","end":"20260312T104416Z","entry":"20260224T015248Z","modified":"20260312T104418Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+>>>>>>> 2f95c9d1f142f11ce86ca8830767024330a27eb8
