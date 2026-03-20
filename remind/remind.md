@@ -116,4 +116,6 @@ REM Mar 5 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Hoopers %b%
 REM Mar 5 2026 +2 AT 14:00 SPECIAL COLOR 102 125 250 Eastlake to see patio furniture %b%
 REM Mar 9 2026 +2 AT 11:00 SPECIAL COLOR 102 125 250 Bonefish grill for Neptune Soc. %b%
 REM Mar 14 2026 +2 AT 18:30 SPECIAL COLOR 0 128 255 Hoopers for dinner %b%
-REM Mar 17 2026 +2 AT 17:30 SPECIAL COLOR 0 128 255 Dinner with Hoopers  %b%
+REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Lora and Dave %b%
+REM Mar 20 2026 +2 AT 16:00 MSG Meet with Lance to talk about landscaping %b%
+
