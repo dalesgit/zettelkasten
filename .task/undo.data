@@ -306,7 +306,6 @@ new [description:"Separate out subscriptions" entry:"1772538374" modified:"17725
 time 1772589512
 new [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
 ---
-<<<<<<< HEAD
 time 1773060190
 old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
 new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773060187" entry:"1771897968" modified:"1773060190" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
@@ -329,14 +328,12 @@ new [description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773
 time 1773061979
 old [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1772300334" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
 new [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1773061979" project:"household" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
-=======
+
 time 1772935693
 new [description:"Look for Teenie Weenie photos" entry:"1772935693" modified:"1772935693" status:"pending" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
 ---
 time 1772935790
 new [description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1772935790" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
->>>>>>> 7a25913fc7ca493b0288051187f2d5e8f5264ce0
----
 time 1773312039
 old [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1772300334" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
 new [description:"list of subscriptions for NOKBOX" end:"1773312034" entry:"1772300334" modified:"1773312039" status:"deleted" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
@@ -353,46 +350,42 @@ time 1773274154
 old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
 new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773274152" entry:"1771897968" modified:"1773274154" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
 ---
-time 1773752486
-old [description:"buy Basil Hayden bourbon whiskey" entry:"1766872886" modified:"1766872886" status:"pending" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
-new [description:"buy Basil Hayden bourbon whiskey" end:"1773752484" entry:"1766872886" modified:"1773752486" status:"deleted" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
+time 1773692027
+new [description:"Buy gutter spreader from Lowes" entry:"1773692027" modified:"1773692027" project:"home" status:"pending" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
 ---
-time 1773752512
-old [description:"Look for Teenie Weenie photos" entry:"1772935693" modified:"1772935693" status:"pending" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
-new [description:"Look for Teenie Weenie photos" end:"1773752510" entry:"1772935693" modified:"1773752512" status:"deleted" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
+time 1773692080
+old [description:"Buy gutter spreader from Lowes" entry:"1773692027" modified:"1773692027" project:"home" status:"pending" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
+new [description:"Buy gutter spreader from Lowes" entry:"1773692027" modified:"1773692080" project:"house" status:"pending" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
 ---
-time 1773752578
-old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
-new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773752576" entry:"1771897968" modified:"1773752578" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
----
-time 1773752604
-old [description:"zettel, Dropbox-task, tiddly" entry:"1771904103" modified:"1771904103" project:"sync" status:"pending" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
-new [description:"zettel, Dropbox-task, tiddly" end:"1773752603" entry:"1771904103" modified:"1773752604" project:"sync" status:"deleted" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
----
-time 1773752621
+time 1773692160
 old [description:"buy sand, construct stand" entry:"1771864184" modified:"1771864184" project:"house" status:"pending" uuid:"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"]
-new [description:"buy sand, construct stand" end:"1773752619" entry:"1771864184" modified:"1773752621" project:"house" status:"deleted" uuid:"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"]
+new [description:"buy sand, construct stand" end:"1773692157" entry:"1771864184" modified:"1773692160" project:"house" status:"deleted" uuid:"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"]
 ---
-time 1773752639
-old [description:"Separate out subscriptions" entry:"1772538374" modified:"1772538374" project:"bank" status:"pending" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
-new [description:"Separate out subscriptions" end:"1773752637" entry:"1772538374" modified:"1773752639" project:"bank" status:"deleted" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+time 1773951898
+old [description:"Look for Teenie Weenie photos" entry:"1772935693" modified:"1772935693" status:"pending" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
+new [description:"Look for Teenie Weenie photos" end:"1773951896" entry:"1772935693" modified:"1773951898" status:"deleted" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
 ---
-time 1773752657
-old [description:"replace\/reverse screen door" entry:"1772300303" modified:"1772300303" project:"house" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
-new [description:"replace\/reverse screen door" end:"1773752656" entry:"1772300303" modified:"1773752657" project:"house" status:"deleted" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
----
-time 1773752671
+time 1773951909
 old [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1772300334" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
-new [description:"list of subscriptions for NOKBOX" end:"1773752667" entry:"1772300334" modified:"1773752671" status:"deleted" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+new [description:"list of subscriptions for NOKBOX" end:"1773951907" entry:"1772300334" modified:"1773951909" status:"deleted" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
 ---
-time 1773752703
+time 1773951924
+old [description:"Buy gutter spreader from Lowes" entry:"1773692027" modified:"1773692080" project:"house" status:"pending" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
+new [description:"Buy gutter spreader from Lowes" end:"1773951922" entry:"1773692027" modified:"1773951924" project:"house" status:"deleted" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
+---
+time 1773951940
+old [description:"Separate out subscriptions" entry:"1772538374" modified:"1772538374" project:"bank" status:"pending" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+new [description:"Separate out subscriptions" end:"1773951939" entry:"1772538374" modified:"1773951940" project:"bank" status:"deleted" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+---
+time 1773951952
+old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773951951" entry:"1771897968" modified:"1773951952" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+---
+time 1773951967
+old [description:"zettel, Dropbox-task, tiddly" entry:"1771904103" modified:"1771904103" project:"sync" status:"pending" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+new [description:"zettel, Dropbox-task, tiddly" end:"1773951966" entry:"1771904103" modified:"1773951967" project:"sync" status:"deleted" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+---
+time 1773951991
 old [description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773061921" project:"family" status:"pending" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
-new [description:"Lydia requests perhaps ship" end:"1773752701" entry:"1773061921" modified:"1773752703" project:"family" status:"deleted" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
----
-time 1773752736
-old [description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1772935790" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
-new [description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1773752736" project:"family" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
----
-time 1773752767
-new [description:"buy drain spreader from Lowes" entry:"1773752767" modified:"1773752767" project:"house" status:"pending" uuid:"71bd0bdf-755f-477c-879b-1173ae1d8e71"]
+new [description:"Lydia requests perhaps ship" end:"1773951989" entry:"1773061921" modified:"1773951991" project:"family" status:"deleted" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
 ---
