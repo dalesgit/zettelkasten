@@ -389,3 +389,6 @@ time 1773951991
 old [description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773061921" project:"family" status:"pending" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
 new [description:"Lydia requests perhaps ship" end:"1773951989" entry:"1773061921" modified:"1773951991" project:"family" status:"deleted" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
 ---
+time 1774278144
+new [description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
+---
