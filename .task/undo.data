@@ -402,3 +402,10 @@ old [description:"Replace screen door with reversed hinges" entry:"1772589512" m
 new [description:"Replace screen door with reversed hinges" end:"1774053870" entry:"1772589512" modified:"1774053871" project:"house" status:"deleted" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
 >>>>>>> e5f49cbff6312d63bc590c60fa0d1255b2b0e8f2
 ---
+time 1774282063
+new [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
+---
+time 1774282118
+old [description:"replace\/reverse screen door" entry:"1772300303" modified:"1772300303" project:"house" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
+new [description:"replace\/reverse screen door" entry:"1772300303" modified:"1774282118" project:"home" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
+---

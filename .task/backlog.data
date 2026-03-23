@@ -114,3 +114,5 @@
 {"description":"buy Basil Hayden bourbon whiskey","end":"20260321T004407Z","entry":"20251227T220126Z","modified":"20260321T004408Z","status":"deleted","uuid":"e25ba173-7620-49f7-8a7f-9e20ce4a669e"}
 {"description":"Replace screen door with reversed hinges","end":"20260321T004430Z","entry":"20260304T015832Z","modified":"20260321T004431Z","project":"house","status":"deleted","uuid":"59ad7e25-b329-4665-b505-7991839d045d"}
 >>>>>>> e5f49cbff6312d63bc590c60fa0d1255b2b0e8f2
+{"description":"clear under sinks, around circuit box, access to attic","entry":"20260323T160743Z","modified":"20260323T160743Z","project":"home","status":"pending","uuid":"00f31506-6bad-4c46-8faa-7b9f36f2110f"}
+{"description":"replace\/reverse screen door","entry":"20260228T173823Z","modified":"20260323T160838Z","project":"home","status":"pending","uuid":"2058a46f-903b-406d-af26-cb9d9cc07236"}
