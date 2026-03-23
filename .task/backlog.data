@@ -98,3 +98,15 @@
 {"description":"list of subscriptions for NOKBOX","end":"20260312T104034Z","entry":"20260228T173854Z","modified":"20260312T104039Z","status":"deleted","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
 {"description":"zettel, Dropbox-task, tiddly","end":"20260312T104107Z","entry":"20260224T033503Z","modified":"20260312T104110Z","project":"sync","status":"deleted","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
 {"description":"use turkey pieces for stock and steak pieces for soup","end":"20260312T104416Z","entry":"20260224T015248Z","modified":"20260312T104418Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+{"description":"Buy gutter spreader from Lowes","entry":"20260316T201347Z","modified":"20260316T201347Z","project":"home","status":"pending","uuid":"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"}
+{"description":"Buy gutter spreader from Lowes","entry":"20260316T201347Z","modified":"20260316T201440Z","project":"house","status":"pending","uuid":"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"}
+{"description":"buy sand, construct stand","end":"20260316T201557Z","entry":"20260223T162944Z","modified":"20260316T201600Z","project":"house","status":"deleted","uuid":"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"}
+{"description":"Look for Teenie Weenie photos","end":"20260319T202456Z","entry":"20260308T020813Z","modified":"20260319T202458Z","status":"deleted","uuid":"ef831443-34bd-425a-a496-4521101d256c"}
+{"description":"list of subscriptions for NOKBOX","end":"20260319T202507Z","entry":"20260228T173854Z","modified":"20260319T202509Z","status":"deleted","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
+{"description":"Buy gutter spreader from Lowes","end":"20260319T202522Z","entry":"20260316T201347Z","modified":"20260319T202524Z","project":"house","status":"deleted","uuid":"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"}
+{"description":"Separate out subscriptions","end":"20260319T202539Z","entry":"20260303T114614Z","modified":"20260319T202540Z","project":"bank","status":"deleted","uuid":"6b4fc075-d01f-4104-8001-0eae816f036d"}
+{"description":"use turkey pieces for stock and steak pieces for soup","end":"20260319T202551Z","entry":"20260224T015248Z","modified":"20260319T202552Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+{"description":"zettel, Dropbox-task, tiddly","end":"20260319T202606Z","entry":"20260224T033503Z","modified":"20260319T202607Z","project":"sync","status":"deleted","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
+{"description":"Lydia requests perhaps ship","end":"20260319T202629Z","entry":"20260309T131201Z","modified":"20260319T202631Z","project":"family","status":"deleted","uuid":"7e04a36a-1c02-4944-87dc-026fbd98b08c"}
+{"description":"buy Basil Hayden bourbon whiskey","end":"20260321T004407Z","entry":"20251227T220126Z","modified":"20260321T004408Z","status":"deleted","uuid":"e25ba173-7620-49f7-8a7f-9e20ce4a669e"}
+{"description":"Replace screen door with reversed hinges","end":"20260321T004430Z","entry":"20260304T015832Z","modified":"20260321T004431Z","project":"house","status":"deleted","uuid":"59ad7e25-b329-4665-b505-7991839d045d"}
