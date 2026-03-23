@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Weekly/2026-W05.md",
+                "file": "personal/banking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-W05"
+              "title": "banking"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markdown preview",
+                "query": "banking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,13 +246,15 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "574d836dd676d945",
+  "active": "6a1dc1f488574043",
   "lastOpenFiles": [
-    "Journal/Weekly/2026-W08.md",
+    "archive/Daily notes/2025-07-07.md",
     "Journal/Weekly/2026-W05.md",
+    "Journal/Weekly/2026-W08.md",
     "Journal/Weekly/2026-W07.md",
     "Journal/Weekly/2026-W06.md",
     "Journal/Weekly/2026-W09.md",
@@ -277,7 +280,6 @@
     "travel/packing-old/2025-fall-Packing-list-changed.md",
     "travel/packing-old/Naples-planning Oct 20.md",
     "Journal/Daily/2026-01-05.md",
-    "Clippers/The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic.md",
     "Clippers/The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic.md~"
   ]
 }
