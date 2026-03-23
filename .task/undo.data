@@ -389,6 +389,16 @@ time 1773951991
 old [description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773061921" project:"family" status:"pending" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
 new [description:"Lydia requests perhaps ship" end:"1773951989" entry:"1773061921" modified:"1773951991" project:"family" status:"deleted" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
 ---
+<<<<<<< HEAD
 time 1774278144
 new [description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
+=======
+time 1774053848
+old [description:"buy Basil Hayden bourbon whiskey" entry:"1766872886" modified:"1766872886" status:"pending" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
+new [description:"buy Basil Hayden bourbon whiskey" end:"1774053847" entry:"1766872886" modified:"1774053848" status:"deleted" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
+---
+time 1774053871
+old [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
+new [description:"Replace screen door with reversed hinges" end:"1774053870" entry:"1772589512" modified:"1774053871" project:"house" status:"deleted" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
+>>>>>>> e5f49cbff6312d63bc590c60fa0d1255b2b0e8f2
 ---
