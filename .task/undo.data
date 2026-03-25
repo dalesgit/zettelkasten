@@ -409,3 +409,9 @@ time 1774282118
 old [description:"replace\/reverse screen door" entry:"1772300303" modified:"1772300303" project:"house" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
 new [description:"replace\/reverse screen door" entry:"1772300303" modified:"1774282118" project:"home" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
 ---
+time 1774395458
+new [description:"get phone call setup for Michael" entry:"1774395458" modified:"1774395458" project:"prison" status:"pending" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
+---
+time 1774395479
+new [description:"write Michael to ask if he wants to talk" entry:"1774395479" modified:"1774395479" project:"prison" status:"pending" uuid:"899ed4ff-2cde-470d-8ac2-fc931bc570fd"]
+---
