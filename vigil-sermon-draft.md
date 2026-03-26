@@ -8,9 +8,9 @@ date: April 2026
 
 ### The 4 classical elements
 
- Classical elements in philosophy refer to the four fundamental substances—earth, water, air, and fire—proposed by ancient Greek thinkers to explain the composition of all matter. This concept originated in pre-Socratic philosophy, with Empedocles (c. 450 BCE) being the first to formally define them as the "roots" (**rhizōmata**) of the universe. He argued that all things are made from these elements, which combine and separate under the influence of two forces: Love (attraction) and Strife (repulsion), driving cycles of creation and destruction.[^1]
+When I was 20 years old I was … [^1] Classical elements in philosophy refer to the four fundamental substances—earth, water, air, and fire—proposed by ancient Greek thinkers to explain the composition of all matter. [^2]
 
-- My block print Christmas gift: the 4 elements encircled with the opening of John's Gospel.[^2]
+- My block print Christmas gift: the 4 elements encircled with the opening of John's Gospel.[^3]
 - elemental, primordial, encompassing everything. The mother of all liturgies.
  
  ### Mother of all liturgies
@@ -18,7 +18,7 @@ date: April 2026
 - 1st liturgy of Easter
 - This liturgy establishes the pattern upon which everything else we do as Christians is modeled.
 - When I say **liturgy** what am I talking about?
-- liturgy = “work of the people” + “Work of God” (**Opus Dei**) [^3]
+- liturgy = “work of the people” + “Work of God” (**Opus Dei**) [^4]
 - Liturgy is not one thing after another, over and over. It’s not something that is done to us. It’s not a performance that we attend. It is something that we are doing in tandem with God.
 - Service / Work plus the Work of God coming together, intersecting
 - This is where what **we do** and what **God does** intersect and come together.
@@ -49,7 +49,7 @@ We engage in an act of 4 parts:
 
 - Exult it. Sing it out. Each line is powerful.
 - Somewhere I read an imaginative rendering of God **singing** things into creation: C.S. Lewis? !singing into creation 
-The concept of **singing into creation** is a theological metaphor describing God's act of bringing the universe into existence through His voice, where creation responds with a song of praise. This imagery is drawn from **Job 38:7**, which states that "the morning stars sang together, and all the sons of God shouted for joy" when God laid the foundations of the earth. [^4]
+The concept of **singing into creation** is a theological metaphor describing God's act of bringing the universe into existence through His voice, where creation responds with a song of praise. This imagery is drawn from **Job 38:7**, which states that "the morning stars sang together, and all the sons of God shouted for joy" when God laid the foundations of the earth. [^5]
 
 #### 20+ times the privilege of singing Exultet
 
@@ -57,7 +57,7 @@ The concept of **singing into creation** is a theological metaphor describing
 - It’s as if you are sharing in the act of God’s creation.
 - It’s sung in the presence of the **flame**.
 - It is the perfect example of how telling the story takes us back to the time of the story.
-- From ancient times the one essential element of a Passover meal has been the telling of the Exodus story. And for several thousand years the people have been told that in each generation it is essential to tell the story such that we see ourselves as slaves in Egypt. [^5]
+- From ancient times the one essential element of a Passover meal has been the telling of the Exodus story. And for several thousand years the people have been told that in each generation it is essential to tell the story such that we see ourselves as slaves in Egypt. [^6]
 - At the Eucharist, as the Celebrant touches the bread and wine, we hear the words, “On that night ...” We are meant to let ourselves be present with Jesus and the disciples on that night -- not pretending but sitting, standing, kneeling in his presence.
 - This is the night. This is it. There is no other.
 - This is the mother of all liturgies.
@@ -81,7 +81,7 @@ The concept of **singing into creation** is a theological metaphor describing
 
 ## What is my goal?
 
-- What am I trying to say? [^6]
+- What am I trying to say? [^7]
 - What do I know? What do I know?
 - Perhaps it is a lesson/lecture on “liturgy” and God’s presence
 
@@ -93,12 +93,13 @@ The concept of **singing into creation** is a theological metaphor describing
 
 ---
 
-[^1]: **Aristotle** later refined the theory, defining an "element" as a substance that cannot be broken down into anything simpler and is present in other bodies. He assigned each element specific qualities:  **Fire**: hot and dry –  **Air**: hot and wet –  **Water**: cold and wet –  **Earth**: cold and dry
-[^2]: Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.
-[^3]: Found in the Rule of St. Benedict
-[^4]: **Biblical and Literary Foundations** 
+[^1]: This concept originated in pre-Socratic philosophy, with Empedocles (c. 450 BCE) being the first to formally define them as the "roots" (**rhizōmata**) of the universe. He argued that all things are made from these elements, which combine and separate under the influence of two forces: Love (attraction) and Strife (repulsion), driving cycles of creation and destruction.
+[^2]: **Aristotle** later refined the theory, defining an "element" as a substance that cannot be broken down into anything simpler and is present in other bodies. He assigned each element specific qualities:  **Fire**: hot and dry –  **Air**: hot and wet –  **Water**: cold and wet –  **Earth**: cold and dry
+[^3]: Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.
+[^4]: Found in the Rule of St. Benedict
+[^5]: **Biblical and Literary Foundations** 
 * **Scriptural Basis**: The Bible depicts creation as a responsive act of song; God speaks the world into being, and the "morning stars" and "sons of God" (angels) immediately join in a chorus of joy. 
 - **C.S. Lewis's Influence**: In *The Magician's Nephew*, C.S. Lewis expands on this by describing Aslan singing the world of Narnia into existence, where musical notes directly manifest physical elements like trees and flowers. 
 - **Tolkien's Mythology**: J.R.R. Tolkien similarly portrayed the Creator (Ilúvatar) forging the world's existence through the "Great Music" of the Ainur (angels), where the universe is literally "sung reality." - Bible, Lewis, Tolkien
-[^7]: בכל דור ודור חייב אדם לראות את עצמו כאילו הוא יצא ממצרים. *B’chol dor vador hayav adam lir’ot et atzmo k’ilu hu yatsa mimitzrayim.* In every generation, we must each see ourselves as if we ourselves had gone out of Egypt.
-[^6]: God Surprise: we don’t find God in the expected places or ways; God paradoxical: we can only see sideways; End of life: Gratitude; Influence of ancestors (*mother-father etc.*) is huge; Life is long enough to learn, but not really long enough to change
+[^8]: בכל דור ודור חייב אדם לראות את עצמו כאילו הוא יצא ממצרים. *B’chol dor vador hayav adam lir’ot et atzmo k’ilu hu yatsa mimitzrayim.* In every generation, we must each see ourselves as if we ourselves had gone out of Egypt.
+[^9]: God Surprise: we don’t find God in the expected places or ways; God paradoxical: we can only see sideways; End of life: Gratitude; Influence of ancestors (*mother-father etc.*) is huge; Life is long enough to learn, but not really long enough to change
