@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7fa49551f18fea",
+        "id": "3e4d8829f0bd86f6",
         "type": "tabs",
         "children": [
           {
-            "id": "1fc2695370d78f5f",
+            "id": "d30295b621336623",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rate of ice arrests.md",
+                "file": "How to use drafts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,20 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rate of ice arrests"
-            }
-          },
-          {
-            "id": "1e1945d4589fe243",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "title": "How to use drafts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,9 +94,19 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "1abe2b0ab597bc3f",
+        "type": "leaf",
+        "state": {
+          "type": "notebook-navigator",
+          "state": {},
+          "icon": "notebook",
+          "title": "Notebook Navigator"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "6ec246f2f202997d",
@@ -200,14 +200,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e1945d4589fe243",
+  "active": "d30295b621336623",
   "lastOpenFiles": [
-    "Rate of ice arrests.md",
-    "Neptune burial seminar.md",
-    "Clippings3/How Teacher Evaluations Broke the University.md",
-    "Journal/Daily/2026-03-09.md",
-    "ReadItLater Inbox/What If Trevor Noah Is Right About the Left and Religion.md",
-    "Inbox Feb 2026.md",
-    "I run these 5 commands on every fresh Linux install to save hours of work.md"
+    "Bruce Springsteen song _streets of Minneapolis_.md",
+    "How to use drafts.md",
+    "You are the living, breathing, epiphany, that slipped out, didn't it  You are the living, breathing epitome, of cheap Grace..md",
+    "Larry re parish presentation.md",
+    "Susan husband retired Presbyterian minister..md",
+    "Flying in low over the flats outside the Savannah River. Rounding to face the land as we lined up to approach the landing. The sun disappeared and suddenly the hugest moon appeared at the edge of the horizon..md",
+    "Central synagogue in New York.md",
+    "https   open.substack.com pub religionandjustice p liberation-theologies-and-the-struggle r=1ouz6o&utm_medium=ios&shareImageVariant=overlay.md",
+    "https   www.classical-music.com rock best-1971-albums.md",
+    "Hotel WiFi login page.md",
+    "List of Trump associated violence against Christian virtues.md",
+    "Things to Do in Charleston.md",
+    "Liberation Herzog 1.md",
+    "Captive Portal Issues on Hotel WiFi with MX Linux.md",
+    "Personal hotspot.md",
+    "Calendar.md",
+    "Rule of three camera composition.md",
+    "Communion.md",
+    "Preaching. Frederick hero.md",
+    "Dissidents.md",
+    "Mark Twain quote.md",
+    "Blessing prayer for Cruets.md",
+    "Shrove Tuesday.md",
+    "View eml files.md",
+    "Nice page for cli apps 1.md",
+    "Nice page for cli apps.md"
   ]
 }

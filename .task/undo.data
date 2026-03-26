@@ -389,10 +389,9 @@ time 1773951991
 old [description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773061921" project:"family" status:"pending" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
 new [description:"Lydia requests perhaps ship" end:"1773951989" entry:"1773061921" modified:"1773951991" project:"family" status:"deleted" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
 ---
-<<<<<<< HEAD
 time 1774278144
 new [description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
-=======
+
 time 1774053848
 old [description:"buy Basil Hayden bourbon whiskey" entry:"1766872886" modified:"1766872886" status:"pending" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
 new [description:"buy Basil Hayden bourbon whiskey" end:"1774053847" entry:"1766872886" modified:"1774053848" status:"deleted" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
@@ -400,7 +399,6 @@ new [description:"buy Basil Hayden bourbon whiskey" end:"1774053847" entry:"1766
 time 1774053871
 old [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
 new [description:"Replace screen door with reversed hinges" end:"1774053870" entry:"1772589512" modified:"1774053871" project:"house" status:"deleted" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
->>>>>>> e5f49cbff6312d63bc590c60fa0d1255b2b0e8f2
 ---
 time 1774282063
 new [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
@@ -409,9 +407,15 @@ time 1774282118
 old [description:"replace\/reverse screen door" entry:"1772300303" modified:"1772300303" project:"house" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
 new [description:"replace\/reverse screen door" entry:"1772300303" modified:"1774282118" project:"home" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
 ---
-time 1774368431
-new [description:"get account with Securist" entry:"1774368431" modified:"1774368431" project:"prison" status:"pending" uuid:"590fff78-a9da-4537-a4d8-68f1d539e439"]
+time 1774395458
+new [description:"get phone call setup for Michael" entry:"1774395458" modified:"1774395458" project:"prison" status:"pending" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
 ---
-time 1774368495
-new [description:"write Michael and ask if he like call" entry:"1774368495" modified:"1774368495" project:"prison" status:"pending" uuid:"a4dbc2ba-a9bc-4476-85fb-68f2d3921b27"]
+time 1774395479
+new [description:"write Michael to ask if he wants to talk" entry:"1774395479" modified:"1774395479" project:"prison" status:"pending" uuid:"899ed4ff-2cde-470d-8ac2-fc931bc570fd"]
+---
+time 1774220916
+new [description:"Check with cpg re change Advantage plans for mps" entry:"1774220916" modified:"1774220916" project:"health" status:"pending" uuid:"80361b4e-8f71-4568-ba94-190ffc23a348"]
+---
+time 1774220948
+new [description:"finish annotation on diary files" entry:"1774220948" modified:"1774220948" status:"pending" uuid:"db6f4e0a-1b8a-45a5-bd12-69522500f202"]
 ---

@@ -1,11 +1,13 @@
 [description:"Figure TW out later Task Warrior" entry:"1766855871" modified:"1767135264" status:"pending" uuid:"3abf2076-488d-468c-92d7-6eb14a59bfdf"]
 [description:"sort MP3s Music-Google" entry:"1767290341" modified:"1767290341" project:"music" status:"pending" uuid:"2c52f0d7-a76f-45e9-8bc2-d7a87e08f91c"]
-<<<<<<< HEAD
-[description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
-[description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1773752736" project:"family" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
-[description:"buy drain spreader from Lowes" entry:"1773752767" modified:"1773752767" project:"house" status:"pending" uuid:"71bd0bdf-755f-477c-879b-1173ae1d8e71"]
-=======
-[description:"replace\/reverse screen door" entry:"1772300303" modified:"1772300303" project:"house" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
-[description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
+[description:"replace\/reverse screen door" entry:"1772300303" modified:"1774282118" project:"home" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
 [description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1772935790" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
->>>>>>> 74343f392ed5c780805f4bbbd867ef10b54b4ff0
+[description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
+[description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
+<<<<<<< HEAD
+[description:"get account with Securist" entry:"1774368431" modified:"1774368431" project:"prison" status:"pending" uuid:"590fff78-a9da-4537-a4d8-68f1d539e439"]
+[description:"write Michael and ask if he like call" entry:"1774368495" modified:"1774368495" project:"prison" status:"pending" uuid:"a4dbc2ba-a9bc-4476-85fb-68f2d3921b27"]
+=======
+[description:"get phone call setup for Michael" entry:"1774395458" modified:"1774395458" project:"prison" status:"pending" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
+[description:"write Michael to ask if he wants to talk" entry:"1774395479" modified:"1774395479" project:"prison" status:"pending" uuid:"899ed4ff-2cde-470d-8ac2-fc931bc570fd"]
+>>>>>>> 5599b4eb74491234c450434df174c6bd2fc01eeb

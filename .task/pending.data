@@ -4,5 +4,5 @@
 [description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1772935790" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
 [description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
 [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
-[description:"get account with Securist" entry:"1774368431" modified:"1774368431" project:"prison" status:"pending" uuid:"590fff78-a9da-4537-a4d8-68f1d539e439"]
-[description:"write Michael and ask if he like call" entry:"1774368495" modified:"1774368495" project:"prison" status:"pending" uuid:"a4dbc2ba-a9bc-4476-85fb-68f2d3921b27"]
+[description:"get phone call setup for Michael" entry:"1774395458" modified:"1774395458" project:"prison" status:"pending" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
+[description:"write Michael to ask if he wants to talk" entry:"1774395479" modified:"1774395479" project:"prison" status:"pending" uuid:"899ed4ff-2cde-470d-8ac2-fc931bc570fd"]

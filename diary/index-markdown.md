@@ -463,9 +463,9 @@
  - [2020-12-24.md](./diary-md/2020-12-24.md)
  - [2020-12-25.md](./diary-md/2020-12-25.md)
  - [2020-12-28.md](./diary-md/2020-12-28.md)
- - [2020-12-29.md](./diary-md/2020-12-29.md)
- - [2020-12-30.md](./diary-md/2020-12-30.md)
- - [2020-12-31.md](./diary-md/2020-12-31.md)
+ - [2020-12-29.md](./diary-md/2020-12-29.md) The relationship resumes
+ - [2020-12-30.md](./diary-md/2020-12-30.md) 
+ - [2020-12-31.md](./diary-md/2020-12-31.md) After meeting with Janet last evening
  - [20201002093843.md](./diary-md/20201002093843.md)
  - [20201002094403.md](./diary-md/20201002094403.md)
  - [20201104150234.md](./diary-md/20201104150234.md)
