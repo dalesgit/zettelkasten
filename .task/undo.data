@@ -419,3 +419,6 @@ new [description:"Check with cpg re change Advantage plans for mps" entry:"17742
 time 1774220948
 new [description:"finish annotation on diary files" entry:"1774220948" modified:"1774220948" status:"pending" uuid:"db6f4e0a-1b8a-45a5-bd12-69522500f202"]
 ---
+time 1774564687
+new [description:"energizer battery cr1632" entry:"1774564687" modified:"1774564687" status:"pending" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
+---
