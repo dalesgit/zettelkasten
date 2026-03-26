@@ -110,3 +110,5 @@
 {"description":"Lydia requests perhaps ship","end":"20260319T202629Z","entry":"20260309T131201Z","modified":"20260319T202631Z","project":"family","status":"deleted","uuid":"7e04a36a-1c02-4944-87dc-026fbd98b08c"}
 {"description":"buy Basil Hayden bourbon whiskey","end":"20260321T004407Z","entry":"20251227T220126Z","modified":"20260321T004408Z","status":"deleted","uuid":"e25ba173-7620-49f7-8a7f-9e20ce4a669e"}
 {"description":"Replace screen door with reversed hinges","end":"20260321T004430Z","entry":"20260304T015832Z","modified":"20260321T004431Z","project":"house","status":"deleted","uuid":"59ad7e25-b329-4665-b505-7991839d045d"}
+{"description":"Check with cpg re change Advantage plans for mps","entry":"20260322T230836Z","modified":"20260322T230836Z","project":"health","status":"pending","uuid":"80361b4e-8f71-4568-ba94-190ffc23a348"}
+{"description":"finish annotation on diary files","entry":"20260322T230908Z","modified":"20260322T230908Z","status":"pending","uuid":"db6f4e0a-1b8a-45a5-bd12-69522500f202"}

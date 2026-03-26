@@ -397,3 +397,9 @@ time 1774053871
 old [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
 new [description:"Replace screen door with reversed hinges" end:"1774053870" entry:"1772589512" modified:"1774053871" project:"house" status:"deleted" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
 ---
+time 1774220916
+new [description:"Check with cpg re change Advantage plans for mps" entry:"1774220916" modified:"1774220916" project:"health" status:"pending" uuid:"80361b4e-8f71-4568-ba94-190ffc23a348"]
+---
+time 1774220948
+new [description:"finish annotation on diary files" entry:"1774220948" modified:"1774220948" status:"pending" uuid:"db6f4e0a-1b8a-45a5-bd12-69522500f202"]
+---
