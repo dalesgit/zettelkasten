@@ -306,9 +306,119 @@ new [description:"Separate out subscriptions" entry:"1772538374" modified:"17725
 time 1772589512
 new [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
 ---
+time 1773060190
+old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773060187" entry:"1771897968" modified:"1773060190" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+---
+time 1773060214
+old [description:"replace\/reverse screen door" entry:"1772300303" modified:"1772300303" project:"house" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
+new [description:"replace\/reverse screen door" end:"1773060212" entry:"1772300303" modified:"1773060214" project:"house" status:"deleted" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
+---
+time 1773060245
+old [description:"zettel, Dropbox-task, tiddly" entry:"1771904103" modified:"1771904103" project:"sync" status:"pending" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+new [description:"zettel, Dropbox-task, tiddly" end:"1773060242" entry:"1771904103" modified:"1773060245" project:"sync" status:"deleted" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+---
+time 1773060438
+old [description:"Separate out subscriptions" entry:"1772538374" modified:"1772538374" project:"bank" status:"pending" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+new [description:"subscriptions and transfers in Homebank" entry:"1772538374" modified:"1773060438" project:"bank" status:"pending" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+---
+time 1773061921
+new [description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773061921" project:"family" status:"pending" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
+---
+time 1773061979
+old [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1772300334" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+new [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1773061979" project:"household" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+
 time 1772935693
 new [description:"Look for Teenie Weenie photos" entry:"1772935693" modified:"1772935693" status:"pending" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
 ---
 time 1772935790
 new [description:"send Lydia one or more stoles and record in NokBox" entry:"1772935790" modified:"1772935790" status:"pending" uuid:"fa3216c0-c897-4e6e-aa2f-8b2026197a69"]
+time 1773312039
+old [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1772300334" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+new [description:"list of subscriptions for NOKBOX" end:"1773312034" entry:"1772300334" modified:"1773312039" status:"deleted" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+---
+time 1773312070
+old [description:"zettel, Dropbox-task, tiddly" entry:"1771904103" modified:"1771904103" project:"sync" status:"pending" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+new [description:"zettel, Dropbox-task, tiddly" end:"1773312067" entry:"1771904103" modified:"1773312070" project:"sync" status:"deleted" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+---
+time 1773312258
+old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773312256" entry:"1771897968" modified:"1773312258" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+---
+time 1773274154
+old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773274152" entry:"1771897968" modified:"1773274154" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+---
+time 1773692027
+new [description:"Buy gutter spreader from Lowes" entry:"1773692027" modified:"1773692027" project:"home" status:"pending" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
+---
+time 1773692080
+old [description:"Buy gutter spreader from Lowes" entry:"1773692027" modified:"1773692027" project:"home" status:"pending" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
+new [description:"Buy gutter spreader from Lowes" entry:"1773692027" modified:"1773692080" project:"house" status:"pending" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
+---
+time 1773692160
+old [description:"buy sand, construct stand" entry:"1771864184" modified:"1771864184" project:"house" status:"pending" uuid:"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"]
+new [description:"buy sand, construct stand" end:"1773692157" entry:"1771864184" modified:"1773692160" project:"house" status:"deleted" uuid:"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"]
+---
+time 1773951898
+old [description:"Look for Teenie Weenie photos" entry:"1772935693" modified:"1772935693" status:"pending" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
+new [description:"Look for Teenie Weenie photos" end:"1773951896" entry:"1772935693" modified:"1773951898" status:"deleted" uuid:"ef831443-34bd-425a-a496-4521101d256c"]
+---
+time 1773951909
+old [description:"list of subscriptions for NOKBOX" entry:"1772300334" modified:"1772300334" status:"pending" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+new [description:"list of subscriptions for NOKBOX" end:"1773951907" entry:"1772300334" modified:"1773951909" status:"deleted" uuid:"b39ec8ec-4242-4f15-8b65-e98f880befec"]
+---
+time 1773951924
+old [description:"Buy gutter spreader from Lowes" entry:"1773692027" modified:"1773692080" project:"house" status:"pending" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
+new [description:"Buy gutter spreader from Lowes" end:"1773951922" entry:"1773692027" modified:"1773951924" project:"house" status:"deleted" uuid:"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"]
+---
+time 1773951940
+old [description:"Separate out subscriptions" entry:"1772538374" modified:"1772538374" project:"bank" status:"pending" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+new [description:"Separate out subscriptions" end:"1773951939" entry:"1772538374" modified:"1773951940" project:"bank" status:"deleted" uuid:"6b4fc075-d01f-4104-8001-0eae816f036d"]
+---
+time 1773951952
+old [description:"use turkey pieces for stock and steak pieces for soup" entry:"1771897968" modified:"1771897968" project:"kitchen" status:"pending" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+new [description:"use turkey pieces for stock and steak pieces for soup" end:"1773951951" entry:"1771897968" modified:"1773951952" project:"kitchen" status:"deleted" uuid:"ef5c15c8-bda1-4a86-8243-178f507b170f"]
+---
+time 1773951967
+old [description:"zettel, Dropbox-task, tiddly" entry:"1771904103" modified:"1771904103" project:"sync" status:"pending" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+new [description:"zettel, Dropbox-task, tiddly" end:"1773951966" entry:"1771904103" modified:"1773951967" project:"sync" status:"deleted" uuid:"c4c5abbd-e362-4266-9a58-437f0a54d83a"]
+---
+time 1773951991
+old [description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773061921" project:"family" status:"pending" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
+new [description:"Lydia requests perhaps ship" end:"1773951989" entry:"1773061921" modified:"1773951991" project:"family" status:"deleted" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
+---
+time 1774278144
+new [description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
+
+time 1774053848
+old [description:"buy Basil Hayden bourbon whiskey" entry:"1766872886" modified:"1766872886" status:"pending" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
+new [description:"buy Basil Hayden bourbon whiskey" end:"1774053847" entry:"1766872886" modified:"1774053848" status:"deleted" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
+---
+time 1774053871
+old [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
+new [description:"Replace screen door with reversed hinges" end:"1774053870" entry:"1772589512" modified:"1774053871" project:"house" status:"deleted" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
+---
+time 1774282063
+new [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
+---
+time 1774282118
+old [description:"replace\/reverse screen door" entry:"1772300303" modified:"1772300303" project:"house" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
+new [description:"replace\/reverse screen door" entry:"1772300303" modified:"1774282118" project:"home" status:"pending" uuid:"2058a46f-903b-406d-af26-cb9d9cc07236"]
+---
+time 1774395458
+new [description:"get phone call setup for Michael" entry:"1774395458" modified:"1774395458" project:"prison" status:"pending" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
+---
+time 1774395479
+new [description:"write Michael to ask if he wants to talk" entry:"1774395479" modified:"1774395479" project:"prison" status:"pending" uuid:"899ed4ff-2cde-470d-8ac2-fc931bc570fd"]
+---
+time 1774220916
+new [description:"Check with cpg re change Advantage plans for mps" entry:"1774220916" modified:"1774220916" project:"health" status:"pending" uuid:"80361b4e-8f71-4568-ba94-190ffc23a348"]
+---
+time 1774220948
+new [description:"finish annotation on diary files" entry:"1774220948" modified:"1774220948" status:"pending" uuid:"db6f4e0a-1b8a-45a5-bd12-69522500f202"]
+---
+time 1774564687
+new [description:"energizer battery cr1632" entry:"1774564687" modified:"1774564687" status:"pending" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
 ---
