@@ -389,10 +389,9 @@ time 1773951991
 old [description:"Lydia requests perhaps ship" entry:"1773061921" modified:"1773061921" project:"family" status:"pending" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
 new [description:"Lydia requests perhaps ship" end:"1773951989" entry:"1773061921" modified:"1773951991" project:"family" status:"deleted" uuid:"7e04a36a-1c02-4944-87dc-026fbd98b08c"]
 ---
-<<<<<<< HEAD
 time 1774278144
 new [description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
-=======
+
 time 1774053848
 old [description:"buy Basil Hayden bourbon whiskey" entry:"1766872886" modified:"1766872886" status:"pending" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
 new [description:"buy Basil Hayden bourbon whiskey" end:"1774053847" entry:"1766872886" modified:"1774053848" status:"deleted" uuid:"e25ba173-7620-49f7-8a7f-9e20ce4a669e"]
@@ -400,7 +399,6 @@ new [description:"buy Basil Hayden bourbon whiskey" end:"1774053847" entry:"1766
 time 1774053871
 old [description:"Replace screen door with reversed hinges" entry:"1772589512" modified:"1772589512" project:"house" status:"pending" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
 new [description:"Replace screen door with reversed hinges" end:"1774053870" entry:"1772589512" modified:"1774053871" project:"house" status:"deleted" uuid:"59ad7e25-b329-4665-b505-7991839d045d"]
->>>>>>> e5f49cbff6312d63bc590c60fa0d1255b2b0e8f2
 ---
 time 1774282063
 new [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
@@ -421,6 +419,7 @@ new [description:"Check with cpg re change Advantage plans for mps" entry:"17742
 time 1774220948
 new [description:"finish annotation on diary files" entry:"1774220948" modified:"1774220948" status:"pending" uuid:"db6f4e0a-1b8a-45a5-bd12-69522500f202"]
 ---
+<<<<<<< HEAD
 time 1774606983
 new [description:"buy 15mm wrench" entry:"1774606983" modified:"1774606983" project:"home" status:"pending" uuid:"84be1ca7-0ccc-47dc-b3b4-c3893cc224af"]
 ---
@@ -440,4 +439,8 @@ new [description:"onhold mount bike lift" entry:"1774780862" modified:"177478094
 time 1774780964
 old [description:"onhold Linux on newest chromebook" entry:"1774780900" modified:"1774780900" status:"pending" uuid:"94c02085-080c-490b-95b1-4bee3497f9e0"]
 new [description:"onhold Linux on newest chromebook" entry:"1774780900" modified:"1774780964" project:"onhold" status:"pending" uuid:"94c02085-080c-490b-95b1-4bee3497f9e0"]
+=======
+time 1774564687
+new [description:"energizer battery cr1632" entry:"1774564687" modified:"1774564687" status:"pending" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
+>>>>>>> d6084c057966ff132db324c44f098556b4093ac1
 ---

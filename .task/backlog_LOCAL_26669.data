@@ -108,20 +108,13 @@
 {"description":"use turkey pieces for stock and steak pieces for soup","end":"20260319T202551Z","entry":"20260224T015248Z","modified":"20260319T202552Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
 {"description":"zettel, Dropbox-task, tiddly","end":"20260319T202606Z","entry":"20260224T033503Z","modified":"20260319T202607Z","project":"sync","status":"deleted","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
 {"description":"Lydia requests perhaps ship","end":"20260319T202629Z","entry":"20260309T131201Z","modified":"20260319T202631Z","project":"family","status":"deleted","uuid":"7e04a36a-1c02-4944-87dc-026fbd98b08c"}
+<<<<<<< HEAD
 {"description":"Get home inspection pronto","entry":"20260323T150224Z","modified":"20260323T150224Z","project":"home","status":"pending","uuid":"269b77ec-1be7-423f-aaff-272a7628d15c"}
+=======
 {"description":"buy Basil Hayden bourbon whiskey","end":"20260321T004407Z","entry":"20251227T220126Z","modified":"20260321T004408Z","status":"deleted","uuid":"e25ba173-7620-49f7-8a7f-9e20ce4a669e"}
 {"description":"Replace screen door with reversed hinges","end":"20260321T004430Z","entry":"20260304T015832Z","modified":"20260321T004431Z","project":"house","status":"deleted","uuid":"59ad7e25-b329-4665-b505-7991839d045d"}
+>>>>>>> e5f49cbff6312d63bc590c60fa0d1255b2b0e8f2
 {"description":"clear under sinks, around circuit box, access to attic","entry":"20260323T160743Z","modified":"20260323T160743Z","project":"home","status":"pending","uuid":"00f31506-6bad-4c46-8faa-7b9f36f2110f"}
 {"description":"replace\/reverse screen door","entry":"20260228T173823Z","modified":"20260323T160838Z","project":"home","status":"pending","uuid":"2058a46f-903b-406d-af26-cb9d9cc07236"}
-{"description":"get phone call setup for Michael","entry":"20260324T233738Z","modified":"20260324T233738Z","project":"prison","status":"pending","uuid":"fc4fdab5-ec1e-4653-876c-165a6a6282fd"}
-{"description":"write Michael to ask if he wants to talk","entry":"20260324T233759Z","modified":"20260324T233759Z","project":"prison","status":"pending","uuid":"899ed4ff-2cde-470d-8ac2-fc931bc570fd"}
-<<<<<<< HEAD
-{"description":"buy 15mm wrench","entry":"20260327T102303Z","modified":"20260327T102303Z","project":"home","status":"pending","uuid":"84be1ca7-0ccc-47dc-b3b4-c3893cc224af"}
-{"description":"find bag pattern and strap guide","entry":"20260327T102341Z","modified":"20260327T102341Z","project":"diy","status":"pending","uuid":"f630d8c1-990f-49d3-b939-d2113946a7b8"}
-{"description":"onhold mount bike lift","entry":"20260329T104102Z","modified":"20260329T104102Z","status":"pending","uuid":"5aa33dc2-5308-48c4-a290-c3acf24577ca"}
-{"description":"onhold Linux on newest chromebook","entry":"20260329T104140Z","modified":"20260329T104140Z","status":"pending","uuid":"94c02085-080c-490b-95b1-4bee3497f9e0"}
-{"description":"onhold mount bike lift","entry":"20260329T104102Z","modified":"20260329T104220Z","project":"onhold","status":"pending","uuid":"5aa33dc2-5308-48c4-a290-c3acf24577ca"}
-{"description":"onhold Linux on newest chromebook","entry":"20260329T104140Z","modified":"20260329T104244Z","project":"onhold","status":"pending","uuid":"94c02085-080c-490b-95b1-4bee3497f9e0"}
-=======
-{"description":"energizer battery cr1632","entry":"20260326T223807Z","modified":"20260326T223807Z","status":"pending","uuid":"c7ec9aae-de11-4084-9003-32f432931653"}
->>>>>>> d6084c057966ff132db324c44f098556b4093ac1
+{"description":"get account with Securist","entry":"20260324T160711Z","modified":"20260324T160711Z","project":"prison","status":"pending","uuid":"590fff78-a9da-4537-a4d8-68f1d539e439"}
+{"description":"write Michael and ask if he like call","entry":"20260324T160815Z","modified":"20260324T160815Z","project":"prison","status":"pending","uuid":"a4dbc2ba-a9bc-4476-85fb-68f2d3921b27"}
