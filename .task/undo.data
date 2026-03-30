@@ -419,7 +419,6 @@ new [description:"Check with cpg re change Advantage plans for mps" entry:"17742
 time 1774220948
 new [description:"finish annotation on diary files" entry:"1774220948" modified:"1774220948" status:"pending" uuid:"db6f4e0a-1b8a-45a5-bd12-69522500f202"]
 ---
-<<<<<<< HEAD
 time 1774606983
 new [description:"buy 15mm wrench" entry:"1774606983" modified:"1774606983" project:"home" status:"pending" uuid:"84be1ca7-0ccc-47dc-b3b4-c3893cc224af"]
 ---
@@ -439,8 +438,6 @@ new [description:"onhold mount bike lift" entry:"1774780862" modified:"177478094
 time 1774780964
 old [description:"onhold Linux on newest chromebook" entry:"1774780900" modified:"1774780900" status:"pending" uuid:"94c02085-080c-490b-95b1-4bee3497f9e0"]
 new [description:"onhold Linux on newest chromebook" entry:"1774780900" modified:"1774780964" project:"onhold" status:"pending" uuid:"94c02085-080c-490b-95b1-4bee3497f9e0"]
-=======
 time 1774564687
 new [description:"energizer battery cr1632" entry:"1774564687" modified:"1774564687" status:"pending" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
->>>>>>> d6084c057966ff132db324c44f098556b4093ac1
 ---
