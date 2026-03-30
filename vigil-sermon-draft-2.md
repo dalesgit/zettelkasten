@@ -9,24 +9,30 @@ date: April 2026
 When I was in my 20s one Christmas, I came up with a creative Christmas card that I was really excited about. My idea was to carve a linoleum block with a design and then print on nice paper, a kind of combination Christmas gift and Christmas card. I spent several weeks carving by design. It had these two elements, the Greek of the opening verse of Johns gospel. And symbols of the ancient Greek understanding of the four basic elements of creation.[^1] In the center or the four symbols, and then around the outside of the card, the Greek of the gospel.[^3]
 
 ---
+
 > Prop:
+> 
 ---
+
 It didn't look exactly like this, but you get the idea. Well, I had been working on the fairly intricate carving of the Greek, with its articulation marks – when with a start I realized that I needed to have carved the negative shapes. Printing what my finished linoleum block looked like gave a print that was a mirror image. Ooooo did I feel foolish. It was already close to Christmas so there was no "REDO's" for me. I settled on printing it on Japanese rice paper which was fairly translucent and I instructed the recipients to look at the backside of the print.
 
 Why do I tell you this? 
 
 ### The 4 movements
+
 Because those 4 elements of creation – leftover from ancient Greek philosophy[^2] – remind me of the 4 movements of the liturgy we are experiencing this night – the "Easter Vigil."
 
 The 4 movements of this liturgy are: Fire, Story (Spirit/Air?), Water (the essential reading for the liturgy), and Bread (Eucharist or Earth).
 
 ---
+
 > Prop:
+
 ---
 
 These 4 movements roughly correspond with those Greek symbols of everything that is:  elemental, primordial, encompassing everything. This is the  mother of all liturgies.
- 
- ### Mother of all liturgies
+
+### Mother of all liturgies
 
 This **mother of all liturgies** helps me to remember. It helps me to remember that "**remembering**" is a sacred action, inherent in the **service of the people** intersecting with the **work of God**. Those are two understandings of what I mean by the word "**liturgy**." Liturgy is what we the people do when we trust God to act in our midst, to be present in our lives. Liturgy is what God does in our midst.
 
@@ -51,17 +57,20 @@ This mother of all liturgies, we engage in an act of 4 parts:
 ## Symphony in 4 parts 
 
 ### Let there be light
----
-> Prop:
+
 ---
 
-- There is something primordial about Fire. Going back to the origins of human society there is fire. The Light of Christ. And somehow singing is a part of lighting the fire.
+> Prop:
+
+---
+
+There is something primordial about Fire. Going back to the origins of human society there is fire. The Light of Christ. And somehow singing is a part of lighting the fire.
 
 Somewhere I read an imaginative rendering of God **singing** things into creation. Was it in C.S. Lewis? Tolkien? But they got they idea from Scripture. The concept of **singing into creation** is a metaphor describing God's act of bringing the universe into existence through His voice, where creation responds with a song of praise. This imagery is drawn from **Job 38:7**, which states that "the morning stars sang together, and all the sons of God shouted for joy" when God laid the foundations of the earth. [^5]
 
 Among the most significant events of my 40+ years of ministry is that over 20 times I have been privileged to sing the Exultet. It’s the kind of thing I wish each of you could experience -- even if you would never think of singing in public. To sing the Exultet is as if you are sharing in the act of God’s creation. Sung in the presence of the **flame**.
 
-It is an example of how telling the story takes us back to the time of the story itself. It's not an accident in this liturgy that we read the story of the Exodus. From ancient times the one essential element of a Passover meal has been the telling of the Exodus story. And for several thousand years the people have been told that in each generation it is essential to tell the story such that we see ourselves as slaves in Egypt. [^6]
+It is an example of how telling the story takes us back to the time of the story itself. It's not an accident in this liturgy that we read the story of the Exodus. From ancient times the one essential element of a Passover meal has been the telling of the Exodus story. And for several thousand years the people have been told that in each generation it is essential to tell the story such that we see ourselves as slaves in Egypt. [^7]
 
 At the Eucharist, as the Celebrant touches the bread and wine, we hear the words, “On that night ...” We are meant to let ourselves be present with Jesus and the disciples on that night -- not pretending but sitting, standing, kneeling in his presence. This is the night. This is it. There is no other. This is the mother of all liturgies.
 
@@ -94,7 +103,9 @@ Have you ever read a story to a child? Of course many of you have. Remember how 
 > Should this book be a warrantable introduction to the recovery of 'a kind of believeing that really tells',to practical and critical effect, because its basis is the abiding and appealing presence in the world of the kingdom of God and the praxis that goes with it, then I count myself a happy man. If that is not so, then for my part the book can be marked down for sale in any 'curio' shop tomorrow.
 
 ---
+
 > Prop:
+
 ---
 
 - In the beginning: beginnings, creation, spirit
@@ -106,13 +117,15 @@ Have you ever read a story to a child? Of course many of you have. Remember how 
 ### Washed and Drowned in baptism
 
 ---
+
 > Prop:
+
 ---
 
 
 - Water:
 - Baptism
-- the Rabbis required the reading of the Exodus story, We are required to read it at this Easter vigil liturgy … Deliverance for Israel, but death for Egyptians.
+- the Rabbis required the reading of the Exodus story, We are required to read it at this Easter vigil liturgy … Deliverance for Israel, but death for Egyptians.[^7]
 - paradoxical sacred symbols
 - no life without. cleaning and destructive
 - water makes up to 60% of most people's body. We are mostly water.
@@ -121,7 +134,9 @@ Have you ever read a story to a child? Of course many of you have. Remember how 
 ### Fed in 1st Eucharist of Easter
 
 ---
+
 > Prop:
+
 ---
 
 I once heard an Orthodox Christian story about the process of baptism which is really a stand-in for the process of being a Christian:
@@ -138,7 +153,7 @@ Bread – metaphorically – is what sustains through all the times – with God
 
 ## Closing
 
-What's it all about? What is this "mother of all liturgies" about? 
+What's it all about? What is this "mother of all liturgies" about? [^8]
 
 It launches on our annual journey - pilgrimage as we seek to follow Jesus into the world that we live in. We tell the story – a rich and varied story. We gather in Christ's name and go forth to share the light of Christ. We go forth into the world: reborn, anointed, fed, clothed in the presence of God.
 
@@ -158,5 +173,5 @@ Expect God at any moment and God might well surprise you.
 * **Scriptural Basis**: The Bible depicts creation as a responsive act of song; God speaks the world into being, and the "morning stars" and "sons of God" (angels) immediately join in a chorus of joy. 
 - **C.S. Lewis's Influence**: In *The Magician's Nephew*, C.S. Lewis expands on this by describing Aslan singing the world of Narnia into existence, where musical notes directly manifest physical elements like trees and flowers. 
 - **Tolkien's Mythology**: J.R.R. Tolkien similarly portrayed the Creator (Ilúvatar) forging the world's existence through the "Great Music" of the Ainur (angels), where the universe is literally "sung reality." - Bible, Lewis, Tolkien
-[^8]: בכל דור ודור חייב אדם לראות את עצמו כאילו הוא יצא ממצרים. *B’chol dor vador hayav adam lir’ot et atzmo k’ilu hu yatsa mimitzrayim.* In every generation, we must each see ourselves as if we ourselves had gone out of Egypt.
-[^9]: God Surprise: we don’t find God in the expected places or ways; God paradoxical: we can only see sideways; End of life: Gratitude; Influence of ancestors (*mother-father etc.*) is huge; Life is long enough to learn, but not really long enough to change
+[^7]: בכל דור ודור חייב אדם לראות את עצמו כאילו הוא יצא ממצרים. *B’chol dor vador hayav adam lir’ot et atzmo k’ilu hu yatsa mimitzrayim.* In every generation, we must each see ourselves as if we ourselves had gone out of Egypt.
+[^8]: God Surprise: we don’t find God in the expected places or ways; God paradoxical: we can only see sideways; End of life: Gratitude; Influence of ancestors (*mother-father etc.*) is huge; Life is long enough to learn, but not really long enough to change
