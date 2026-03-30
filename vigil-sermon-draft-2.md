@@ -6,14 +6,29 @@ date: April 2026
 
 ## Introduction
 
-### The 4 classical elements
+When I was in my 20s one Christmas, I came up with a creative Christmas card that I was really excited about. My idea was to carve a linoleum block with a design and then print on nice paper, a kind of combination Christmas gift and Christmas card. I spent several weeks carving by design. It had these two elements, the Greek of the opening verse of Johns gospel. And symbols of the ancient Greek understanding of the four basic elements of creation.[^1] In the center or the four symbols, and then around the outside of the card, the Greek of the gospel.[^3]
 
-When I was 20 years old I was … [^1] Classical elements in philosophy refer to the four fundamental substances—earth, water, air, and fire—proposed by ancient Greek thinkers to explain the composition of all matter. [^2]
+---
+> Prop:
+---
+It didn't look exactly like this, but you get the idea. Well, I had been working on the fairly intricate carving of the Greek, with its articulation marks – when with a start I realized that I needed to have carved the negative shapes. Printing what my finished linoleum block looked like gave a print that was a mirror image. Ooooo did I feel foolish. It was already close to Christmas so there was no "REDO's" for me. I settled on printing it on Japanese rice paper which was fairly translucent and I instructed the recipients to look at the backside of the print.
 
-- My block print Christmas gift: the 4 elements encircled with the opening of John's Gospel.[^3]
-- elemental, primordial, encompassing everything. The mother of all liturgies.
+Why do I tell you this? 
+
+### The 4 movements
+Because those 4 elements of creation – leftover from ancient Greek philosophy[^2] – remind me of the 4 movements of the liturgy we are experiencing this night – the "Easter Vigil."
+
+The 4 movements of this liturgy are: Fire, Story (Spirit/Air?), Water (the essential reading for the liturgy), and Bread (Eucharist or Earth).
+
+---
+> Prop:
+---
+
+These 4 movements roughly correspond with those Greek symbols of everything that is:  elemental, primordial, encompassing everything. This is the  mother of all liturgies.
  
  ### Mother of all liturgies
+
+This **mother of all liturgies** helps me to remember. It helps me to remember that "**remembering**" is a sacred action, inherent in the **service of the people** intersecting with the **work of God**. Those are two understandings of what I mean by the word "**liturgy**."
  
 - 1st liturgy of Easter
 - This liturgy establishes the pattern upon which everything else we do as Christians is modeled.
@@ -26,7 +41,7 @@ When I was 20 years old I was … [^1] Classical elements in philosophy refer to
 
 > “The higher Christian churches...come at God with an unwarranted air of professionalism, with authority and pomp, as though they knew what they were doing, as though people in themselves were an appropriate set of creatures to have dealings with God. I often think of the set pieces of liturgy as certain words which people have successfully addressed to God without their getting killed. In the high churches they saunter through the liturgy like Mohawks along a strand of scaffolding who have long since forgotten the danger. If God were to blast such a congregation to bits, the congregation would be, I believe, genuinely shocked. But in the low churches you expect it any minute.”
 
-- This **mother of all liturgies** helps me to remember. It helps me to remember that "**remembering**" is a sacred action, inherent in the **service of the people** intersecting with the **work of God**.
+
 
 ### This motherlode of all liturgies
 
