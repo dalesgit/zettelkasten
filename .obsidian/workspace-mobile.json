@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4d8829f0bd86f6",
+        "id": "1073e945bb881bc1",
         "type": "tabs",
         "children": [
           {
-            "id": "d30295b621336623",
+            "id": "1fd4632d94dec1af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to use drafts.md",
+                "file": "vigil-sermon-draft.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to use drafts"
+              "title": "vigil-sermon-draft"
             }
           }
         ]
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Neptune burial seminar.md",
+            "file": "vigil-sermon-draft.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -196,13 +196,17 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "dashboard-navigator:Open dashboard navigator": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d30295b621336623",
+  "active": "1fd4632d94dec1af",
   "lastOpenFiles": [
-    "Bruce Springsteen song _streets of Minneapolis_.md",
+    "Journal/Daily/2025-11-29.md",
+    "sign.md",
+    "vigil-sermon-draft.md",
     "How to use drafts.md",
+    "Bruce Springsteen song _streets of Minneapolis_.md",
     "You are the living, breathing, epiphany, that slipped out, didn't it  You are the living, breathing epitome, of cheap Grace..md",
     "Larry re parish presentation.md",
     "Susan husband retired Presbyterian minister..md",
@@ -223,9 +227,6 @@
     "Dissidents.md",
     "Mark Twain quote.md",
     "Blessing prayer for Cruets.md",
-    "Shrove Tuesday.md",
-    "View eml files.md",
-    "Nice page for cli apps 1.md",
-    "Nice page for cli apps.md"
+    "Shrove Tuesday.md"
   ]
 }

@@ -8,6 +8,10 @@ date: April 2026
 
 ### The 4 classical elements
 
+When I was in my 20s one Christmas, I came up with a creative Christmas card that I was really excited about. My idea was to carve a linoleum block with a design and then print on nice paper, a kind of combination Christmas gift and Christmas card. I spent several weeks carving by design. It had these two elements, the Greek of the opening verse of Johns gospel. And symbols of the ancient Greek understanding of the four basic elements of creation. In the center or the four symbols, and then around the outside of the card, the Greek of the gospel.
+
+
+
 When I was 20 years old I was … [^1] Classical elements in philosophy refer to the four fundamental substances—earth, water, air, and fire—proposed by ancient Greek thinkers to explain the composition of all matter. [^2]
 
 - My block print Christmas gift: the 4 elements encircled with the opening of John's Gospel.[^3]
