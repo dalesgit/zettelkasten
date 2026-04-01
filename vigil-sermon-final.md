@@ -76,7 +76,7 @@ And so we come to the second movement of our symphony.
 
 ### Telling the story
 
-"Telling the story" – or as I see it letting the Spirit (Air) speak in our midst. We begin the this story – remember it is the mother of all stories – by going back to the beginning. We tell about God being the great deliverer and how God raised up prophets to try to get through our thick ears. God performed great miracles in our midst. Then finally God gave a Son.
+"Telling the story" – or as I see it letting the Spirit (Air) speak in our midst. We begin this story – remember it is the mother of all stories – by going back to the beginning. We tell about God being the great deliverer and how God raised up prophets to try to get through our thick ears. God performed great miracles in our midst. Then finally God gave a Son.
 
 **At The Liturgy of the Word**
 
@@ -101,11 +101,13 @@ Have you ever read a story to a child? Of course many of you have. Remember how 
 
 > At the start of this book I repeated the story from the **Acts (4:10-12)** about the lame man who was cured when he heard from Peter the 'story of Jesus'. M. Buber too recognizes the potential of the story in the telling, when he has a rabbi relate the following: 'My grandfather was paralysed. One day he was asked to tell about something that happened with his teacher -- the great Baalschem. Then he told how the saintly Baalschem used to leap about and dance while he was at his prayers. As he went on with the story my grandfather stood up; he was so carried away that he had to show how the master had done it, and started to caper about and dance. From that moment on he was cured. That is how stories should be told.'
 
-Schillebeeckx concludes his book by saying that that is with that kind of power that we should be telling the "Greatest Story every told".
+Schillebeeckx concludes his book by saying that it is with that kind of power that we should be telling the "Greatest Story every told".
 
  Telling the story is about far more than just reading some words out of a book. Story is about far more than about what did or didn't happen. As one great teacher put it, **"All stories are true and some of them actually happened."** Telling the story is about allowing the Spirit – God's voice – to break into our hearts. 
 
-**Thus saith the Lord**. And the 2nd movement of this "mother of all liturgies."
+**Thus saith the Lord**. That's not just a phrase to repeat. *If it's true it's important.* 
+
+After this 2nd movement of the "mother of all liturgies" we come to the 3rd movement.
 
 ### Washed and Drowned in baptism
 
@@ -117,7 +119,7 @@ The Rabbis required the reading of the Exodus story. Christians are required to 
 
 Water is a paradoxical sacred symbol. Life-giving and cleansing. Powerful in its destructive force. 
 
-Paradox: a suitable sacred symbol for the Christian life. Baptism is invitation and anointing into a way of life in Jesus. All too often it is not Jesus who is revealed in the life of Christians. 
+Paradox: a suitable sacred symbol for the Christian life. Baptism is invitation and anointing into a way of life in Jesus. But all too often it is **not** Jesus who is revealed in the life of Christians, but some lesser priority. 
 
 * Will you continue in the apostles' teaching and fellowship, in the breaking of the bread, and in the prayers?
 * Will you persevere in resisting evil, and, whenever you fall into sin, repent and return to the Lord?
@@ -128,6 +130,8 @@ Paradox: a suitable sacred symbol for the Christian life. Baptism is invitation 
 We can be so casual when we answer, "Yes." But when put to the test, most of us probably fall short. It is no light matter this 3rd movement of the **mother of all liturgies**. 
 
 ### Fed in 1st Eucharist of Easter
+
+Finally, we come to "bread" the 4th movement of this symphony of a liturgy.
 
 > Prop: **Bread**
 
@@ -145,14 +149,13 @@ I once heard an Orthodox Christian story about the process of baptism which is r
 
 Metaphorically "bread" is one of the building blocks of the human life.
 
-Bread is about **hospitality**. I can testify to the power of what a fresh-baked loaf of bread means at a dinner party. Even when it's baked in a "bread-maker." Bread welcome all. Bread speaks **hospitality**.
+Bread is about **hospitality**. I can testify to the power of what a fresh-baked loaf of bread means at a dinner party. Even when it's baked in a "bread-maker." Bread welcomes all. Bread speaks **hospitality**. All are welcome, no exceptions.
 
  > For all that has been — Thanks! To all that shall be — Yes! (*Dag Hammarskjöld*)
 
-For a time in Episcopal Churches it was common for a team of lay persons to visit the homes of newcomers to church (*preferably the Sunday they visited the church*). The team was notable for being lay persons. Clergy are expected to visit, but a lay person can be a sign of the serendipitous and free grace of God. The team would pointedly not stay to visit but would simple present the person or family with a loaf of home-made bread. Then they would leave. 
+For a time in Episcopal Churches it was common for a team of lay persons to visit the homes of newcomers to church (*preferably the Sunday they visited the church*). The team was notable for being lay persons. Clergy are expected to visit, but a lay person can be a sign of the serendipitous and free grace of God. The team would pointedly not stay to visit but would simple present the person or family with a loaf of home-made bread. Then they would leave. People are often **hooked** when they experience the free and surprising grace of God.
  
-There was abundant evidence that those gifts were effective in sharing the Grace of God – the Work of God. Just the way this "mother of all liturgy" is capable.
-
+There was abundant evidence that those gifts were effective in sharing the **Grace of God** – the **Work of God**. Just the way this "**mother of all liturgy**" is capable of doing.
 
 ## Closing
 
