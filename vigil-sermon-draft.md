@@ -13,7 +13,7 @@ date: April 2026
 - My block print Christmas gift: the 4 elements encircled with the opening of John's Gospel.[^2]
 - elemental, primordial, encompassing everything. The mother of all liturgies.
  
- ### Mother of all liturgies
+### Mother of all liturgies
  
 - 1st liturgy of Easter
 - This liturgy establishes the pattern upon which everything else we do as Christians is modeled.
@@ -97,8 +97,8 @@ The concept of **singing into creation** is a theological metaphor describing
 [^2]: Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.
 [^3]: Found in the Rule of St. Benedict
 [^4]: **Biblical and Literary Foundations** 
-* **Scriptural Basis**: The Bible depicts creation as a responsive act of song; God speaks the world into being, and the "morning stars" and "sons of God" (angels) immediately join in a chorus of joy. 
-- **C.S. Lewis's Influence**: In *The Magician's Nephew*, C.S. Lewis expands on this by describing Aslan singing the world of Narnia into existence, where musical notes directly manifest physical elements like trees and flowers. 
-- **Tolkien's Mythology**: J.R.R. Tolkien similarly portrayed the Creator (Ilúvatar) forging the world's existence through the "Great Music" of the Ainur (angels), where the universe is literally "sung reality." - Bible, Lewis, Tolkien
+**Scriptural Basis**: The Bible depicts creation as a responsive act of song; God speaks the world into being, and the "morning stars" and "sons of God" (angels) immediately join in a chorus of joy. 
+**C.S. Lewis's Influence**: In *The Magician's Nephew*, C.S. Lewis expands on this by describing Aslan singing the world of Narnia into existence, where musical notes directly manifest physical elements like trees and flowers. 
+**Tolkien's Mythology**: J.R.R. Tolkien similarly portrayed the Creator (Ilúvatar) forging the world's existence through the "Great Music" of the Ainur (angels), where the universe is literally "sung reality." - Bible, Lewis, Tolkien
 [^7]: בכל דור ודור חייב אדם לראות את עצמו כאילו הוא יצא ממצרים. *B’chol dor vador hayav adam lir’ot et atzmo k’ilu hu yatsa mimitzrayim.* In every generation, we must each see ourselves as if we ourselves had gone out of Egypt.
-[^6]: God Surprise: we don’t find God in the expected places or ways; God paradoxical: we can only see sideways; End of life: Gratitude; Influence of ancestors (*mother-father etc.*) is huge; Life is long enough to learn, but not really long enough to change
+[^6]: God is Surprise: we don’t find God in the expected places or ways; God is paradoxical: we can only see sideways; Goal of life is Gratitude; Influence of ancestors (*mother-father etc.*) is huge; Life is long enough to learn, but not really long enough to change
