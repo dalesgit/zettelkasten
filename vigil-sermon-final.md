@@ -6,6 +6,7 @@ date: April 2026
 
 ## Props
 
+- Mock Card
 - Candle stick with matches
 - Children's reading book
 - Pitcher of water with bowl
@@ -15,29 +16,23 @@ date: April 2026
 
 When I was in my 20's one Christmas, I came up with what I imaged to be a creative Christmas card that I was really excited about. My idea was to carve a linoleum block with a design and then print on nice paper, a kind of combination Christmas gift and Christmas card. I spent several weeks carving by design. It had these two elements, the Greek of the opening verse of Johns gospel. And symbols of the ancient Greek understanding of the four basic elements of creation.[^1] In the center or the four symbols, and then around the outside of the card, the Greek of the gospel.[^3]
 
----
+> Prop: **Mock card**
 
-> Prop:
+It didn't look exactly like this, but you get the idea. Well, I had been working on the fairly intricate carving of the Greek into that linoleum block – with its articulation marks – when with a start I realized that I needed to have carved the negative shapes. Printing what I had carved gave a print that was the mirror image of what I wanted. Ooooo did I feel foolish. It was already close to Christmas so there was no "**REDO**'s" for me. 
 
----
-
-It didn't look exactly like this, but you get the idea. Well, I had been working on the fairly intricate carving of the Greek, with its articulation marks – when with a start I realized that I needed to have carved the negative shapes. Printing what my finished linoleum block looked like gave a print that was a mirror image. Ooooo did I feel foolish. It was already close to Christmas so there was no "REDO's" for me. I settled on printing it on Japanese rice paper which was fairly translucent and I instructed the recipients to look at the backside of the print.
+I settled on printing it on Japanese rice paper which was fairly translucent and I instructed the recipients to look at the backside of the print.
 
 Why do I tell you this?
 
 ### The 4 movements
 
-Because those 4 elements of creation – leftover from ancient Greek philosophy[^2] – remind me of the 4 movements of the liturgy we are experiencing this night – the "Easter Vigil."
+Because those 4 elements of creation – building blocks of all that is according to ancient Greek philosophy[^2] – remind me of the 4 movements of the liturgy we are experiencing this night – the "Easter Vigil."
 
-The 4 movements of this liturgy are: Fire, Story (Spirit/Air?), Water (the essential reading for the liturgy), and Bread (Eucharist or Earth).
+They are: **Fire**, **Story** (*Spirit/Air?*), **Water** (*one of the many readings we hear tonight, the one essential reading is the account of Israel's deliverance through the Red Sea*), and **Bread** (*Eucharist or Earth*).
 
----
+> Prop: **Show the tray with the props**
 
-> Prop:
-
----
-
-These 4 movements roughly correspond with those Greek symbols of everything that is:  elemental, primordial, encompassing everything. This is the  mother of all liturgies.
+These 4 movements roughly correspond with those Greek symbols of everything that is:  elemental, primordial, encompassing everything. Fire | Light of Christ. Story | Spirit, Air, Wind. Water | Baptism. Bread | Eucharist.  This is the **mother of all liturgies**.
 
 ### Mother of all liturgies
 
@@ -65,15 +60,11 @@ This mother of all liturgies, we engage in an act of 4 parts:
 
 ### Let there be light
 
----
+> Prop: **Candle – light a fire.**
 
-> Prop:
+There is something primordial about Fire. Going back to the origins of human society there is fire. The Light of Christ. Somehow **singing** is a part of lighting the fire.
 
----
-
-There is something primordial about Fire. Going back to the origins of human society there is fire. The Light of Christ. And somehow singing is a part of lighting the fire.
-
-Somewhere I read an imaginative rendering of God **singing** things into creation. Was it in C.S. Lewis? Tolkien? But they got they idea from Scripture. The concept of **singing into creation** is a metaphor describing God's act of bringing the universe into existence through His voice, where creation responds with a song of praise. This imagery is drawn from **Job 38:7**, which states that "the morning stars sang together, and all the sons of God shouted for joy" when God laid the foundations of the earth. [^5]
+Somewhere I read an imaginative rendering of God **singing** things into creation. Was it in C.S. Lewis? Tolkien? But they got the idea from Scripture. The concept of **singing into creation** is a metaphor describing God's act of bringing the universe into existence through His voice and creation responds with a song of praise. This imagery is drawn from **Job 38:7**, which states that "the morning stars sang together, and all the sons of God shouted for joy" when God laid the foundations of the earth. [^5] I think that in Genesis 1 where the text says, "God spoke and it came into being", what it really means is "God sang and it came into being."
 
 Among the most significant events of my 40+ years of ministry is that over 20 times I have been privileged to sing the Exultet. It’s the kind of thing I wish each of you could experience -- even if you would never think of singing in public. To sing the Exultet is as if you are sharing in the act of God’s creation. Sung in the presence of the **flame**.
 
@@ -85,66 +76,66 @@ And so we come to the second movement of our symphony.
 
 ### Telling the story
 
-"Telling the story" – or as I see it letting the Spirit (Air) speak in our midst.
+"Telling the story" – or as I see it letting the Spirit (Air) speak in our midst. We begin the this story – remember it is the mother of all stories – by going back to the beginning. We tell about God being the great deliverer and how God raised up prophets to try to get through our thick ears. God performed great miracles in our midst. Then finally God gave a Son.
 
 **At The Liturgy of the Word**
 
-[_Genesis 7:1-5, 11-18, 8:6-18, 9:8-13 \[The Flood\]_](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#OldTest2)\
-[_Exodus 14:10-31; 15:20-21 \[Israel's deliverance at the Red Sea\]_](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#OldTest4)\
-[_Isaiah 55:1-11 \[Salvation offered freely to all\]_](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#OldTest6)\
-[_Ezekiel 36:24-28 \[A new heart and a new spirit\]](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#Reading7)
+[_Genesis 7:1-5, 11-18, 8:6-18, 9:8-13 \[The Flood\]_](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#OldTest2)
+[_Exodus 14:10-31; 15:20-21 \[Israel's deliverance at the Red Sea\]_](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#OldTest4)
+[_Isaiah 55:1-11 \[Salvation offered freely to all\]_](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#OldTest6)
+[Ezekiel 36:24-28 \[A new heart and a new spirit\]](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#Reading7)
 
 **At The Eucharist**
 
-_[Romans 6:3-11](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#EPISTLE)_\
-_[Psalm 114\
+_[Romans 6:3-11](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#EPISTLE)_
+_[Psalm 114_
 ](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#EuchPsalm)[Matthew 28:1-10](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#GOSPEL)_
 
+In Fr. Peter's sermon for Palm Sunday he gave examples of the power of stories in his own family's life and of how we are here telling the "Greatest story ever told." Stories are so powerful and we often underestimate them. They have the power to heal and to bring life to a barren land.
 
-Have you ever read a story to a child? Of course many of you have. Remember how the child was rapt with attention? “Read it again, Daddy.” The child was there – in the story. That’s how narratives are to be heard and experienced. Being “grown up” and knowing better is a handicap in this case.
+> Prop: **Children's book.**
+
+Have you ever read a story to a child? Of course many of you have. Remember how the child was rapt with attention? “Read it again, Daddy.” The child was there – in the story. They are caught up in the narrative. That’s how narratives are to be heard and experienced. Being “grown up” and knowing better is a handicap in this case.
 
   At the end of his major work titled _Jesus_, E. Schillebeeckx concludes with these words: (p. 673)
 
-> At the start of this book I repeated the story from the Acts (4:10-12) about the lame man who was cured when he heard from Peter the 'story of Jesus'. M. Buber too recognizes the potential of the story in the telling, when he has a rabbi relate the following: 'My grandfather was paralysed. One day he was asked to tell about something that happened with his teacher -- the great Baalschem. Then he told how the saintly Baalschem used to leap about and dance while he was at his prayers. As he went on with the story my grandfather stood up; he was so carried away that he had to show how the master had done it, and started to caper about and dance. From that moment on he was cured. That is how stories should be told.'
->
-> Should this book be a warrantable introduction to the recovery of 'a kind of believeing that really tells',to practical and critical effect, because its basis is the abiding and appealing presence in the world of the kingdom of God and the praxis that goes with it, then I count myself a happy man. If that is not so, then for my part the book can be marked down for sale in any 'curio' shop tomorrow.
+> At the start of this book I repeated the story from the **Acts (4:10-12)** about the lame man who was cured when he heard from Peter the 'story of Jesus'. M. Buber too recognizes the potential of the story in the telling, when he has a rabbi relate the following: 'My grandfather was paralysed. One day he was asked to tell about something that happened with his teacher -- the great Baalschem. Then he told how the saintly Baalschem used to leap about and dance while he was at his prayers. As he went on with the story my grandfather stood up; he was so carried away that he had to show how the master had done it, and started to caper about and dance. From that moment on he was cured. That is how stories should be told.'
 
----
+Schillebeeckx concludes his book by saying that that is with that kind of power that we should be telling the "Greatest Story every told".
 
-> Prop:
+ Telling the story is about far more than just reading some words out of a book. Story is about far more than about what did or didn't happen. As one great teacher put it, **"All stories are true and some of them actually happened."** Telling the story is about allowing the Spirit – God's voice – to break into our hearts. 
 
----
-
-- In the beginning: beginnings, creation, spirit
-- telling the story of the ancestors
-- It’s all story, **all stories are true some factual**
-
-
+**Thus saith the Lord**. And the 2nd movement of this "mother of all liturgies."
 
 ### Washed and Drowned in baptism
 
----
+> Prop: **Water poured into a bowl**
 
-> Prop:
+Water. Such a powerful image. Water makes up 60% of our bodies. Water is the thing that is the great killer in hurricanes. Water was life for the Israelites. Water was death for the Egyptians. Christians have killed one another over the **proper** interpretation of what baptism is or how it is to be administer. 
 
----
+The Rabbis required the reading of the Exodus story. Christians are required to read it at this Easter vigil liturgy. For many centuries Easter was **the** appointed time for baptisms.
 
+Water is a paradoxical sacred symbol. Life-giving and cleansing. Powerful in its destructive force. 
 
-- Water:
-- Baptism
-- the Rabbis required the reading of the Exodus story, We are required to read it at this Easter vigil liturgy … Deliverance for Israel, but death for Egyptians.
-- paradoxical sacred symbols
-- no life without. cleaning and destructive
-- water makes up to 60% of most people's body. We are mostly water.
-- Water is the greatest killer in hurricanes. Too much water is deadly.
+Paradox: a suitable sacred symbol for the Christian life. Baptism is invitation and anointing into a way of life in Jesus. All too often it is not Jesus who is revealed in the life of Christians. 
+
+* Will you continue in the apostles' teaching and fellowship, in the breaking of the bread, and in the prayers?
+* Will you persevere in resisting evil, and, whenever you fall into sin, repent and return to the Lord?
+* Will you proclaim by word and example the Good News of God in Christ?
+* Will you seek and serve Christ in all persons, loving your neighbor as yourself?
+* Will you strive for justice and peace among all people, and respect the dignity of every human being?
+
+We can be so casual when we answer, "Yes." But when put to the test, most of us probably fall short. It is no light matter this 3rd movement of the **mother of all liturgies**. 
 
 ### Fed in 1st Eucharist of Easter
 
----
+> Prop: **Bread**
 
-> Prop:
+Such a simple thing: bread. But it is so much more. Bread is used as a symbol of money, wealth. Some of us, I think, are concerned about eating too much bread and carbohydrates. But consider that at any given moment, in the world we live in, there are millions of people who would be grateful for some bread to eat.
 
----
+Bread is more than just bread.  Metaphorically it is what sustains us through all the times – with God, for the sake of God, by God's grace.
+
+> Humans don't live by bead alone, but by every word that passes from the mouth of God. 
 
 I once heard an Orthodox Christian story about the process of baptism which is really a stand-in for the process of being a Christian:
 
@@ -152,19 +143,24 @@ I once heard an Orthodox Christian story about the process of baptism which is r
 - Second, we wrap the infant for warmth. "Swaddling clothes". Protection, sanctuary.
 - Thirdly, we feed the infant. Nourishment. Food. Sustenance.
 
- Bread is about **hospitality**. For a time in Episcopal Churches it was common to visit the homes of newcomers (preferably the same day they visited a church) and present them with a loaf of bread – then leave. There is something about a fresh baked loaf of bread.
+Metaphorically "bread" is one of the building blocks of the human life.
 
-Bread is used as a symbol of money, wealth.  (_I was so amazed to learn that Japanese word for "bread" is "pan"_). People at the stage of life that most of us are at  are often leery of eating too much bread, but any given moment, in the world we live in, there are millions of people who would be grateful for some bread to eat
+Bread is about **hospitality**. I can testify to the power of what a fresh-baked loaf of bread means at a dinner party. Even when it's baked in a "bread-maker." Bread welcome all. Bread speaks **hospitality**.
 
-Bread – metaphorically – is what sustains through all the times – with God, for the sake of God, by God's grace.
+ > For all that has been — Thanks! To all that shall be — Yes! (*Dag Hammarskjöld*)
+
+For a time in Episcopal Churches it was common for a team of lay persons to visit the homes of newcomers to church (*preferably the Sunday they visited the church*). The team was notable for being lay persons. Clergy are expected to visit, but a lay person can be a sign of the serendipitous and free grace of God. The team would pointedly not stay to visit but would simple present the person or family with a loaf of home-made bread. Then they would leave. 
+ 
+There was abundant evidence that those gifts were effective in sharing the Grace of God – the Work of God. Just the way this "mother of all liturgy" is capable.
+
 
 ## Closing
 
 What's it all about? What is this "mother of all liturgies" about? [^7]
 
-It launches on our annual journey - pilgrimage as we seek to follow Jesus into the world that we live in. We tell the story – a rich and varied story. We gather in Christ's name and go forth to share the light of Christ. We go forth into the world: reborn, anointed, fed, clothed in the presence of God.
+It launches us on our annual journey - our pilgrimage as we seek to follow Jesus into the world that we live in. We tell the story – a rich and varied story. We gather in Christ's name and go forth to share the light of Christ. We go forth into the world: reborn, anointed, fed, clothed in the presence of God.
 
-The power and the glory of liturgy is to "come at God with an unwarranted air of professionalism, with authority and pomp, as though they knew what they were doing" – sometimes the liturgy seems like no more than that. It keeps God at bay. But at other times – and the Easter Vigil, the motherlode of all liturgies, this first liturgy of Easter – well, in Annie Dillard's word:
+The power and the glory of liturgy is to "come at God with an unwarranted air of professionalism, with authority and pomp, as though [we] knew what [we] were doing" – sometimes the liturgy seems like no more than that. It keeps God at bay. But at other times – and the Easter Vigil, the motherlode of all liturgies, this first liturgy of Easter – well, in Annie Dillard's word:
 
 >  If God were to blast such a congregation to bits, the congregation would be, I believe, genuinely shocked. But in the low churches you expect it any minute.
 
