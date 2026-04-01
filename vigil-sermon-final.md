@@ -1,12 +1,19 @@
 ---
-title: Easter Vigil Sermon Draft 2
+title: Easter Vigil Sermon Final
 author: DCH
 date: April 2026
 ---
 
+## Props
+
+- Candle stick with matches
+- Children's reading book
+- Pitcher of water with bowl
+- Loaf of bread
+
 ## Introduction
 
-When I was in my 20s one Christmas, I came up with a creative Christmas card that I was really excited about. My idea was to carve a linoleum block with a design and then print on nice paper, a kind of combination Christmas gift and Christmas card. I spent several weeks carving by design. It had these two elements, the Greek of the opening verse of Johns gospel. And symbols of the ancient Greek understanding of the four basic elements of creation.[^1] In the center or the four symbols, and then around the outside of the card, the Greek of the gospel.[^3]
+When I was in my 20's one Christmas, I came up with what I imaged to be a creative Christmas card that I was really excited about. My idea was to carve a linoleum block with a design and then print on nice paper, a kind of combination Christmas gift and Christmas card. I spent several weeks carving by design. It had these two elements, the Greek of the opening verse of Johns gospel. And symbols of the ancient Greek understanding of the four basic elements of creation.[^1] In the center or the four symbols, and then around the outside of the card, the Greek of the gospel.[^3]
 
 ---
 
@@ -34,7 +41,7 @@ These 4 movements roughly correspond with those Greek symbols of everything that
 
 ### Mother of all liturgies
 
-This **mother of all liturgies** helps me to remember. It helps me to remember that "**remembering**" is a sacred action, inherent in the **service of the people** intersecting with the **work of God**. Those are two understandings of what I mean by the word "**liturgy**." Liturgy is what we the people do when we trust God to act in our midst, to be present in our lives. Liturgy is what God does in our midst.
+This **mother of all liturgies** helps me to remember. It helps me to remember that "**remembering**" is a sacred action, inherent in the **service of the people** intersecting with the **work of God**[^4]. Those are two understandings of what I mean by the word "**liturgy**." Liturgy is what we the people do when we trust God to act in our midst, to be present in our lives. Liturgy is what God does in our midst.
 
 It is the first liturgy of Easter. It is the quintessential Easter liturgy. With fire, Salvation story, Baptism, and Eucharist.
 
@@ -70,7 +77,7 @@ Somewhere I read an imaginative rendering of God **singing** things into creatio
 
 Among the most significant events of my 40+ years of ministry is that over 20 times I have been privileged to sing the Exultet. It’s the kind of thing I wish each of you could experience -- even if you would never think of singing in public. To sing the Exultet is as if you are sharing in the act of God’s creation. Sung in the presence of the **flame**.
 
-It is an example of how telling the story takes us back to the time of the story itself. It's not an accident in this liturgy that we read the story of the Exodus. From ancient times the one essential element of a Passover meal has been the telling of the Exodus story. And for several thousand years the people have been told that in each generation it is essential to tell the story such that we see ourselves as slaves in Egypt. [^7]
+It is an example of how telling the story takes us back to the time of the story itself. It's not an accident in this liturgy that we read the story of the Exodus. From ancient times the one essential element of a Passover meal has been the telling of the Exodus story. And for several thousand years the people have been told that in each generation it is essential to tell the story such that we see ourselves as slaves in Egypt.[^6]
 
 At the Eucharist, as the Celebrant touches the bread and wine, we hear the words, “On that night ...” We are meant to let ourselves be present with Jesus and the disciples on that night -- not pretending but sitting, standing, kneeling in his presence. This is the night. This is it. There is no other. This is the mother of all liturgies.
 
@@ -125,7 +132,7 @@ Have you ever read a story to a child? Of course many of you have. Remember how 
 
 - Water:
 - Baptism
-- the Rabbis required the reading of the Exodus story, We are required to read it at this Easter vigil liturgy … Deliverance for Israel, but death for Egyptians.[^7]
+- the Rabbis required the reading of the Exodus story, We are required to read it at this Easter vigil liturgy … Deliverance for Israel, but death for Egyptians.
 - paradoxical sacred symbols
 - no life without. cleaning and destructive
 - water makes up to 60% of most people's body. We are mostly water.
@@ -153,7 +160,7 @@ Bread – metaphorically – is what sustains through all the times – with God
 
 ## Closing
 
-What's it all about? What is this "mother of all liturgies" about? [^8]
+What's it all about? What is this "mother of all liturgies" about? [^7]
 
 It launches on our annual journey - pilgrimage as we seek to follow Jesus into the world that we live in. We tell the story – a rich and varied story. We gather in Christ's name and go forth to share the light of Christ. We go forth into the world: reborn, anointed, fed, clothed in the presence of God.
 
@@ -165,13 +172,12 @@ Expect God at any moment and God might well surprise you.
 
 ---
 
-[^1]: This concept originated in pre-Socratic philosophy, with Empedocles (c. 450 BCE) being the first to formally define them as the "roots" (**rhizōmata**) of the universe. He argued that all things are made from these elements, which combine and separate under the influence of two forces: Love (attraction) and Strife (repulsion), driving cycles of creation and destruction.
-[^2]: **Aristotle** later refined the theory, defining an "element" as a substance that cannot be broken down into anything simpler and is present in other bodies. He assigned each element specific qualities:  **Fire**: hot and dry –  **Air**: hot and wet –  **Water**: cold and wet –  **Earth**: cold and dry
+[^1]: This concept originated in pre-Socratic philosophy, with Empedocles (c. 450 BCE) being the first to formally define them as the "roots" (**rhizōmata**) of the universe. He argued that all things are made from these elements, which combine and separate under the influence of two forces: Love (attraction) and Strife (repulsion), driving cycles of creation and destruction. **Aristotle** later refined the theory, defining an "element" as a substance that cannot be broken down into anything simpler and is present in other bodies. He assigned each element specific qualities:  **Fire**: hot and dry –  **Air**: hot and wet –  **Water**: cold and wet –  **Earth**: cold and dry
 [^3]: Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.
-[^4]: Found in the Rule of St. Benedict
+[^4]:  Found in the Rule of St. Benedict
 [^5]: **Biblical and Literary Foundations**
 * **Scriptural Basis**: The Bible depicts creation as a responsive act of song; God speaks the world into being, and the "morning stars" and "sons of God" (angels) immediately join in a chorus of joy.
 - **C.S. Lewis's Influence**: In *The Magician's Nephew*, C.S. Lewis expands on this by describing Aslan singing the world of Narnia into existence, where musical notes directly manifest physical elements like trees and flowers.
 - **Tolkien's Mythology**: J.R.R. Tolkien similarly portrayed the Creator (Ilúvatar) forging the world's existence through the "Great Music" of the Ainur (angels), where the universe is literally "sung reality." - Bible, Lewis, Tolkien
-[^7]: בכל דור ודור חייב אדם לראות את עצמו כאילו הוא יצא ממצרים. *B’chol dor vador hayav adam lir’ot et atzmo k’ilu hu yatsa mimitzrayim.* In every generation, we must each see ourselves as if we ourselves had gone out of Egypt.
-[^8]: God Surprise: we don’t find God in the expected places or ways; God paradoxical: we can only see sideways; End of life: Gratitude; Influence of ancestors (*mother-father etc.*) is huge; Life is long enough to learn, but not really long enough to change
+[^6]: בכל דור ודור חייב אדם לראות את עצמו כאילו הוא יצא ממצרים. *B’chol dor vador hayav adam lir’ot et atzmo k’ilu hu yatsa mimitzrayim.* In every generation, we must each see ourselves as if we ourselves had gone out of Egypt.
+[^7]: God Surprise: we don’t find God in the expected places or ways; God paradoxical: we can only see sideways; End of life: Gratitude; Influence of ancestors (*mother-father etc.*) is huge; Life is long enough to learn, but not really long enough to change
