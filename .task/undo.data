@@ -441,19 +441,11 @@ new [description:"onhold Linux on newest chromebook" entry:"1774780900" modified
 time 1774564687
 new [description:"energizer battery cr1632" entry:"1774564687" modified:"1774564687" status:"pending" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
 ---
-time 1775125517
-old [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
-new [description:"clear under sinks, around circuit box, access to attic" end:"1775125515" entry:"1774282063" modified:"1775125517" project:"home" status:"deleted" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
----
-time 1775125537
-old [description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
-new [description:"Get home inspection pronto" end:"1775125534" entry:"1774278144" modified:"1775125537" project:"home" status:"deleted" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
----
-time 1775125573
+time 1775056735
 old [description:"get phone call setup for Michael" entry:"1774395458" modified:"1774395458" project:"prison" status:"pending" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
-new [description:"get phone call setup for Michael" end:"1775125570" entry:"1774395458" modified:"1775125573" project:"prison" status:"deleted" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
+new [description:"get phone call setup for Michael" end:"1775056731" entry:"1774395458" modified:"1775056735" project:"prison" status:"deleted" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
 ---
-time 1775125596
-old [description:"energizer battery cr1632" entry:"1774564687" modified:"1774564687" status:"pending" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
-new [description:"energizer battery cr1632" end:"1775125592" entry:"1774564687" modified:"1775125596" status:"deleted" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
+time 1775056753
+old [description:"write Michael to ask if he wants to talk" entry:"1774395479" modified:"1774395479" project:"prison" status:"pending" uuid:"899ed4ff-2cde-470d-8ac2-fc931bc570fd"]
+new [description:"write Michael to ask if he wants to talk" end:"1775056752" entry:"1774395479" modified:"1775056753" project:"prison" status:"deleted" uuid:"899ed4ff-2cde-470d-8ac2-fc931bc570fd"]
 ---

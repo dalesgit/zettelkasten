@@ -115,17 +115,12 @@
 {"description":"replace\/reverse screen door","entry":"20260228T173823Z","modified":"20260323T160838Z","project":"home","status":"pending","uuid":"2058a46f-903b-406d-af26-cb9d9cc07236"}
 {"description":"get phone call setup for Michael","entry":"20260324T233738Z","modified":"20260324T233738Z","project":"prison","status":"pending","uuid":"fc4fdab5-ec1e-4653-876c-165a6a6282fd"}
 {"description":"write Michael to ask if he wants to talk","entry":"20260324T233759Z","modified":"20260324T233759Z","project":"prison","status":"pending","uuid":"899ed4ff-2cde-470d-8ac2-fc931bc570fd"}
-<<<<<<< HEAD
 {"description":"buy 15mm wrench","entry":"20260327T102303Z","modified":"20260327T102303Z","project":"home","status":"pending","uuid":"84be1ca7-0ccc-47dc-b3b4-c3893cc224af"}
 {"description":"find bag pattern and strap guide","entry":"20260327T102341Z","modified":"20260327T102341Z","project":"diy","status":"pending","uuid":"f630d8c1-990f-49d3-b939-d2113946a7b8"}
 {"description":"onhold mount bike lift","entry":"20260329T104102Z","modified":"20260329T104102Z","status":"pending","uuid":"5aa33dc2-5308-48c4-a290-c3acf24577ca"}
 {"description":"onhold Linux on newest chromebook","entry":"20260329T104140Z","modified":"20260329T104140Z","status":"pending","uuid":"94c02085-080c-490b-95b1-4bee3497f9e0"}
 {"description":"onhold mount bike lift","entry":"20260329T104102Z","modified":"20260329T104220Z","project":"onhold","status":"pending","uuid":"5aa33dc2-5308-48c4-a290-c3acf24577ca"}
 {"description":"onhold Linux on newest chromebook","entry":"20260329T104140Z","modified":"20260329T104244Z","project":"onhold","status":"pending","uuid":"94c02085-080c-490b-95b1-4bee3497f9e0"}
-=======
 {"description":"energizer battery cr1632","entry":"20260326T223807Z","modified":"20260326T223807Z","status":"pending","uuid":"c7ec9aae-de11-4084-9003-32f432931653"}
->>>>>>> d6084c057966ff132db324c44f098556b4093ac1
-{"description":"clear under sinks, around circuit box, access to attic","end":"20260402T102515Z","entry":"20260323T160743Z","modified":"20260402T102517Z","project":"home","status":"deleted","uuid":"00f31506-6bad-4c46-8faa-7b9f36f2110f"}
-{"description":"Get home inspection pronto","end":"20260402T102534Z","entry":"20260323T150224Z","modified":"20260402T102537Z","project":"home","status":"deleted","uuid":"269b77ec-1be7-423f-aaff-272a7628d15c"}
-{"description":"get phone call setup for Michael","end":"20260402T102610Z","entry":"20260324T233738Z","modified":"20260402T102613Z","project":"prison","status":"deleted","uuid":"fc4fdab5-ec1e-4653-876c-165a6a6282fd"}
-{"description":"energizer battery cr1632","end":"20260402T102632Z","entry":"20260326T223807Z","modified":"20260402T102636Z","status":"deleted","uuid":"c7ec9aae-de11-4084-9003-32f432931653"}
+"description":"get phone call setup for Michael","end":"20260401T151851Z","entry":"20260324T233738Z","modified":"20260401T151855Z","project":"prison","status":"deleted","uuid":"fc4fdab5-ec1e-4653-876c-165a6a6282fd"}
+{"description":"write Michael to ask if he wants to talk","end":"20260401T151912Z","entry":"20260324T233759Z","modified":"20260401T151913Z","project":"prison","status":"deleted","uuid":"899ed4ff-2cde-470d-8ac2-fc931bc570fd"}
