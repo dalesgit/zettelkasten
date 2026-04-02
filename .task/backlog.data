@@ -125,3 +125,7 @@
 =======
 {"description":"energizer battery cr1632","entry":"20260326T223807Z","modified":"20260326T223807Z","status":"pending","uuid":"c7ec9aae-de11-4084-9003-32f432931653"}
 >>>>>>> d6084c057966ff132db324c44f098556b4093ac1
+{"description":"clear under sinks, around circuit box, access to attic","end":"20260402T102515Z","entry":"20260323T160743Z","modified":"20260402T102517Z","project":"home","status":"deleted","uuid":"00f31506-6bad-4c46-8faa-7b9f36f2110f"}
+{"description":"Get home inspection pronto","end":"20260402T102534Z","entry":"20260323T150224Z","modified":"20260402T102537Z","project":"home","status":"deleted","uuid":"269b77ec-1be7-423f-aaff-272a7628d15c"}
+{"description":"get phone call setup for Michael","end":"20260402T102610Z","entry":"20260324T233738Z","modified":"20260402T102613Z","project":"prison","status":"deleted","uuid":"fc4fdab5-ec1e-4653-876c-165a6a6282fd"}
+{"description":"energizer battery cr1632","end":"20260402T102632Z","entry":"20260326T223807Z","modified":"20260402T102636Z","status":"deleted","uuid":"c7ec9aae-de11-4084-9003-32f432931653"}
