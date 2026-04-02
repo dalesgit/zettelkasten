@@ -14,11 +14,11 @@ date: April 2026
 
 ## Introduction
 
-When I was in my 20's one Christmas, I came up with what I imaged to be a creative Christmas card that I was really excited about. My idea was to carve a linoleum block with a design and then print on nice paper, a kind of combination Christmas gift and Christmas card. I spent several weeks carving by design. It had these two elements, the Greek of the opening verse of Johns gospel. And symbols of the ancient Greek understanding of the four basic elements of creation.[^1] In the center or the four symbols, and then around the outside of the card, the Greek of the gospel.[^3]
+When I was in my 20's one Christmas, I came up with what I imaged to be a creative Christmas card that I was really excited about. My idea was to carve a linoleum block with a design and then print on nice paper, a kind of combination Christmas gift and Christmas card. I spent several weeks carving by design. It had these two elements, the Greek of the opening verse of John's gospel. And symbols of the ancient Greek understanding of the four basic elements of creation.[^1] In the center the four symbols, and then around the outside of the card, the Greek of the gospel.[^3]
 
 > Prop: **Mock card**
 
-It didn't look exactly like this, but you get the idea. Well, I had been working on the fairly intricate carving of the Greek into that linoleum block – with its articulation marks – when with a start I realized that I needed to have carved the negative shapes. Printing what I had carved gave a print that was the mirror image of what I wanted. Ooooo did I feel foolish. It was already close to Christmas so there was no "**REDO**'s" for me. 
+It didn't look exactly like this, but you get the idea. Well, I had been working on the fairly intricate carving of the Greek into that linoleum block – with its articulation marks – when with a start I realized that I needed to have carved the negative of the shapes. Printing what I had carved gave a print that was the mirror image of what I wanted. Ooooo did I feel foolish. It was already close to Christmas so there was no "**REDO**" for me. 
 
 I settled on printing it on Japanese rice paper which was fairly translucent and I instructed the recipients to look at the backside of the print.
 
@@ -26,19 +26,19 @@ Why do I tell you this?
 
 ### The 4 movements
 
-Because those 4 elements of creation – building blocks of all that is according to ancient Greek philosophy[^2] – remind me of the 4 movements of the liturgy we are experiencing this night – the "Easter Vigil."
+Because those 4 elements of creation – building blocks of all that is according to ancient Greek philosophy – remind me of the 4 movements of the liturgy we are experiencing this night – the "Easter Vigil."
 
 They are: **Fire**, **Story** (*Spirit/Air?*), **Water** (*one of the many readings we hear tonight, the one essential reading is the account of Israel's deliverance through the Red Sea*), and **Bread** (*Eucharist or Earth*).
 
 > Prop: **Show the tray with the props**
 
-These 4 movements roughly correspond with those Greek symbols of everything that is:  elemental, primordial, encompassing everything. Fire | Light of Christ. Story | Spirit, Air, Wind. Water | Baptism. Bread | Eucharist.  This is the **mother of all liturgies**.
+These 4 movements roughly correspond with those Greek symbols of everything that is:  elemental, primordial, encompassing everything. Fire | Light of Christ. Story | Spirit, Air, Wind. Water | Baptism. Bread | Eucharist.  The liturgy we celebrate, the **Easter Vigil** tonight is the **mother of all liturgies**.
 
 ### Mother of all liturgies
 
-This **mother of all liturgies** helps me to remember. It helps me to remember that "**remembering**" is a sacred action, inherent in the **service of the people** intersecting with the **work of God**[^4]. Those are two understandings of what I mean by the word "**liturgy**." Liturgy is what we the people do when we trust God to act in our midst, to be present in our lives. Liturgy is what God does in our midst.
+This **mother of all liturgies** helps me to remember. It helps me to remember that "**remembering**" is a sacred action, inherent in the **service of the people** intersecting with the **Work of God**[^4]. The word liturgy has for many centuries been thought of as the combination of two Greek words meaning "people" (laos) and "work" (ourgia). More recently another meaning has been applied to it: "work of God." These two understandings, then, is what I mean by the word "**liturgy**." "The work of the people and at the same time the Work of God. Liturgy is what we the people do when we trust God to act in our midst, to be present in our lives. Liturgy, in short, is what God does in our midst, often when we think that we are doing the work.
 
-It is the first liturgy of Easter. It is the quintessential Easter liturgy. With fire, Salvation story, Baptism, and Eucharist.
+**The Easter Vigil is the first liturgy of Easter.** It is the quintessential Easter liturgy. With fire, Salvation story, Baptism, and Eucharist.
 
 This liturgy establishes the pattern upon which everything else we do as Christians is modeled. We light a fire so that others can see "The light of Christ." We sing as we give God all the glory. We freely share the story of God's work in our lives. We thirst for the Living God and our thirst is satisfied. We share the Grace we have been given as we pass on the faith we have received. We are nourished by daily prayer and sacrament.
 
@@ -46,10 +46,9 @@ Liturgy is not something where we do one thing after another. It’s not somethi
 
 This is where what **we do** and what **God does** intersect and come together. In the words of Annie Dillard:
 
-> “The higher Christian churches...come at God with an unwarranted air of professionalism, with authority and pomp, as though they knew what they were doing, as though people in themselves were an appropriate set of creatures to have dealings with God. I often think of the set pieces of liturgy as certain words which people have successfully addressed to God without their getting killed. In the high churches they saunter through the liturgy like Mohawks along a strand of scaffolding who have long since forgotten the danger. If God were to blast such a congregation to bits, the congregation would be, I believe, genuinely shocked. But in the low churches you expect it any minute.”
+> “The higher Christian churches...come at God with an unwarranted air of professionalism, with authority and pomp, **as though they knew what they were doing, as though people in themselves were an appropriate set of creatures to have dealings with God.** I often think of the set pieces of liturgy as certain words which people have successfully addressed to God without their getting killed. In the high churches they saunter through the liturgy like Mohawks along a strand of scaffolding who have long since forgotten the danger. If God were to blast such a congregation to bits, the congregation would be, I believe, genuinely shocked. But in the low churches you expect it any minute.”
 
-
-This mother of all liturgies, we engage in an act of 4 parts:
+In this mother of all liturgies, we engage in an act of 4 parts:
 
 1. Fire (light)
 2. Setting the Spirit Free – Telling the Story (The Great Story)
@@ -66,7 +65,7 @@ There is something primordial about Fire. Going back to the origins of human soc
 
 Somewhere I read an imaginative rendering of God **singing** things into creation. Was it in C.S. Lewis? Tolkien? But they got the idea from Scripture. The concept of **singing into creation** is a metaphor describing God's act of bringing the universe into existence through His voice and creation responds with a song of praise. This imagery is drawn from **Job 38:7**, which states that "the morning stars sang together, and all the sons of God shouted for joy" when God laid the foundations of the earth. [^5] I think that in Genesis 1 where the text says, "God spoke and it came into being", what it really means is "God sang and it came into being."
 
-Among the most significant events of my 40+ years of ministry is that over 20 times I have been privileged to sing the Exultet. It’s the kind of thing I wish each of you could experience -- even if you would never think of singing in public. To sing the Exultet is as if you are sharing in the act of God’s creation. Sung in the presence of the **flame**.
+Among the most significant events of my 40+ years of ministry is that over 20 times I have had the privilege of singing the Exultet. It’s the kind of thing I wish each of you could experience -- even if you would never think of singing in public. To sing the Exultet is as if you are sharing in the act of God’s creation. Sung in the presence of the **flame** which signifies **the light of Christ**.
 
 It is an example of how telling the story takes us back to the time of the story itself. It's not an accident in this liturgy that we read the story of the Exodus. From ancient times the one essential element of a Passover meal has been the telling of the Exodus story. And for several thousand years the people have been told that in each generation it is essential to tell the story such that we see ourselves as slaves in Egypt.[^6]
 
@@ -76,7 +75,7 @@ And so we come to the second movement of our symphony.
 
 ### Telling the story
 
-"Telling the story" – or as I see it letting the Spirit (Air) speak in our midst. We begin this story – remember it is the mother of all stories – by going back to the beginning. We tell about God being the great deliverer and how God raised up prophets to try to get through our thick ears. God performed great miracles in our midst. Then finally God gave a Son.
+"Telling the story" – or as I see it letting the Spirit (Air) speak in our midst. We begin this story – remember it is the mother of all stories – by going back to the beginning. We tell about how God was the great Creator. Then how, in the account in Genesis, we became enslaved both literally and figuratively, and it was God who was the great Deliverer. God raised up prophets to try to get through our thick hearts and ears. God performed great miracles in our midst to show us the way. Then, finally, God gave a Son to finish the job of deliverance.
 
 **At The Liturgy of the Word**
 
@@ -91,7 +90,7 @@ _[Romans 6:3-11](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.h
 _[Psalm 114_
 ](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#EuchPsalm)[Matthew 28:1-10](https://www.lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html#GOSPEL)_
 
-In Fr. Peter's sermon for Palm Sunday he gave examples of the power of stories in his own family's life and of how we are here telling the "Greatest story ever told." Stories are so powerful and we often underestimate them. They have the power to heal and to bring life to a barren land.
+these are the readings we have used in tonight's rendition of that Great Story. In Fr. Peter's sermon for Palm Sunday he gave examples of the power of stories in his own family's life and of how we are here telling the "Greatest story ever told." Stories are so powerful and we often underestimate them. They have the power to heal and to bring life to a barren land.
 
 > Prop: **Children's book.**
 
@@ -153,7 +152,7 @@ Bread is about **hospitality**. I can testify to the power of what a fresh-baked
 
  > For all that has been — Thanks! To all that shall be — Yes! (*Dag Hammarskjöld*)
 
-For a time in Episcopal Churches it was common for a team of lay persons to visit the homes of newcomers to church (*preferably the Sunday they visited the church*). The team was notable for being lay persons. Clergy are expected to visit, but a lay person can be a sign of the serendipitous and free grace of God. The team would pointedly not stay to visit but would simple present the person or family with a loaf of home-made bread. Then they would leave. People are often **hooked** when they experience the free and surprising grace of God.
+For a time in many Episcopal Churches it was common for a team of lay persons to visit the homes of newcomers to church (*preferably the Sunday they visited the church*). The team was notable for being lay persons. Clergy are expected to visit, but a lay person can be a sign of the serendipitous and free grace of God. The team would pointedly not stay to visit but would simple present the person or family with a loaf of home-made bread. Then they would leave. People are often **hooked** when they experience the free and surprising grace of God.
  
 There was abundant evidence that those gifts were effective in sharing the **Grace of God** – the **Work of God**. Just the way this "**mother of all liturgy**" is capable of doing.
 
@@ -163,7 +162,7 @@ What's it all about? What is this "mother of all liturgies" about? [^7]
 
 It launches us on our annual journey - our pilgrimage as we seek to follow Jesus into the world that we live in. We tell the story – a rich and varied story. We gather in Christ's name and go forth to share the light of Christ. We go forth into the world: reborn, anointed, fed, clothed in the presence of God.
 
-The power and the glory of liturgy is to "come at God with an unwarranted air of professionalism, with authority and pomp, as though [we] knew what [we] were doing" – sometimes the liturgy seems like no more than that. It keeps God at bay. But at other times – and the Easter Vigil, the motherlode of all liturgies, this first liturgy of Easter – well, in Annie Dillard's word:
+The power and the glory of liturgy is to "come at God with an unwarranted air of professionalism, with authority and pomp, as though [we] knew what [we] were doing" – sometimes the liturgy seems like no more than that. It keeps God at bay. But at other times – and in the Easter Vigil, the motherlode of all liturgies, this first liturgy of Easter – well, in Annie Dillard's word:
 
 >  If God were to blast such a congregation to bits, the congregation would be, I believe, genuinely shocked. But in the low churches you expect it any minute.
 
