@@ -1,0 +1,1 @@
+[He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet](https://www.theguardian.com/world/2026/apr/06/opus-dei-gareth-gore-pope-leo?CMP=Share_iOSApp_Other)

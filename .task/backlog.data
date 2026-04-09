@@ -124,3 +124,9 @@
 {"description":"energizer battery cr1632","entry":"20260326T223807Z","modified":"20260326T223807Z","status":"pending","uuid":"c7ec9aae-de11-4084-9003-32f432931653"}
 "description":"get phone call setup for Michael","end":"20260401T151851Z","entry":"20260324T233738Z","modified":"20260401T151855Z","project":"prison","status":"deleted","uuid":"fc4fdab5-ec1e-4653-876c-165a6a6282fd"}
 {"description":"write Michael to ask if he wants to talk","end":"20260401T151912Z","entry":"20260324T233759Z","modified":"20260401T151913Z","project":"prison","status":"deleted","uuid":"899ed4ff-2cde-470d-8ac2-fc931bc570fd"}
+{"description":"buy 15mm wrench","end":"20260407T110255Z","entry":"20260327T102303Z","modified":"20260407T110255Z","project":"home","status":"completed","uuid":"84be1ca7-0ccc-47dc-b3b4-c3893cc224af"}
+{"description":"onhold mount bike lift","end":"20260407T110309Z","entry":"20260329T104102Z","modified":"20260407T110309Z","project":"onhold","status":"completed","uuid":"5aa33dc2-5308-48c4-a290-c3acf24577ca"}
+{"description":"Get home inspection pronto","end":"20260407T110322Z","entry":"20260323T150224Z","modified":"20260407T110322Z","project":"home","status":"completed","uuid":"269b77ec-1be7-423f-aaff-272a7628d15c"}
+{"description":"find bag pattern and strap guide","end":"20260407T110328Z","entry":"20260327T102341Z","modified":"20260407T110328Z","project":"diy","status":"completed","uuid":"f630d8c1-990f-49d3-b939-d2113946a7b8"}
+{"description":"energizer battery cr1632","end":"20260407T110344Z","entry":"20260326T223807Z","modified":"20260407T110344Z","status":"completed","uuid":"c7ec9aae-de11-4084-9003-32f432931653"}
+{"description":"clear under sinks, around circuit box, access to attic","end":"20260407T160402Z","entry":"20260323T160743Z","modified":"20260407T160402Z","project":"home","status":"completed","uuid":"00f31506-6bad-4c46-8faa-7b9f36f2110f"}

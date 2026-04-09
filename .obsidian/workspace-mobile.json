@@ -1,12 +1,3 @@
-{
-  "main": {
-    "id": "03801f5fd954433d",
-    "type": "split",
-    "children": [
-      {
-        "id": "1073e945bb881bc1",
-        "type": "tabs",
-        "children": [
           {
             "id": "1fd4632d94dec1af",
             "type": "leaf",
@@ -14,6 +5,7 @@
               "type": "markdown",
               "state": {
                 "file": "Clippings/three pines - Google Search.md",
+                "file": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,6 +21,7 @@
               },
               "icon": "lucide-file",
               "title": "three pines - Google Search"
+              "title": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet"
             }
           }
         ]
@@ -118,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "vigil-sermon-draft.md",
+            "file": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,9 +196,7 @@
   "active": "1fd4632d94dec1af",
   "lastOpenFiles": [
     "Clippings/Yvette Cooper urges full reopening of Strait of Hormuz.md",
-    "Clippings/three pines - Google Search.md",
-    "vigil-sermon-draft.md",
-    "Journal/Daily/2025-11-29.md",
+    "Clippings/three pines - Google Search.md",    "Journal/Daily/2025-11-29.md",
     "sign.md",
     "How to use drafts.md",
     "Bruce Springsteen song _streets of Minneapolis_.md",
