@@ -1,0 +1,2 @@
+[2026-02-16 05:12:43 PM] Got Samba working.
+@tech It seems to me that the whole problem I was having was that I had multiple computers with the hostname "MX". I've renamed all of them to have distinctive names.

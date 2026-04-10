@@ -1,10 +1,11 @@
 {
   "cssTheme": "Material Gruvbox",
   "theme": "moonstone",
-  "textFontFamily": "Times New Roman,Cambria,Baskerville",
-  "baseFontSize": 17,
-  "interfaceFontFamily": "Cambria,Baskerville",
+  "textFontFamily": "Times New Roman,Arial,Cambria,Baskerville",
+  "baseFontSize": 15,
+  "interfaceFontFamily": "Cambria,Baskerville,Times New Roman,Arial",
   "enabledCssSnippets": [
     "myfont"
-  ]
+  ],
+  "accentColor": ""
 }

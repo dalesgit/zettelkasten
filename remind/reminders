@@ -1,0 +1,69 @@
+DO /home/dale/Repositories/wiki-vim/remind.md
+DO /home/dale/Repositories/wiki-vim/remind-cal.md
+DO /home/dale/Repositories/wiki-vim/remind-cal2.md
+DO /home/dale/Repositories/wiki-vim/remind-cruise.md
+DO /home/dale/Repositories/wiki-vim/remind-bd.md
+SET Week_2 8
+SET Week_3 15
+REM Jan 1 MSG Remind every year on new years day
+REM January 1 2015 MSG Remind only on new years day 2015
+;REM Sunday 2 MSG Remind every second Sunday
+REM March Monday 1 --7 MSG remind on the last Monday of February
+REM December 25 +30 MSG Christmas  %b
+REM Thu Nov 22 +7  MSG Thanksgiving Day  %b
+; show sunrise/sunset Palm Harbor
+SET $LongDeg 82
+SET $LongMin 45
+SET $LongSec 49
+SET $LatDeg 28
+SET $LatMin 4
+SET $LatSec 41
+REM Mon MSG sunrise at [sunrise(trigdate())], sunset at [sunset(trigdate())]
+;, next full moon at [moontime(2)] on [moondate(2)]%
+; holidays
+REM Sun Jun [Week_3] +14 MSG Father's Day %b%
+REM Sun May [Week_2] +14 MSG Mother's Day %b%
+REM July 4 +14 MSG Independence Day in the USA %b%
+REM Sun Mar 8 ++2 MSG Daylight Saving Time starts in the USA %b%
+REM SUN Nov 1 ++2 MSG Daylight Saving Time ends in the USA %b%
+; prettify the sunrise/sunset/moon data
+;fset _srtd() coerce("STRING", _no_lz(_am_pm(sunrise(today()))))
+;fset _srtd() coerce("STRING", (sunrise(today())))
+;fset _sstd() coerce("STRING", (sunset(today())))
+;fset _srtm() coerce("STRING", _no_lz(_am_pm(sunrise(today()+1))))
+;fset _sstm() coerce("STRING", _no_lz(_am_pm(sunset(today()+1))))
+;fset sunup (sunrise())  
+;MSG Sun is up today from [_srtd()] to [_sstd()].%"%"%
+;MSG Sun is up today from [_srtd()]%2%  to [_sstd()].%"%"%
+;MSG Next full moon: [mon(moondate(2))] [day(moondate(2))], [year(moondate(2))].
+;MSG Next ? moon: [mon(moondate(1))] [day(moondate(1))], [year(moondate(1))].%"%"%
+; MSG Next new moon: [mon(moondate(0))] [day(moondate(0))], [year(moondate(0))].%"%"%
+REM [moondate(0)] SPECIAL MOON 0 -1 -1 [moontime(0)]
+REM [moondate(1)] SPECIAL MOON 1 -1 -1 [moontime(1)]
+REM [moondate(2)] SPECIAL MOON 2 -1 -1 [moontime(2)]
+REM [moondate(3)] SPECIAL MOON 3 -1 -1 [moontime(3)]
+REM Sun Nov 24 MSG MP and I lead Forum
+; Easter stuff https://remind-fans.roaringpenguin.narkive.com/5M42EAq0/good-friday-and-easter-events-in-remind
+SET easter EASTERDATE(YEAR(TODAY()))
+REM [TRIGGER(easter-2)] MSG Good Friday %b%
+REM [TRIGGER(easter)] MSG Easter Sunday %b%
+REM [TRIGGER(easter+1)] MSG Easter Monday %b%
+REM [TRIGGER(easter-3)] MSG Holy Thursday %b%
+REM [TRIGGER(easter-7)] MSG Palm Sunday %b%
+REM [TRIGGER(easter+49)] MSG Pentecost %b%
+REM [TRIGGER(easter+56)] MSG Trinity Sunday %b%
+;REM [TRIGGER(easter-49)] MSG Ash Wednesday %b%
+REM Wed [easterdate(year(today()))-49] MSG Ash Wednesday  %b%
+REM Wed [easterdate(year(today()))+49] MSG Pentecost  %b%
+REM Wed [easterdate(year(today()))+56] MSG Trinity Sunday  %b%
+;REM Easter: [mon(easterdate(2025))] [day(easterdate(2025))], [year(easterdate(2025))] MSG Easter Sunday
+;REM [easterdate(year(today()))] MSG Easter Sunday  
+;REM [easterdate(year(today()))-2] MSG Good Friday  
+;REM [easterdate(year(today()))-3] MSG Maundy Thursday
+;REM [easterdate(year(today()))-7] MSG Palm Sunday
+
+;REM Good Friday: [mon(easterdate(2025)-2)] [day(easterdate(2025)-2)], [year(easterdate(2025)-2)] MSG Good Friday
+;REM  [trigger(easterdate()-2)] MSG Good Friday
+REM Nov 28 2024 +14 AT 10:00  MSG DH celebrate and preach %b
+REM Nov 28 2024 +14 MSG Turkey dinner at church %b
+REM Nov 27 2024 +3 AT 10:45 MSG Humphrey follow-up %b

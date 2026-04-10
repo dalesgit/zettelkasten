@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"0c8a775ef770c795","type":"file","file":"pagelsMiraclesWonderHistorical2025.md","x":-215,"y":-259,"width":400,"height":400,"color":"5"},
-		{"id":"25a5368f344d08fa","x":140,"y":200,"width":250,"height":60,"type":"text","text":""}
-	],
-	"edges":[
-		{"id":"024b23d8e91d9a2e","fromNode":"0c8a775ef770c795","fromSide":"right","toNode":"25a5368f344d08fa","toSide":"top"}
-	]
-}

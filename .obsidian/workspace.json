@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "cd6a0afe7020dd00",
+    "id": "560f748e29c310e2",
     "type": "split",
     "children": [
       {
-        "id": "c89b3734e861075b",
+        "id": "556124b5719b6bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "06a8fefa13418e36",
+            "id": "5a89f1dcff13ddfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-09-27.md",
+                "file": "Inbox Feb 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,24 +28,49 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-27"
+              "title": "Inbox Feb 2026"
+            }
+          },
+          {
+            "id": "6a1dc1f488574043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/banking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "banking"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b4ee036ec5b05e6f",
+    "id": "9f49e9fe95aeacc7",
     "type": "split",
     "children": [
       {
-        "id": "b6759c69f6a5a2ba",
+        "id": "92464d1d13e00f0d",
         "type": "tabs",
         "children": [
           {
-            "id": "5a69238350bfdba9",
+            "id": "77f907bdac539cd0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +83,12 @@
             }
           },
           {
-            "id": "6f046a4203839886",
+            "id": "dd7a046db2e6bb1e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#apocalyptic",
+                "query": "banking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +100,7 @@
             }
           },
           {
-            "id": "f4cb65d3270a4fe7",
+            "id": "0ace309be2518d38",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,20 +117,20 @@
     "width": 300
   },
   "right": {
-    "id": "db7a80e2846d5f24",
+    "id": "f673ed79fa544c2d",
     "type": "split",
     "children": [
       {
-        "id": "85c395b3768dc7fb",
+        "id": "d7a1acc240096c1d",
         "type": "tabs",
         "children": [
           {
-            "id": "5d7463a3ca027010",
+            "id": "bb1532639c004fdb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2025-07-21-Monday.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +140,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-07-21-Monday"
+              "title": "Backlinks for Inbox"
             }
           },
           {
-            "id": "211ed59acbf3cbb9",
+            "id": "c2b48b303206f04b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -132,12 +157,12 @@
             }
           },
           {
-            "id": "a48e19a949361ef4",
+            "id": "065912e7e3159d2f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -147,22 +172,22 @@
             }
           },
           {
-            "id": "147158eeb6b41115",
+            "id": "7796ed7e3b165c07",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2025-09-22.md",
+                "file": "Inbox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-22"
+              "title": "Outline of Inbox"
             }
           },
           {
-            "id": "e6329c7b863ef15d",
+            "id": "1d766c7db424521c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -172,7 +197,27 @@
             }
           },
           {
-            "id": "8779a5af8fc9662c",
+            "id": "76e659ebdeeac54a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "6df0a8ab23383ddd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "574d836dd676d945",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -180,96 +225,61 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
-          },
-          {
-            "id": "d32c28f5634dca6c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-kanban:Create new board": false,
-      "recipe-grabber:Recipe Grabber": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "06a8fefa13418e36",
+  "active": "6a1dc1f488574043",
   "lastOpenFiles": [
-    "sample-zotero.canvas",
-    "journal/2025-09-27.md",
-    "pagelsMiraclesWonderHistorical2025.md",
-    "morrisonBeloved2010.md",
-    "psalm-summer-25.md",
-    "sample-canvas.canvas",
-    "Clippings/I paired Obsidian Canvas with Zotero, and it's a game-changer.md",
-    "Clippings/The Librarians review – the heroic women battling against book bans and censorship.md",
-    "Clippings/The first domino Comey indictment sets MAGA retribution in motion.md",
-    "Clippings/The first domino Comey indictment sets MAGA retribution in motion 1.md",
-    "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md.crswap",
-    "Sep-27,-2025-‘Free-speech-for-me,-not-for-thee’-how-Trump’s-censorship-blitz-is-splitting-the-right--Charlie-Kirk.md",
-    "MP.md",
-    "journal/2025-09-26.md",
-    "Clippings/Empathy is under attack — but it remains vital for leadership and connection.md",
-    "Clippings/A prayer for reconciliation  Friends of Silence.md",
-    "Clippings/5 Easy Dinner Recipes To Make With a $5 Costco Rotisserie Chicken.md",
-    "Padraig O'Tuama.md",
-    "Clippings/Psychologists Reveal 9 Things High-Level Thinkers Notice That the Average Person Misses.md",
-    "Clippings/White House mass firing memo signals Trump would accelerate priorities in a shutdown. Democrats aren’t backing down  CNN Politics.md",
-    "notes/soups I like.md",
-    "Recipes/Lentil Soup.md",
-    "journal/2025-09-25.md",
-    "Read-it-later.base",
-    "Clippings/Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
-    "Clippings/How the First Amendment protects Americans’ speech − and how it does not.md",
-    "Clippings/She Modeled Her Whole Life on Godly Purity. Then She Woke Up..md",
-    "Clippings/Opinion  What the World Gets Wrong About Israel.md",
-    "Clippings/Poetry Unbound.md",
-    "assets/Pasted image 20250910094353.png",
-    "assets/Pasted image 20250920134856.png",
-    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].mp3",
-    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm",
-    "Aerosmith - Sweet Emotion (Audio) [bHlbryOTgYM].webm.part",
-    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].mp3",
-    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm",
-    "Eagles - One Of These Nights (Official Audio) [dkb811y4fkI].webm.part",
-    "Born to Run [Wu4_zVxmufY].mp3",
-    "Born to Run [Wu4_zVxmufY].webm",
-    "ReadItLater Inbox/assets/What Are Prophets For-Cy2Yt8eOGi.jpeg",
-    "assets/Instant-Pot-Chicken-Tortilla-Soup.jpg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-1BkX82aBMT.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-rRY5YXPl2U.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-3kEOQa0RsR.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-eDPHyZq9OM.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-XVZwnwhgzW.jpeg",
-    "ReadItLater Inbox/assets/Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live-GkHohThxlo.jpeg",
-    "Untitled.canvas",
-    "5_Structure/Canvases/How to Use Links with Templates.canvas",
-    "5_Structure/Canvases/About - 5_Structure Notes.canvas",
-    "5_Structure/Canvases/About - 4_Project Notes.canvas",
-    "5_Structure/Canvases/About - 3_Permanent Notes.canvas",
-    "5_Structure/Canvases/About - 2_Literature Notes.canvas",
-    "5_Structure/Canvases/About - 1_Fleeting Notes.canvas"
+    "archive/Daily notes/2025-07-07.md",
+    "Journal/Weekly/2026-W05.md",
+    "Journal/Weekly/2026-W08.md",
+    "Journal/Weekly/2026-W07.md",
+    "Journal/Weekly/2026-W06.md",
+    "Journal/Weekly/2026-W09.md",
+    "Inbox Feb 2026.md",
+    "Journal/Daily/2026-02-02.md",
+    "Journal/Daily/2026-01-31.md",
+    "Journal/Daily/2026-01-27.md",
+    "Clippings2/Opinion  We Need to Think Straight About God and Politics.md",
+    "ReadItLater Inbox/How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat.md",
+    "Journal/Daily/2026-02-09.md",
+    "travel/packing-Charleston.md",
+    "travel/packing checklist.md",
+    "travel/4913",
+    "Inbox.md",
+    "travel/packing-Charleston.md~",
+    "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
+    "Opinion  This Week Has Revealed 3 Types of Americans - The New York Times.md",
+    "Opinion  A Farewell Column From David Brooks - The New York Times.md",
+    "travel/packing-colorado.md",
+    "travel/packing-hilton-head.md",
+    "travel/Travels of DH & MPH.md",
+    "travel/packing-old/2025-fall-Packing-list.md",
+    "travel/packing-old/2025-fall-Packing-list-changed.md",
+    "travel/packing-old/Naples-planning Oct 20.md",
+    "Journal/Daily/2026-01-05.md",
+    "Clippers/The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic.md~"
   ]
 }

@@ -1,0 +1,4 @@
+- Writing is putting words into order
+- organizing (tools, garage, office, guest room, Florida room) is bringing order
+- saving articles from periodicals
+- 

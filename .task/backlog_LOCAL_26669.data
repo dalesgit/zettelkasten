@@ -1,0 +1,120 @@
+{"description":"Figure TW out later","entry":"20251227T171751Z","modified":"20251227T171751Z","status":"pending","uuid":"3abf2076-488d-468c-92d7-6eb14a59bfdf"}
+{"description":"read something 3","entry":"20251227T171814Z","modified":"20251227T171814Z","status":"pending","uuid":"576af9fd-84f8-46a0-b480-91673c2611bc"}
+{"description":"read something 3","end":"20251227T171904Z","entry":"20251227T171814Z","modified":"20251227T171905Z","status":"deleted","uuid":"576af9fd-84f8-46a0-b480-91673c2611bc"}
+{"description":"buy Basil Hayden bourbon whiskey","entry":"20251227T220126Z","modified":"20251227T220126Z","status":"pending","uuid":"e25ba173-7620-49f7-8a7f-9e20ce4a669e"}
+{"description":"Thank you to Becky","entry":"20251227T220653Z","modified":"20251227T220653Z","status":"pending","uuid":"62c3251b-e1c4-41fe-9c57-70a6a531e0eb"}
+{"description":"Thank you to Miriam and kids","entry":"20251227T220727Z","modified":"20251227T220727Z","status":"pending","uuid":"15635f4f-4eed-4c3a-838a-ffa6b2bfe940"}
+{"description":"submit proposal to Homeowners assoc","entry":"20251227T220901Z","modified":"20251227T220901Z","status":"pending","uuid":"82c54f61-a293-4efc-8235-61a079e7bca2"}
+{"description":"thankyou:Becky","entry":"20251227T221932Z","modified":"20251227T221932Z","status":"pending","uuid":"5964e3da-9b55-460e-905d-e2f6853fed0e"}
+{"description":"thankyou:Becky","end":"20251227T221948Z","entry":"20251227T221932Z","modified":"20251227T221950Z","status":"deleted","uuid":"5964e3da-9b55-460e-905d-e2f6853fed0e"}
+{"description":"Becky","entry":"20251227T222101Z","modified":"20251227T222101Z","project":"thank you","status":"pending","uuid":"369eb779-15c9-4d89-ab31-e99cce25e129"}
+{"description":"Miriam and kids","entry":"20251227T222159Z","modified":"20251227T222159Z","project":"thank you","status":"pending","uuid":"88215936-004a-43b1-a61f-ae69d718966b"}
+{"description":"Thank you to Becky","end":"20251227T222210Z","entry":"20251227T220653Z","modified":"20251227T222212Z","status":"deleted","uuid":"62c3251b-e1c4-41fe-9c57-70a6a531e0eb"}
+{"description":"Miriam and kids","end":"20251227T222226Z","entry":"20251227T222159Z","modified":"20251227T222228Z","project":"thank you","status":"deleted","uuid":"88215936-004a-43b1-a61f-ae69d718966b"}
+{"description":"Thank you to Miriam and kids","end":"20251227T222240Z","entry":"20251227T220727Z","modified":"20251227T222242Z","status":"deleted","uuid":"15635f4f-4eed-4c3a-838a-ffa6b2bfe940"}
+{"description":"Miriam and kids","entry":"20251227T222531Z","modified":"20251227T222531Z","project":"thank you","status":"pending","uuid":"23b9f18c-7827-4b50-9632-9c03c75d6148"}
+{"description":"Funnytimes","entry":"20251227T222610Z","modified":"20251227T222610Z","project":"subscriptions","status":"pending","uuid":"1f37c11b-a23c-4a6d-a784-43ebe65b3667"}
+{"description":"America","entry":"20251227T222623Z","modified":"20251227T222623Z","project":"subscriptions","status":"pending","uuid":"2d2870a9-04f1-4785-9159-1e1a80de8c9b"}
+{"description":"Commonweal","entry":"20251227T222643Z","modified":"20251227T222643Z","project":"subscriptions","status":"pending","uuid":"6a3a314e-0665-4cab-8503-40abba23f0ca"}
+{"description":"Bibletoday","entry":"20251227T222708Z","modified":"20251227T222708Z","project":"subscriptions","status":"pending","uuid":"074f5d5c-7769-422b-a275-c496724ce1b4"}
+{"description":"America","end":"20251230T225151Z","entry":"20251227T222623Z","modified":"20251230T225154Z","project":"subscriptions","status":"deleted","uuid":"2d2870a9-04f1-4785-9159-1e1a80de8c9b"}
+{"description":"Bibletoday","end":"20251230T225209Z","entry":"20251227T222708Z","modified":"20251230T225211Z","project":"subscriptions","status":"deleted","uuid":"074f5d5c-7769-422b-a275-c496724ce1b4"}
+{"description":"Figure TW out later Task Warrior","entry":"20251227T171751Z","modified":"20251230T225424Z","status":"pending","uuid":"3abf2076-488d-468c-92d7-6eb14a59bfdf"}
+{"description":"Commonweal","end":"20251230T232250Z","entry":"20251227T222643Z","modified":"20251230T232253Z","project":"subscriptions","status":"deleted","uuid":"6a3a314e-0665-4cab-8503-40abba23f0ca"}
+{"description":"Funnytimes","end":"20251230T232305Z","entry":"20251227T222610Z","modified":"20251230T232307Z","project":"subscriptions","status":"deleted","uuid":"1f37c11b-a23c-4a6d-a784-43ebe65b3667"}
+{"description":"submit proposal to Homeowners assoc","end":"20251230T232330Z","entry":"20251227T220901Z","modified":"20251230T232332Z","status":"deleted","uuid":"82c54f61-a293-4efc-8235-61a079e7bca2"}
+{"description":"Becky","end":"20251231T004650Z","entry":"20251227T222101Z","modified":"20251231T004652Z","project":"thank you","status":"deleted","uuid":"369eb779-15c9-4d89-ab31-e99cce25e129"}
+{"description":"Miriam and kids","end":"20251231T004700Z","entry":"20251227T222531Z","modified":"20251231T004702Z","project":"thank you","status":"deleted","uuid":"23b9f18c-7827-4b50-9632-9c03c75d6148"}
+{"description":"buy travel pillow","entry":"20251231T130552Z","modified":"20251231T130552Z","status":"pending","uuid":"93dc2b83-884b-47b5-ba73-32ea4f80611a"}
+{"description":"thank you: for cheesecake","entry":"20260101T000046Z","modified":"20260101T000046Z","status":"pending","uuid":"f5870a89-6ab7-41be-8fa6-ccfc0e9cff59"}
+{"description":"thank you: for cheesecake","end":"20260101T000102Z","entry":"20260101T000046Z","modified":"20260101T000103Z","status":"deleted","uuid":"f5870a89-6ab7-41be-8fa6-ccfc0e9cff59"}
+{"description":"thank you:for cheesecake","entry":"20260101T000109Z","modified":"20260101T000109Z","status":"pending","uuid":"f1734bce-1c69-41f1-9c03-0004b7b84425"}
+{"description":"thank you:for cheesecake","end":"20260101T000119Z","entry":"20260101T000109Z","modified":"20260101T000122Z","status":"deleted","uuid":"f1734bce-1c69-41f1-9c03-0004b7b84425"}
+{"description":"lady for cheesecake","entry":"20260101T000715Z","modified":"20260101T000715Z","project":"Thank you","status":"pending","uuid":"b606fc6f-d6fa-4b6c-aa1d-77c2c58c9ce4"}
+{"description":"buy travel pillow","end":"20260101T000744Z","entry":"20251231T130552Z","modified":"20260101T000746Z","status":"deleted","uuid":"93dc2b83-884b-47b5-ba73-32ea4f80611a"}
+{"description":"establish nfs-server","entry":"20260101T175230Z","modified":"20260101T175230Z","project":"beelink","status":"pending","uuid":"a6c8906e-b843-4537-bdfa-e55c06408490"}
+{"description":"backup home directory somewhere","entry":"20260101T175311Z","modified":"20260101T175311Z","project":"beelink","status":"pending","uuid":"6a607137-2a32-407e-9bc9-98e857002505"}
+{"description":"install new OS","entry":"20260101T175344Z","modified":"20260101T175344Z","project":"beelink","status":"pending","uuid":"0148e696-0f2e-4f4e-9a33-7142f1ab350d"}
+{"description":"prepare guest room for guests","entry":"20260101T175609Z","modified":"20260101T175609Z","project":"Colo","status":"pending","uuid":"c8293b26-f678-4477-9620-534aacb420d5"}
+{"description":"pack","entry":"20260101T175622Z","modified":"20260101T175622Z","project":"Colo","status":"pending","uuid":"92665a54-d2eb-4f93-a558-c86d983970f3"}
+{"description":"show MP make coffee","entry":"20260101T175655Z","modified":"20260101T175655Z","project":"Colo","status":"pending","uuid":"a88a8c16-dbeb-45f1-b640-92a8b4efcd8a"}
+{"description":"sort MP3s Music-Google","entry":"20260101T175901Z","modified":"20260101T175901Z","project":"music","status":"pending","uuid":"2c52f0d7-a76f-45e9-8bc2-d7a87e08f91c"}
+{"description":"establish nfs-server","end":"20260103T120834Z","entry":"20260101T175230Z","modified":"20260103T120836Z","project":"beelink","status":"deleted","uuid":"a6c8906e-b843-4537-bdfa-e55c06408490"}
+{"description":"prepare guest room for guests","end":"20260104T130452Z","entry":"20260101T175609Z","modified":"20260104T130454Z","project":"Colo","status":"deleted","uuid":"c8293b26-f678-4477-9620-534aacb420d5"}
+{"description":"show MP make coffee","end":"20260104T130508Z","entry":"20260101T175655Z","modified":"20260104T130509Z","project":"Colo","status":"deleted","uuid":"a88a8c16-dbeb-45f1-b640-92a8b4efcd8a"}
+{"description":"pack","end":"20260106T111208Z","entry":"20260101T175622Z","modified":"20260106T111209Z","project":"Colo","status":"deleted","uuid":"92665a54-d2eb-4f93-a558-c86d983970f3"}
+{"description":"lady for cheesecake","end":"20260106T111217Z","entry":"20260101T000715Z","modified":"20260106T111219Z","project":"Thank you","status":"deleted","uuid":"b606fc6f-d6fa-4b6c-aa1d-77c2c58c9ce4"}
+{"description":"ask Julian re. guest bed","entry":"20260106T112802Z","modified":"20260106T112802Z","status":"pending","uuid":"ff554e8f-070e-4a9f-99f7-9b91194e603e"}
+{"description":"forward ins. app. to MP","entry":"20260106T131200Z","modified":"20260106T131200Z","status":"pending","uuid":"0d003faa-d0da-49f3-a4d7-414304cc600f"}
+{"description":"forward ins. app. to MP","end":"20260106T133945Z","entry":"20260106T131200Z","modified":"20260106T133947Z","status":"deleted","uuid":"0d003faa-d0da-49f3-a4d7-414304cc600f"}
+{"description":"register preaching schedule in Remind","entry":"20260108T141202Z","modified":"20260108T141202Z","status":"pending","uuid":"d0516595-12d8-43c4-8ec4-69289f8e530e"}
+{"description":"buy nose drops","entry":"20260108T141236Z","modified":"20260108T141236Z","status":"pending","uuid":"caef71ce-3ecb-48d4-b4ea-a0f297359fcc"}
+{"description":"buy nose drops","end":"20260109T134840Z","entry":"20260108T141236Z","modified":"20260109T134841Z","status":"deleted","uuid":"caef71ce-3ecb-48d4-b4ea-a0f297359fcc"}
+{"description":"ask Julian re. guest bed","end":"20260109T134853Z","entry":"20260106T112802Z","modified":"20260109T134854Z","status":"deleted","uuid":"ff554e8f-070e-4a9f-99f7-9b91194e603e"}
+{"description":"reports to dioceses","entry":"20260111T174830Z","modified":"20260111T174830Z","status":"pending","uuid":"804ef2c0-19ae-411d-a4ff-26d5f71da54b"}
+{"description":"psalm project","entry":"20260112T151540Z","modified":"20260112T151540Z","status":"pending","uuid":"db51c038-23a7-4e13-9f2b-afef81be4bbc"}
+{"description":"identify sprinkler heads. When water pressure.","entry":"20260112T151624Z","modified":"20260112T151624Z","status":"pending","uuid":"7dd9d859-d119-4022-ba60-eb051845de6d"}
+{"description":"call Folino for Feb appt","entry":"20260116T154132Z","modified":"20260116T154132Z","status":"pending","uuid":"3f36a9de-b6eb-4e57-ae18-24f4802bef57"}
+{"description":"identify sprinkler heads. When water pressure.","end":"20260116T154146Z","entry":"20260112T151624Z","modified":"20260116T154148Z","status":"deleted","uuid":"7dd9d859-d119-4022-ba60-eb051845de6d"}
+{"description":"psalm project","end":"20260116T154157Z","entry":"20260112T151540Z","modified":"20260116T154158Z","status":"deleted","uuid":"db51c038-23a7-4e13-9f2b-afef81be4bbc"}
+{"description":"reports to dioceses","end":"20260116T154210Z","entry":"20260111T174830Z","modified":"20260116T154227Z","status":"deleted","uuid":"804ef2c0-19ae-411d-a4ff-26d5f71da54b"}
+{"description":"register preaching schedule in Remind","end":"20260116T154244Z","entry":"20260108T141202Z","modified":"20260116T154246Z","status":"deleted","uuid":"d0516595-12d8-43c4-8ec4-69289f8e530e"}
+{"description":"make appt for HVAC checkup","entry":"20260116T232246Z","modified":"20260116T232246Z","status":"pending","uuid":"a2c84303-5de7-4207-9f4f-289ac97aabbc"}
+{"description":"make appt for HVAC checkup","entry":"20260116T232246Z","modified":"20260116T232956Z","project":"Home","status":"pending","uuid":"a2c84303-5de7-4207-9f4f-289ac97aabbc"}
+{"description":"buy watersoftener salt","entry":"20260117T024448Z","modified":"20260117T024448Z","status":"pending","uuid":"3f53ba6f-227a-467f-93a3-48c21b41c72f"}
+{"description":"buy watersoftener salt","entry":"20260117T024448Z","modified":"20260117T024537Z","project":"Home","status":"pending","uuid":"3f53ba6f-227a-467f-93a3-48c21b41c72f"}
+{"description":"buy watersoftener salt","end":"20260120T053403Z","entry":"20260117T024448Z","modified":"20260120T053406Z","project":"Home","status":"deleted","uuid":"3f53ba6f-227a-467f-93a3-48c21b41c72f"}
+{"description":"call United Health Care","entry":"20260126T125639Z","modified":"20260126T125639Z","status":"pending","uuid":"3ba6b7a3-3114-41c0-8ef5-09d2a91bb56c"}
+{"description":"call United Health Care","end":"20260127T112843Z","entry":"20260126T125639Z","modified":"20260127T112847Z","status":"deleted","uuid":"3ba6b7a3-3114-41c0-8ef5-09d2a91bb56c"}
+{"description":"test zoom on machines","entry":"20260127T172137Z","modified":"20260127T172137Z","project":"technical","status":"pending","uuid":"0addd1c9-4368-4207-b2d0-76bdf87574cf"}
+{"description":"call Folino for Feb appt","end":"20260128T014919Z","entry":"20260116T154132Z","modified":"20260128T014921Z","status":"deleted","uuid":"3f36a9de-b6eb-4e57-ae18-24f4802bef57"}
+{"description":"test zoom on machines","end":"20260128T132735Z","entry":"20260127T172137Z","modified":"20260128T132739Z","project":"technical","status":"deleted","uuid":"0addd1c9-4368-4207-b2d0-76bdf87574cf"}
+{"description":"Ash Wednesday sermon","entry":"20260129T025029Z","modified":"20260129T025029Z","project":"preaching","status":"pending","uuid":"742410b7-197f-4038-bb01-cce955071799"}
+{"description":"make appt for HVAC checkup","end":"20260131T182843Z","entry":"20260116T232246Z","modified":"20260131T182845Z","project":"Home","status":"deleted","uuid":"a2c84303-5de7-4207-9f4f-289ac97aabbc"}
+{"description":"backup home directory somewhere","end":"20260211T022548Z","entry":"20260101T175311Z","modified":"20260211T022550Z","project":"beelink","status":"deleted","uuid":"6a607137-2a32-407e-9bc9-98e857002505"}
+{"description":"install new OS","end":"20260211T022605Z","entry":"20260101T175344Z","modified":"20260211T022607Z","project":"beelink","status":"deleted","uuid":"0148e696-0f2e-4f4e-9a33-7142f1ab350d"}
+{"description":"investigate micro-watering solutions","entry":"20260219T130825Z","modified":"20260219T130825Z","project":"house","status":"pending","uuid":"5b3ddb1e-a556-499e-9be5-c9a2cd4d0704"}
+{"description":"cancel nordvpn and write to michael","entry":"20260221T112613Z","modified":"20260221T112613Z","status":"pending","uuid":"b2c46bf3-fc0f-486a-9ccc-f79595cd2f1d"}
+{"description":"contact and gift to Julian","entry":"20260221T112642Z","modified":"20260221T112642Z","status":"pending","uuid":"0ed63636-e8a4-4fd3-a400-e4c766ce24ec"}
+{"description":"Ash Wednesday sermon","end":"20260223T162759Z","entry":"20260129T025029Z","modified":"20260223T162800Z","project":"preaching","status":"deleted","uuid":"742410b7-197f-4038-bb01-cce955071799"}
+{"description":"investigate micro-watering solutions","end":"20260223T162812Z","entry":"20260219T130825Z","modified":"20260223T162814Z","project":"house","status":"deleted","uuid":"5b3ddb1e-a556-499e-9be5-c9a2cd4d0704"}
+{"description":"cancel nordvpn and write to michael","end":"20260223T162827Z","entry":"20260221T112613Z","modified":"20260223T162830Z","status":"deleted","uuid":"b2c46bf3-fc0f-486a-9ccc-f79595cd2f1d"}
+{"description":"contact and gift to Julian","end":"20260223T162843Z","entry":"20260221T112642Z","modified":"20260223T162848Z","status":"deleted","uuid":"0ed63636-e8a4-4fd3-a400-e4c766ce24ec"}
+{"description":"buy sand, construct stand","entry":"20260223T162944Z","modified":"20260223T162944Z","project":"house","status":"pending","uuid":"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"}
+{"description":"use turkey pieces for stock and steak pieces for soup","entry":"20260224T015248Z","modified":"20260224T015248Z","project":"kitchen","status":"pending","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+{"description":"zettel, Dropbox-task, tiddly","entry":"20260224T033503Z","modified":"20260224T033503Z","project":"sync","status":"pending","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
+{"description":"replace\/reverse screen door","entry":"20260228T173823Z","modified":"20260228T173823Z","project":"house","status":"pending","uuid":"2058a46f-903b-406d-af26-cb9d9cc07236"}
+{"description":"list of subscriptions for NOKBOX","entry":"20260228T173854Z","modified":"20260228T173854Z","status":"pending","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
+{"description":"Separate out subscriptions","entry":"20260303T114614Z","modified":"20260303T114614Z","project":"bank","status":"pending","uuid":"6b4fc075-d01f-4104-8001-0eae816f036d"}
+{"description":"Replace screen door with reversed hinges","entry":"20260304T015832Z","modified":"20260304T015832Z","project":"house","status":"pending","uuid":"59ad7e25-b329-4665-b505-7991839d045d"}
+{"description":"use turkey pieces for stock and steak pieces for soup","end":"20260309T124307Z","entry":"20260224T015248Z","modified":"20260309T124310Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+{"description":"replace\/reverse screen door","end":"20260309T124332Z","entry":"20260228T173823Z","modified":"20260309T124334Z","project":"house","status":"deleted","uuid":"2058a46f-903b-406d-af26-cb9d9cc07236"}
+{"description":"zettel, Dropbox-task, tiddly","end":"20260309T124402Z","entry":"20260224T033503Z","modified":"20260309T124405Z","project":"sync","status":"deleted","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
+{"description":"subscriptions and transfers in Homebank","entry":"20260303T114614Z","modified":"20260309T124718Z","project":"bank","status":"pending","uuid":"6b4fc075-d01f-4104-8001-0eae816f036d"}
+{"description":"Lydia requests perhaps ship","entry":"20260309T131201Z","modified":"20260309T131201Z","project":"family","status":"pending","uuid":"7e04a36a-1c02-4944-87dc-026fbd98b08c"}
+{"description":"list of subscriptions for NOKBOX","entry":"20260228T173854Z","modified":"20260309T131259Z","project":"household","status":"pending","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
+{"description":"Look for Teenie Weenie photos","entry":"20260308T020813Z","modified":"20260308T020813Z","status":"pending","uuid":"ef831443-34bd-425a-a496-4521101d256c"}
+{"description":"send Lydia one or more stoles and record in NokBox","entry":"20260308T020950Z","modified":"20260308T020950Z","status":"pending","uuid":"fa3216c0-c897-4e6e-aa2f-8b2026197a69"}
+{"description":"list of subscriptions for NOKBOX","end":"20260312T104034Z","entry":"20260228T173854Z","modified":"20260312T104039Z","status":"deleted","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
+{"description":"zettel, Dropbox-task, tiddly","end":"20260312T104107Z","entry":"20260224T033503Z","modified":"20260312T104110Z","project":"sync","status":"deleted","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
+{"description":"use turkey pieces for stock and steak pieces for soup","end":"20260312T104416Z","entry":"20260224T015248Z","modified":"20260312T104418Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+{"description":"Buy gutter spreader from Lowes","entry":"20260316T201347Z","modified":"20260316T201347Z","project":"home","status":"pending","uuid":"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"}
+{"description":"Buy gutter spreader from Lowes","entry":"20260316T201347Z","modified":"20260316T201440Z","project":"house","status":"pending","uuid":"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"}
+{"description":"buy sand, construct stand","end":"20260316T201557Z","entry":"20260223T162944Z","modified":"20260316T201600Z","project":"house","status":"deleted","uuid":"d903fa2b-2437-4e30-9bc3-622b55a7fbd2"}
+{"description":"Look for Teenie Weenie photos","end":"20260319T202456Z","entry":"20260308T020813Z","modified":"20260319T202458Z","status":"deleted","uuid":"ef831443-34bd-425a-a496-4521101d256c"}
+{"description":"list of subscriptions for NOKBOX","end":"20260319T202507Z","entry":"20260228T173854Z","modified":"20260319T202509Z","status":"deleted","uuid":"b39ec8ec-4242-4f15-8b65-e98f880befec"}
+{"description":"Buy gutter spreader from Lowes","end":"20260319T202522Z","entry":"20260316T201347Z","modified":"20260319T202524Z","project":"house","status":"deleted","uuid":"2b781e5d-0386-423a-9ab6-fa6c1bffd7f8"}
+{"description":"Separate out subscriptions","end":"20260319T202539Z","entry":"20260303T114614Z","modified":"20260319T202540Z","project":"bank","status":"deleted","uuid":"6b4fc075-d01f-4104-8001-0eae816f036d"}
+{"description":"use turkey pieces for stock and steak pieces for soup","end":"20260319T202551Z","entry":"20260224T015248Z","modified":"20260319T202552Z","project":"kitchen","status":"deleted","uuid":"ef5c15c8-bda1-4a86-8243-178f507b170f"}
+{"description":"zettel, Dropbox-task, tiddly","end":"20260319T202606Z","entry":"20260224T033503Z","modified":"20260319T202607Z","project":"sync","status":"deleted","uuid":"c4c5abbd-e362-4266-9a58-437f0a54d83a"}
+{"description":"Lydia requests perhaps ship","end":"20260319T202629Z","entry":"20260309T131201Z","modified":"20260319T202631Z","project":"family","status":"deleted","uuid":"7e04a36a-1c02-4944-87dc-026fbd98b08c"}
+<<<<<<< HEAD
+{"description":"Get home inspection pronto","entry":"20260323T150224Z","modified":"20260323T150224Z","project":"home","status":"pending","uuid":"269b77ec-1be7-423f-aaff-272a7628d15c"}
+=======
+{"description":"buy Basil Hayden bourbon whiskey","end":"20260321T004407Z","entry":"20251227T220126Z","modified":"20260321T004408Z","status":"deleted","uuid":"e25ba173-7620-49f7-8a7f-9e20ce4a669e"}
+{"description":"Replace screen door with reversed hinges","end":"20260321T004430Z","entry":"20260304T015832Z","modified":"20260321T004431Z","project":"house","status":"deleted","uuid":"59ad7e25-b329-4665-b505-7991839d045d"}
+>>>>>>> e5f49cbff6312d63bc590c60fa0d1255b2b0e8f2
+{"description":"clear under sinks, around circuit box, access to attic","entry":"20260323T160743Z","modified":"20260323T160743Z","project":"home","status":"pending","uuid":"00f31506-6bad-4c46-8faa-7b9f36f2110f"}
+{"description":"replace\/reverse screen door","entry":"20260228T173823Z","modified":"20260323T160838Z","project":"home","status":"pending","uuid":"2058a46f-903b-406d-af26-cb9d9cc07236"}
+{"description":"get account with Securist","entry":"20260324T160711Z","modified":"20260324T160711Z","project":"prison","status":"pending","uuid":"590fff78-a9da-4537-a4d8-68f1d539e439"}
+{"description":"write Michael and ask if he like call","entry":"20260324T160815Z","modified":"20260324T160815Z","project":"prison","status":"pending","uuid":"a4dbc2ba-a9bc-4476-85fb-68f2d3921b27"}

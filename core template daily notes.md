@@ -1,0 +1,1 @@
+---<br>date: <br>energy: <br>focus_area: <br>type: daily<br>---<br># <br>## Tasks<br>- [ ] <br>- [ ] <br>- [ ] <br><br>## Wins<br>- <br>## Notes

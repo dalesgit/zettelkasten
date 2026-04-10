@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "03801f5fd954433d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1073e945bb881bc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fd4632d94dec1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< HEAD
+                "file": "Clippings/three pines - Google Search.md",
+=======
+                "file": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet.md",
+>>>>>>> 6af396c2578e408aa9c017496c34b809870723db
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+<<<<<<< HEAD
+              "title": "three pines - Google Search"
+=======
+              "title": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet"
+>>>>>>> 6af396c2578e408aa9c017496c34b809870723db
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ff12b4ee57de19b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "04ab16ddc537b409",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "60dc24b67a0c8e29",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d6e22d66112e0141",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "a86d7209b364478a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "1abe2b0ab597bc3f",
+        "type": "leaf",
+        "state": {
+          "type": "notebook-navigator",
+          "state": {},
+          "icon": "notebook",
+          "title": "Notebook Navigator"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "6ec246f2f202997d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6b0e002300c90e05",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "87cafec5538673aa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Inbox Feb 2026.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c9082c036ef2b7a0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Inbox Feb 2026.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "e869862d39f7ff00",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "7544dd1b13b468c5",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1fd4632d94dec1af",
+  "lastOpenFiles": [
+<<<<<<< HEAD
+    "Clippings/Yvette Cooper urges full reopening of Strait of Hormuz.md",
+    "Clippings/three pines - Google Search.md",
+=======
+>>>>>>> 6af396c2578e408aa9c017496c34b809870723db
+    "vigil-sermon-draft.md",
+    "Journal/Daily/2025-11-29.md",
+    "sign.md",
+    "How to use drafts.md",
+    "Bruce Springsteen song _streets of Minneapolis_.md",
+    "You are the living, breathing, epiphany, that slipped out, didn't it  You are the living, breathing epitome, of cheap Grace..md",
+    "Larry re parish presentation.md",
+    "Susan husband retired Presbyterian minister..md",
+    "Flying in low over the flats outside the Savannah River. Rounding to face the land as we lined up to approach the landing. The sun disappeared and suddenly the hugest moon appeared at the edge of the horizon..md",
+    "Central synagogue in New York.md",
+    "https   open.substack.com pub religionandjustice p liberation-theologies-and-the-struggle r=1ouz6o&utm_medium=ios&shareImageVariant=overlay.md",
+    "https   www.classical-music.com rock best-1971-albums.md",
+    "Hotel WiFi login page.md",
+    "List of Trump associated violence against Christian virtues.md",
+    "Things to Do in Charleston.md",
+    "Liberation Herzog 1.md",
+    "Captive Portal Issues on Hotel WiFi with MX Linux.md",
+    "Personal hotspot.md",
+    "Calendar.md",
+    "Rule of three camera composition.md",
+    "Communion.md",
+    "Preaching. Frederick hero.md",
+    "Dissidents.md",
+    "Mark Twain quote.md"
+  ]
+}

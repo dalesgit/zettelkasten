@@ -1,0 +1,478 @@
+<!-- filetree -->
+
+
+# diary-md/
+
+## 2017
+ - [2017-05-15.md](./diary-md/2017-05-15.md) vimwiki or orgmode 
+ - [2017-05-16.md](./diary-md/2017-05-16.md)
+ - [2017-05-17.md](./diary-md/2017-05-17.md)
+ - [2017-05-18.md](./diary-md/2017-05-18.md) student evals
+ - [2017-05-20.md](./diary-md/2017-05-20.md) dream: preparing talk on Anglican communion
+ - [2017-06-01.md](./diary-md/2017-06-01.md) colonoscopy -- MP hard day
+ - [2017-06-02.md](./diary-md/2017-06-02.md) day before trip: "boys"?
+ - [2017-06-03.md](./diary-md/2017-06-03.md) scheduled to leave. Make it?
+ - [2017-06-04.md](./diary-md/2017-06-04.md) plea to children re. Emma
+ - [2017-06-05.md](./diary-md/2017-06-05.md) Carter Center: since election country torn from me.
+ - [2017-06-06.md](./diary-md/2017-06-06.md) MP reads Carl Reiner: read obituaries in morning
+ - [2017-06-07.md](./diary-md/2017-06-07.md) MP begins her infection
+ - [2017-06-08.md](./diary-md/2017-06-08.md) MP in hotel, mom angry
+ - [2017-06-12.md](./diary-md/2017-06-12.md) drive Tucson north. Read _Great Santini_
+ - [2017-06-16.md](./diary-md/2017-06-16.md) Joe & Joan. Problem with **laisseze faire** is that it does not produce **justice**
+ - [2017-06-19.md](./diary-md/2017-06-19.md) first day in Tahoe. MP angry with my family. So many secrets.
+ - [2017-06-26.md](./diary-md/2017-06-26.md) Arrive Olympia. Will articulate. I realize "shunning" introduced by Bridget
+ - [2017-06-27.md](./diary-md/2017-06-27.md) Sharing with Miriam
+
+## 2018
+ - [2018-01-25.md](./diary-md/2018-01-25.md)
+ - [2018-03-16.md](./diary-md/2018-03-16.md) Day Bill called to tell me about our other sister. Details.
+ - [2018-03-17.md](./diary-md/2018-03-17.md) in Dayton. Sean got to talk to family.
+ - [2018-03-18.md](./diary-md/2018-03-18.md) reading: Ireland and what enchants me. 
+ - [2018-03-19.md](./diary-md/2018-03-19.md) 1st day back at school. Students: Wiesenthal and forgiveness
+ - [2018-03-20.md](./diary-md/2018-03-20.md) 
+ - [2018-03-21.md](./diary-md/2018-03-21.md) Students (cont) Shirley has arrived in Las Cruces.
+ - [2018-03-22.md](./diary-md/2018-03-22.md) Mom. Gandhi and non-violent resistance.
+ - [2018-03-23.md](./diary-md/2018-03-23.md) Mom's further decline. Paul/Shirley working with Bill. Preaching Palm Sunday.
+ - [2018-03-24.md](./diary-md/2018-03-24.md) Bill & Shirley had good interaction!
+ - [2018-03-26.md](./diary-md/2018-03-26.md) Long day. Preaching, dinner guests, loaned Borges book.
+ - [2018-03-27.md](./diary-md/2018-03-27.md) Mom sitting up and may leave the hospital.
+ - [2018-03-28.md](./diary-md/2018-03-28.md) talk on Abraham. Students not ...
+ - [2018-03-29.md](./diary-md/2018-03-29.md) procedure with Mom re. draining lungs
+ - [2018-03-30.md](./diary-md/2018-03-30.md) Good Friday in Monroe. 3 days in motel.
+ - [2018-03-31.md](./diary-md/2018-03-31.md) Bill is getting weary.
+ - [2018-04-01.md](./diary-md/2018-04-01.md) My sermon powerfully hit a young woman. I make Henry think. New priest arrives July 8.
+ - [2018-04-02.md](./diary-md/2018-04-02.md) Back at school
+ - [2018-04-04.md](./diary-md/2018-04-04.md) Watch *The Big Lebowski* Taoist paean? Talk with Bill re. Mom
+ - [2018-04-05.md](./diary-md/2018-04-05.md)
+ - [2018-04-06.md](./diary-md/2018-04-06.md)
+ - [2018-04-07.md](./diary-md/2018-04-07.md) so glad for a day at home.
+ - [2018-04-08.md](./diary-md/2018-04-08.md) Emma Gonzalez reminded of my Emma. *The Florida Projects* with Willem DeFoe
+ - [2018-04-11.md](./diary-md/2018-04-11.md) Dream in color. Word spread that I was the best supply Our Saviour ever had.
+ - [2018-04-12.md](./diary-md/2018-04-12.md) Dream about Mom. movie *Wind River* fathers losing daughters.
+ - [2018-04-13.md](./diary-md/2018-04-13.md) Miriam and calling Bridget "grandma"
+ - [2018-04-14.md](./diary-md/2018-04-14.md) Mark Zuckerberg on Facebook: "good intentions"
+ - [2018-04-15.md](./diary-md/2018-04-15.md) Drama: Bill, Shirley, Bridget. Monroe is enthusiastic about me.
+ - [2018-04-16.md](./diary-md/2018-04-16.md) Dream: mythic, symbolic, Betty Spillman. Couple wants me to marry them. Bill called depressed.
+ - [2018-04-17.md](./diary-md/2018-04-17.md) *Zen and art of motorcycle maintenance*.
+ - [2018-04-18.md](./diary-md/2018-04-18.md) Barbara Bush RIP. Anticipating Mom's dying.'
+ - [2018-04-19.md](./diary-md/2018-04-19.md) Peter spoke with me re. "pre-seminary" track at WU.
+ - [2018-04-21.md](./diary-md/2018-04-21.md) Tim Eden with pneumonia
+ - [2018-04-23.md](./diary-md/2018-04-23.md) Passport dream: Monroe wants me. Juliu is Sr. Warden -- he is not transparent with me.
+ - [2018-04-24.md](./diary-md/2018-04-24.md) Sally Franklin
+ - [2018-04-25.md](./diary-md/2018-04-25.md) Mom is dying. How do I feel? Tired? Mom's adventurous journey.
+ - [2018-04-26.html.md](./diary-md/2018-04-26.html.md) 
+ - [2018-04-26.md](./diary-md/2018-04-26.md) anger toward: Miriam, + Bob,
+ - [2018-04-27.md](./diary-md/2018-04-27.md) **Mom left**. today's saint is Dorothy Soelle -- *Suffering*
+ - [2018-04-28.md](./diary-md/2018-04-28.md) Prep for funeral.
+ - [2018-05-01.md](./diary-md/2018-05-01.md) Could I do Koko Crater?
+ - [2018-05-02.md](./diary-md/2018-05-02.md) MP counseled letting go of anger toward Shirley
+ - [2018-05-06.md](./diary-md/2018-05-06.md) Movie: *Places of the heart*. Listening to **Nitty Gritty Dirt Band** singing *Amazing Grace*. Obama led us in the song.
+ - [2018-05-09.md](./diary-md/2018-05-09.md) People at Our Saviour loved my preaching. Funeral planning.
+ - [2018-05-13.md](./diary-md/2018-05-13.md) Today was extraordinary
+ - [2018-05-21.md](./diary-md/2018-05-21.md) Shirley has spread venom with e.g. Charlotte.
+ - [2018-05-23.md](./diary-md/2018-05-23.md) extensive dream
+ - [2018-06-19.md](./diary-md/2018-06-19.md) Sue Parker:
+ - [2018-06-20.md](./diary-md/2018-06-20.md) The **ramp** for MP is going in.
+ - [2018-06-21.md](./diary-md/2018-06-21.md)
+ - [2018-06-22.md](./diary-md/2018-06-22.md) Working with VIM
+ - [2018-06-23.md](./diary-md/2018-06-23.md) Long dream
+ - [2018-06-24.md](./diary-md/2018-06-24.md) Insomnia. Purpose for my life? I have lost the things that gave me peace in Hawai'i.
+ - [2018-06-25.md](./diary-md/2018-06-25.md) small accomplishments
+ - [2018-06-27.md](./diary-md/2018-06-27.md) SD with Sue Parker
+ - [2018-06-28.md](./diary-md/2018-06-28.md) dream in Hawai'i with Gary, Louie, MP
+ - [2018-07-05.md](./diary-md/2018-07-05.md) 
+ - [2018-07-09.md](./diary-md/2018-07-09.md) Sunday with the oldest Black Episc. Church in SC
+ - [2018-07-11.md](./diary-md/2018-07-11.md) dream about Lydia
+ - [2018-07-12.md](./diary-md/2018-07-12.md) Technical. Sue impressed by my teaching 
+ - [2018-07-26.md](./diary-md/2018-07-26.md) Letter to Miriam
+ - [2018-07-28.md](./diary-md/2018-07-28.md) technical with Chromebooks
+ - [2018-07-31.md](./diary-md/2018-07-31.md) fear of "retirement". Teaching religion with awareness of **learning theories**
+ - [2018-08-06.md](./diary-md/2018-08-06.md) read *Arthur Truluv* -- love across generations
+ - [2018-08-09.md](./diary-md/2018-08-09.md)
+ - [2018-08-14.md](./diary-md/2018-08-14.md)
+ - [2018-08-17.md](./diary-md/2018-08-17.md) Birthday on the beach, and other reveries
+ - [2018-08-18.md](./diary-md/2018-08-18.md) Bob & Crab fest
+ - [2018-08-20.md](./diary-md/2018-08-20.md) Long dream
+ - [2018-08-26.md](./diary-md/2018-08-26.md) thinking about Hawai'i'
+ - [2018-09-03.md](./diary-md/2018-09-03.md) Letter to Susan
+
+## 2019
+ - [2019-01-04.md](./diary-md/2019-01-04.md) Getting started generations
+ - [2019-01-12.md](./diary-md/2019-01-12.md)
+ - [2019-02-14.md](./diary-md/2019-02-14.md) Valentine's Day. More dawns with [[MP]] than anyone else.
+ - [2019-02-15.md](./diary-md/2019-02-15.md) Anticipating [[MP]] foot surgery
+ - [2019-02-18.md](./diary-md/2019-02-18.md)
+ - [2019-02-25.md](./diary-md/2019-02-25.md) Confronting "multiple truths" in the classroom.
+ - [2019-02-26.md](./diary-md/2019-02-26.md) Teaching, Math and Relativism. Subjectivity, Kierkegaard.
+ - [2019-02-27.md](./diary-md/2019-02-27.md) Emacs tweaks
+ - [2019-04-11.md](./diary-md/2019-04-11.md) Comments on papers
+ - [2019-05-08.md](./diary-md/2019-05-08.md) Trying to get Vimwiki working (now contains these files)
+ - [2019-05-09.md](./diary-md/2019-05-09.md) Ranger and Git notes
+ - [2019-07-19.md](./diary-md/2019-07-19.md) dinner with Sue Parker. Working [[MP]] social security. Note on use of **Phos Hilaron**
+ - [2019-07-20.md](./diary-md/2019-07-20.md) Challenge of going somewhere every day of the week. Express my need for an "allowance".
+ - [2019-07-21.md](./diary-md/2019-07-21.md) Date with Peter/Christina. 2 students were adamant about the importance of my place at WU. In a table of grades, he had marked all of them "acceptable" for an adjunct, except the top one about being prepared and knowledgable which he marked "superior".
+ - [2019-07-22.md](./diary-md/2019-07-22.md) Preaching at St. Peter's. My observation that dismissals at St. Peter's were the best in the diocese. re. Mary Magdalene. Donovan. Judy Small's *One Voice*
+ - [2019-07-23.md](./diary-md/2019-07-23.md) Shared St. Mary's files with Richert. Organizing to throw away. Dental plan doesn't pay for "periodontal cleaning" as opposed to "ordinary cleaning"
+ - [2019-07-24.md](./diary-md/2019-07-24.md) David talking with Emma about "calling her father". I learned that Lydia broke up with her "boy friend". Mary Jean gone to Kansas. Talk of the "women on the walls" from Mom's house. Mueller testimony in congress. Movie "Time Machine". "What 3 books taken from library?"
+ - [2019-07-25.md](./diary-md/2019-07-25.md) Remember Dad had got custody of David at some point. His success at Lutheran High. What would life had been if I didn't meet Bridget?
+ - [2019-07-26.md](./diary-md/2019-07-26.md) Lethargy about my spirit. Miriam contacting Bill. What's going on with her? 
+ - [2019-07-28.md](./diary-md/2019-07-28.md) Importance of being able to quickly make entries in a journal. Pouring myself out for 4 people at St. Mark's.
+ - [2019-07-29.md](./diary-md/2019-07-29.md) Dream: John Okutani. Conflict with [[MP]].
+ - [2019-07-30.md](./diary-md/2019-07-30.md) Anxiety? over moving? Just finished reading the Hawaiian novel. List of notes on Hawaii connections.
+ - [2019-07-31.md](./diary-md/2019-07-31.md) Dream: TV *New Amsterdam*. I saw one of the actors as "beautiful". I don't very often.
+ - [2019-08-01.md](./diary-md/2019-08-01.md) Issues with [[MP]] social security (WEP) Sue Parker and St. Mark's
+ - [2019-08-02.md](./diary-md/2019-08-02.md) Dream re. my children. Manitou Springs. Bicycle. Visit with Amy.
+ - [2019-08-03.md](./diary-md/2019-08-03.md) Amy and *basso continuo*. She described "Grunge" as a reaction against "hippies". Out of shape. Riding a bicycle.
+ - [2019-08-04.md](./diary-md/2019-08-04.md) "Boomers source of all that's wrong in the world. Amy and Owen with his libertarian nonsense. Then reflection on the myriad ways that the sentiment is accurate. "Exploitation."
+ - [2019-08-05.md](./diary-md/2019-08-05.md) Julian. Mass shooting in Dayton. Bro. Gary with us.
+ - [2019-08-06.md](./diary-md/2019-08-06.md) Dream: I messed up the liturgy. 
+ - [2019-08-07.md](./diary-md/2019-08-07.md) Dream: weird. Gary and us at Peter and Christina's. Peter observed that the students liked me at WU. Possible online certification?
+ - [2019-08-09.md](./diary-md/2019-08-09.md) Examen of Conscience: enjoy "intellectual inquiry". Do less of? Watching TV. Diary of country priest. Babette's feast. Apocalyptic stuff.
+ - [2019-08-10.md](./diary-md/2019-08-10.md) Inspired by writing of sermon. We were planning on forming a prayer group. Examen: sense of call to St. Paul's, Monroe.
+ - [2019-08-11.md](./diary-md/2019-08-11.md) Mom's house has closed. Conflict with [[MP]]. Dream.
+ - [2019-08-12.md](./diary-md/2019-08-12.md) Thinking about not teaching. Moving out of office. Mom's estate.
+ - [2019-08-13.md](./diary-md/2019-08-13.md) [[MP]] 70th birthday poem.
+ - [2019-08-14.md](./diary-md/2019-08-14.md) Examen: enjoy writing.
+ - [2019-08-15.md](./diary-md/2019-08-15.md) Conflict [[MP]] enjoy writing. MP back pain. Dream.
+ - [2019-08-16.md](./diary-md/2019-08-16.md) Examen: Spiritual Direction with Sue P.
+ - [2019-08-17.md](./diary-md/2019-08-17.md) Examen.
+ - [2019-08-18.md](./diary-md/2019-08-18.md) [[MP]] Boston Cream Pie. "God: a human history" as an insightful book.
+ - [2019-08-19.md](./diary-md/2019-08-19.md) Walt Whitman. Desire better communication. Words of grace on *New Amsterdam*. List of emphasis in **feminist criticism** a la E. Schussler-Fiorenza. My need to stretch my thinking.
+ - [2019-08-20.md](./diary-md/2019-08-20.md) concern re. beating of my heart.
+ - [2019-08-21.md](./diary-md/2019-08-21.md) movie "Stardust". seeking Markdown editor. 
+ - [2019-08-22.md](./diary-md/2019-08-22.md) Dream: remembering organizing meetings re. **Family Promise**. Interest in Nichola Tesla. Gini expressing "family" to me.
+ - [2019-08-23.md](./diary-md/2019-08-23.md) Gini's fondness for me. Helping [[MP]] in kitchen (in Dayton). Reading Aslan's *God*
+ - [2019-08-26.md](./diary-md/2019-08-26.md) re. [[MP]] hurt feelings all around. Reflecting on the "little ones" around the pool and wondering about the world they are inheriting. Bitterness at being cutoff from my grandchildren.
+ - [2019-08-27.md](./diary-md/2019-08-27.md) Challenging in small bed. $ to grandchildren.
+ - [2019-08-28.md](./diary-md/2019-08-28.md) alienation from [[MP]] headed "home". "Checkvist" a near perfect application.
+ - [2019-08-29.md](./diary-md/2019-08-29.md) prayer group at WELCM
+ - [2019-08-30.md](./diary-md/2019-08-30.md) bringing in students into our little prayer group. Shane C. "a lot of Christianity doesn't pass the smell test."
+ - [2019-08-31.md](./diary-md/2019-08-31.md) spirit of Susan H's *Absolute Truths*
+ - [2019-09-01.md](./diary-md/2019-09-01.md) Examen: writing, biking, cooking
+ - [2019-09-02.md](./diary-md/2019-09-02.md) questions for Sue P.
+ - [2019-09-03.md](./diary-md/2019-09-03.md) conflict with [[MP]] re. security door. Reflection on writing. Anticipating not teaching any more.
+ - [2019-09-04.md](./diary-md/2019-09-04.md) wrestling with my teaching. renting storage. lunch with Sue P. 
+ - [2019-09-05.md](./diary-md/2019-09-05.md) conflict with my reaction to Miriam, Bridget, River. "gramma Bridget"
+ - [2019-09-06.md](./diary-md/2019-09-06.md) dream: bicycles, Colorado. 
+ - [2019-09-07.md](./diary-md/2019-09-07.md) Long history of history of Bridget. "triangulation. Extended, including place of [[MP]] in the saga.
+ - [2019-09-08.md](./diary-md/2019-09-08.md) Preaching and Supply work.
+ - [2019-09-09.md](./diary-md/2019-09-09.md) Long reflection on **Alienation**. My place was down-graded from "spouse of faculty" to merely "adjunct".
+ - [2019-09-10.md](./diary-md/2019-09-10.md) trying to reflect on the alienation with [[MP]]. Impasse with her. 
+ - [2019-09-11.md](./diary-md/2019-09-11.md) A day of silences.
+ - [2019-09-12.md](./diary-md/2019-09-12.md) Dream included all the players in my life. Extreme alienation in the home.
+ - [2019-09-13.md](./diary-md/2019-09-13.md) dream: a kind of evacuation. re. teaching. Adjuncts are essentially exploited.
+ - [2019-09-15.md](./diary-md/2019-09-15.md) Dream: leading into going to St. Paul's. [[MP]] and I had children in the dream. List of connections at St. Paul's
+ - [2019-09-17.md](./diary-md/2019-09-17.md) Doctor re. "erectile dysfunction".  dinner with Sue. "Grace" moment.
+ - [2019-09-18.md](./diary-md/2019-09-18.md) Examen: 
+ - [2019-09-19.md](./diary-md/2019-09-19.md) "blank face" with [[MP]] Teaching in the spring being considered.
+ - [2019-09-20.md](./diary-md/2019-09-20.md) demarkate the ending of the story
+ - [2019-09-21.md](./diary-md/2019-09-21.md) Examen. Tech stuff.
+ - [2019-09-23.md](./diary-md/2019-09-23.md) Sewing.
+ - [2019-09-25.md](./diary-md/2019-09-25.md) Remembering Lydia. 
+ - [2019-09-28.md](./diary-md/2019-09-28.md) Peter and teaching in spring. He was eager and said the students would be grateful. 
+ - [2019-10-01.md](./diary-md/2019-10-01.md) Arrive in Birmingham. Solemnity of civil rights museum.
+ - [2019-10-02.md](./diary-md/2019-10-02.md) Examen. Ed and Joanie. 
+ - [2019-10-03.md](./diary-md/2019-10-03.md) Dreams (2)
+ - [2019-10-06.md](./diary-md/2019-10-06.md) Arriving Naples. report on how at Mystic Fish we almost decided to buy a house. Note to Dabney. Bike ride.
+ - [2019-10-07.md](./diary-md/2019-10-07.md) Dream.
+ - [2019-10-08.md](./diary-md/2019-10-08.md) Edison and Ford estates. 2 not nice people who planted teh seeds of much that is wrong with the world.
+ - [2019-10-09.md](./diary-md/2019-10-09.md) Everglades. and the destruction of US. "We are not a good people..." Eric Clapton 12 acoustic pieces.
+ - [2019-10-10.md](./diary-md/2019-10-10.md) "Moving to Florida ..." Feeling unheard.
+ - [2019-10-11.md](./diary-md/2019-10-11.md) *Absolute Truths* re. grief not faced. [[MP]] thrilled with the feel of moving to Florida. I'm not so sure.
+ - [2019-10-12.md](./diary-md/2019-10-12.md) Sunset on the beach. comparing +Bob with the abuse of power in *Absolute Truths*. Novels and the power to "ignite my soul"
+ - [2019-10-13.md](./diary-md/2019-10-13.md) Sleeping at  **Liki Tiki** Sue P. says she has been rejected. Church and Tyranny.
+ - [2019-10-14.md](./diary-md/2019-10-14.md) Spend time with Judy Baughman (at Disney World). There were young and old, foreigners, handicapped ...
+ - [2019-10-15.md](./diary-md/2019-10-15.md) Dreaming: fear of dying? I miss Lydia and Emma. I wish for a relationship with Bridget for the sake of the children. cynicism of Trump years. Do I hear a melody?
+ - [2019-10-16.md](./diary-md/2019-10-16.md) Animal Kingdom. Examen. Best = "Safari Ride" "Nice bike" Dabney responded.
+ - [2019-10-17.md](./diary-md/2019-10-17.md) sense of well-being. [[MP]] and needing to be where family is (like Lydia) . Review outline of events in Hawaii. 
+ - [2019-10-18.md](./diary-md/2019-10-18.md) "Orlando seems to be a symbol of everything wrong with America. Opening Pandora's box in America. When Nixon's lying became OK.
+ - [2019-10-19.md](./diary-md/2019-10-19.md) moving to Ormond Beach. Saw Bill/Gary. Jim/Robbie last night.
+ - [2019-10-20.md](./diary-md/2019-10-20.md) Robbie / Jim
+ - [2019-10-22.md](./diary-md/2019-10-22.md) headed to Cape Canaveral.
+ - [2019-10-23.md](./diary-md/2019-10-23.md) Kennedy Space center. 
+ - [2019-10-24.md](./diary-md/2019-10-24.md) Walking the edge of the ocean. Why do I get up in the morning? Memory of walking the beach in Hawai'i. Molokai with bishop candidates.
+ - [2019-10-25.md](./diary-md/2019-10-25.md) We bought points with Diamond. call with Dabney. 
+ - [2019-10-27.md](./diary-md/2019-10-27.md) Julian with us. His determination to do it himself.
+ - [2019-10-28.md](./diary-md/2019-10-28.md) Anastasia State Park. We rode bikes. Fort.
+ - [2019-10-29.md](./diary-md/2019-10-29.md) Memories flowing: Manitou incline ... Rensselaer ...
+ - [2019-10-30.md](./diary-md/2019-10-30.md) Saying goodbye to MP. Gini reportedly said, "I'm dying."
+ - [2019-10-31.md](./diary-md/2019-10-31.md) MP to airport.
+ - [2019-11-01.md](./diary-md/2019-11-01.md) rent bikes for the day. Glorious time. Julian doesn't like conflict so avoids politics. Fernandina beach.
+ - [2019-11-02.md](./diary-md/2019-11-02.md) *Give us this day* re. THomas Merton re. "leave the wilderness the way you found it." Julian so patient with me. disc golf.
+ - [2019-11-03.md](./diary-md/2019-11-03.md) Examen: time with Julian. "3 important things: be kind, be kind, be kind."
+ - [2019-11-04.md](./diary-md/2019-11-04.md) Travel to Asheville.
+ - [2019-11-05.md](./diary-md/2019-11-05.md) My needs.
+ - [2019-11-06.md](./diary-md/2019-11-06.md) I love Julian so.
+ - [2019-11-07.md](./diary-md/2019-11-07.md) learned that Beth was glad I wasn't there. Echoes of "Didi" telling me I didn't have a right to speak.
+ - [2019-11-08.md](./diary-md/2019-11-08.md) [[MP]] may be offered an opportunity to Redeem the time. lots of reflection on family dynamics in Dayton.
+ - [2019-11-09.md](./diary-md/2019-11-09.md) Decision re. Gini
+ - [2019-11-10.md](./diary-md/2019-11-10.md) Dream: lead character in a play about resurrection
+ - [2019-11-11.md](./diary-md/2019-11-11.md) cont.
+ - [2019-11-12.md](./diary-md/2019-11-12.md)  sisters as a group of poisonous snakes. How much my fault. The weirdness about being around someone dying.
+ - [2019-11-13.md](./diary-md/2019-11-13.md) dinner with Mark and Mary. continued drama.
+ - [2019-11-14.md](./diary-md/2019-11-14.md) tender moment with Gini. moving past betrayal. James Hillman.
+ - [2019-11-15.md](./diary-md/2019-11-15.md) word from Jim at St. Paul's. Serious diagnosis. serious conflict with Beth. Message to her (undelivered) 
+ - [2019-11-17.md](./diary-md/2019-11-17.md) Goodbyes to Gini. "You'll be back tomorrow won't you?" My feelings of disconnect.
+ - [2019-11-19.md](./diary-md/2019-11-19.md)
+ - [2019-11-20.md](./diary-md/2019-11-20.md)
+ - [2019-11-21.md](./diary-md/2019-11-21.md)
+ - [2019-11-22.md](./diary-md/2019-11-22.md)
+ - [2019-11-23.md](./diary-md/2019-11-23.md)
+ - [2019-11-25.md](./diary-md/2019-11-25.md)
+ - [2019-11-26.md](./diary-md/2019-11-26.md)
+ - [2019-11-27.md](./diary-md/2019-11-27.md)
+ - [2019-11-28.md](./diary-md/2019-11-28.md)
+ - [2019-11-29.md](./diary-md/2019-11-29.md)
+ - [2019-12-02.md](./diary-md/2019-12-02.md)
+ - [2019-12-03.md](./diary-md/2019-12-03.md)
+ - [2019-12-04.md](./diary-md/2019-12-04.md)
+ - [2019-12-05.md](./diary-md/2019-12-05.md)
+ - [2019-12-08.md](./diary-md/2019-12-08.md)
+ - [2019-12-09.md](./diary-md/2019-12-09.md)
+ - [2019-12-10.md](./diary-md/2019-12-10.md)
+ - [2019-12-11.md](./diary-md/2019-12-11.md)
+ - [2019-12-15.md](./diary-md/2019-12-15.md)
+ - [2019-12-16.md](./diary-md/2019-12-16.md)
+ - [2019-12-19.md](./diary-md/2019-12-19.md)
+ - [2019-12-20.md](./diary-md/2019-12-20.md)
+ - [2019-12-22.md](./diary-md/2019-12-22.md)
+ - [2019-12-26.md](./diary-md/2019-12-26.md)
+ - [2019-12-28.md](./diary-md/2019-12-28.md)
+ - [2019-12-29.md](./diary-md/2019-12-29.md)
+ - [2019-12-31.md](./diary-md/2019-12-31.md)
+ - [2020-01-01.md](./diary-md/2020-01-01.md)
+ - [2020-01-03.md](./diary-md/2020-01-03.md)
+ - [2020-01-04.md](./diary-md/2020-01-04.md)
+ - [2020-01-05.md](./diary-md/2020-01-05.md)
+ - [2020-01-06.md](./diary-md/2020-01-06.md)
+ - [2020-01-07.md](./diary-md/2020-01-07.md)
+ - [2020-01-08.md](./diary-md/2020-01-08.md)
+ - [2020-01-09.md](./diary-md/2020-01-09.md)
+ - [2020-01-10.md](./diary-md/2020-01-10.md)
+ - [2020-01-11.md](./diary-md/2020-01-11.md)
+ - [2020-01-12.md](./diary-md/2020-01-12.md)
+ - [2020-01-13.md](./diary-md/2020-01-13.md)
+ - [2020-01-14.md](./diary-md/2020-01-14.md)
+ - [2020-01-16.md](./diary-md/2020-01-16.md)
+ - [2020-01-18.md](./diary-md/2020-01-18.md)
+ - [2020-01-19.md](./diary-md/2020-01-19.md)
+ - [2020-01-20.md](./diary-md/2020-01-20.md)
+ - [2020-01-21.md](./diary-md/2020-01-21.md)
+ - [2020-01-23.md](./diary-md/2020-01-23.md)
+ - [2020-01-25.md](./diary-md/2020-01-25.md)
+ - [2020-01-26.md](./diary-md/2020-01-26.md)
+ - [2020-01-28.md](./diary-md/2020-01-28.md)
+ - [2020-01-31.md](./diary-md/2020-01-31.md)
+ - [2020-02-01.md](./diary-md/2020-02-01.md)
+ - [2020-02-06.md](./diary-md/2020-02-06.md)
+ - [2020-02-15.md](./diary-md/2020-02-15.md)
+ - [2020-02-17.md](./diary-md/2020-02-17.md)
+ - [2020-02-18.md](./diary-md/2020-02-18.md)
+ - [2020-02-20.md](./diary-md/2020-02-20.md)
+ - [2020-02-21.md](./diary-md/2020-02-21.md)
+ - [2020-02-22.md](./diary-md/2020-02-22.md)
+ - [2020-02-25.md](./diary-md/2020-02-25.md)
+ - [2020-02-26.md](./diary-md/2020-02-26.md)
+ - [2020-02-28.md](./diary-md/2020-02-28.md)
+ - [2020-03-06.md](./diary-md/2020-03-06.md)
+ - [2020-03-07.md](./diary-md/2020-03-07.md)
+ - [2020-03-12.md](./diary-md/2020-03-12.md)
+ - [2020-03-15.md](./diary-md/2020-03-15.md)
+ - [2020-03-19.md](./diary-md/2020-03-19.md)
+ - [2020-03-22.md](./diary-md/2020-03-22.md)
+ - [2020-03-23.md](./diary-md/2020-03-23.md)
+ - [2020-03-24.md](./diary-md/2020-03-24.md)
+ - [2020-03-25.md](./diary-md/2020-03-25.md)
+ - [2020-03-26.md](./diary-md/2020-03-26.md)
+ - [2020-03-28.md](./diary-md/2020-03-28.md)
+ - [2020-03-29.md](./diary-md/2020-03-29.md)
+ - [2020-03-30.md](./diary-md/2020-03-30.md)
+ - [2020-04-01.md](./diary-md/2020-04-01.md)
+ - [2020-04-02.md](./diary-md/2020-04-02.md)
+ - [2020-04-03.md](./diary-md/2020-04-03.md)
+ - [2020-04-06.md](./diary-md/2020-04-06.md)
+ - [2020-04-07.md](./diary-md/2020-04-07.md)
+ - [2020-04-08.md](./diary-md/2020-04-08.md)
+ - [2020-04-10.md](./diary-md/2020-04-10.md)
+ - [2020-04-12.md](./diary-md/2020-04-12.md)
+ - [2020-04-13.md](./diary-md/2020-04-13.md)
+ - [2020-04-16.md](./diary-md/2020-04-16.md)
+ - [2020-04-17.md](./diary-md/2020-04-17.md)
+ - [2020-04-18.md](./diary-md/2020-04-18.md)
+ - [2020-04-19.md](./diary-md/2020-04-19.md)
+ - [2020-04-21.md](./diary-md/2020-04-21.md)
+ - [2020-04-23.md](./diary-md/2020-04-23.md)
+ - [2020-04-25.md](./diary-md/2020-04-25.md)
+ - [2020-04-26.md](./diary-md/2020-04-26.md)
+ - [2020-04-27.md](./diary-md/2020-04-27.md)
+ - [2020-04-28.md](./diary-md/2020-04-28.md)
+ - [2020-04-29.md](./diary-md/2020-04-29.md)
+ - [2020-05-02.md](./diary-md/2020-05-02.md)
+ - [2020-05-03.md](./diary-md/2020-05-03.md)
+ - [2020-05-05.md](./diary-md/2020-05-05.md)
+ - [2020-05-11.md](./diary-md/2020-05-11.md)
+ - [2020-05-13.md](./diary-md/2020-05-13.md)
+ - [2020-05-14.md](./diary-md/2020-05-14.md)
+ - [2020-05-19.md](./diary-md/2020-05-19.md)
+ - [2020-05-20.md](./diary-md/2020-05-20.md)
+ - [2020-05-22.md](./diary-md/2020-05-22.md)
+ - [2020-05-23.md](./diary-md/2020-05-23.md)
+ - [2020-05-25.md](./diary-md/2020-05-25.md)
+ - [2020-05-27.md](./diary-md/2020-05-27.md)
+ - [2020-05-28.md](./diary-md/2020-05-28.md)
+ - [2020-05-29.md](./diary-md/2020-05-29.md)
+ - [2020-05-31.md](./diary-md/2020-05-31.md)
+ - [2020-06-02.md](./diary-md/2020-06-02.md)
+ - [2020-06-04.md](./diary-md/2020-06-04.md)
+ - [2020-06-09.md](./diary-md/2020-06-09.md)
+ - [2020-06-10.md](./diary-md/2020-06-10.md)
+ - [2020-06-11.md](./diary-md/2020-06-11.md)
+ - [2020-06-12.md](./diary-md/2020-06-12.md)
+ - [2020-06-13.md](./diary-md/2020-06-13.md)
+ - [2020-06-15.md](./diary-md/2020-06-15.md)
+ - [2020-06-17.md](./diary-md/2020-06-17.md)
+ - [2020-06-19.md](./diary-md/2020-06-19.md)
+ - [2020-06-23.md](./diary-md/2020-06-23.md)
+ - [2020-06-25.md](./diary-md/2020-06-25.md)
+ - [2020-06-26.md](./diary-md/2020-06-26.md)
+ - [2020-06-28.md](./diary-md/2020-06-28.md)
+ - [2020-07-01.md](./diary-md/2020-07-01.md)
+ - [2020-07-05.md](./diary-md/2020-07-05.md)
+ - [2020-07-07.md](./diary-md/2020-07-07.md)
+ - [2020-07-09.md](./diary-md/2020-07-09.md)
+ - [2020-07-11.md](./diary-md/2020-07-11.md)
+ - [2020-07-16.md](./diary-md/2020-07-16.md)
+ - [2020-07-17.md](./diary-md/2020-07-17.md)
+ - [2020-07-18.md](./diary-md/2020-07-18.md)
+ - [2020-07-20.md](./diary-md/2020-07-20.md)
+ - [2020-07-22.md](./diary-md/2020-07-22.md)
+ - [2020-07-27.md](./diary-md/2020-07-27.md)
+ - [2020-07-30.md](./diary-md/2020-07-30.md)
+ - [2020-07-31.md](./diary-md/2020-07-31.md)
+ - [2020-08-01.md](./diary-md/2020-08-01.md)
+ - [2020-08-02.md](./diary-md/2020-08-02.md)
+ - [2020-08-03.md](./diary-md/2020-08-03.md)
+ - [2020-08-06.md](./diary-md/2020-08-06.md)
+ - [2020-08-09.md](./diary-md/2020-08-09.md)
+ - [2020-08-10.md](./diary-md/2020-08-10.md)
+ - [2020-08-11.md](./diary-md/2020-08-11.md)
+ - [2020-08-12.md](./diary-md/2020-08-12.md)
+ - [2020-08-13.md](./diary-md/2020-08-13.md)
+ - [2020-08-14.md](./diary-md/2020-08-14.md)
+ - [2020-08-15.md](./diary-md/2020-08-15.md)
+ - [2020-08-16.md](./diary-md/2020-08-16.md)
+ - [2020-08-17.md](./diary-md/2020-08-17.md)
+ - [2020-08-18.md](./diary-md/2020-08-18.md)
+ - [2020-08-19.md](./diary-md/2020-08-19.md)
+ - [2020-08-20.md](./diary-md/2020-08-20.md)
+ - [2020-08-28.md](./diary-md/2020-08-28.md)
+ - [2020-08-29.md](./diary-md/2020-08-29.md)
+ - [2020-08-31.md](./diary-md/2020-08-31.md)
+ - [2020-09-01.md](./diary-md/2020-09-01.md)
+ - [2020-09-02.md](./diary-md/2020-09-02.md)
+ - [2020-09-03.md](./diary-md/2020-09-03.md)
+ - [2020-09-04.md](./diary-md/2020-09-04.md)
+ - [2020-09-06.md](./diary-md/2020-09-06.md)
+ - [2020-09-07.md](./diary-md/2020-09-07.md)
+ - [2020-09-09.md](./diary-md/2020-09-09.md)
+ - [2020-09-11.md](./diary-md/2020-09-11.md)
+ - [2020-09-12.md](./diary-md/2020-09-12.md)
+ - [2020-09-13.md](./diary-md/2020-09-13.md)
+ - [2020-09-17.md](./diary-md/2020-09-17.md)
+ - [2020-09-18.md](./diary-md/2020-09-18.md)
+ - [2020-09-19.md](./diary-md/2020-09-19.md)
+ - [2020-09-22.md](./diary-md/2020-09-22.md)
+ - [2020-09-23.md](./diary-md/2020-09-23.md)
+ - [2020-09-24.md](./diary-md/2020-09-24.md)
+ - [2020-09-25.md](./diary-md/2020-09-25.md)
+ - [2020-09-26.md](./diary-md/2020-09-26.md)
+ - [2020-09-27.md](./diary-md/2020-09-27.md)
+ - [2020-09-28.md](./diary-md/2020-09-28.md)
+ - [2020-09-29.md](./diary-md/2020-09-29.md)
+ - [2020-09-30.md](./diary-md/2020-09-30.md)
+ - [2020-10-01.md](./diary-md/2020-10-01.md)
+ - [2020-10-02.md](./diary-md/2020-10-02.md)
+ - [2020-10-04.md](./diary-md/2020-10-04.md)
+ - [2020-10-05.md](./diary-md/2020-10-05.md)
+ - [2020-10-06.md](./diary-md/2020-10-06.md)
+ - [2020-10-08.md](./diary-md/2020-10-08.md)
+ - [2020-10-09.md](./diary-md/2020-10-09.md)
+ - [2020-10-10.md](./diary-md/2020-10-10.md)
+ - [2020-10-11.md](./diary-md/2020-10-11.md)
+ - [2020-10-12.md](./diary-md/2020-10-12.md)
+ - [2020-10-14.md](./diary-md/2020-10-14.md)
+ - [2020-10-15.md](./diary-md/2020-10-15.md)
+ - [2020-10-16.md](./diary-md/2020-10-16.md)
+ - [2020-10-17.md](./diary-md/2020-10-17.md)
+ - [2020-10-18.md](./diary-md/2020-10-18.md)
+ - [2020-10-20.md](./diary-md/2020-10-20.md)
+ - [2020-10-21.md](./diary-md/2020-10-21.md)
+ - [2020-10-22.md](./diary-md/2020-10-22.md)
+ - [2020-10-23.md](./diary-md/2020-10-23.md)
+ - [2020-10-24.md](./diary-md/2020-10-24.md)
+ - [2020-10-25.md](./diary-md/2020-10-25.md)
+ - [2020-10-26.md](./diary-md/2020-10-26.md)
+ - [2020-10-27.md](./diary-md/2020-10-27.md)
+ - [2020-10-28.md](./diary-md/2020-10-28.md)
+ - [2020-10-29.md](./diary-md/2020-10-29.md)
+ - [2020-10-30.md](./diary-md/2020-10-30.md)
+ - [2020-10-31.md](./diary-md/2020-10-31.md)
+ - [2020-11-01.md](./diary-md/2020-11-01.md)
+ - [2020-11-02.md](./diary-md/2020-11-02.md)
+ - [2020-11-03.md](./diary-md/2020-11-03.md)
+ - [2020-11-04.md](./diary-md/2020-11-04.md)
+ - [2020-11-05.md](./diary-md/2020-11-05.md)
+ - [2020-11-06.md](./diary-md/2020-11-06.md)
+ - [2020-11-07.md](./diary-md/2020-11-07.md)
+ - [2020-11-08.md](./diary-md/2020-11-08.md)
+ - [2020-11-10.md](./diary-md/2020-11-10.md)
+ - [2020-11-11.md](./diary-md/2020-11-11.md)
+ - [2020-11-12.md](./diary-md/2020-11-12.md)
+ - [2020-11-13.md](./diary-md/2020-11-13.md)
+ - [2020-11-15.md](./diary-md/2020-11-15.md)
+ - [2020-11-16.md](./diary-md/2020-11-16.md)
+ - [2020-11-17.md](./diary-md/2020-11-17.md)
+ - [2020-11-18.md](./diary-md/2020-11-18.md)
+ - [2020-11-19.md](./diary-md/2020-11-19.md)
+ - [2020-11-20.md](./diary-md/2020-11-20.md)
+ - [2020-11-21.md](./diary-md/2020-11-21.md)
+ - [2020-11-22.md](./diary-md/2020-11-22.md)
+ - [2020-11-23.md](./diary-md/2020-11-23.md)
+ - [2020-11-24.md](./diary-md/2020-11-24.md)
+ - [2020-11-26.md](./diary-md/2020-11-26.md)
+ - [2020-11-27.md](./diary-md/2020-11-27.md)
+ - [2020-11-28.md](./diary-md/2020-11-28.md)
+ - [2020-11-29.md](./diary-md/2020-11-29.md)
+ - [2020-12-01.md](./diary-md/2020-12-01.md)
+ - [2020-12-02.md](./diary-md/2020-12-02.md)
+ - [2020-12-03.md](./diary-md/2020-12-03.md)
+ - [2020-12-04.md](./diary-md/2020-12-04.md)
+ - [2020-12-05.md](./diary-md/2020-12-05.md)
+ - [2020-12-09.md](./diary-md/2020-12-09.md)
+ - [2020-12-10.md](./diary-md/2020-12-10.md)
+ - [2020-12-11.md](./diary-md/2020-12-11.md)
+ - [2020-12-13.md](./diary-md/2020-12-13.md)
+ - [2020-12-15.md](./diary-md/2020-12-15.md)
+ - [2020-12-17.md](./diary-md/2020-12-17.md)
+ - [2020-12-18.md](./diary-md/2020-12-18.md)
+ - [2020-12-19.md](./diary-md/2020-12-19.md)
+ - [2020-12-20.md](./diary-md/2020-12-20.md)
+ - [2020-12-21.md](./diary-md/2020-12-21.md)
+ - [2020-12-22.md](./diary-md/2020-12-22.md)
+ - [2020-12-23.md](./diary-md/2020-12-23.md)
+ - [2020-12-24.md](./diary-md/2020-12-24.md)
+ - [2020-12-25.md](./diary-md/2020-12-25.md)
+ - [2020-12-28.md](./diary-md/2020-12-28.md)
+ - [2020-12-29.md](./diary-md/2020-12-29.md) The relationship resumes
+ - [2020-12-30.md](./diary-md/2020-12-30.md) 
+ - [2020-12-31.md](./diary-md/2020-12-31.md) After meeting with Janet last evening
+ - [20201002093843.md](./diary-md/20201002093843.md)
+ - [20201002094403.md](./diary-md/20201002094403.md)
+ - [20201104150234.md](./diary-md/20201104150234.md)
+ - [20201113081539.md](./diary-md/20201113081539.md)
+ - [20201202133355.md](./diary-md/20201202133355.md)
+ - [2021-01-06.md](./diary-md/2021-01-06.md)
+ - [2021-01-08.md](./diary-md/2021-01-08.md)
+ - [diary.md](./diary-md/diary.md)
+
+<!-- filetreestop -->

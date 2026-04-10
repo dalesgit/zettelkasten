@@ -1,0 +1,13 @@
+[[ReadItLater]] [[Article]]
+
+# ['There's no other poem like it': Why this Robert Burns classic is a masterpiece](https://www.bbc.com/culture/article/20260122-why-this-robert-burns-poem-is-a-masterpiece)
+
+Nannie and her cohorts aren't pleased to hear it: Tam has to flee on horseback with a crowd of screeching witches in hot pursuit, "Wi' mony an eldritch skriech and hollo". Luckily for him, witches can't cross running water, and the River Doon is nearby. Tam manages to race over the bridge to safety, but Maggie the horse isn't quite so fortunate. Nannie grabs hold of her tail just as she steps on to the Brig O' Doon, and – spoiler alert – she is left with "scarce a stump".
+
+## **Rude jokes and chilling imagery**
+
+Carruthers calls it a "fairly hackneyed ghost story plot", but the way Burns tells his story means that "there's no other poem like it in Scottish literature". Tam O'Shanter is "incredibly rich, so visual, so carefully crafted and so well-paced", Mackay tells the BBC. "There's just so much in there: everything from the way Burns has absorbed and assimilated the landscape and folklore of Ayrshire where he was born, and Dumfriesshire where he was writing the poem, to his keen interest in the supernatural, to the various comments that he makes on the complexities of human relationships and gender. All of this is so fascinating."
+
+There are lines in Scots, and others in English. There are rude jokes, and there is chillingly macabre imagery. There are tributes to the joys of getting drunk with friends in a cosy pub: "Kings may be blest, but Tam was glorious. / O'er a' the ills o' life victorious!" And there are rueful philosophical musings on how transient those joys are: "But pleasures are like poppies spread, / You seize the flower, its bloom is shed." Sometimes the narrator will address Tam himself: "O Tam, hadst thou but been sae wise, / As ta'en thou ain wife Kate's advice!" At other times, he will address another character or the reader / listener – one reason, says Irvine, why the poem "lends itself to performance", and has become a Burns Supper staple.
+
+In fact, there isn't much that Burns doesn't do in Tam O'Shanter – and he does it all in rhyming iambic tetrameter. "He's showing off," says Irvine. "He's doing one thing, and saying 'Hey, look, I can do this other thing as well.' In his first volume of poems, he does that between one poem and the next. He adopts different verse genres, he switches from Scots to English, he borrows from all sorts of different traditions – both what we think of now as the folk tradition, and the literary traditions of England and Scotland. It's a virtuoso display of all the different things that he can do. And in Tam O'Shanter, he's doing all that within one poem."

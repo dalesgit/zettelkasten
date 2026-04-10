@@ -1,0 +1,70 @@
+---
+title: "Why does the supreme court keep bending the knee to Trump? | Steven Greenhouse"
+source: "https://www.theguardian.com/commentisfree/2025/oct/06/supreme-court-donald-trump"
+author:
+  - "[[Steven Greenhouse]]"
+published: 2025-10-06
+created: 2025-10-07
+description: "As a new term begins, the justices have continually failed to provide a check on presidential power – with disastrous consequences"
+tags:
+  - "clippings"
+---
+![supreme court justices pose for photo](https://i.guim.co.uk/img/media/d02c2359b2a5287f69282d9d90348a44a1613c2e/0_0_5555_3703/master/5555.jpg?width=620&dpr=2&s=none&crop=none)
+
+‘The US supreme court has ruled for Trump in a startlingly high percentage of cases this year.’ Photograph: J Scott Applewhite/AP
+
+## Why does the supreme court keep bending the knee to Trump?
+
+[Steven Greenhouse](https://www.theguardian.com/profile/steven-greenhouse)
+
+![Steven Greenhouse](https://i.guim.co.uk/img/uploads/2025/05/21/Steven_Greenhouse.png?width=216&dpr=2&s=none&crop=none)
+
+As a new term begins, the justices have continually failed to provide a check on presidential power – with disastrous consequences
+
+T wo 0f the world’s best-known authoritarian leaders – Viktor Orbán, [Hungary](https://www.theguardian.com/world/hungary) ’s prime minister, and Recep Tayyip Erdoğan, [Turkey](https://www.theguardian.com/world/turkey) ’s president – have each had at least 15 years at their country’s helm to pack the courts with loyalists and to pressure and intimidate judges. And no surprise, judges in those countries have repeatedly done what Orbán and Erdoğan want.
+
+[Donald Trump](https://www.theguardian.com/us-news/donaldtrump) has not had the opportunity to pack the [US supreme court](https://www.theguardian.com/us-news/us-supreme-court) to nearly the same degree. Nor has he, despite his brash, bullying ways, done much to pressure or browbeat the court’s nine justices. Nevertheless, the court’s conservative supermajority has ruled time after time in favor of Trump since he returned to office. The six conservative justices have fallen into line much like Hungary’s and Turkey’s judges, even though the supreme court’s justices have life tenure to insulate them from political pressures.
+
+With the court’s new term beginning on Monday, many Americans are dismayed that the conservative justices have been so submissive to Trump, the most authoritarian-minded president in US history. Notwithstanding the US’s celebrated system of checks and balances, the justices have utterly failed to provide the checks on Trump that many legal scholars had expected. In ruling for Trump, the chief justice, John Roberts, and the other conservatives have let him [gut the Department of Education](https://www.npr.org/2025/07/15/nx-s1-5467697/supreme-court-rules-trumps-efforts-to-close-the-education-department-can-continue), fire [Federal Trade Commission](https://www.scotusblog.com/2025/09/supreme-court-allows-trump-to-fire-ftc-commissioner/) and [National Labor Relations Board](https://www.npr.org/2025/05/22/nx-s1-5366714/supreme-court-nlrb-mspb) members, and [strip temporary protected status](https://www.politico.com/news/2025/10/03/supreme-court-venezuela-temporary-protected-status-00593996) from hundreds of thousands of immigrants. The rightwing supermajority has also let Trump [halt $4bn in foreign aid](https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-withhold-4-billion-foreign-aid-funding-rcna230348), [fire tens of thousands of federal employees](https://www.axios.com/2025/07/08/supreme-court-trump-fire-federal-workers) despite contractual protections and [deport people](https://www.cbsnews.com/news/supreme-court-lifts-lower-court-order-blocking-deportations-to-third-countries-without-notice/) to [countries](https://www.cbsnews.com/news/supreme-court-djibouti-trump-administration-deport/) where they have no connection.
+
+In these and other cases, the supermajority has ceded huge power to Trump, for instance, by greatly reducing Congress’s constitutional power over spending as it let Trump unilaterally gut agencies and [halt funding](https://www.politico.com/news/2025/09/26/supreme-court-foreign-aid-impoundment-ruling-00583052) approved by Congress. What’s more, the court seems eager to snuff out independent, nonpartisan federal agencies by [letting Trump fire](https://www.politico.com/news/2025/05/22/supreme-court-ruling-labor-regulators-00366433) agency chairs and [commissioners](https://www.nytimes.com/2025/09/22/us/politics/supreme-court-ftc-commissioner-firing.html) without giving any reason, even though [Congress approved laws](https://www.cnn.com/2025/09/22/politics/supreme-court-precedent-trump-fire) explicitly saying those officials could only be dismissed for cause. (Pleasing corporate America, the court ordered last Wednesday that [Lisa Cook can remain](https://www.nytimes.com/2025/10/02/business/federal-reserve-independence-lisa-cook.html) on the Federal Reserve Board, at least temporarily, while litigation proceeds over whether Trump can fire her as part of his effort to end the central bank’s independence.)
+
+“The chief justice is presiding over [the end of the rule of law in America](https://www.theguardian.com/us-news/ng-interactive/2025/aug/21/justice-john-roberts-supreme-court),” said J Michael Luttig, a highly regarded conservative former federal appellate judge.
+
+The conservative justices have repeatedly done Trump’s bidding even though they don’t begin to face the intense pressures that Hungary’s and Turkey’s judges face. Erdoğan has sometimes [purged and blackballed judges seen as insufficiently loyal](https://www.nytimes.com/2019/06/21/world/asia/erdogan-turkey-courts-judiciary-justice.html), while Orbán’s high-ranking allies have berated [less obedient judges as “traitors”](https://www.theguardian.com/world/2022/aug/14/viktor-orban-grip-on-hungary-courts-threatens-rule-of-law-warns-judge).
+
+The US supreme court has ruled for Trump in a startlingly high percentage of cases this year. It has issued [24 decisions from its emergency docket](https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-withhold-4-billion-foreign-aid-funding-rcna230348) (often without giving any reasons) and ruled in Trump’s favor about 90% of the time.
+
+In doing so, the court has repeatedly vacated injunctions that lower courts had issued after concluding that Trump, with his [209 executive orders](https://ballotpedia.org/Donald_Trump%27s_executive_orders_issued_in_the_first_100_days_of_his_second_term,_2025), had egregiously broken the law. Adam Bonica, a Stanford political science professor, found that in Trump administration cases decided between 1 May and 23 June, federal district courts ruled against Trump [94.3% of the time](https://data4democracy.substack.com/p/the-supreme-court-is-at-war-with) (82 out of 87 cases), often after looking closely at the facts. In contrast, the supreme court [ruled 93.7%](https://data4democracy.substack.com/p/the-supreme-court-is-at-war-with) of the time for Trump (15 out of 16 cases), often without taking a close look at the facts.
+
+“The supreme court has [pulled the rug out](https://www.theguardian.com/us-news/ng-interactive/2025/aug/21/justice-john-roberts-supreme-court) from under the lower federal courts, and it has done so deliberately and knowingly,” Luttig said, adding that the court is “acquiescing in and accommodating the president’s lawlessness”.
+
+With the court siding so often with Trump, a new Gallup poll found that a [record high 43% of Americans think](https://news.gallup.com/poll/695759/new-high-say-supreme-court-too-conservative.aspx) the court is too conservative, higher than the 36% who think the court is “about right”. Moreover, the court’s overall approval rating has [fallen to its lowest level](https://news.gallup.com/poll/693230/record-party-gaps-job-approval-supreme-court-congress.aspx) since Gallup began measuring, dropping below 40% for the first time in August (before climbing slightly) – and down from nearly 60% in the early 2000s.
+
+Steven Levitsky, a political science professor at Harvard and co-author of [How Democracies Die](https://www.penguinrandomhouse.com/books/562246/how-democracies-die-by-steven-levitsky-and-daniel-ziblatt/), voiced bewilderment that the court has been so obliging toward a president who he says is a clear threat to democracy. According to Levitsky, courts come under the thumb of authoritarian governments in several ways. One way is “ideological agreement”. He said the court’s most rightwing members, Samuel Alito and Clarence Thomas, seem in fundamental agreement with Trump, but he said the other conservatives do not love Trump even if they often rule for him. Levitsky suggested that those justices are so hostile toward liberals and liberal arguments that they gravitate towards Trump’s side in case after case.
+
+Court packing is another way courts fall under an authoritarian’s sway. Orbán, Erdoğan and their legislative allies have appointed the overwhelming majority of their countries’ judges, while Trump has appointed three of the nine justices. With life tenure, the justices should in theory feel free from political pressure and able to rule against Trump. In the past, many justices have ruled against the presidents and parties that appointed them.
+
+Levitsky sees another phenomenon at work: abdication. Pointing to both Congress and the supreme court, he said: “The major institutions that have the authority and responsibility to stand up and stop an authoritarian have declined to do so.”
+
+In his view, the conservative justices may have made a major miscalculation. “They are overconfident about the strength of our institutions,” Levitsky said. “They don’t really think our democracy is in danger. They don’t think it can really happen here. I really think a majority of members of the US establishment are in that camp.”
+
+The conservative justices have increasingly embraced the unitary executive theory, a once fringe, four-decade-old notion that the president has sole, unlimited authority over the executive branch and should, for instance, be free to fire members of independent agencies along with hundreds of thousands of federal employees. “If they really believed that Trump was a threat to democracy, they wouldn’t be giving him so much power,” Levitsky said.
+
+[skip past newsletter promotion](https://www.theguardian.com/commentisfree/2025/oct/06/#EmailSignup-skip-link-16)
+
+The court’s conservatives, Levitsky and many legal scholars say, are also engaged in appeasement. Roberts and the conservatives are “scared out of their minds that they will have to play chicken with Trump”, Levitsky said. “The worst thing for them is if the government ignores them and they don’t have any authority. They’re just terrified that Trump will trample on them and undermine their authority. Trump is not someone you want to play chicken with. They’re terrified of a big, high-profile fight with Trump.”
+
+In other words, the conservative justices are so eager to save face and avoid confrontation that they have often given a green light to what lower courts have seen as Trump’s lawlessness. Meanwhile, the three liberal justices – Elena Kagan, Sonia Sotomayor and Ketanji Brown Jackson – have written repeated, often angry dissents that chastise the supermajority for acquiescing to Trump’s lawlessness and steamrolling over parts of the constitution.
+
+One theory is that the conservative justices are deliberately giving Trump small victories – vacating lower courts’ injunctions and letting the president’s executive orders proceed and do their damage – as the justices wait for those cases to return to the supreme court, perhaps in a year or two. At that point, those cases would be fully briefed and argued, and the court would issue formal, longer rulings. Legal scholars hope, but are not optimistic, that the thus far compliant court will be more willing to defy Trump when the cases are fully briefed and argued, with the birthright citizenship and tariff cases most often mentioned.
+
+“What they’re doing,” Levitsky said, “is giving Trump small victories in an effort to placate him or preserve as much political capital for when the big fights come. It’s appeasement. Appeasement usually doesn’t work when you cede power to an authoritarian executive. It sends signals to society that no one is going to stop the guy. Ceding power to someone like Trump is really dangerous.”
+
+After Jair Bolsonaro, a rightwing Trump ally, was elected Brazil’s president in 2019, Alexandre de Moraes, a prominent member of Brazil’s supreme court, feared what he saw as Bolsonaro’s authoritarian tendencies. De Moraes cracked down on Bolsonaro’s efforts to spread disinformation on social media to undermine his opponents. When a mob of Bolsonaro’s allies stormed government buildings in January 2023, pushing for a coup d’etat, de Moraes led efforts to prosecute Bolsonaro. (Last month, [Bolsonaro was sentenced](https://www.bbc.com/news/articles/c8xrqxk9p4xo) to 27 years in prison after being convicted of plotting a coup.)
+
+“When Bolsonaro got elected, de Moraes realized that he’s a threat to democracy,” Levitsky said. “He thought that the Brazilian supreme court could be Chamberlain or Churchill.” (Neville Chamberlain, a British prime minister, agreed to let Adolf Hitler take over a German-speaking part of Czechoslovakia in 1938, as part of the Munich agreement, infamously declaring that the agreement would assure “peace for our time”.)
+
+“The \[US\] supreme court hasn’t wanted to be Churchill.” Levitsky said. “John Roberts has been Chamberlain. I think that is incredible destructive behavior.”
+
+- Steven Greenhouse is a journalist and author, focusing on labor and the workplace, as well as economic and legal issues
