@@ -107,15 +107,16 @@ REM Mar 28 2026 SPECIAL COLOR 0 128 255 No Kings Protest %b%
 REM Feb 17 2026 AT 17:00 SPECIAL COLOR 255 0 255 Pancake supper %b% 
 ;REM Feb 20 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
 REM Feb 25 2026 +2 AT 10:30 SPECIAL COLOR 0 128 255 Meet with Michael re finances %b%
-REM Friday 1 2026 +2 AT 13:15 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+REM Friday 1 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
 REM Friday 8 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Faith in the Public Square %b%
-REM Friday 15 2026 +2 AT 13:15 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
+REM Friday 15 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
 REM Mar 7 2026 +2 AT 10:45 SPECIAL COLOR 0 128 255 United in prayer %b%
 REM Mar 7 2026 +2 AT 12:30 SPECIAL COLOR 0 128 255 Check out Labyrinth %b%
 REM Mar 5 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Hoopers %b%
 REM Mar 5 2026 +2 AT 14:00 SPECIAL COLOR 102 125 250 Eastlake to see patio furniture %b%
 REM Mar 9 2026 +2 AT 11:00 SPECIAL COLOR 102 125 250 Bonefish grill for Neptune Soc. %b%
 REM Mar 14 2026 +2 AT 18:30 SPECIAL COLOR 0 128 255 Hoopers for dinner %b%
-REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Dave and Lora %b%
+REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Dave and Lora %b%
 REM Mar 24 2026 +2 AT 09:45 SPECIAL COLOR 0 128 255 Gardner audiology  %b%
 REM Mar 23 2026 +2  SPECIAL COLOR 102 255 153 Lance afternoon landscaping  %b%
+
