@@ -1,8 +1,8 @@
-; blue: rgb(51 102 255)
-; green: rgb(102 255 153)
-; yellow: rgb(255 255 0)
-; red: rgb(255 0 0)
-; blue: rgb(0 0 255)
+; blue: rgb(51, 102, 255)
+; green: rgb(102, 255, 153)
+; yellow: rgb(255, 255, 0)
+; red: rgb(255, 0, 0)
+; blue: rgb(0, 0, 255)
 ;
 REM Dec 15 2024 MSG This is my first customization
 REM Nov 28 2024 +2 MSG Eucharist     AT 6:00 PM %b%
@@ -116,7 +116,7 @@ REM Mar 5 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Hoopers %b%
 REM Mar 5 2026 +2 AT 14:00 SPECIAL COLOR 102 125 250 Eastlake to see patio furniture %b%
 REM Mar 9 2026 +2 AT 11:00 SPECIAL COLOR 102 125 250 Bonefish grill for Neptune Soc. %b%
 REM Mar 14 2026 +2 AT 18:30 SPECIAL COLOR 0 128 255 Hoopers for dinner %b%
-REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Dave and Lora %b%
-REM Mar 24 2026 +2 AT 09:45 SPECIAL COLOR 0 128 255 Gardner audiology  %b%
-REM Mar 23 2026 +2  SPECIAL COLOR 102 255 153 Lance afternoon landscaping  %b%
-REM Apr 18 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
+REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Lora and Dave %b%
+REM Mar 20 2026 +2 AT 16:00 MSG Meet with Lance to talk about landscaping %b%
+REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Dave and Lora %b%
+
