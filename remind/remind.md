@@ -102,7 +102,7 @@ REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 0 Dinner with Larry & Kathy %b%
 REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %**b**%
 REM Feb 12 2026 AT 14:00 SPECIAL COLOR 0 128 255 Airhawk service %b% 
 REM Feb 09 2026 AT 14:30 SPECIAL COLOR 0 128 255 MASA meal at Red Lobster %b% 
-REM Feb 21 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
+;REM Feb 21 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
 REM Mar 28 2026 SPECIAL COLOR 0 128 255 No Kings Protest %b% 
 REM Feb 17 2026 AT 17:00 SPECIAL COLOR 255 0 255 Pancake supper %b% 
 ;REM Feb 20 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
@@ -119,4 +119,6 @@ REM Mar 14 2026 +2 AT 18:30 SPECIAL COLOR 0 128 255 Hoopers for dinner %b%
 REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Lora and Dave %b%
 REM Mar 20 2026 +2 AT 16:00 MSG Meet with Lance to talk about landscaping %b%
 REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Dave and Lora %b%
-
+;REM Apr 18 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
+;REM Mar 21 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
+REM Sat 15 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b%
