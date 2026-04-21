@@ -473,3 +473,6 @@ time 1775577842
 old [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
 new [description:"clear under sinks, around circuit box, access to attic" end:"1775577842" entry:"1774282063" modified:"1775577842" project:"home" status:"completed" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
 ---
+time 1776254342
+new [description:"buy concrete crown for irrigation" entry:"1776254342" modified:"1776254342" project:"home" status:"pending" uuid:"899d6432-ccd4-42a6-bedc-c154e22c2018"]
+---
