@@ -441,23 +441,6 @@ new [description:"onhold Linux on newest chromebook" entry:"1774780900" modified
 time 1774564687
 new [description:"energizer battery cr1632" entry:"1774564687" modified:"1774564687" status:"pending" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
 ---
-<<<<<<< HEAD
-time 1775125517
-old [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
-new [description:"clear under sinks, around circuit box, access to attic" end:"1775125515" entry:"1774282063" modified:"1775125517" project:"home" status:"deleted" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
----
-time 1775125537
-old [description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
-new [description:"Get home inspection pronto" end:"1775125534" entry:"1774278144" modified:"1775125537" project:"home" status:"deleted" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
----
-time 1775125573
-old [description:"get phone call setup for Michael" entry:"1774395458" modified:"1774395458" project:"prison" status:"pending" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
-new [description:"get phone call setup for Michael" end:"1775125570" entry:"1774395458" modified:"1775125573" project:"prison" status:"deleted" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
----
-time 1775125596
-old [description:"energizer battery cr1632" entry:"1774564687" modified:"1774564687" status:"pending" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
-new [description:"energizer battery cr1632" end:"1775125592" entry:"1774564687" modified:"1775125596" status:"deleted" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
-=======
 time 1775056735
 old [description:"get phone call setup for Michael" entry:"1774395458" modified:"1774395458" project:"prison" status:"pending" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
 new [description:"get phone call setup for Michael" end:"1775056731" entry:"1774395458" modified:"1775056735" project:"prison" status:"deleted" uuid:"fc4fdab5-ec1e-4653-876c-165a6a6282fd"]
@@ -465,5 +448,45 @@ new [description:"get phone call setup for Michael" end:"1775056731" entry:"1774
 time 1775056753
 old [description:"write Michael to ask if he wants to talk" entry:"1774395479" modified:"1774395479" project:"prison" status:"pending" uuid:"899ed4ff-2cde-470d-8ac2-fc931bc570fd"]
 new [description:"write Michael to ask if he wants to talk" end:"1775056752" entry:"1774395479" modified:"1775056753" project:"prison" status:"deleted" uuid:"899ed4ff-2cde-470d-8ac2-fc931bc570fd"]
->>>>>>> 8220d7088036016c291dd93c26e4da7a057ddcc0
+---
+time 1775559775
+old [description:"buy 15mm wrench" entry:"1774606983" modified:"1774606983" project:"home" status:"pending" uuid:"84be1ca7-0ccc-47dc-b3b4-c3893cc224af"]
+new [description:"buy 15mm wrench" end:"1775559775" entry:"1774606983" modified:"1775559775" project:"home" status:"completed" uuid:"84be1ca7-0ccc-47dc-b3b4-c3893cc224af"]
+---
+time 1775559789
+old [description:"onhold mount bike lift" entry:"1774780862" modified:"1774780940" project:"onhold" status:"pending" uuid:"5aa33dc2-5308-48c4-a290-c3acf24577ca"]
+new [description:"onhold mount bike lift" end:"1775559789" entry:"1774780862" modified:"1775559789" project:"onhold" status:"completed" uuid:"5aa33dc2-5308-48c4-a290-c3acf24577ca"]
+---
+time 1775559802
+old [description:"Get home inspection pronto" entry:"1774278144" modified:"1774278144" project:"home" status:"pending" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
+new [description:"Get home inspection pronto" end:"1775559802" entry:"1774278144" modified:"1775559802" project:"home" status:"completed" uuid:"269b77ec-1be7-423f-aaff-272a7628d15c"]
+---
+time 1775559808
+old [description:"find bag pattern and strap guide" entry:"1774607021" modified:"1774607021" project:"diy" status:"pending" uuid:"f630d8c1-990f-49d3-b939-d2113946a7b8"]
+new [description:"find bag pattern and strap guide" end:"1775559808" entry:"1774607021" modified:"1775559808" project:"diy" status:"completed" uuid:"f630d8c1-990f-49d3-b939-d2113946a7b8"]
+---
+time 1775559824
+old [description:"energizer battery cr1632" entry:"1774564687" modified:"1774564687" status:"pending" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
+new [description:"energizer battery cr1632" end:"1775559824" entry:"1774564687" modified:"1775559824" status:"completed" uuid:"c7ec9aae-de11-4084-9003-32f432931653"]
+---
+time 1775577842
+old [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
+new [description:"clear under sinks, around circuit box, access to attic" end:"1775577842" entry:"1774282063" modified:"1775577842" project:"home" status:"completed" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
+---
+<<<<<<< HEAD
+time 1776254342
+new [description:"buy concrete crown for irrigation" entry:"1776254342" modified:"1776254342" project:"home" status:"pending" uuid:"899d6432-ccd4-42a6-bedc-c154e22c2018"]
+=======
+time 1776512775
+new [description:"get dermatologist" entry:"1776512775" modified:"1776512775" project:"health" status:"pending" uuid:"80f5ff85-435e-426e-a4b9-7b6282629ad2"]
+---
+time 1776512809
+new [description:"locate a repair shop" entry:"1776512809" modified:"1776512809" project:"Miata" status:"pending" uuid:"d88937b1-2861-4f25-863c-e7cc2561c2e5"]
+---
+time 1776512819
+new [description:"call AAA" entry:"1776512819" modified:"1776512819" project:"Miata" status:"pending" uuid:"cf277581-205c-43d2-845e-34d5d51f11a8"]
+---
+time 1776512884
+new [description:"CPG and whatever re United Health" entry:"1776512884" modified:"1776512884" project:"health" status:"pending" uuid:"e45bdf3a-3dad-4627-941b-da8ff357dc2d"]
+>>>>>>> 0679e3fcdff763a8195a7662829fddb58c346b2b
 ---

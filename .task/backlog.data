@@ -130,4 +130,7 @@
 {"description":"find bag pattern and strap guide","end":"20260407T110328Z","entry":"20260327T102341Z","modified":"20260407T110328Z","project":"diy","status":"completed","uuid":"f630d8c1-990f-49d3-b939-d2113946a7b8"}
 {"description":"energizer battery cr1632","end":"20260407T110344Z","entry":"20260326T223807Z","modified":"20260407T110344Z","status":"completed","uuid":"c7ec9aae-de11-4084-9003-32f432931653"}
 {"description":"clear under sinks, around circuit box, access to attic","end":"20260407T160402Z","entry":"20260323T160743Z","modified":"20260407T160402Z","project":"home","status":"completed","uuid":"00f31506-6bad-4c46-8faa-7b9f36f2110f"}
-{"description":"buy concrete crown for irrigation","entry":"20260415T115902Z","modified":"20260415T115902Z","project":"home","status":"pending","uuid":"899d6432-ccd4-42a6-bedc-c154e22c2018"}
+{"description":"get dermatologist","entry":"20260418T114615Z","modified":"20260418T114615Z","project":"health","status":"pending","uuid":"80f5ff85-435e-426e-a4b9-7b6282629ad2"}
+{"description":"locate a repair shop","entry":"20260418T114649Z","modified":"20260418T114649Z","project":"Miata","status":"pending","uuid":"d88937b1-2861-4f25-863c-e7cc2561c2e5"}
+{"description":"call AAA","entry":"20260418T114659Z","modified":"20260418T114659Z","project":"Miata","status":"pending","uuid":"cf277581-205c-43d2-845e-34d5d51f11a8"}
+{"description":"CPG and whatever re United Health","entry":"20260418T114804Z","modified":"20260418T114804Z","project":"health","status":"pending","uuid":"e45bdf3a-3dad-4627-941b-da8ff357dc2d"}

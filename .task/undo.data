@@ -473,6 +473,15 @@ time 1775577842
 old [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
 new [description:"clear under sinks, around circuit box, access to attic" end:"1775577842" entry:"1774282063" modified:"1775577842" project:"home" status:"completed" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
 ---
-time 1776254342
-new [description:"buy concrete crown for irrigation" entry:"1776254342" modified:"1776254342" project:"home" status:"pending" uuid:"899d6432-ccd4-42a6-bedc-c154e22c2018"]
+time 1776512775
+new [description:"get dermatologist" entry:"1776512775" modified:"1776512775" project:"health" status:"pending" uuid:"80f5ff85-435e-426e-a4b9-7b6282629ad2"]
+---
+time 1776512809
+new [description:"locate a repair shop" entry:"1776512809" modified:"1776512809" project:"Miata" status:"pending" uuid:"d88937b1-2861-4f25-863c-e7cc2561c2e5"]
+---
+time 1776512819
+new [description:"call AAA" entry:"1776512819" modified:"1776512819" project:"Miata" status:"pending" uuid:"cf277581-205c-43d2-845e-34d5d51f11a8"]
+---
+time 1776512884
+new [description:"CPG and whatever re United Health" entry:"1776512884" modified:"1776512884" project:"health" status:"pending" uuid:"e45bdf3a-3dad-4627-941b-da8ff357dc2d"]
 ---
