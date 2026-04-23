@@ -12,7 +12,7 @@ REM Jan 16 +2 MSG Helen Detwiler birthday %b%
 REM Jan 16 +2 MSG Murray bday 1945 %b%
 REM Jan 25 +2 MSG Karla Hackstaff birthday %b%
 REM Jul 06 +2 MSG Amy's birthday %b%
-REM Jun 06 +2 MSG Leen leaves %b%
+;REM Jun 06 +2 MSG Leen leaves %b%
 REM Jun 07 +2 MSG Bill and Karla Anniversary %b%
 REM Jun 14 +2 MSG Miriam & Lee's Anniversary -2008 %b%
 REM Jun 14 +2 MSG Miriam's Wedding %b%
@@ -20,7 +20,7 @@ REM Jun 26 +2 MSG Les Phillips left 2014 %b%
 REM Mar 01 +2 MSG Pacific cruise %b%
 REM Mar 11 +2 MSG David's Bday %b%
 REM Mar 14 +2 MSG Mary Pat father's death %b%
-REM Apr 24 +2 MSG Leen's presentation @ UH %b%
+;REM Apr 24 +2 MSG Leen's presentation @ UH %b%
 REM Apr 26 +2 MSG Helen Marie Swanson left us %b%
 REM May 09 2025 +2 MSG Prep colonoscopy %b%
 REM May 11 +2 MSG Owen  Birthday %b%

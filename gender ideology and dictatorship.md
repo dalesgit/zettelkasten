@@ -60,7 +60,7 @@ The video showed instruction during an upper-level English class that was taught
 
 A termination letter sent to Dr. McCoul, a senior lecturer at the university, said that the president of the university had been made aware in July that material in her class “did not align with the course catalog,” and said she did not subsequently “change the course content to align with the catalog description.”
 
-Texas has moved to restrict policies related to racial diversity in public universities, and this year it barred gender instruction in K-12 schools. But the Legislature has not passed a similar restriction on gender instruction in public universities, which still list courses tackling topics such as gender and sexuality in literature, including at Texas A&M.
+Texas has moved to restrict policies related to racial diversity in public universities, and this year it barred gender instruction in K-12 schools.  But the Legislature has not passed a similar restriction on gender instruction in public universities, which still list courses tackling topics such as gender and sexuality in literature, including at Texas A&M.
 
 Gov. Greg Abbott said, in a post on social media responding to the video of the classroom at Texas A&M, that the teaching of gender depicted in the class was “contrary to Texas law.” But it was not clear what law Mr. Abbott was referring to. A spokesman for the governor pointed to the termination letter sent to Dr. McCoul that did not directly allege any violation of state law.
 

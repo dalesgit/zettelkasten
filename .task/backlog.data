@@ -134,3 +134,4 @@
 {"description":"locate a repair shop","entry":"20260418T114649Z","modified":"20260418T114649Z","project":"Miata","status":"pending","uuid":"d88937b1-2861-4f25-863c-e7cc2561c2e5"}
 {"description":"call AAA","entry":"20260418T114659Z","modified":"20260418T114659Z","project":"Miata","status":"pending","uuid":"cf277581-205c-43d2-845e-34d5d51f11a8"}
 {"description":"CPG and whatever re United Health","entry":"20260418T114804Z","modified":"20260418T114804Z","project":"health","status":"pending","uuid":"e45bdf3a-3dad-4627-941b-da8ff357dc2d"}
+{"description":"call AAA","end":"20260423T105631Z","entry":"20260418T114659Z","modified":"20260423T105631Z","project":"Miata","status":"completed","uuid":"cf277581-205c-43d2-845e-34d5d51f11a8"}
