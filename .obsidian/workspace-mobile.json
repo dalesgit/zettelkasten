@@ -1,27 +1,19 @@
+{
+  "main": {
+    "id": "9fd8095edb4e3c25",
+    "type": "split",
+    "children": [
+      {
+        "id": "d27b2ea2ccdf7400",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1fd4632d94dec1af",
+            "id": "d466ffb5c616223d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/three pines - Google Search.md",
-                "file": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "three pines - Google Search"
-              "title": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -30,11 +22,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3ff12b4ee57de19b",
+    "id": "522f8b624637de30",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "04ab16ddc537b409",
+        "id": "fd000f55cb0d4059",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -47,7 +39,7 @@
         }
       },
       {
-        "id": "60dc24b67a0c8e29",
+        "id": "b262721a98d061b6",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -64,7 +56,7 @@
         }
       },
       {
-        "id": "d6e22d66112e0141",
+        "id": "fd3aaa52a5be13fd",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -79,7 +71,7 @@
         }
       },
       {
-        "id": "a86d7209b364478a",
+        "id": "ef3cca6c3bd427d8",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -87,31 +79,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
-      },
-      {
-        "id": "1abe2b0ab597bc3f",
-        "type": "leaf",
-        "state": {
-          "type": "notebook-navigator",
-          "state": {},
-          "icon": "notebook",
-          "title": "Notebook Navigator"
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
-    "id": "6ec246f2f202997d",
+    "id": "1b11bc38050721a2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6b0e002300c90e05",
+        "id": "c685ef33ab9e5fbd",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,12 +106,11 @@
         }
       },
       {
-        "id": "87cafec5538673aa",
+        "id": "df87a6c8f34e91c1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox Feb 2026.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,12 +119,11 @@
         }
       },
       {
-        "id": "c9082c036ef2b7a0",
+        "id": "dbdb55ab0b4bc804",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox Feb 2026.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,7 +133,7 @@
         }
       },
       {
-        "id": "e869862d39f7ff00",
+        "id": "a43ac37daf1b0a2c",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -164,7 +143,7 @@
         }
       },
       {
-        "id": "7544dd1b13b468c5",
+        "id": "90e10331ad01848d",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -193,31 +172,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1fd4632d94dec1af",
+  "active": "d466ffb5c616223d",
   "lastOpenFiles": [
-    "Clippings/Yvette Cooper urges full reopening of Strait of Hormuz.md",
-    "Clippings/three pines - Google Search.md",    "Journal/Daily/2025-11-29.md",
-    "sign.md",
-    "How to use drafts.md",
-    "Bruce Springsteen song _streets of Minneapolis_.md",
-    "You are the living, breathing, epiphany, that slipped out, didn't it  You are the living, breathing epitome, of cheap Grace..md",
-    "Larry re parish presentation.md",
-    "Susan husband retired Presbyterian minister..md",
-    "Flying in low over the flats outside the Savannah River. Rounding to face the land as we lined up to approach the landing. The sun disappeared and suddenly the hugest moon appeared at the edge of the horizon..md",
-    "Central synagogue in New York.md",
-    "https   open.substack.com pub religionandjustice p liberation-theologies-and-the-struggle r=1ouz6o&utm_medium=ios&shareImageVariant=overlay.md",
-    "https   www.classical-music.com rock best-1971-albums.md",
-    "Hotel WiFi login page.md",
-    "List of Trump associated violence against Christian virtues.md",
-    "Things to Do in Charleston.md",
-    "Liberation Herzog 1.md",
-    "Captive Portal Issues on Hotel WiFi with MX Linux.md",
-    "Personal hotspot.md",
-    "Calendar.md",
-    "Rule of three camera composition.md",
-    "Communion.md",
-    "Preaching. Frederick hero.md",
-    "Dissidents.md",
-    "Mark Twain quote.md"
+    "travel/packing-hilton-head.md",
+    "travel/packing-Charleston.md",
+    "travel/packing checklist.md",
+    "travel/packing-colorado.md"
   ]
 }
