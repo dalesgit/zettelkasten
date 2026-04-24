@@ -1,64 +1,95 @@
 #packing [[packing checklist]]
 
+## bicycle
+
+- [ ] bicycle equipment
+- [ ] bike stuff: 
+- [ ] stool, front bag, helmet, pump
+- [ ] pump
+- [ ] rack
+- [ ] ties and rope
+
+## alcohol
+
+- [ ] wine
+- [ ] corkscrew
+- [ ] gin and scotch
+
+## coffee
+
+## tech
+
+- [ ] hp, tablet, keyboard
+- [ ] exercise bag with headphones
+- [ ] nightlight 
+
+## cooler
+
+- [ ] cheese
+- [ ] cottage cheese?
+- [ ] eggs
+
+## around the house
+
+- [ ] water plants
+
 ## clothes
 
-- [x] 2 long training pants
-- [x] 2 long sleeve cotton
-- [x] 1 cotton short sleeve
-- [x] Aloha shirt
-- [x] training shoes
-- [x] underwear
-- [x] socks
-- [x] crocs
-- [x] pull-on shorts (2)
-- [x] swimsuit 
+- [ ] pull-on shorts (2)
+- [ ] 2 long sleeve cotton
+- [ ] cotton short sleeves (2-4)
+- [ ] underwear
+- [ ] socks (2)
+- [ ] swimsuit 
+
+## shoes
+
+- [ ] black crocs
+- [ ] ocean slippers
+- [ ] gym shoes?
+
 ### Dressy
 
-- [x] good shirt & slacks?
+- [ ] Aloha shirt
+- [ ] long pants
 
 ### Variable temperature
 
-- [x] jacket
-- [x] hat
-- [x] bicycle equipment
-- [x] bike stuff: 
-- [x] stool, front bag, helmet, pump
-- [x] exercise bag with headphones
+- [ ] green hat, visor
+
 ## bathroom
  
-- [x] Black bag
-- [x] water pic portable
+- [ ] Black bag
+- [ ] water pic portable and charger
 - [ ] wipes
-- [x] toothbrush
-- [ ] shampoos
-- [x] scrunchy cloth
-- [ ] electric clipper
-- [x] second Bathroom bag  
-- [x] nightlight 
+- [ ] toothbrush
+- [ ] scrunchy cloth
+
+- [ ] second Bathroom bag  
+- [ ] eczema
+
 ## Meds
 
-- [x] first aid
-- [x] fungal
-- [ ] eczema
-- [x] Regular meds 
+- [ ] first aid
+- [ ] Regular meds 
+- [ ] mounjaro injection
 
 ## Other
 
+- [ ] journal
+
 ### Hotel rooms
 
-- [x] coffee & filters
-- [x] wine & cork screw
-- [x] snacks
-- [x] cheese
-- [x] trail mix
-- [x] Strength chord
 
 ### tech
 
-- [x] bookx
-- [x] new keyboard
-- [x] tablet
-- [x] chargers: hearing, watch, iphone, usb a, usb c, computer
-- [x] combo cube -- and/or new cord
-- [x] hearing aid
-- [x] journal
+- [ ] Strength chord
+- [ ] bookx
+- [ ] new keyboard
+- [ ] tablet
+
+## chargers & cords
+
+- [ ] chargers: hearing, watch, iphone, usb a, usb c, computer
+- [ ] combo cube -- and/or new cord
+- [ ] hearing aid
