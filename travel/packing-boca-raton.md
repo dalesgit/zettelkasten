@@ -1,11 +1,9 @@
 #packing [[packing checklist]]
 
-## bicycle
+## bicycle -- Bag or box
 
-- [ ] bicycle equipment
-- [ ] bike stuff: 
+- [ ] bicycle extra supplies
 - [ ] stool, front bag, helmet, pump
-- [ ] pump
 - [ ] rack
 - [ ] ties and rope
 
@@ -14,8 +12,11 @@
 - [ ] wine
 - [ ] corkscrew
 - [ ] gin and scotch
+- [ ] big ice
 
 ## coffee
+
+- [ ] ground coffee
 
 ## tech
 
@@ -32,6 +33,8 @@
 ## around the house
 
 - [ ] water plants
+- [ ] close blinds
+- [ ] bring cushions inside
 
 ## clothes
 
@@ -41,12 +44,13 @@
 - [ ] underwear
 - [ ] socks (2)
 - [ ] swimsuit 
+- [ ] aloha shirts
 
 ## shoes
 
 - [ ] black crocs
 - [ ] ocean slippers
-- [ ] gym shoes?
+- [ ] **gym shoes?**
 
 ### Dressy
 
@@ -64,9 +68,9 @@
 - [ ] wipes
 - [ ] toothbrush
 - [ ] scrunchy cloth
+- [ ] presc shampoo
 
 - [ ] second Bathroom bag  
-- [ ] eczema
 
 ## Meds
 
@@ -77,9 +81,12 @@
 ## Other
 
 - [ ] journal
+- [ ] pens 
 
-### Hotel rooms
-
+### Bags
+- [ ] grey
+- [ ] duffle old
+- [ ] duffle new
 
 ### tech
 
@@ -93,3 +100,4 @@
 - [ ] chargers: hearing, watch, iphone, usb a, usb c, computer
 - [ ] combo cube -- and/or new cord
 - [ ] hearing aid
+- [ ] hdmi + mac adapters
