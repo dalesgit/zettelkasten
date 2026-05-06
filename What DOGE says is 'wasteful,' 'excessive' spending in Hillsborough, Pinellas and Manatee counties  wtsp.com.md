@@ -5,6 +5,7 @@ source: https://www.wtsp.com/article/news/local/florida-doge-report-hillsborough
 author: S.G. de León y León
 ---
 
+
 # What DOGE says is 'wasteful,' 'excessive' spending in Hillsborough, Pinellas and Manatee counties | wtsp.com
 
 > ## Excerpt
@@ -13,7 +14,7 @@ author: S.G. de León y León
 ---
 Blaise Ingoglia, accuses multiple counties of excessive spending in an already contested report, focusing on DEI initiatives and other expenses.
 
-ST. PETERSBURG, Fla — During a press conference on Wednesday in St. Petersburg, Blaise Ingoglia, the chief financial officer of Florida, [accused the city of "wasteful" and "excessive" spending.](https://www.wtsp.com/article/news/local/pinellascounty/florida-cfo-blaise-ingoglia-st-petersburg-wasteful-spending-49-million-mayor-claims-unsubstantiated/67-5c93b61e-7c98-4b80-b50c-4e9cc6748793) But the claims by Florida's DOGE go beyond the Pinellas County city. 
+ST. PETERSBURG, Fla — During a press conference on Wednesday in St. Petersburg, Blaise Ingoglia, the chief financial officer of Florida, [accused the city of "wasteful" and "excessive" spending.](https://www.wtsp.com/article/news/local/pinellascounty/florida-cfo-blaise-ingoglia-st-petersburg-wasteful-spending-49-million-mayor-claims-unsubstantiated/67-5c93b61e-7c98-4b80-b50c-4e9cc6748793) But the claims by Florida's DOGE go beyond the Pinellas County city.
 
 In a report obtained by 10 Tampa Bay News, Ingoglia's team also accuses Hillsborough, Manatee and Pinellas counties of that type of spending.
 
