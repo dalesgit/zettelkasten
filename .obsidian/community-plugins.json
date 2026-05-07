@@ -10,8 +10,6 @@
   "obsidian-checklist-plugin",
   "periodic-notes",
   "open-with",
-  "customjs",
-  "obsidian-banners",
   "todoist-sync-plugin",
   "virtual-linker",
   "obsidian-tasks-plugin",
@@ -21,6 +19,5 @@
   "obsidian-prozen",
   "edit-in-neovim",
   "obsidian-emoji-toolbar",
-  "obsidian-advanced-uri",
   "dashboard-navigator"
 ]
