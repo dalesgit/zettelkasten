@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "travel/packing-savannah.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "packing-savannah"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f673ed79fa544c2d",
@@ -237,9 +238,11 @@
   },
   "active": "b1c683e59e89bd7f",
   "lastOpenFiles": [
+    "travel/packing checklist.md",
     "travel/packing-savannah.md",
-    "travel/packing-boca-raton.md",
+    "travel/packing-savannah.md~",
     "Homepage.md",
+    "travel/packing-boca-raton.md",
     "travel/prayer-handout.md",
     "travel/travel tips.md",
     "Home.md",
@@ -249,7 +252,6 @@
     "Hebrew canon.md",
     "ARCO View.md",
     "diary/diary-md/2020/2020-05-27.md",
-    "travel/packing checklist.md",
     "travel/packing-hilton-head.md",
     "Inbox Feb 2026.md",
     "personal/banking.md",
@@ -262,7 +264,6 @@
     "Journal/Daily/2026-02-02.md",
     "Journal/Daily/2026-01-31.md",
     "Journal/Daily/2026-01-27.md",
-    "Clippings2/Opinion  We Need to Think Straight About God and Politics.md",
     "travel/4913",
     "travel/packing-Charleston.md~",
     "Clippers/The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic.md~"

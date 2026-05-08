@@ -1,27 +1,13 @@
 #packing [[packing checklist]]
 
-## bicycle -- Bag or box
-
-- [ ] bicycle extra supplies
-- [ ] stool, front bag, helmet, pump
-- [ ] rack
-- [ ] ties and rope
-
 ## alcohol
 
 - [ ] wine
 - [ ] corkscrew
-- [ ] gin and scotch
-- [ ] big ice
-
-## coffee
-
-- [ ] ground coffee
+- [ ] gin 
 
 ## tech
 
-- [ ] hp, tablet, keyboard
-- [ ] exercise bag with headphones
 - [ ] nightlight 
 
 ## cooler
@@ -39,18 +25,18 @@
 ## clothes
 
 - [ ] pull-on shorts (2)
-- [ ] 2 long sleeve cotton
-- [ ] cotton short sleeves (2-4)
+- [ ] windbreaker
+- [ ] Julian jacket
+- [ ] long sleeve cotton
+- [ ] cotton short sleeve
 - [ ] underwear
 - [ ] socks (2)
 - [ ] swimsuit 
-- [ ] aloha shirts
 
 ## shoes
 
 - [ ] black crocs
-- [ ] ocean slippers
-- [ ] **gym shoes?**
+- [ ] grey shoes
 
 ### Dressy
 
@@ -64,7 +50,8 @@
 ## bathroom
  
 - [ ] Black bag
-- [ ] water pic portable and charger
+- [ ] pink bag
+- [ ] water pic portable 
 - [ ] wipes
 - [ ] toothbrush
 - [ ] scrunchy cloth
@@ -76,7 +63,7 @@
 
 - [ ] first aid
 - [ ] Regular meds 
-- [ ] mounjaro injection
+- [ ] pink bag
 
 ## Other
 
@@ -85,7 +72,7 @@
 
 ### Bags
 - [ ] grey
-- [ ] duffle old
+- [ ] Helen bag 
 - [ ] duffle new
 
 ### tech
