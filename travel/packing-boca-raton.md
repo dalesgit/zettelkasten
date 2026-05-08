@@ -9,57 +9,58 @@
 
 ## alcohol
 
-- [ ] wine
-- [ ] corkscrew
-- [ ] gin and scotch
-- [ ] big ice
+- [x] wine ✅ 2026-04-25
+- [x] corkscrew ✅ 2026-04-25
+- [x] gin and scotch ✅ 2026-04-25
+- [x] big ice ✅ 2026-04-25
 
 ## coffee
 
-- [ ] ground coffee
+- [x] ground coffee ✅ 2026-04-25
 
 ## tech
 
-- [ ] hp, tablet, keyboard
-- [ ] exercise bag with headphones
-- [ ] nightlight 
+- [x] hp, tablet, keyboard
+- [x] exercise bag with headphones
+- [x] nightlight 
 
 ## cooler
 
-- [ ] cheese
-- [ ] cottage cheese?
-- [ ] eggs
+- [x] cheese ✅ 2026-04-  25 ✅ 2026-04-25
+- [x] cottage cheese? ✅ 2026-04-25
+- [x] eggs ✅ 2026-04-25
+- [x] tub butter ✅ 2026-04-25
 
 ## around the house
 
-- [ ] water plants
+- [x] water plants
 - [ ] close blinds
-- [ ] bring cushions inside
+- [x] bring cushions inside
 
 ## clothes
 
-- [ ] pull-on shorts (2)
-- [ ] 2 long sleeve cotton
-- [ ] cotton short sleeves (2-4)
-- [ ] underwear
-- [ ] socks (2)
-- [ ] swimsuit 
-- [ ] aloha shirts
+- [x] pull-on shorts (2)
+- [x] 2 long sleeve cotton
+- [x] cotton short sleeves (2-4)
+- [x] underwear
+- [x] socks (2)
+- [x] swimsuit 
+- [x] aloha shirts
 
 ## shoes
 
-- [ ] black crocs
-- [ ] ocean slippers
-- [ ] **gym shoes?**
+- [x] black crocs
+- [x] ocean slippers
+- [x] **gym shoes?**
 
 ### Dressy
 
-- [ ] Aloha shirt
-- [ ] long pants
+- [x] Aloha shirt
+- [x]  long pants
 
 ### Variable temperature
 
-- [ ] green hat, visor
+- [x] green hat, visor
 
 ## bathroom
  
@@ -80,13 +81,13 @@
 
 ## Other
 
-- [ ] journal
+- [x] journal
 - [ ] pens 
 
 ### Bags
-- [ ] grey
-- [ ] duffle old
-- [ ] duffle new
+- [x] grey
+- [x] duffle old
+- [x] duffle new
 
 ### tech
 

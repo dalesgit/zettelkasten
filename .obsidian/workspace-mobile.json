@@ -8,12 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d466ffb5c616223d",
+            "id": "1ac797e6647be1e3",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "travel/packing-savannah.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "packing-savannah"
             }
           }
         ]
@@ -93,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "travel/packing checklist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,11 +188,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d466ffb5c616223d",
+  "active": "1ac797e6647be1e3",
   "lastOpenFiles": [
+    "travel/packing checklist.md",
+    "travel/packing-savannah.md",
+    "Homepage.md",
+    "travel/packing-boca-raton.md",
     "travel/packing-hilton-head.md",
     "travel/packing-Charleston.md",
-    "travel/packing checklist.md",
     "travel/packing-colorado.md"
   ]
 }

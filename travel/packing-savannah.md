@@ -2,19 +2,13 @@
 
 ## alcohol
 
-- [ ] wine
-- [ ] corkscrew
-- [ ] gin 
+- [x] wine ✅ 2026-05-08
+- [x] corkscrew ✅ 2026-05-08
+- [x] gin ✅ 2026-05-08
 
 ## tech
 
 - [ ] nightlight 
-
-## cooler
-
-- [ ] cheese
-- [ ] cottage cheese?
-- [ ] eggs
 
 ## around the house
 
@@ -45,7 +39,7 @@
 
 ### Variable temperature
 
-- [ ] green hat, visor
+- [ ] green hat, visor, visor for MP
 
 ## bathroom
  
@@ -56,14 +50,6 @@
 - [ ] toothbrush
 - [ ] scrunchy cloth
 - [ ] presc shampoo
-
-- [ ] second Bathroom bag  
-
-## Meds
-
-- [ ] first aid
-- [ ] Regular meds 
-- [ ] pink bag
 
 ## Other
 
