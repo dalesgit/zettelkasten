@@ -36,5 +36,5 @@
     "command-palette:open"
   ],
   "promptDelete": false,
-  "openBehavior": ""
+  "openBehavior": "file:Homepage"
 }

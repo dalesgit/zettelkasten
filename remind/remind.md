@@ -120,3 +120,6 @@ REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Dave and Lora %b
 ;REM Apr 18 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b%
 ;REM Mar 21 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b%
 REM Sat 15 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b%
+REM May 8 2026 *1 UNTIL May 11 2026  MSG Travel Savannah %b 
+REM May 8 2026 AT 17:00 DURATION 2:00 MSG Dirty Holly's gig %b
+REM May 9 2026 AT 15:00 DURATION 2:00 MSG Ecology tour %b 
