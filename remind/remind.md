@@ -66,13 +66,11 @@ REM Feb 27 2025 +2 AT 15:30 MSG Victoria dermatology for DH %b%
 REM [easterdate()] SPECIAL COLOR 255 0 0 Easter
 REM Feb 27 2025 +10 AT 11:30 MSG DH verbatim %b%
 REM Feb 25 2025 AT 12:30 +2 MSG Clergy lunch loc. tba %b%
-;REM Jul 12 2025 1 UNTIL Jul 19 2025 MSG with Bud/Bertha in Orlando %b% 
+;REM Jul 12 2025 1 UNTIL Jul 19 2025 MSG with Bud/Bertha in Orlando %b%
 REM Fri FROM Oct 01 2025 UNTIL Nov 29 2025 +2 AT 15:00 MSG Meet with Zack  %b%
-REM FROM Nov 16 2025 UNTIL Nov 22 2025 MSG Hilton Head with Kids %b% 
-REM FROM Jan 06 2026 UNTIL Jan 13 2026 SPECIAL COLOR 255 0 255 DH to Colorado with Julian %b% 
-REM Tue 2025 AT 10:30 MSG LA Fitness %b%
-REM Fri 2025 AT 11:30 MSG LA Fitness %b%
-REM Tue 2026 AT 10:30 MSG LA Fitness %b%
+REM FROM Nov 16 2025 UNTIL Nov 22 2025 MSG Hilton Head with Kids %b%
+REM FROM Jan 06 2026 UNTIL Jan 13 2026 SPECIAL COLOR 255 0 255 DH to Colorado with Julian %b% REM Tue 2026 AT 10:30 MSG LA Fitness %b%
+REM May 06 2026 AT 11:00 MSG LA Fitness %b%
 REM Fri 2026 AT 11:30 MSG LA Fitness %b%
 REM Dec 29 2025 AT 14:15 MSG Gardner Audiology %b%
 REM Dec 29 2025 MSG Call Hamil re. f/u biopsy %b%
@@ -100,11 +98,11 @@ REM Jan 23 2026 AT 17:30 MSG Dinner with Marlene %b%
 ;REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %b%
 REM Jan 30 2026 AT 18:30 SPECIAL COLOR 0 128 0 Dinner with Larry & Kathy %b%
 REM Jan 24 2026 AT 18:30 MSG Dinner with Rebecca %**b**%
-REM Feb 12 2026 AT 14:00 SPECIAL COLOR 0 128 255 Airhawk service %b% 
-REM Feb 09 2026 AT 14:30 SPECIAL COLOR 0 128 255 MASA meal at Red Lobster %b% 
-;REM Feb 21 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
-REM Mar 28 2026 SPECIAL COLOR 0 128 255 No Kings Protest %b% 
-REM Feb 17 2026 AT 17:00 SPECIAL COLOR 255 0 255 Pancake supper %b% 
+REM Feb 12 2026 AT 14:00 SPECIAL COLOR 0 128 255 Airhawk service %b%
+REM Feb 09 2026 AT 14:30 SPECIAL COLOR 0 128 255 MASA meal at Red Lobster %b%
+;REM Feb 21 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b%
+REM Mar 28 2026 SPECIAL COLOR 0 128 255 No Kings Protest %b%
+REM Feb 17 2026 AT 17:00 SPECIAL COLOR 255 0 255 Pancake supper %b%
 ;REM Feb 20 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
 REM Feb 25 2026 +2 AT 10:30 SPECIAL COLOR 0 128 255 Meet with Michael re finances %b%
 REM Friday 1 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Poetry Discussion Group? %b%
@@ -119,8 +117,8 @@ REM Mar 14 2026 +2 AT 18:30 SPECIAL COLOR 0 128 255 Hoopers for dinner %b%
 REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Lora and Dave %b%
 REM Mar 20 2026 +2 AT 16:00 MSG Meet with Lance to talk about landscaping %b%
 REM Mar 19 2026 +2 AT 18:00 SPECIAL COLOR 0 128 255 Dinner with Dave and Lora %b%
-;REM Apr 18 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
-;REM Mar 21 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b% 
+;REM Apr 18 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b%
+;REM Mar 21 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b%
 REM Sat 15 2026 AT 9:30 DURATION 2:30 SPECIAL COLOR 0 128 255 Morning of Prayer 2½ hours %b%
 REM May 8 2026 *1 UNTIL May 11 2026  MSG Travel Savannah %b 
 REM May 8 2026 AT 17:00 DURATION 2:00 MSG Dirty Holly's gig %b
