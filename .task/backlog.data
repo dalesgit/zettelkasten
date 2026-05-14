@@ -135,3 +135,6 @@
 {"description":"call AAA","entry":"20260418T114659Z","modified":"20260418T114659Z","project":"Miata","status":"pending","uuid":"cf277581-205c-43d2-845e-34d5d51f11a8"}
 {"description":"CPG and whatever re United Health","entry":"20260418T114804Z","modified":"20260418T114804Z","project":"health","status":"pending","uuid":"e45bdf3a-3dad-4627-941b-da8ff357dc2d"}
 {"description":"call AAA","end":"20260423T105631Z","entry":"20260418T114659Z","modified":"20260423T105631Z","project":"Miata","status":"completed","uuid":"cf277581-205c-43d2-845e-34d5d51f11a8"}
+{"description":"paint kitchen ceiling","entry":"20260511T121230Z","modified":"20260511T121230Z","project":"home","status":"pending","uuid":"177c3ad2-5c88-43af-80ce-5ac52181ece4"}
+{"description":"electrician to exterior lights","entry":"20260511T121304Z","modified":"20260511T121304Z","project":"home","status":"pending","uuid":"f116deed-8f31-4b65-b8ae-62393e4b551d"}
+{"description":"change Irvin and Serepca appts","entry":"20260514T122736Z","modified":"20260514T122736Z","project":"todo","status":"pending","uuid":"b84154ec-59eb-4408-a15a-cefe9e1cb40e"}
