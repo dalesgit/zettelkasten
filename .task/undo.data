@@ -498,3 +498,36 @@ new [description:"electrician to exterior lights" entry:"1778501584" modified:"1
 time 1778761656
 new [description:"change Irvin and Serepca appts" entry:"1778761656" modified:"1778761656" project:"todo" status:"pending" uuid:"b84154ec-59eb-4408-a15a-cefe9e1cb40e"]
 ---
+time 1778860759
+new [description:"renew prescription for shampoo" entry:"1778860759" modified:"1778860759" project:"health" status:"pending" uuid:"944b5ace-4e0f-476a-9895-da8ec2ffdf70"]
+---
+time 1778861152
+new [description:"reschedule Basil on 5\/26" entry:"1778861152" modified:"1778861152" project:"health" status:"pending" uuid:"a4cc146e-2f4d-4586-80bf-9cf1e8a53a4f"]
+---
+time 1778861425
+new [description:"health: reschedule Basil" entry:"1778861425" modified:"1778861425" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+---
+time 1778861465
+old [description:"health: reschedule Basil" entry:"1778861425" modified:"1778861425" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+new [description:"health: reschedule Basil from 26th" entry:"1778861425" modified:"1778861465" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+---
+time 1778861492
+old [description:"reschedule Basil on 5\/26" entry:"1778861152" modified:"1778861152" project:"health" status:"pending" uuid:"a4cc146e-2f4d-4586-80bf-9cf1e8a53a4f"]
+new [description:"reschedule Basil on 5\/26" end:"1778861490" entry:"1778861152" modified:"1778861492" project:"health" status:"deleted" uuid:"a4cc146e-2f4d-4586-80bf-9cf1e8a53a4f"]
+---
+time 1778861541
+old [description:"health: reschedule Basil from 26th" entry:"1778861425" modified:"1778861465" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+new [description:"reschedule Basil from 26th" entry:"1778861425" modified:"1778861541" project:"health" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+---
+time 1778874840
+old [description:"reschedule Basil from 26th" entry:"1778861425" modified:"1778861541" project:"health" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+new [description:"reschedule Basil from 26th" entry:"1778861425" modified:"1778874840" project:"todo" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+---
+time 1778874869
+old [description:"renew prescription for shampoo" entry:"1778860759" modified:"1778860759" project:"health" status:"pending" uuid:"944b5ace-4e0f-476a-9895-da8ec2ffdf70"]
+new [description:"renew prescription for shampoo" entry:"1778860759" modified:"1778874869" project:"todo" status:"pending" uuid:"944b5ace-4e0f-476a-9895-da8ec2ffdf70"]
+---
+time 1778874900
+old [description:"get dermatologist" entry:"1776512775" modified:"1776512775" project:"health" status:"pending" uuid:"80f5ff85-435e-426e-a4b9-7b6282629ad2"]
+new [description:"get dermatologist" entry:"1776512775" modified:"1778874900" project:"todo" status:"pending" uuid:"80f5ff85-435e-426e-a4b9-7b6282629ad2"]
+---
