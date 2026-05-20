@@ -55,10 +55,10 @@ REM [TRIGGER(easter-3)] MSG Holy Thursday %b%
 REM [TRIGGER(easter-7)] MSG Palm Sunday %b%
 REM [TRIGGER(easter+49)] MSG Pentecost %b%
 REM [TRIGGER(easter+56)] MSG Trinity Sunday %b%
-;REM [TRIGGER(easter-49)] MSG Ash Wednesday %b%
-REM Wed [easterdate(year(today()))-49] MSG Ash Wednesday  %b%
-REM Wed [easterdate(year(today()))+49] MSG Pentecost  %b%
-REM Wed [easterdate(year(today()))+56] MSG Trinity Sunday  %b%
+;REM [TRIGGER(easter-49)] MSG Ash Wednesday  %b%
+REM Wed [easterdate(year(today()))-49] MSG Ash Wednesday Ashes  %b%
+;REM Wed [easterdate(year(today()))+49] MSG Pentecost  %b%
+;REM Wed [easterdate(year(today()))+56] MSG Trinity Sunday what?  %b%
 ;REM Easter: [mon(easterdate(2025))] [day(easterdate(2025))], [year(easterdate(2025))] MSG Easter Sunday
 ;REM [easterdate(year(today()))] MSG Easter Sunday  
 ;REM [easterdate(year(today()))-2] MSG Good Friday  
@@ -76,3 +76,5 @@ REM May 14 2026 AT 18:00 DURATION 2:00 MSG Dinner with Priscilla, Steve, Hooper'
 REM May 16 2026 AT 12:00 DURATION 1:00 MSG Meet with Zack & Dad %b%
 REM May 14 MSG Sara Gabbard birthday (90-in-2026) %b% 
 REM May 15 2026 AT 17:00 DURATION 1:00 MSG neighborhood picnic with Brian %b
+REM May 30 2026 AT 11:00 DURATION 1:00 MSG Funeral for Barb Christian %b
+REM May 22 2026 AT 15:00 DURATION 1:00 MSG Meet Zack at church %b 

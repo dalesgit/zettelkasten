@@ -147,3 +147,6 @@
 {"description":"reschedule Basil from 26th","entry":"20260515T161025Z","modified":"20260515T195400Z","project":"todo","status":"pending","uuid":"11c45873-7d11-4b82-974a-e06acdb01a00"}
 {"description":"renew prescription for shampoo","entry":"20260515T155919Z","modified":"20260515T195429Z","project":"todo","status":"pending","uuid":"944b5ace-4e0f-476a-9895-da8ec2ffdf70"}
 {"description":"get dermatologist","entry":"20260418T114615Z","modified":"20260515T195500Z","project":"todo","status":"pending","uuid":"80f5ff85-435e-426e-a4b9-7b6282629ad2"}
+{"description":"change Linda Serepca appt (June)","entry":"20260514T122736Z","modified":"20260517T104823Z","project":"todo","status":"pending","uuid":"b84154ec-59eb-4408-a15a-cefe9e1cb40e"}
+{"description":"reschedule Basil from 26th","end":"20260518T160108Z","entry":"20260515T161025Z","modified":"20260518T160108Z","project":"todo","status":"completed","uuid":"11c45873-7d11-4b82-974a-e06acdb01a00"}
+{"description":"renew prescription for shampoo","end":"20260518T160140Z","entry":"20260515T155919Z","modified":"20260518T160140Z","project":"todo","status":"completed","uuid":"944b5ace-4e0f-476a-9895-da8ec2ffdf70"}
