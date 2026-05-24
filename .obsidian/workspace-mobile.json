@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ac797e6647be1e3",
+            "id": "cfc190aaf7ccd320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/packing-savannah.md",
+                "file": "trump-paxton.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "packing-savannah"
+              "title": "trump-paxton"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "travel/packing checklist.md",
+            "file": "trump-paxton.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,11 +188,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1ac797e6647be1e3",
+  "active": "cfc190aaf7ccd320",
   "lastOpenFiles": [
+    "trump-paxton.md",
+    "Homepage.md",
     "travel/packing checklist.md",
     "travel/packing-savannah.md",
-    "Homepage.md",
     "travel/packing-boca-raton.md",
     "travel/packing-hilton-head.md",
     "travel/packing-Charleston.md",
