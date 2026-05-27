@@ -150,3 +150,15 @@
 {"description":"change Linda Serepca appt (June)","entry":"20260514T122736Z","modified":"20260517T104823Z","project":"todo","status":"pending","uuid":"b84154ec-59eb-4408-a15a-cefe9e1cb40e"}
 {"description":"reschedule Basil from 26th","end":"20260518T160108Z","entry":"20260515T161025Z","modified":"20260518T160108Z","project":"todo","status":"completed","uuid":"11c45873-7d11-4b82-974a-e06acdb01a00"}
 {"description":"renew prescription for shampoo","end":"20260518T160140Z","entry":"20260515T155919Z","modified":"20260518T160140Z","project":"todo","status":"completed","uuid":"944b5ace-4e0f-476a-9895-da8ec2ffdf70"}
+{"description":"change Linda Serepca appt (June)","end":"20260521T104444Z","entry":"20260514T122736Z","modified":"20260521T104444Z","project":"todo","status":"completed","uuid":"b84154ec-59eb-4408-a15a-cefe9e1cb40e"}
+{"description":"locate a repair shop","entry":"20260418T114649Z","modified":"20260521T104529Z","project":"Car","status":"pending","uuid":"d88937b1-2861-4f25-863c-e7cc2561c2e5"}
+{"description":"project car schedule maintenace Kia","entry":"20260521T104604Z","modified":"20260521T104604Z","status":"pending","uuid":"d32adb49-531f-4880-9421-5c387e37a969"}
+{"description":"locate a repair shop","entry":"20260418T114649Z","modified":"20260521T104620Z","project":"car","status":"pending","uuid":"d88937b1-2861-4f25-863c-e7cc2561c2e5"}
+{"description":"schedule maintenace Kia","entry":"20260521T104604Z","modified":"20260521T104713Z","project":"car","status":"pending","uuid":"d32adb49-531f-4880-9421-5c387e37a969"}
+{"description":"locate a repair shop for Miata","entry":"20260418T114649Z","modified":"20260521T104745Z","project":"car","status":"pending","uuid":"d88937b1-2861-4f25-863c-e7cc2561c2e5"}
+{"description":"schedule piano tuner","entry":"20260522T110820Z","modified":"20260522T110820Z","status":"pending","uuid":"9a81f14e-e4f6-40cb-a60f-07899ba945ec"}
+{"description":"sort whats in storage in FL room","entry":"20260522T110855Z","modified":"20260522T110855Z","status":"pending","uuid":"ce849f83-bf26-4279-b9ba-563a35f5f700"}
+{"description":"schedule piano tuner Bob Horton 727-735-7926 (scheduler)","entry":"20260522T110820Z","modified":"20260522T141022Z","status":"pending","uuid":"9a81f14e-e4f6-40cb-a60f-07899ba945ec"}
+{"description":"schedule maintenace Kia","end":"20260522T141036Z","entry":"20260521T104604Z","modified":"20260522T141036Z","project":"car","status":"completed","uuid":"d32adb49-531f-4880-9421-5c387e37a969"}
+{"description":"schedule piano tuner Bob Horton 727-735-7926 (scheduler)","entry":"20260522T110820Z","modified":"20260522T141056Z","project":"home","status":"pending","uuid":"9a81f14e-e4f6-40cb-a60f-07899ba945ec"}
+{"description":"schedule piano tuner Bob Horton 727-735-7926 (scheduler)","end":"20260525T110023Z","entry":"20260522T110820Z","modified":"20260525T110023Z","project":"home","status":"completed","uuid":"9a81f14e-e4f6-40cb-a60f-07899ba945ec"}

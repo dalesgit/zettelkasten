@@ -78,3 +78,5 @@ REM May 14 MSG Sara Gabbard birthday (90-in-2026) %b%
 REM May 15 2026 AT 17:00 DURATION 1:00 MSG neighborhood picnic with Brian %b
 REM May 30 2026 AT 11:00 DURATION 1:00 MSG Funeral for Barb Christian %b
 REM May 22 2026 AT 15:00 DURATION 1:00 MSG Meet Zack at church %b 
+REM May 26 2026 AT 09:00 DURATION 5:00 MSG Walter to surgery %b
+REM May 27 2026 AT 09:00 DURATION 3:00 MSG Walter to follow-up %b
