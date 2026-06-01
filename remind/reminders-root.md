@@ -80,3 +80,5 @@ REM May 30 2026 AT 11:00 DURATION 1:00 MSG Funeral for Barb Christian %b
 REM May 22 2026 AT 15:00 DURATION 1:00 MSG Meet Zack at church %b 
 REM May 26 2026 AT 09:00 DURATION 5:00 MSG Walter to surgery %b
 REM May 27 2026 AT 09:00 DURATION 3:00 MSG Walter to follow-up %b
+REM Jun 3 2026 AT 09:00 DURATION 1:00 MSG with MPS for Dr. Swaringin %b
+REM Jun 6 2026 AT 12:00 DURATION 1:00 MSG Piano Tuning Bob Horton %b
