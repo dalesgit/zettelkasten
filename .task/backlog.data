@@ -162,3 +162,6 @@
 {"description":"schedule maintenace Kia","end":"20260522T141036Z","entry":"20260521T104604Z","modified":"20260522T141036Z","project":"car","status":"completed","uuid":"d32adb49-531f-4880-9421-5c387e37a969"}
 {"description":"schedule piano tuner Bob Horton 727-735-7926 (scheduler)","entry":"20260522T110820Z","modified":"20260522T141056Z","project":"home","status":"pending","uuid":"9a81f14e-e4f6-40cb-a60f-07899ba945ec"}
 {"description":"schedule piano tuner Bob Horton 727-735-7926 (scheduler)","end":"20260525T110023Z","entry":"20260522T110820Z","modified":"20260525T110023Z","project":"home","status":"completed","uuid":"9a81f14e-e4f6-40cb-a60f-07899ba945ec"}
+{"description":"apply for electronic visa for UK","entry":"20260602T221959Z","modified":"20260602T221959Z","project":"travel","status":"pending","uuid":"dcc3574a-3deb-4a4d-af28-357845f87ddc"}
+{"description":"CPG and whatever re United Health","end":"20260602T222015Z","entry":"20260418T114804Z","modified":"20260602T222015Z","project":"health","status":"completed","uuid":"e45bdf3a-3dad-4627-941b-da8ff357dc2d"}
+{"description":"get dermatologist","end":"20260602T222027Z","entry":"20260418T114615Z","modified":"20260602T222027Z","project":"todo","status":"completed","uuid":"80f5ff85-435e-426e-a4b9-7b6282629ad2"}
