@@ -165,3 +165,5 @@
 {"description":"apply for electronic visa for UK","entry":"20260602T221959Z","modified":"20260602T221959Z","project":"travel","status":"pending","uuid":"dcc3574a-3deb-4a4d-af28-357845f87ddc"}
 {"description":"CPG and whatever re United Health","end":"20260602T222015Z","entry":"20260418T114804Z","modified":"20260602T222015Z","project":"health","status":"completed","uuid":"e45bdf3a-3dad-4627-941b-da8ff357dc2d"}
 {"description":"get dermatologist","end":"20260602T222027Z","entry":"20260418T114615Z","modified":"20260602T222027Z","project":"todo","status":"completed","uuid":"80f5ff85-435e-426e-a4b9-7b6282629ad2"}
+{"description":"write Layla Roberts","entry":"20260604T224517Z","modified":"20260604T224517Z","project":"SD","status":"pending","uuid":"1ab8baa8-b495-4161-b3dd-e38b5e1e4f7e"}
+{"description":"buy boots","entry":"20260604T224556Z","modified":"20260604T224556Z","project":"travel","status":"pending","uuid":"2bfecb5d-18a0-4967-9efd-214507b6078d"}
