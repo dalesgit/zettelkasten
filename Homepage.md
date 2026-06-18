@@ -1,4 +1,4 @@
-Last modified file
+[]()Last modified file
 
 ![[couple-on-cruise.jpeg]]
 ```dataview
