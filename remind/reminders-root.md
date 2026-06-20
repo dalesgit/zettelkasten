@@ -35,7 +35,7 @@ REM SUN Nov 1 ++2 MSG Daylight Saving Time ends in the USA %b%
 ;fset _sstd() coerce("STRING", (sunset(today())))
 ;fset _srtm() coerce("STRING", _no_lz(_am_pm(sunrise(today()+1))))
 ;fset _sstm() coerce("STRING", _no_lz(_am_pm(sunset(today()+1))))
-;fset sunup (sunrise())  
+;fset sunup (sunrise())
 ;MSG Sun is up today from [_srtd()] to [_sstd()].%"%"%
 ;MSG Sun is up today from [_srtd()]%2%  to [_sstd()].%"%"%
 ;MSG Next full moon: [mon(moondate(2))] [day(moondate(2))], [year(moondate(2))].
@@ -60,8 +60,8 @@ REM Wed [easterdate(year(today()))-49] MSG Ash Wednesday Ashes  %b%
 ;REM Wed [easterdate(year(today()))+49] MSG Pentecost  %b%
 ;REM Wed [easterdate(year(today()))+56] MSG Trinity Sunday what?  %b%
 ;REM Easter: [mon(easterdate(2025))] [day(easterdate(2025))], [year(easterdate(2025))] MSG Easter Sunday
-;REM [easterdate(year(today()))] MSG Easter Sunday  
-;REM [easterdate(year(today()))-2] MSG Good Friday  
+;REM [easterdate(year(today()))] MSG Easter Sunday
+;REM [easterdate(year(today()))-2] MSG Good Friday
 ;REM [easterdate(year(today()))-3] MSG Maundy Thursday
 ;REM [easterdate(year(today()))-7] MSG Palm Sunday
 ;REM Good Friday: [mon(easterdate(2025)-2)] [day(easterdate(2025)-2)], [year(easterdate(2025)-2)] MSG Good Friday
@@ -74,13 +74,13 @@ REM NOQUEUE [utctolocal('2020-12-14@16:15')] MSG Total Solar Eclipse centered at
 REM May 12 2026 AT 11:30 DURATION 1:00 MSG Confront Walter re. drinking %b%
 REM May 14 2026 AT 18:00 DURATION 2:00 MSG Dinner with Priscilla, Steve, Hooper's %b%
 REM May 16 2026 AT 12:00 DURATION 1:00 MSG Meet with Zack & Dad %b%
-REM May 14 MSG Sara Gabbard birthday (90-in-2026) %b% 
+REM May 14 MSG Sara Gabbard birthday (90-in-2026) %b%
 REM May 15 2026 AT 17:00 DURATION 1:00 MSG neighborhood picnic with Brian %b
 REM May 30 2026 AT 11:00 DURATION 1:00 MSG Funeral for Barb Christian %b
-REM May 22 2026 AT 15:00 DURATION 1:00 MSG Meet Zack at church %b 
+REM May 22 2026 AT 15:00 DURATION 1:00 MSG Meet Zack at church %b
 REM May 26 2026 AT 09:00 DURATION 5:00 MSG Walter to surgery %b
 REM May 27 2026 AT 09:00 DURATION 3:00 MSG Walter to follow-up %b
 REM Jun 3 2026 AT 09:00 DURATION 1:00 MSG with MPS for Dr. Swaringin %b
 REM Jun 6 2026 AT 12:00 DURATION 1:00 MSG Piano Tuning Bob Horton %b
 REM Jun 19 2026 AT 12:15 DURATION 1:00 MSG Kalani apt for MPS %b
-REM Jun 23 2026 AT 08:00 DURATION 1:00 MSG Baycare Labs %b
+REM Jun 14 2026 AT 17:00 DURATION 1:00 MSG Party for Sara 90th Bday %b
