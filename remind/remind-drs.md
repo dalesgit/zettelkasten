@@ -20,3 +20,4 @@ REM Feb 24 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
 REM Jan 28 2026 AT 11:00 MSG MPS to Spiritual Direction %b%
 REM Mar 24 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
 REM Jun 2 2026 AT 11:30 DURATION 1:00 MSG Linda for spiritual direction %b
+REM Jun 30 2026 AT 10:00 DURATION 1:00 MSG Linda for spiritual direction %b

@@ -297,13 +297,15 @@
   "navigationSeparators": {},
   "recentColors": [],
   "lastShownVersion": "",
-  "latestKnownRelease": "2.5.6",
-  "lastAnnouncedRelease": "2.5.6",
 <<<<<<< HEAD
-  "lastReleaseCheckAt": 1775756299399,
+  "latestKnownRelease": "3.0.2",
+  "lastAnnouncedRelease": "2.5.6",
+  "lastReleaseCheckAt": 1780670782456,
 =======
-  "lastReleaseCheckAt": 1775691594844,
->>>>>>> 6af396c2578e408aa9c017496c34b809870723db
+  "latestKnownRelease": "3.1.4",
+  "lastAnnouncedRelease": "2.5.6",
+  "lastReleaseCheckAt": 1781717317913,
+>>>>>>> ae2602aee128fa9477986c3301d435917bf9d58a
   "rootFolderOrder": [],
   "rootTagOrder": []
 }

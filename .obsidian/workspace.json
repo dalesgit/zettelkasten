@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8048c53962ce90",
+        "id": "2e3ae0de85144262",
         "type": "tabs",
         "children": [
           {
-            "id": "9c934e50cbce8846",
+            "id": "b1c683e59e89bd7f",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "CPG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CPG"
             }
           }
         ]
@@ -221,12 +236,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9c934e50cbce8846",
+  "active": "b1c683e59e89bd7f",
   "lastOpenFiles": [
+    "United Health Care.md",
     "Homepage.md",
-    "Best-least educated states.md",
-    "travel/packing-savannah.md",
     "travel/packing checklist.md",
+    "travel/packing-savannah.md",
     "travel/packing-savannah.md~",
     "travel/packing-boca-raton.md",
     "travel/prayer-handout.md",
