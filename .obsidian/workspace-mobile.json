@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trump-paxton.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "trump-paxton"
+              "title": "Homepage"
             }
           }
         ]
@@ -184,8 +184,7 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "periodic-notes:Open today": false
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
   "active": "cfc190aaf7ccd320",
