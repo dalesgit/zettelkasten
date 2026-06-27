@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eric Clapton deals with the loss of his child.md",
+                "file": "travel/vikings-cruise.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eric Clapton deals with the loss of his child"
+              "title": "vikings-cruise"
             }
           }
         ],
@@ -133,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Eric Clapton deals with the loss of his child.md",
+            "file": "travel/vikings-cruise.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -215,10 +215,10 @@
   },
   "active": "52b09516eeee6d96",
   "lastOpenFiles": [
+    "Homepage.md",
     "Clapton clip from safari.md",
     "Clip from brave.md",
     "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
-    "Homepage.md",
     "Eric Clapton deals with the loss of his child.md",
     "travel/vikings-cruise.md",
     "trump-paxton.md",
