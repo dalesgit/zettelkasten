@@ -4,7 +4,6 @@ tags: []
 source: https://www.theguardian.com/technology/2026/jan/29/internet-inventor-tim-berners-lee-interview-battle-soul-web
 author: Daisy Dumas
 ---
-
 # ‘It’s not too late to fix it’: web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet | Internet | The Guardian
 
 > ## Excerpt
