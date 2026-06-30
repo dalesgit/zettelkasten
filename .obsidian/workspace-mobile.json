@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d27b2ea2ccdf7400",
+        "id": "2f63cb5229769487",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc190aaf7ccd320",
+            "id": "c221c0f1e34a3ceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
+                "file": "Clippings/Native American Tribes Came Together to Secure Their Rights to Colorado River Water. Four States Are Stalling the Deal..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian"
-            }
-          },
-          {
-            "id": "52b09516eeee6d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "travel/vikings-cruise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "vikings-cruise"
+              "title": "Native American Tribes Came Together to Secure Their Rights to Colorado River Water. Four States Are Stalling the Deal."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "travel/vikings-cruise.md",
+            "file": "Clippings/Native American Tribes Came Together to Secure Their Rights to Colorado River Water. Four States Are Stalling the Deal..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,12 +154,22 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       },
       {
         "id": "90e10331ad01848d",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "todo"
+        }
+      },
+      {
+        "id": "29e4b6b2808d7ac9",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -213,9 +198,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52b09516eeee6d96",
+  "active": "c221c0f1e34a3ceb",
   "lastOpenFiles": [
+    "Clippings/5 Android keyboard apps you should use instead of Gboard.md",
+    "Clippings/Native American Tribes Came Together to Secure Their Rights to Colorado River Water. Four States Are Stalling the Deal..md",
+    "Untitled 2.md",
+    "Clippings/Two Best-Selling Authors Say This 108-Year-Old Classic is the Great American Novel.md",
     "Homepage.md",
+    "Clippings2/‘It is the scariest of times’ Margaret Atwood on defying Trump, banned books – and her score-settling memoir.md",
+    "Clippings/The American Revolution Was So Much Weirder Than You Think.md",
+    "Clippings/‘We’re up against forces that have all the money in the world’ Erin Brockovich on her battle against AI datacentres.md",
+    "Clippings/Medicare will start covering obesity drugs for the first time. Here's what patients should know.md",
+    "ReadItLater Inbox/Defuddle — Documentation.md",
+    "ReadItLater Inbox/Defuddle.md",
+    "yesterdays-files.md",
     "Clapton clip from safari.md",
     "Clip from brave.md",
     "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
