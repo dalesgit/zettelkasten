@@ -170,3 +170,9 @@
 {"description":"install new mailbox","entry":"20260611T141120Z","modified":"20260611T141120Z","project":"home","status":"pending","uuid":"fb5fbd56-7bd8-490b-ac2f-2b3076ba6bb6"}
 {"description":"change Linda S date again","entry":"20260612T025003Z","modified":"20260612T025003Z","status":"pending","uuid":"567e812c-5579-42fe-8b30-0099c1d99fa5"}
 {"description":"change Linda S appointment","entry":"20260612T105009Z","modified":"20260612T105009Z","project":"todo","status":"pending","uuid":"731d4190-8300-414f-acad-1812f014a8bf"}
+{"description":"write Layla Roberts","end":"20260630T191915Z","entry":"20260604T224517Z","modified":"20260630T191915Z","project":"SD","status":"completed","uuid":"1ab8baa8-b495-4161-b3dd-e38b5e1e4f7e"}
+{"description":"buy boots","end":"20260630T191922Z","entry":"20260604T224556Z","modified":"20260630T191922Z","project":"travel","status":"completed","uuid":"2bfecb5d-18a0-4967-9efd-214507b6078d"}
+{"description":"install new mailbox","end":"20260630T191931Z","entry":"20260611T141120Z","modified":"20260630T191931Z","project":"home","status":"completed","uuid":"fb5fbd56-7bd8-490b-ac2f-2b3076ba6bb6"}
+{"description":"change Linda S appointment","end":"20260630T191950Z","entry":"20260612T105009Z","modified":"20260630T191950Z","project":"todo","status":"completed","uuid":"731d4190-8300-414f-acad-1812f014a8bf"}
+{"description":"sort whats in storage in FL room","end":"20260630T192002Z","entry":"20260522T110855Z","modified":"20260630T192002Z","status":"completed","uuid":"ce849f83-bf26-4279-b9ba-563a35f5f700"}
+{"description":"change Linda S date again","end":"20260630T192008Z","entry":"20260612T025003Z","modified":"20260630T192008Z","status":"completed","uuid":"567e812c-5579-42fe-8b30-0099c1d99fa5"}
