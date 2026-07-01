@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/vikings-cruise.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vikings-cruise"
+              "title": "Homepage"
             }
           }
         ],
@@ -133,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "travel/vikings-cruise.md",
+            "file": "Homepage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
