@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f673ed79fa544c2d",
@@ -281,8 +280,7 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "periodic-notes:Open today": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
   "active": "acc3514111e58879",
