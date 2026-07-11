@@ -1,11 +1,19 @@
+{
+  "main": {
+    "id": "9fd8095edb4e3c25",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f63cb5229769487",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1fd4632d94dec1af",
+            "id": "c221c0f1e34a3ceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/three pines - Google Search.md",
-                "file": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet.md",
+                "file": "Holland.pcloud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -20,8 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "three pines - Google Search"
-              "title": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet"
+              "title": "Holland.pcloud"
+            }
+          },
+          {
+            "id": "52b09516eeee6d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -30,16 +61,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3ff12b4ee57de19b",
+    "id": "522f8b624637de30",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "04ab16ddc537b409",
+        "id": "fd000f55cb0d4059",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -47,7 +78,7 @@
         }
       },
       {
-        "id": "60dc24b67a0c8e29",
+        "id": "b262721a98d061b6",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -64,7 +95,7 @@
         }
       },
       {
-        "id": "d6e22d66112e0141",
+        "id": "fd3aaa52a5be13fd",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -79,7 +110,7 @@
         }
       },
       {
-        "id": "a86d7209b364478a",
+        "id": "ef3cca6c3bd427d8",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -87,31 +118,21 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
-      },
-      {
-        "id": "1abe2b0ab597bc3f",
-        "type": "leaf",
-        "state": {
-          "type": "notebook-navigator",
-          "state": {},
-          "icon": "notebook",
-          "title": "Notebook Navigator"
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
-    "id": "6ec246f2f202997d",
+    "id": "1b11bc38050721a2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6b0e002300c90e05",
+        "id": "c685ef33ab9e5fbd",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "He spent years investigating Opus Dei, a Catholic group accused of a vast conspiracy of abuse. Then Pope Leo asked to meet.md",
+            "file": "Homepage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,12 +146,11 @@
         }
       },
       {
-        "id": "87cafec5538673aa",
+        "id": "df87a6c8f34e91c1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox Feb 2026.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,12 +159,11 @@
         }
       },
       {
-        "id": "c9082c036ef2b7a0",
+        "id": "dbdb55ab0b4bc804",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox Feb 2026.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,17 +173,27 @@
         }
       },
       {
-        "id": "e869862d39f7ff00",
+        "id": "a43ac37daf1b0a2c",
         "type": "leaf",
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       },
       {
-        "id": "7544dd1b13b468c5",
+        "id": "90e10331ad01848d",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "todo"
+        }
+      },
+      {
+        "id": "29e4b6b2808d7ac9",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -193,31 +222,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1fd4632d94dec1af",
+  "active": "c221c0f1e34a3ceb",
   "lastOpenFiles": [
-    "Clippings/Yvette Cooper urges full reopening of Strait of Hormuz.md",
-    "Clippings/three pines - Google Search.md",    "Journal/Daily/2025-11-29.md",
-    "sign.md",
-    "How to use drafts.md",
-    "Bruce Springsteen song _streets of Minneapolis_.md",
-    "You are the living, breathing, epiphany, that slipped out, didn't it  You are the living, breathing epitome, of cheap Grace..md",
-    "Larry re parish presentation.md",
-    "Susan husband retired Presbyterian minister..md",
-    "Flying in low over the flats outside the Savannah River. Rounding to face the land as we lined up to approach the landing. The sun disappeared and suddenly the hugest moon appeared at the edge of the horizon..md",
-    "Central synagogue in New York.md",
-    "https   open.substack.com pub religionandjustice p liberation-theologies-and-the-struggle r=1ouz6o&utm_medium=ios&shareImageVariant=overlay.md",
-    "https   www.classical-music.com rock best-1971-albums.md",
-    "Hotel WiFi login page.md",
-    "List of Trump associated violence against Christian virtues.md",
-    "Things to Do in Charleston.md",
-    "Liberation Herzog 1.md",
-    "Captive Portal Issues on Hotel WiFi with MX Linux.md",
-    "Personal hotspot.md",
-    "Calendar.md",
-    "Rule of three camera composition.md",
-    "Communion.md",
-    "Preaching. Frederick hero.md",
-    "Dissidents.md",
-    "Mark Twain quote.md"
+    "Homepage.md",
+    "Holland.pcloud.md",
+    "Clippings/5 Android keyboard apps you should use instead of Gboard.md",
+    "Clippings/Native American Tribes Came Together to Secure Their Rights to Colorado River Water. Four States Are Stalling the Deal..md",
+    "Untitled 2.md",
+    "Clippings/Two Best-Selling Authors Say This 108-Year-Old Classic is the Great American Novel.md",
+    "Clippings2/‘It is the scariest of times’ Margaret Atwood on defying Trump, banned books – and her score-settling memoir.md",
+    "Clippings/The American Revolution Was So Much Weirder Than You Think.md",
+    "Clippings/‘We’re up against forces that have all the money in the world’ Erin Brockovich on her battle against AI datacentres.md",
+    "Clippings/Medicare will start covering obesity drugs for the first time. Here's what patients should know.md",
+    "ReadItLater Inbox/Defuddle — Documentation.md",
+    "ReadItLater Inbox/Defuddle.md",
+    "yesterdays-files.md",
+    "Clapton clip from safari.md",
+    "Clip from brave.md",
+    "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
+    "Eric Clapton deals with the loss of his child.md",
+    "travel/vikings-cruise.md",
+    "trump-paxton.md",
+    "travel/packing checklist.md",
+    "travel/packing-savannah.md",
+    "travel/packing-boca-raton.md",
+    "travel/packing-hilton-head.md",
+    "travel/packing-Charleston.md",
+    "travel/packing-colorado.md"
   ]
 }

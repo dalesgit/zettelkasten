@@ -1,4 +1,4 @@
-How to use drafts
+#quote How to use drafts
 
 [https://docs.getdrafts.com/](https://docs.getdrafts.com/)
 
