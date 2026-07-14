@@ -638,3 +638,11 @@ time 1782847208
 old [description:"change Linda S date again" entry:"1781232603" modified:"1781232603" status:"pending" uuid:"567e812c-5579-42fe-8b30-0099c1d99fa5"]
 new [description:"change Linda S date again" end:"1782847208" entry:"1781232603" modified:"1782847208" status:"completed" uuid:"567e812c-5579-42fe-8b30-0099c1d99fa5"]
 ---
+time 1783973665
+old [description:"apply for electronic visa for UK" entry:"1780438799" modified:"1780438799" project:"travel" status:"pending" uuid:"dcc3574a-3deb-4a4d-af28-357845f87ddc"]
+new [description:"apply for electronic visa for UK" end:"1783973665" entry:"1780438799" modified:"1783973665" project:"travel" status:"completed" uuid:"dcc3574a-3deb-4a4d-af28-357845f87ddc"]
+---
+time 1783973683
+old [description:"onhold Linux on newest chromebook" entry:"1774780900" modified:"1774780964" project:"onhold" status:"pending" uuid:"94c02085-080c-490b-95b1-4bee3497f9e0"]
+new [description:"onhold Linux on newest chromebook" end:"1783973683" entry:"1774780900" modified:"1783973683" project:"onhold" status:"completed" uuid:"94c02085-080c-490b-95b1-4bee3497f9e0"]
+---

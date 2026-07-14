@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e3ae0de85144262",
+        "id": "8d5692f6b8b625f0",
         "type": "tabs",
         "children": [
           {
-            "id": "b1c683e59e89bd7f",
+            "id": "44e9c727eaccf134",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "travel/eclipse-cruise packing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "0acd3ff406fc7fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "acc3514111e58879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "eclipse-cruise packing"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f673ed79fa544c2d",
@@ -280,14 +232,22 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "acc3514111e58879",
+  "active": "44e9c727eaccf134",
   "lastOpenFiles": [
+    "travel/eclipse-cruise packing.md~",
+    "Homepage.md",
+    "remind/remind-cruise26.md",
+    "Home.md",
+    "yesterdays-files.md",
+    "journal-template-sample.md",
+    "index.md",
+    "travel/eclipse-cruise packing.md",
     "assets/couple-on-cruise (copy).jpeg",
     "assets/bishops-province8-mokuleia-full-moon (copy).jpg",
-    "Homepage.md",
     "CP nxtpaper and lenovo pad.md",
     "Eric Clapton deals with the loss of his child.md",
     "United Health Care.md",
@@ -297,7 +257,6 @@
     "travel/packing-boca-raton.md",
     "travel/prayer-handout.md",
     "travel/travel tips.md",
-    "Home.md",
     "How to use drafts.md",
     "Kaʻiulani.md",
     "an-old-query-from-Home-page.md",
@@ -308,11 +267,6 @@
     "Inbox Feb 2026.md",
     "personal/banking.md",
     "archive/Daily notes/2025-07-07.md",
-    "Journal/Weekly/2026-W05.md",
-    "Journal/Weekly/2026-W08.md",
-    "Journal/Weekly/2026-W07.md",
-    "Journal/Weekly/2026-W06.md",
-    "Journal/Weekly/2026-W09.md",
     "travel/4913",
     "travel/packing-Charleston.md~",
     "Clippers/The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic.md~"
