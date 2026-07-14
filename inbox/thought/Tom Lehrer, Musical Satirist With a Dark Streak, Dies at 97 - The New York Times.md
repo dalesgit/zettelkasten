@@ -3,6 +3,7 @@ created: 2025-07-28T07:48:48 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html
 author: Richard Severo, Peter Keepnews
+_organized: true
 ---
 
 # Tom Lehrer, Musical Satirist With a Dark Streak, Dies at 97 - The New York Times

@@ -3,6 +3,7 @@ id: zen-browser-shortcuts
 aliases: []
 tags:
   - tech
+_organized: true
 ---
 |                             |             |
 | --------------------------- | ----------- |

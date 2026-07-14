@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 #tech #chromebook 
 # [How to type special characters and symbols on a Chromebook](https://9to5google.com/2022/07/18/how-to-type-symbols-characters-chromebook/)

@@ -3,6 +3,7 @@ created: 2025-07-25T08:13:06 (UTC -04:00)
 tags: []
 source: https://www.latimes.com/opinion/story/2025-07-24/epstein-files-obama-treason-trump
 author: Jackie Calmes
+_organized: true
 ---
 
 # Column: Trump finds a new way to taint the office of the presidency - Los Angeles Times

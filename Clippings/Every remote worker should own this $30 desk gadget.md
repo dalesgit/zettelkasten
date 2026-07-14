@@ -8,6 +8,7 @@ created: 2025-12-26
 description: "This tiny device transformed my remote work experience, by providing a secure and stable connection wherever I set up office."
 tags:
   - "clippings"
+_organized: true
 ---
 As a regular remote worker, I quickly grew tired of flaky hotel Wi-Fi, crowded coffee-shop networks, and unpredictable coworking spaces. I would often find myself so far from a Wi-Fi source that even saving a document to the cloud became a long and drawn-out process, and I was always wary of insecure public networks.
 

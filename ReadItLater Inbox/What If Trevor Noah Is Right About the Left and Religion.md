@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [What If Trevor Noah Is Right About the Left and Religion?](https://lizbucar.substack.com/p/what-if-trevor-noah-is-right-about?r=1ouz6o&utm_medium=ios&triedRedirect=true)

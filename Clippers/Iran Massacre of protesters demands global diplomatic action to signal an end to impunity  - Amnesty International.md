@@ -3,6 +3,7 @@ created: 2026-01-15T09:04:53 (UTC -05:00)
 tags: []
 source: https://www.amnesty.org/en/latest/news/2026/01/iran-massacre-of-protesters-demands-global-diplomatic-action-to-signal-an-end-to-impunity/
 author: 
+_organized: true
 ---
 
 # Iran: Massacre of protesters demands global diplomatic action to signal an end to impunity  - Amnesty International

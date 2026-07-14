@@ -3,6 +3,7 @@ created: 2026-01-21T17:25:49 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/us-news/2026/jan/21/trump-american-democracy
 author: Lauren Gambino
+_organized: true
 ---
 
 # American democracy on the brink a year after Trump’s inauguration, experts say | Donald Trump | The Guardian

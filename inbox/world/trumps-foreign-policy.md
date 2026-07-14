@@ -2,6 +2,7 @@
 created: 2025-07-08T07:21:14
 source: https://www.theatlantic.com/newsletters/archive/2025/07/trump-colby-defense-policy/683455/
 author: Tom Nichols
+_organized: true
 ---
 
 # Who’s Running American Defense Policy?

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Hotel WiFi login page
 
 

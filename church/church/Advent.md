@@ -2,6 +2,7 @@
 id: Advent
 aliases: []
 tags: []
+_organized: true
 ---
 
 - A **season**

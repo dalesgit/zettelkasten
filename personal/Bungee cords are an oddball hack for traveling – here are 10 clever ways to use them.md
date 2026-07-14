@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Bungee cords are an oddball hack for traveling – here are 10 clever ways to use them](https://www.theguardian.com/thefilter-us/2025/oct/15/bungee-cords-travel-hacks)

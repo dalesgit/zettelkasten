@@ -3,6 +3,7 @@ created: 2026-01-07T09:49:13 (UTC -05:00)
 tags: [Self,motivation,mental health,procrastinate,stress,exhausted,motivated,Discipline,unmotivated]
 source: https://www.yourtango.com/self/when-person-loses-their-motivation-life-these-habits-disappear-first
 author: Zayda Slabbekoorn
+_organized: true
 ---
 
 # When A Person Loses Their Motivation In Life, These 11 Habits Disappear First | YourTango

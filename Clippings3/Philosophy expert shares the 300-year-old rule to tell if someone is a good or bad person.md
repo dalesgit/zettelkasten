@@ -10,6 +10,7 @@ description: Popular TikTok philosopher and Substack writer Juan de Medeiros rec
 tags:
   - good-person
   - character
+_organized: true
 ---
 Add Upworthy to your Google News feed.
 

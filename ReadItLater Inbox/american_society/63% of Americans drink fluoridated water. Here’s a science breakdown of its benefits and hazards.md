@@ -2,6 +2,7 @@
 tags:
   - health
   - cdc
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 

@@ -8,6 +8,7 @@ created: 2025-11-19
 description: "Astronomers have discovered that the James Webb Space Telescope may have already detected the universe's first stars, a feat only possible thanks to a phenomenon predicted by Einstein over 100 years ago."
 tags:
   - "clippings"
+_organized: true
 ---
 ![The gravitational lens MACS JO416 which may have help the JWST detect the first stars born after the Big Bang](https://cdn.mos.cms.futurecdn.net/UjVzAP7Gg7paFedtueN3zf-1600-80.png.webp)
 

@@ -6,6 +6,7 @@ tags:
   - prayer
 source: https://mail.google.com/mail/u/0/
 author:
+_organized: true
 ---
 
 # Love Is Still a Strategy - dhath12@gmail.com - Gmail

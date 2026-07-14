@@ -8,6 +8,7 @@ created: 2026-06-30
 description: "The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors."
 tags:
   - "clippings"
+_organized: true
 ---
 <iframe src="" allowfullscreen="" frameborder="0"></iframe>
 

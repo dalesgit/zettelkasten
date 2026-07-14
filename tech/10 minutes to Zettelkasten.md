@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [https://youtu.be/GRA_fwbdrtc](https://youtu.be/GRA_fwbdrtc "Share link") [[notetaking]] 
 
 ## TOC

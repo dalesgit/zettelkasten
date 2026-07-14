@@ -3,6 +3,7 @@ created: 2026-01-25T07:14:53 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/25/magazine/minneapolis-trump-ice-protests-minnesota.html
 author: Charles Homans, Philip Montgomery
+_organized: true
 ---
 
 # In Minneapolis, Trump Administrations ICE Crackdown Shows the U.S. Unraveling - The New York Times

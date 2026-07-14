@@ -9,6 +9,7 @@ description: Google's approach to email
 tags:
   - American_revolution
   - history
+_organized: true
 ---
 ---
 created: 2025-11-20T10:05:06 (UTC -05:00)

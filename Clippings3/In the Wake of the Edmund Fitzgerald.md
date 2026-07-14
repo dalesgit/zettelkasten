@@ -8,6 +8,7 @@ created: 2025-11-11
 description: "The mighty ship, immortalized in song by Gordon Lightfoot, sank 50 years ago on Lake Superior. Our reporter spent a week on a Great Lakes freighter that survived the storm."
 tags:
   - "clippings"
+_organized: true
 ---
 On a perfect blue-sky day in late July, the SS Wilfred Sykes was on northern Lake Michigan, approaching the pristine shore of Wisconsin’s Door County peninsula. It gave a horn blast, shimmied through a narrow canal and soon was gliding placidly past the raised bridges and marinas of Sturgeon Bay.
 

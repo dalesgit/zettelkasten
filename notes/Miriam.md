@@ -2,6 +2,7 @@
 id: Miriam
 aliases: []
 tags: []
+_organized: true
 ---
 ## 2025-12-30
 

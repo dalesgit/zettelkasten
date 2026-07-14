@@ -3,6 +3,7 @@ created: 2025-08-20T07:42:42 (UTC -04:00)
 tags: []
 source: https://www.theguardian.com/us-news/2025/aug/20/filipino-survivors-hawaii-wildfire-recovery
 author: Claire Wang
+_organized: true
 ---
 
 # ‘I’m just waiting and waiting’: Filipino survivors feel left out of Maui fire recovery efforts | Hawaii fires | The Guardian

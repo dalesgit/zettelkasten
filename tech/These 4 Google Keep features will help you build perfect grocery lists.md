@@ -3,6 +3,7 @@ tags:
   - tech
   - lists
   - grocery
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 

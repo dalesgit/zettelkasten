@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [12 Daily “Notes to Self” We Should All Memorize Before Life Gets Any Tougher](https://www.marcandangel.com/2025/10/28/12-notes-to-self-you-should-memorize-before-the-new-year/)

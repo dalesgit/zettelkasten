@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [The chilling effect of Title VI investigations: the professors accused of antisemitism](https://www.theguardian.com/us-news/2025/sep/11/campus-investigations-professors-gaza-antisemitism)

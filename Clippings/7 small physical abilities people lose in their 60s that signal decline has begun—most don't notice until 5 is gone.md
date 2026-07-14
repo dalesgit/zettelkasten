@@ -8,6 +8,7 @@ created: 2026-01-04
 description: "Most people brush off these barely noticeable changes—like needing to steady themselves against a wall or choosing higher chairs—until the day they find themselves stuck on the floor playing with grandkids, suddenly realizing they can't get back up without help."
 tags:
   - "clippings"
+_organized: true
 ---
 Most people brush off these barely noticeable changes—like needing to steady themselves against a wall or choosing higher chairs—until the day they find themselves stuck on the floor playing with grandkids, suddenly realizing they can't get back up without help.
 

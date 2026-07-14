@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Stop using your browser for these 6 tasks — the terminal does them better](https://www.makeuseof.com/stop-using-browser-for-these-tasks-terminal-does-them-better/)

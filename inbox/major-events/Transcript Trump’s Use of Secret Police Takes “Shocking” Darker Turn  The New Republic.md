@@ -3,6 +3,7 @@ created: 2025-07-12T07:38:32 (UTC -04:00)
 tags: []
 source: https://newrepublic.com/article/197622/transcript-trump-use-secret-police-takes-shocking-darker-turn
 author: The Daily Blast with Greg Sargent
+_organized: true
 ---
 
 # Transcript: Trump’s Use of Secret Police Takes “Shocking” Darker Turn | The New Republic

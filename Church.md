@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Church
 
 Mem's husband stopped me on the parking lot. Asking how are you? What he really wanted to say was WTF we're at war. 

@@ -2,6 +2,7 @@
 created: 2025-07-12T07:19:46
 source: https://www.theatlantic.com/ideas/archive/2025/07/patel-gabbard-internal-fbi-spying/683511/
 author: Tom Nichols
+_organized: true
 ---
 
 # The Federal Bureau of Paranoia

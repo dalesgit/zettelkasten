@@ -2,6 +2,7 @@
 id: ash-wednesday-draft
 aliases: []
 tags: []
+_organized: true
 ---
 # Ash Wednesday 2026: draft 1
 

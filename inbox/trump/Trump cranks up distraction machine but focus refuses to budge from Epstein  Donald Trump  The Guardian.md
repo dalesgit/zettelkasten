@@ -3,6 +3,7 @@ created: 2025-07-25T08:34:05 (UTC -04:00)
 tags: []
 source: https://www.theguardian.com/us-news/2025/jul/25/donald-trump-epstein-distraction
 author: David Smith
+_organized: true
 ---
 
 # Trump cranks up distraction machine but focus refuses to budge from Epstein | Donald Trump | The Guardian

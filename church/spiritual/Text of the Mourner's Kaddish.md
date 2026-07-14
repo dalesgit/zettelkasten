@@ -10,6 +10,7 @@ tags:
   - Judaism
   - mourning
   - grief
+_organized: true
 ---
 
 Written in [Aramaic](https://www.myjewishlearning.com/article/jewish-aramaic/), the Mourner’s is the prayer traditionally recited in memory of the dead, although it makes no mention of death. It is included in all three daily prayer services. Find the words in Aramaic, transliteration and translation below.

@@ -3,6 +3,7 @@ id: Dad's geneaology for David
 aliases:
   - Dad's geneaology for David
 tags: []
+_organized: true
 ---
 
 # Dad's geneaology for David #geneaology

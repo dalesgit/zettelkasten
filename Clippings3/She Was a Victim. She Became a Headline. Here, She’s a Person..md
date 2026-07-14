@@ -8,6 +8,7 @@ created: 2025-11-30
 description: "In “Without Consent,” Sarah Weinman looks at a shocking 1978 case — and women’s ongoing struggle for justice."
 tags:
   - "clippings"
+_organized: true
 ---
 **WITHOUT CONSENT:****A Landmark Trial and the Decades-Long Struggle to Make Spousal Rape a Crime,** by Sarah Weinman
 

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 #metaphor #preaching
 [[preaching]] -- [[Proper 12]] 
 

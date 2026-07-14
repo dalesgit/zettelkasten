@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Folino checkup march 4
 
 A discussion about being charged by the insurance company. She determined that insurance allows for three periodontal cleanings. It may be that Basil, doesn't code for two periodontal cleanings.

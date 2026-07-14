@@ -8,6 +8,7 @@ created: 2025-09-12
 description: "Thinking historically fosters an appreciation for complexity that is as indispensable for navigating the future as it is for the past."
 tags:
   - "clippings"
+_organized: true
 ---
 ![Collage by Mr.Nelson design for Noema Magazine](https://www.noemamag.com/wp-content/uploads/2025/09/Noema-Magazine-The-lost-art-of-thinking-historically-Mr.Nelson-design.png)
 

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Guest Essay
 
 Dec. 14, 2025

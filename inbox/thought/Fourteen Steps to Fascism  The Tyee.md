@@ -3,6 +3,7 @@ created: 2025-07-10T08:06:39 (UTC -04:00)
 tags: [Sarah Churchwell,Trumpism,Umberto Eco,Ur-Fascism]
 source: https://thetyee.ca/Opinion/2018/07/30/Fourteen-Steps-To-Fascism/
 author: Crawford Kilian
+_organized: true
 ---
 
 # Fourteen Steps to Fascism | The Tyee

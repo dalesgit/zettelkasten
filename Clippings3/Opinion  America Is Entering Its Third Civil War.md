@@ -8,6 +8,7 @@ created: 2025-12-12
 description: "Trump is not interested in refighting the Cold War. He is, in my view, interested in fighting the civilizational war over what is the American “home.”"
 tags:
   - "clippings"
+_organized: true
 ---
 Every few years I am reminded of one of my cardinal rules of journalism: Whenever you see elephants flying, don’t laugh, take notes. Because if you see elephants flying, something very different is going on that you don’t understand but you and your readers need to.
 

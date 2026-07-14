@@ -3,6 +3,7 @@ created: 2026-01-25T07:29:53 (UTC -05:00)
 tags: []
 source: https://www.bbc.com/culture/article/20260122-why-this-robert-burns-poem-is-a-masterpiece
 author: Nicholas Barber
+_organized: true
 ---
 
 # 'There's no other poem like it': Why this Robert Burns classic is a masterpiece

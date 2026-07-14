@@ -2,6 +2,7 @@
 id: National Center for Atmospheric Research to Be Dismantled, Trump Administration Says - The New York Times
 aliases: []
 tags: []
+_organized: true
 ---
 ## Trump Administration Plans to Break Up Premier Weather and Climate Research Center
 

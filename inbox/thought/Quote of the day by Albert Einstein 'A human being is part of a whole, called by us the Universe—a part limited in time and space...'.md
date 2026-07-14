@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Quote of the day by Albert Einstein: 'A human being is part of a whole, called by us the Universe—a part limited in time and space...'](https://m.economictimes.com/magazines/panache/quote-of-the-day-by-albert-einstein-a-human-being-is-part-of-a-whole-called-by-us-the-universea-part-limited-in-time-and-space-/articleshow/125739006.cms)

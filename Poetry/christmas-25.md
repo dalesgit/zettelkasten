@@ -4,6 +4,7 @@ aliases: []
 tags:
   - poetry
 created: 2025-12-23 18:47
+_organized: true
 ---
 
 The days seem different now somehow.\

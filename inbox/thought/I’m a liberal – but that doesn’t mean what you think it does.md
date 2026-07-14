@@ -3,6 +3,7 @@ created: 2025-07-21T17:40:36 (UTC -04:00)
 tags: []
 source: https://forwardky.com/im-a-liberal-tag-commentary/
 author: Guest Author
+_organized: true
 ---
 
 # I’m a liberal – but that doesn’t mean what you think it does

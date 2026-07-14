@@ -2,6 +2,7 @@
 created: 2025-07-12T08:31:16
 source: https://www.theatlantic.com/newsletters/archive/2025/07/books-briefing-american-exceptionalism/683510/
 author: Boris Kachka
+_organized: true
 ---
 
 # The Books Briefing: Is America Really Exceptional?

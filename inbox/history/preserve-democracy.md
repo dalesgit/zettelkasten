@@ -2,6 +2,7 @@
 created: 2025-07-12T07:46:18
 source: https://www.theatlantic.com/podcasts/archive/2025/07/what-exactly-is-required-to-preserve-our-democracy/683492/
 author: Garry Kasparov, Anne Applebaum
+_organized: true
 ---
 
 # What Exactly Is Required to Preserve Our Democracy?

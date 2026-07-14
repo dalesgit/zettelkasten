@@ -3,6 +3,7 @@ created: 2026-01-30T18:15:23 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/30/opinion/david-brooks-leaving-columnist.html
 author: David Brooks
+_organized: true
 ---
 
 # Opinion | A Farewell Column From David Brooks - The New York Times

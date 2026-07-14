@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Who can tame Trump? An unlikely candidate is emerging: the Catholic church | Simon Tisdall](https://www.theguardian.com/commentisfree/2025/nov/23/who-can-tame-trump-pope-leo-xiv-catholic-church-usa?CMP=Share_iOSApp_Other)

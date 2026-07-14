@@ -3,6 +3,7 @@ created: 2026-01-21T12:19:28 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/19/us/politics/cubans-florida-deportations-trump.html
 author: Patricia Mazzei
+_organized: true
 ---
 
 # Cubans in Florida Are Being Deported in Record Numbers - The New York Times

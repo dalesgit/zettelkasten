@@ -2,6 +2,7 @@
 tags:
   - poetry
 created: <% tp.file.creation_date() %>
+_organized: true
 ---
 <%*
   // Prompt for the title

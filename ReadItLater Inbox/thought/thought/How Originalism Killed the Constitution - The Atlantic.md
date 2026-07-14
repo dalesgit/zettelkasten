@@ -5,6 +5,7 @@ tags:
   - originalism
 source: https://www.theatlantic.com/magazine/archive/2025/10/constitutional-originalism-amendment/683961/
 author: Jill Lepore
+_organized: true
 ---
 
 # How Originalism Killed the Constitution - The Atlantic

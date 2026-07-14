@@ -10,6 +10,7 @@ tags:
   - health
   - habits
   - mental-health
+_organized: true
 ---
 A unique decade accidentally created an entire generation with built-in manipulation detectors that still work perfectly today.
 

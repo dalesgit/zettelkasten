@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 - Dignity. Quiet and Noble
 - Sitting for years in same pew as wife.
 - Died in Canada (Maine?)

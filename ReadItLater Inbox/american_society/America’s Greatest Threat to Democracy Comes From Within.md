@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [America’s Greatest Threat to Democracy Comes From Within](https://www.theatlantic.com/podcasts/archive/2025/09/americas-greatest-threat-comes-from-within/684182/)

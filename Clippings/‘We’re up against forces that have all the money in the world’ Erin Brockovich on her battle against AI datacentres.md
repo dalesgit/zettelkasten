@@ -8,6 +8,7 @@ created: 2026-06-30
 description: "In 1993, she squeezed a $333m settlement from a Californian energy company in a scandal over contaminated water. Three decades later, she has a new target in her sights – and it’s global"
 tags:
   - "clippings"
+_organized: true
 ---
 ![Erin Brockovich stands in font of some palm trees, with her hair in a top knot, wearing a dark shirt and gold earrings and chain](https://i.guim.co.uk/img/media/68746faa5e33b308f6973011d880f796e499ae5c/3_478_5301_4242/master/5301.jpg?width=1020&dpr=2&s=none&crop=none)
 

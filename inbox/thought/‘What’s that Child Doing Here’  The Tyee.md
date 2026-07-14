@@ -3,6 +3,7 @@ created: 2025-07-10T08:08:48 (UTC -04:00)
 tags: [Alfred Gustav Jodl,Bernard Montgomery,British Columbia Media,Buchenwald,Canadian Women’s Press Club Award,Canadian media,Canadian newspapers,Canadian reporters WWII,Cornelia Otis Skinner,D-Day landings,Digital Media,Dwight Eisenhower,Future of News,Hans-Georg von Friedeburg,International Military Tribunal,Journalism,Journalism in Canada,Karl Doenitz,Lowell W. Rooks,Margaret Ecker,Media in British Columbia,Media in Canada,Michael Geist,Nazi surrender,New Media,Newspapers in Canada,Nuremberg trials,Order of the House of Orange,Queen Wilhelmina,Steve Anderson,Supreme Headquarters Allied Expeditionary Force,Thousand Year Reich,VE-Day]
 source: https://thetyee.ca/News/2020/05/24/Margaret-Ecker-Reporter/
 author: Tom Hawthorn
+_organized: true
 ---
 
 # ‘What’s that Child Doing Here?’ | The Tyee

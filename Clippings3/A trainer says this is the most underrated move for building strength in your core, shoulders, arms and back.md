@@ -10,6 +10,7 @@ tags:
   - health
   - strength
   - exercise
+_organized: true
 ---
 ![Woman in high plank position at home holding dumbbells](https://cdn.mos.cms.futurecdn.net/JswzG3PSP2x4hEpGGn5VWi-1920-80.jpg.webp)
 

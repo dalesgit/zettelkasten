@@ -2,6 +2,7 @@
 tags:
   - poetry
 created: 2025-12-21 06:23
+_organized: true
 ---
 As my mind wandered during "church"
 Nevermind I was the preacher

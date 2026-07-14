@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Daily driving Linux for 3 years taught me these 6 habits](https://www.howtogeek.com/daily-driving-linux-for-3-years-taught-me-these-6-habits/)

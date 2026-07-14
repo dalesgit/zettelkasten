@@ -3,6 +3,7 @@ created: 2025-12-15T08:22:23 (UTC -05:00)
 tags: []
 source: https://thehill.com/opinion/international/5642398-venezuela-minerals-us-strategy/
 author: Krystal Kauffman, opinion contributor
+_organized: true
 ---
 
 # America isn’t attacking Venezuela because of drugs — it’s because of minerals 

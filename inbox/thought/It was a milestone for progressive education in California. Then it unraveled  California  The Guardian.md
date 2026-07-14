@@ -3,6 +3,7 @@ created: 2025-07-09T05:09:54 (UTC -04:00)
 tags: []
 source: https://www.theguardian.com/us-news/ng-interactive/2025/jul/07/ethnic-studies-california-antisemitism
 author: Robin Buller
+_organized: true
 ---
 
 # It was a milestone for progressive education in California. Then it unraveled | California | The Guardian

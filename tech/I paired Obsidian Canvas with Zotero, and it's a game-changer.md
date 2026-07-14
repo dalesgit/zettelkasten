@@ -10,6 +10,7 @@ tags:
   - obsidian
   - zotero
   - reading
+_organized: true
 ---
 Zotero has been in my [productivity toolkit](https://www.xda-developers.com/replaced-expensive-productivity-apps-with-free-tools-couldnt-be-happier/) for a while now, and I probably won’t ditch it any time soon; it’s the [easiest way to wrangle resources](https://www.xda-developers.com/salvaged-research-rabbit-holes-with-single-zotero-instance-it-blew-my-mind/) without getting overwhelmed. As good as it is for storing information, it’s not quite designed for thinking or putting that information to use. You usually end up with this library of well-organized resources that still feels flat. Sure, there are features like tags and folders, but you don’t actually *see* the connections between sources, and even your own notes don’t rise to the surface in Zotero.
 

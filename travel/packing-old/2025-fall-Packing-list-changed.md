@@ -5,6 +5,7 @@ tags:
   - household
   - bathroom
 kanban-plugin: board
+_organized: true
 ---
 
 ## Bathroom

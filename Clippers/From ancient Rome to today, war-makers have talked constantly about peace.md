@@ -3,6 +3,7 @@ created: 2026-01-22T06:53:58 (UTC -05:00)
 tags: []
 source: https://theconversation.com/from-ancient-rome-to-today-war-makers-have-talked-constantly-about-peace-273095
 author: Timothy Joseph
+_organized: true
 ---
 
 # From ancient Rome to today, war-makers have talked constantly about peace

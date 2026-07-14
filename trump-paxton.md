@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 
 
 # Ken Paxton Is Actually Doing This

@@ -3,6 +3,7 @@ created: 2025-07-19T08:23:43 (UTC -04:00)
 tags: []
 source: https://www.businessinsider.com/moved-to-florida-for-husbands-job-bad-idea-left-divorced-2025-7
 author: Johnaé De Felicis
+_organized: true
 ---
 
 # Moved to Florida for Husband's Job; Too Many Cons, Left After 3 Years - Business Insider

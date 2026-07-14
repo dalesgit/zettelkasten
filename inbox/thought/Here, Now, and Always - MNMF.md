@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Here, Now, and Always - MNMF](https://www.museumfoundation.org/hna/)

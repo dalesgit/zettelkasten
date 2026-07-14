@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Personal hotspot
 
 MX Linux users experiencing issues connecting to an iPhone Personal Hotspot have reported persistent problems, particularly with Wi-Fi tethering. While USB tethering is often more reliable, iOS 14 and later introduced compatibility issues that affect Linux systems, including MX Linux.

@@ -3,6 +3,7 @@ created: 2025-09-20T08:02:27 (UTC -04:00)
 tags: []
 source: https://lectionarypage.net/YearC_RCL/Pentecost/CProp20_RCL.html#ps2
 author: 
+_organized: true
 ---
 ## Psalm 111
 _Confitebor tibi_

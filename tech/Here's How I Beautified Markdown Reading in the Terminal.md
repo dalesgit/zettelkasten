@@ -8,6 +8,7 @@ created: 2025-10-22
 description: "Now I'm glowing with pride."
 tags:
   - "clippings"
+_organized: true
 ---
 Markdown has become nearly ubiquitous as the language of choice for simple text files with a smattering of formatting. With a subset of HTML semantics coupled to friendlier syntax, you’ll see Markdown in README files, other documentation, and rudimentary forms of structured data.
 

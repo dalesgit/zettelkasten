@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Vigil sermon
 
 The 4 parts could be staged

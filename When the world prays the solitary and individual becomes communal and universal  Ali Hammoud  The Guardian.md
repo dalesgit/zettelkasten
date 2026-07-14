@@ -3,6 +3,7 @@ created: 2026-01-26T23:09:57 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/commentisfree/2026/jan/25/praying-prayer-solitary-individual-communal-universal
 author: 
+_organized: true
 ---
 
 # When the world prays the solitary and individual becomes communal and universal | Ali Hammoud | The Guardian

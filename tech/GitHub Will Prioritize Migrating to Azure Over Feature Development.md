@@ -10,6 +10,7 @@ tags:
   - microsoft
   - github
   - opensource
+_organized: true
 ---
 
 ![Featued image for: GitHub Will Prioritize Migrating to Azure Over Feature Development](https://cdn.thenewstack.io/media/2025/10/b3e7e58e-roman-synkevych-wx2l8l-fgea-unsplash-1024x669.jpg)

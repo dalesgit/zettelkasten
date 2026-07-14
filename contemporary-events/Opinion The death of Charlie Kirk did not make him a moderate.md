@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Opinion: The death of Charlie Kirk did not make him a moderate](https://www.theglobeandmail.com/opinion/article-charlie-kirk-death-did-not-make-him-a-moderate/)

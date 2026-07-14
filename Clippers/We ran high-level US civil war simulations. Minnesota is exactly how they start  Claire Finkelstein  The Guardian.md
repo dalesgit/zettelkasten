@@ -3,6 +3,7 @@ created: 2026-01-21T12:29:25 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/commentisfree/2026/jan/21/ice-minnesota-trump
 author: 
+_organized: true
 ---
 
 # We ran high-level US civil war simulations. Minnesota is exactly how they start | Claire Finkelstein | The Guardian

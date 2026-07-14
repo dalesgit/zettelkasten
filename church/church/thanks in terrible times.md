@@ -2,6 +2,7 @@
 id: thanks in terrible times
 aliases: []
 tags: []
+_organized: true
 ---
 _10 Terrible Things to Give Thanks For_ John Pavlovitz
 

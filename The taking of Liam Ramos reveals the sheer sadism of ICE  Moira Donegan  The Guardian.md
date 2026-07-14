@@ -3,6 +3,7 @@ created: 2026-01-25T07:25:53 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/commentisfree/2026/jan/24/liam-ramos-ice-cruelty-minnesota
 author: Moira Donegan
+_organized: true
 ---
 
 # The taking of Liam Ramos reveals the sheer sadism of ICE | Moira Donegan | The Guardian

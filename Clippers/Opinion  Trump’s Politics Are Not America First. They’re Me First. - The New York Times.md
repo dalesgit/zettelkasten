@@ -3,6 +3,7 @@ created: 2026-01-21T17:09:43 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/21/opinion/trump-greenland-europe-nato.html
 author: Thomas L. Friedman
+_organized: true
 ---
 
 # Opinion | Trump’s Politics Are Not America First. They’re Me First. - The New York Times

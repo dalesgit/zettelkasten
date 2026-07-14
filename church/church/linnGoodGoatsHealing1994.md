@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## Good goats: healing our image of God
 
 ### Formatted Bibliography

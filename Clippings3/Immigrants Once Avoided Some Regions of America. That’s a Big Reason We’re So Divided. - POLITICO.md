@@ -3,6 +3,7 @@ created: 2025-12-15T07:58:06 (UTC -05:00)
 tags: []
 source: https://www.politico.com/news/magazine/2025/12/13/woodard-immigration-00679254
 author: Colin Woodard
+_organized: true
 ---
 
 # Immigrants Once Avoided Some Regions of America. That’s a Big Reason We’re So Divided. - POLITICO

@@ -11,6 +11,7 @@ created: 2025-11-12
 description: "Aphorisms and poems have a lot in common. Both are brief, both use vivid imagery, and both have a twist, some quick textual or psychological flip, a sudden sting in the tail that gives readers a jo…"
 tags:
   - "clippings"
+_organized: true
 ---
 [Literary Hub](https://lithub.com/)
 

@@ -3,6 +3,7 @@ created: 2026-02-01T06:14:21 (UTC -05:00)
 tags: [Artificial Intelligence,Geoffrey Hinton,Universal Basic Income,White-Collar Professions]
 source: https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/
 author: John Mac Ghlionn, opinion contributor
+_organized: true
 ---
 
 # AI Revolution: The Case for Universal Basic Income

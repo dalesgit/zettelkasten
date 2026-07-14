@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Why I gave the world wide web away for free | Tim Berners-Lee](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free?CMP=Share_iOSApp_Other)

@@ -3,6 +3,7 @@ created: 2026-01-01T07:49:02 (UTC -05:00)
 tags: []
 source: https://thehill.com/opinion/campaign/5666723-trump-presides-over-americas-coming-apart/
 author: Max Burns, opinion contributor
+_organized: true
 ---
 
 # Trump presides over America’s coming-apart

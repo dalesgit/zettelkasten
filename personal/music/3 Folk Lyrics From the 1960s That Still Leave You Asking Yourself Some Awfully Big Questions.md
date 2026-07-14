@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [3 Folk Lyrics From the 1960s That Still Leave You Asking Yourself Some Awfully Big Questions](https://americansongwriter.com/3-folk-lyrics-from-the-1960s-that-still-leave-you-asking-yourself-some-awfully-big-questions/)

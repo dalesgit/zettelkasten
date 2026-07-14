@@ -3,6 +3,7 @@ created: 2025-12-15T08:14:40 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/commentisfree/2025/dec/15/trump-venezuela-repeat-past-mistakes
 author: Austin Sarat
+_organized: true
 ---
 
 # Trump’s approach to Venezuela repeats the mistakes of the past | Austin Sarat | The Guardian

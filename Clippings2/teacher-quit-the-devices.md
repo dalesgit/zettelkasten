@@ -2,6 +2,7 @@
 created: 2026-04-06T06:05:16
 source: https://www.theatlantic.com/ideas/2026/04/teachers-screens-edtech-students/686681/?utm_campaign=one-story-to-read-today&utm_content=20260406&utm_source=newsletter&utm_medium=email&lctg=67e1b86b1bcf8ac5d80a11b4&utm_term=One%20Story%20to%20Read%20Today
 author: Jenny Anderson
+_organized: true
 ---
 
 # What Happened After a Teacher Ditched Screens

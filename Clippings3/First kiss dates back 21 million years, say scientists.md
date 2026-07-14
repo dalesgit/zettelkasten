@@ -8,6 +8,7 @@ created: 2025-11-19
 description: "A new study looks at how the mouth-on-mouth smooch came into being, and concludes that Neanderthals also kissed."
 tags:
   - "clippings"
+_organized: true
 ---
 ![Getty The image is a composite of several different species kissing. Clockwise from top left: two monkeys kissing; two lemurs with their faces touching; two cheetahs appearing to kiss each other on the mouth; an orangutan kissing another on the cheek; two monkeys kissing with their eyes closed and two giraffes appearing to kiss each other on the lips](https://ichef.bbci.co.uk/news/240/cpsprodpb/cf30/live/4a78ed70-c48c-11f0-b288-51552c83ad58.jpg.webp)
 

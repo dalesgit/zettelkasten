@@ -8,6 +8,7 @@ created: 2025-11-27
 description: Diagnostic and symptomatic, accusatory and culpable, communal and personal, The Hollow Men is a poem about that which ails society at large.
 tags:
   - poetry
+_organized: true
 ---
 ![](https://images.theconversation.com/files/704958/original/file-20251126-66-uispu8.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C4000%2C2000&q=75&auto=format&w=1336&h=668&fit=crop&dpr=1)
 

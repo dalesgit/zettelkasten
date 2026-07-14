@@ -3,6 +3,7 @@ created: 2026-02-01T06:11:48 (UTC -05:00)
 tags: []
 source: https://newrepublic.com/article/205913/media-malpractice-trumpism-project-2025
 author: Parker Molloy
+_organized: true
 ---
 
 # The Media Malpractice That Sent America Tumbling Into Trumpism | The New Republic

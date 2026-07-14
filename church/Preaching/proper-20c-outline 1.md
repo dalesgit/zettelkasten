@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 #proper20 
 [[proper-20c 1]]
 [[proper-20c-brainstorming 1]]

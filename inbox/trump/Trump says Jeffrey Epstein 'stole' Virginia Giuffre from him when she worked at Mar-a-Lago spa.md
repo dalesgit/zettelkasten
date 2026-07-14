@@ -3,6 +3,7 @@ created: 2025-07-29T18:14:07 (UTC -04:00)
 tags: []
 source: https://www.nbcnews.com/politics/politics-news/trump-says-jeffrey-epstein-stole-virginia-giuffre-worked-mar-lago-spa-rcna221810
 author: By Minyvonne Burke
+_organized: true
 ---
 
 # Trump says Jeffrey Epstein 'stole' Virginia Giuffre from him when she worked at Mar-a-Lago spa

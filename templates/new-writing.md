@@ -2,6 +2,7 @@
 tags:
   - writing
 created: <% tp.file.creation_date() %>
+_organized: true
 ---
 <%*
   // Prompt for the title

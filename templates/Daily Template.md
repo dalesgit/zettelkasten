@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 --- 
 date:  
 energy (1-5):  

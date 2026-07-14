@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 #gods-law #city-of-god 
 
 - St. Augustine

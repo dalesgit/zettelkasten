@@ -3,6 +3,7 @@ created: 2025-07-11T05:58:14 (UTC -04:00)
 tags: []
 source: https://vegoutmag.com/lifestyle/dna-if-you-grew-up-before-the-internet-you-probably-developed-these-7-traits-younger-generations-lack/
 author: Maya Flores
+_organized: true
 ---
 
 # If you grew up before the internet, you probably developed these 7 traits younger generations lack – VegOut

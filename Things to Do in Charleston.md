@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Things to Do in Charleston
 
 **Rainbow Row** is a must-see, featuring 13 pastel-colored historic homes along East Bay Street, known for their vibrant architecture and rich history. Just a short walk away, **The Battery** offers scenic waterfront views, cannons from the Civil War, and grand Southern mansions.

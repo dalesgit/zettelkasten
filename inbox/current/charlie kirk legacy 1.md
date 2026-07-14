@@ -2,6 +2,7 @@
 created: 2025-09-14T09:03:32
 source: https://www.nytimes.com/2025/09/13/us/politics/charlie-kirk-legacy-trump.html
 author: By Elisabeth Bumiller Reporting from Washington
+_organized: true
 ---
 
 # Wrestling Over Charlie Kirk’s Legacy and the Divide in America

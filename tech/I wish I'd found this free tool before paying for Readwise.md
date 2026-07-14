@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [I wish I'd found this free tool before paying for Readwise](https://www.xda-developers.com/wish-i-found-free-tool-before-paying-for-readwise/)

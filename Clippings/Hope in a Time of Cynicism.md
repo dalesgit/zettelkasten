@@ -8,6 +8,7 @@ created: 2026-01-05
 description: "At a moment when Americans are distrusting and fearful, we examine the psychology of hope."
 tags:
   - "clippings"
+_organized: true
 ---
 America has become a country of cynics. At least, that’s what studies show.
 

@@ -10,6 +10,7 @@ tags:
   - depression
   - speculation
   - economy
+_organized: true
 ---
 *Good morning, Andrew here. I’m in Los Angeles today on a book tour for “1929.” As I was writing the book, there was always an essay I wanted to write about a counterintuitive thought that’ had been rattling around in my head for years. I imagine it may prove to be an unpopular idea to some of you and perhaps be applauded by others. I find myself usually* [*preaching caution*](https://www.nytimes.com/2025/10/13/magazine/investing-private-equity-crypto-crash-1929.html)*; the essay below is slightly counter to that. I hope it provides some food for thought — the things I enjoy reading most are the ones that make me think, sometimes a bit uncomfortably. Please let me know what you think. (Was this newsletter forwarded to you?* [*Sign up here.*](https://www.nytimes.com/newsletters/signup/DK)*)*
 

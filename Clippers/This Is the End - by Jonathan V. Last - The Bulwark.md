@@ -3,6 +3,7 @@ created: 2026-01-21T13:02:22 (UTC -05:00)
 tags: []
 source: https://www.thebulwark.com/p/this-is-the-end-2a9
 author: Jonathan V. Last
+_organized: true
 ---
 
 # This Is the End - by Jonathan V. Last - The Bulwark

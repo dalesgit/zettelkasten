@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 # The Burial of the Dead:
 *All stand*
 ## Opening anthem

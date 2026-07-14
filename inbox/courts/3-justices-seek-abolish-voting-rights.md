@@ -2,6 +2,7 @@
 created: 2025-07-25T08:30:42
 source: https://www.vox.com/scotus/421091/supreme-court-voting-rights-act-turtle-mountain-howe
 author: Ian Millhiser
+_organized: true
 ---
 
 # 3 Supreme Court justices just tried to kill the ban on racist election laws

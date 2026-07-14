@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## discernment
 - Discernment is one of the things that I recognized in my early relationship with Jesuits
 - As in other spares of life, it makes a difference when you know someone. Originally the notion of Jesuits was mostly a large unknown, but a thing left more or less to cartoons for me. Then I met some Jesuits.  

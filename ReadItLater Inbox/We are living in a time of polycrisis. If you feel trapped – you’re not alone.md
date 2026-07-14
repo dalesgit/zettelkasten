@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [We are living in a time of polycrisis. If you feel trapped – you’re not alone](https://www.theguardian.com/wellness/2026/jan/14/new-year-polycrisis-psychology-feeling-trapped?CMP=Share_iOSApp_Other)

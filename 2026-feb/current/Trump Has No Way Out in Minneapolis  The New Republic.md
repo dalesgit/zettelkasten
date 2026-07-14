@@ -3,6 +3,7 @@ created: 2026-02-01T05:42:34 (UTC -05:00)
 tags: []
 source: https://newrepublic.com/article/205731/trump-homan-bovino-minneapolis
 author: Alex Shephard
+_organized: true
 ---
 
 # Trump Has No Way Out in Minneapolis | The New Republic

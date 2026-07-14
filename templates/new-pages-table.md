@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ### another shot at a table (last week files)
 
 ```dataview 

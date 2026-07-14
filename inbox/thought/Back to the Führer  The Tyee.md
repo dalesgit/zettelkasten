@@ -3,6 +3,7 @@ created: 2025-07-10T08:03:03 (UTC -04:00)
 tags: [Adolf Hitler,Berlin Diary book,Bernhard Rust,British Columbia Politics,Canadian Politics,Donald Trump,London Times,Mein Kampf,Nazi Party,Project 2025,Stephen Miller,Steve Bannon,Teppichfresser,The Rise and Fall of the Third Reich,Treaty of Versailles,Trump Hitler,William Joyce,William L. Shirer,Winston Churchill]
 source: https://thetyee.ca/Culture/2025/07/04/Back-Fuhrer/
 author: Steve Burgess
+_organized: true
 ---
 
 # Back to the Führer? | The Tyee

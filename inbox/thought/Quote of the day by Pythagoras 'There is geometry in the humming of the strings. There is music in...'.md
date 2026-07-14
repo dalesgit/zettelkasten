@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Quote of the day by Pythagoras: 'There is geometry in the humming of the strings. There is music in...'](https://m.economictimes.com/magazines/panache/quote-of-the-day-by-pythagoras-there-is-geometry-in-the-humming-of-the-strings-there-is-music-in-/articleshow/125805166.cms)

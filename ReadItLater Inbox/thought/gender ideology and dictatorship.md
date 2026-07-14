@@ -2,6 +2,7 @@
 created: 2025-09-11T02:57:19
 source: https://www.nytimes.com/2025/09/10/us/texas-professor-fired-gender-ideology.html
 author: By Vimal Patel and J. David Goodman
+_organized: true
 ---
 # [Texas Professor Fired After Accusations of Teaching ‘Gender Ideology’](https://www.nytimes.com/2025/09/10/us/texas-professor-fired-gender-ideology.html)
 <iframe src="https://www.nytimes.com/svc/oembed/html/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F09%2F10%2Fus%2Ftexas-professor-fired-gender-ideology.html" scrolling="no" frameborder="0" allowtransparency="true" title="Texas Professor Fired After Accusations of Teaching ‘Gender Ideology’" style="border:none;max-width:500px;min-width:300px;min-height:550px;display:block;width:100%;"></iframe>

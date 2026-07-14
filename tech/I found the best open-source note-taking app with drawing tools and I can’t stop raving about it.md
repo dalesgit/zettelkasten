@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [I found the best open-source note-taking app with drawing tools and I can’t stop raving about it](https://www.xda-developers.com/best-open-source-note-taking-app-with-drawing-tools/)

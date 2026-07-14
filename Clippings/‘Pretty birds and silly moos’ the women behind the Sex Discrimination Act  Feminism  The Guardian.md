@@ -3,6 +3,7 @@ created: 2025-12-18T06:20:04 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/world/2025/dec/18/pretty-birds-and-silly-moos-the-women-behind-the-sex-discrimination-act
 author: Susanna Rustin
+_organized: true
 ---
 
 # ‘Pretty birds and silly moos’: the women behind the Sex Discrimination Act | Feminism | The Guardian

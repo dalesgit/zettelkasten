@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Six Word Memoirs Home](https://www.sixwordmemoirs.com/)

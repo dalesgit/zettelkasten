@@ -3,6 +3,7 @@ created: 2026-01-25T07:06:32 (UTC -05:00)
 tags: []
 source: https://www.makeuseof.com/replaced-task-manager-with-a-notes-app-and-didnt-regret-it/
 author: Afam Onyimadu
+_organized: true
 ---
  
 # I replaced my task manager with a notes app and I'm not going back

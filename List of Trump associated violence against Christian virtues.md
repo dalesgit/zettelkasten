@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## List of Trump associated violence against Christian virtues
 - separating children
 - Erasing a century of public health progress

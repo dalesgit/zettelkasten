@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2e3ae0de85144262",
+<<<<<<< HEAD
+        "id": "8d5692f6b8b625f0",
         "type": "tabs",
         "children": [
           {
-            "id": "b1c683e59e89bd7f",
+            "id": "44e9c727eaccf134",
+=======
+        "id": "9a966b8265cb1cf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04e0a9420b039a3a",
+>>>>>>> 10e104a532af0801d67a902aa240912318931c1c
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "travel/eclipse-cruise packing.md",
+=======
                 "file": "Homepage.md",
+>>>>>>> 10e104a532af0801d67a902aa240912318931c1c
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,64 +40,14 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
 <<<<<<< HEAD
+              "title": "eclipse-cruise packing"
+=======
+              "title": "Homepage"
+>>>>>>> 10e104a532af0801d67a902aa240912318931c1c
+            }
           }
         ]
-=======
-          },
-          {
-            "id": "0acd3ff406fc7fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "acc3514111e58879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          }
-        ],
-        "currentTab": 2
->>>>>>> 4a82583a91d3753e51319179205d8319e770ae33
       }
     ],
     "direction": "vertical"
@@ -104,7 +66,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -117,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "home",
+                "query": "check",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,6 +98,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c0c1739e1c625e95",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
             }
           }
         ]
@@ -178,11 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "travel/packing checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from packing checklist"
             }
           },
           {
@@ -206,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox.md",
+                "file": "travel/packing checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Inbox"
+              "title": "Outline of packing checklist"
             }
           },
           {
@@ -221,42 +194,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
             "id": "76e659ebdeeac54a",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "6df0a8ab23383ddd",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "574d836dd676d945",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "18ca596f61f2eeea",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -266,12 +209,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,58 +228,72 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "periodic-notes:Open today": false
     }
   },
 <<<<<<< HEAD
-  "active": "5a89f1dcff13ddfe",
+  "active": "44e9c727eaccf134",
   "lastOpenFiles": [
-    "Clippings/What The Catcher in the Rye Taught a Teenage Girl.md",
+    "travel/eclipse-cruise packing.md~",
+    "Homepage.md",
+    "remind/remind-cruise26.md",
+    "Home.md",
+    "yesterdays-files.md",
+    "journal-template-sample.md",
+    "index.md",
+    "travel/eclipse-cruise packing.md",
 =======
-  "active": "acc3514111e58879",
+  "active": "04e0a9420b039a3a",
   "lastOpenFiles": [
+    "Homepage.md",
+    "vigil-sermon-draft.md",
+    "travel/vikings-cruise.md",
+    "Clippers/Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill.md",
+    "travel/packing checklist.md",
+    "travel/packing-old/Naples-planning-Sept-2025.md",
+    "travel/packing-old/2025-fall-Packing-list.md",
+    "travel/packing-old/2025-fall-Packing-list-changed.md",
+    "Journal/Daily/2026-07-14.md",
+    "remind/reminders.tmp",
+    "remind/reminders-root.tmp",
+    "remind/remind.tmp",
+    "remind/remind-lit.tmp",
+    "remind/remind-drs.tmp",
+    "remind/remind-cruise.tmp",
+    "remind/remind-cal2.tmp",
+    "remind/remind-cal.tmp",
+    "Timestamps/2025/07-July/2025-07-03-Thursday.md",
+    "Timestamps/2025/06-June/2025-06-26-Thursday.md",
+    "Journal/Daily/2025-12-28.md",
+    "archive/Daily notes/2025-06-27.md",
+>>>>>>> 10e104a532af0801d67a902aa240912318931c1c
     "assets/couple-on-cruise (copy).jpeg",
     "assets/bishops-province8-mokuleia-full-moon (copy).jpg",
-    "Homepage.md",
     "CP nxtpaper and lenovo pad.md",
     "Eric Clapton deals with the loss of his child.md",
     "United Health Care.md",
-    "travel/packing checklist.md",
     "travel/packing-savannah.md",
     "travel/packing-savannah.md~",
     "travel/packing-boca-raton.md",
     "travel/prayer-handout.md",
     "travel/travel tips.md",
-    "Home.md",
     "How to use drafts.md",
     "Kaʻiulani.md",
     "an-old-query-from-Home-page.md",
     "Hebrew canon.md",
     "ARCO View.md",
+<<<<<<< HEAD
     "diary/diary-md/2020/2020-05-27.md",
     "travel/packing-hilton-head.md",
     "Inbox Feb 2026.md",
->>>>>>> 4a82583a91d3753e51319179205d8319e770ae33
     "personal/banking.md",
     "archive/Daily notes/2025-07-07.md",
-    "Journal/Weekly/2026-W05.md",
-    "Journal/Weekly/2026-W08.md",
-    "Journal/Weekly/2026-W07.md",
-    "Journal/Weekly/2026-W06.md",
-    "Journal/Weekly/2026-W09.md",
     "travel/4913",
     "travel/packing-Charleston.md~",
-<<<<<<< HEAD
-    "‘It’s not too late to fix it’ web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet  Internet  The Guardian.md",
-    "Opinion  This Week Has Revealed 3 Types of Americans - The New York Times.md",
-    "Opinion  A Farewell Column From David Brooks - The New York Times.md",
-    "travel/packing-colorado.md",
-    "travel/packing-hilton-head.md",
-    "travel/Travels of DH & MPH.md",
-    "travel/packing-old/2025-fall-Packing-list.md",
-    "travel/packing-old/2025-fall-Packing-list-changed.md",
-=======
->>>>>>> 4a82583a91d3753e51319179205d8319e770ae33
     "Clippers/The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic.md~"
+=======
+    "travel/4913"
+>>>>>>> 10e104a532af0801d67a902aa240912318931c1c
   ]
 }

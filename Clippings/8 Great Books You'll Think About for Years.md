@@ -16,6 +16,7 @@ created: 2026-01-04
 description: "Must-read books that change how you think, feel, and understand the world—long after you finish reading."
 tags:
   - "clippings"
+_organized: true
 ---
 ## Must-read books that change how you think, feel, and understand the world—long after you finish reading.
 

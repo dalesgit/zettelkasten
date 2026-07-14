@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## {{title}}
 
 ### Formatted Bibliography

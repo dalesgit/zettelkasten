@@ -8,6 +8,7 @@ created: 2025-12-01
 description: "At a time when distrust of big tech is high, Silicon Valley is embracing an alternative ecosystem where every CEO is a star"
 tags:
   - "clippings"
+_organized: true
 ---
 ![Businessman standing in front of blank television screens](https://i.guim.co.uk/img/media/2859f06076f448c0bf51ac92a473b3c7495e9b86/26_0_4649_3720/master/4649.jpg?width=1020&dpr=2&s=none&crop=none)
 

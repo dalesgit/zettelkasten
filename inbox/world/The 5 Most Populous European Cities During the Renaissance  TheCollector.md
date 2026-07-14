@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [The 5 Most Populous European Cities During the Renaissance | TheCollector](https://www.thecollector.com/biggest-cities-renaissance/)

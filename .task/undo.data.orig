@@ -473,10 +473,6 @@ time 1775577842
 old [description:"clear under sinks, around circuit box, access to attic" entry:"1774282063" modified:"1774282063" project:"home" status:"pending" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
 new [description:"clear under sinks, around circuit box, access to attic" end:"1775577842" entry:"1774282063" modified:"1775577842" project:"home" status:"completed" uuid:"00f31506-6bad-4c46-8faa-7b9f36f2110f"]
 ---
-<<<<<<< HEAD
-time 1776254342
-new [description:"buy concrete crown for irrigation" entry:"1776254342" modified:"1776254342" project:"home" status:"pending" uuid:"899d6432-ccd4-42a6-bedc-c154e22c2018"]
-=======
 time 1776512775
 new [description:"get dermatologist" entry:"1776512775" modified:"1776512775" project:"health" status:"pending" uuid:"80f5ff85-435e-426e-a4b9-7b6282629ad2"]
 ---
@@ -488,5 +484,171 @@ new [description:"call AAA" entry:"1776512819" modified:"1776512819" project:"Mi
 ---
 time 1776512884
 new [description:"CPG and whatever re United Health" entry:"1776512884" modified:"1776512884" project:"health" status:"pending" uuid:"e45bdf3a-3dad-4627-941b-da8ff357dc2d"]
->>>>>>> 0679e3fcdff763a8195a7662829fddb58c346b2b
+---
+time 1776941791
+old [description:"call AAA" entry:"1776512819" modified:"1776512819" project:"Miata" status:"pending" uuid:"cf277581-205c-43d2-845e-34d5d51f11a8"]
+new [description:"call AAA" end:"1776941791" entry:"1776512819" modified:"1776941791" project:"Miata" status:"completed" uuid:"cf277581-205c-43d2-845e-34d5d51f11a8"]
+---
+time 1778501550
+new [description:"paint kitchen ceiling" entry:"1778501550" modified:"1778501550" project:"home" status:"pending" uuid:"177c3ad2-5c88-43af-80ce-5ac52181ece4"]
+---
+time 1778501584
+new [description:"electrician to exterior lights" entry:"1778501584" modified:"1778501584" project:"home" status:"pending" uuid:"f116deed-8f31-4b65-b8ae-62393e4b551d"]
+---
+time 1778761656
+new [description:"change Irvin and Serepca appts" entry:"1778761656" modified:"1778761656" project:"todo" status:"pending" uuid:"b84154ec-59eb-4408-a15a-cefe9e1cb40e"]
+---
+time 1778860759
+new [description:"renew prescription for shampoo" entry:"1778860759" modified:"1778860759" project:"health" status:"pending" uuid:"944b5ace-4e0f-476a-9895-da8ec2ffdf70"]
+---
+time 1778861152
+new [description:"reschedule Basil on 5\/26" entry:"1778861152" modified:"1778861152" project:"health" status:"pending" uuid:"a4cc146e-2f4d-4586-80bf-9cf1e8a53a4f"]
+---
+time 1778861425
+new [description:"health: reschedule Basil" entry:"1778861425" modified:"1778861425" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+---
+time 1778861465
+old [description:"health: reschedule Basil" entry:"1778861425" modified:"1778861425" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+new [description:"health: reschedule Basil from 26th" entry:"1778861425" modified:"1778861465" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+---
+time 1778861492
+old [description:"reschedule Basil on 5\/26" entry:"1778861152" modified:"1778861152" project:"health" status:"pending" uuid:"a4cc146e-2f4d-4586-80bf-9cf1e8a53a4f"]
+new [description:"reschedule Basil on 5\/26" end:"1778861490" entry:"1778861152" modified:"1778861492" project:"health" status:"deleted" uuid:"a4cc146e-2f4d-4586-80bf-9cf1e8a53a4f"]
+---
+time 1778861541
+old [description:"health: reschedule Basil from 26th" entry:"1778861425" modified:"1778861465" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+new [description:"reschedule Basil from 26th" entry:"1778861425" modified:"1778861541" project:"health" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+---
+time 1778874840
+old [description:"reschedule Basil from 26th" entry:"1778861425" modified:"1778861541" project:"health" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+new [description:"reschedule Basil from 26th" entry:"1778861425" modified:"1778874840" project:"todo" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+---
+time 1778874869
+old [description:"renew prescription for shampoo" entry:"1778860759" modified:"1778860759" project:"health" status:"pending" uuid:"944b5ace-4e0f-476a-9895-da8ec2ffdf70"]
+new [description:"renew prescription for shampoo" entry:"1778860759" modified:"1778874869" project:"todo" status:"pending" uuid:"944b5ace-4e0f-476a-9895-da8ec2ffdf70"]
+---
+time 1778874900
+old [description:"get dermatologist" entry:"1776512775" modified:"1776512775" project:"health" status:"pending" uuid:"80f5ff85-435e-426e-a4b9-7b6282629ad2"]
+new [description:"get dermatologist" entry:"1776512775" modified:"1778874900" project:"todo" status:"pending" uuid:"80f5ff85-435e-426e-a4b9-7b6282629ad2"]
+---
+time 1779014903
+old [description:"change Irvin and Serepca appts" entry:"1778761656" modified:"1778761656" project:"todo" status:"pending" uuid:"b84154ec-59eb-4408-a15a-cefe9e1cb40e"]
+new [description:"change Linda Serepca appt (June)" entry:"1778761656" modified:"1779014903" project:"todo" status:"pending" uuid:"b84154ec-59eb-4408-a15a-cefe9e1cb40e"]
+---
+time 1779120068
+old [description:"reschedule Basil from 26th" entry:"1778861425" modified:"1778874840" project:"todo" status:"pending" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+new [description:"reschedule Basil from 26th" end:"1779120068" entry:"1778861425" modified:"1779120068" project:"todo" status:"completed" uuid:"11c45873-7d11-4b82-974a-e06acdb01a00"]
+---
+time 1779120100
+old [description:"renew prescription for shampoo" entry:"1778860759" modified:"1778874869" project:"todo" status:"pending" uuid:"944b5ace-4e0f-476a-9895-da8ec2ffdf70"]
+new [description:"renew prescription for shampoo" end:"1779120100" entry:"1778860759" modified:"1779120100" project:"todo" status:"completed" uuid:"944b5ace-4e0f-476a-9895-da8ec2ffdf70"]
+---
+time 1779360284
+old [description:"change Linda Serepca appt (June)" entry:"1778761656" modified:"1779014903" project:"todo" status:"pending" uuid:"b84154ec-59eb-4408-a15a-cefe9e1cb40e"]
+new [description:"change Linda Serepca appt (June)" end:"1779360284" entry:"1778761656" modified:"1779360284" project:"todo" status:"completed" uuid:"b84154ec-59eb-4408-a15a-cefe9e1cb40e"]
+---
+time 1779360329
+old [description:"locate a repair shop" entry:"1776512809" modified:"1776512809" project:"Miata" status:"pending" uuid:"d88937b1-2861-4f25-863c-e7cc2561c2e5"]
+new [description:"locate a repair shop" entry:"1776512809" modified:"1779360329" project:"Car" status:"pending" uuid:"d88937b1-2861-4f25-863c-e7cc2561c2e5"]
+---
+time 1779360364
+new [description:"project car schedule maintenace Kia" entry:"1779360364" modified:"1779360364" status:"pending" uuid:"d32adb49-531f-4880-9421-5c387e37a969"]
+---
+time 1779360380
+old [description:"locate a repair shop" entry:"1776512809" modified:"1779360329" project:"Car" status:"pending" uuid:"d88937b1-2861-4f25-863c-e7cc2561c2e5"]
+new [description:"locate a repair shop" entry:"1776512809" modified:"1779360380" project:"car" status:"pending" uuid:"d88937b1-2861-4f25-863c-e7cc2561c2e5"]
+---
+time 1779360433
+old [description:"project car schedule maintenace Kia" entry:"1779360364" modified:"1779360364" status:"pending" uuid:"d32adb49-531f-4880-9421-5c387e37a969"]
+new [description:"schedule maintenace Kia" entry:"1779360364" modified:"1779360433" project:"car" status:"pending" uuid:"d32adb49-531f-4880-9421-5c387e37a969"]
+---
+time 1779360465
+old [description:"locate a repair shop" entry:"1776512809" modified:"1779360380" project:"car" status:"pending" uuid:"d88937b1-2861-4f25-863c-e7cc2561c2e5"]
+new [description:"locate a repair shop for Miata" entry:"1776512809" modified:"1779360465" project:"car" status:"pending" uuid:"d88937b1-2861-4f25-863c-e7cc2561c2e5"]
+---
+time 1779448100
+new [description:"schedule piano tuner" entry:"1779448100" modified:"1779448100" status:"pending" uuid:"9a81f14e-e4f6-40cb-a60f-07899ba945ec"]
+---
+time 1779448135
+new [description:"sort whats in storage in FL room" entry:"1779448135" modified:"1779448135" status:"pending" uuid:"ce849f83-bf26-4279-b9ba-563a35f5f700"]
+---
+time 1779459022
+old [description:"schedule piano tuner" entry:"1779448100" modified:"1779448100" status:"pending" uuid:"9a81f14e-e4f6-40cb-a60f-07899ba945ec"]
+new [description:"schedule piano tuner Bob Horton 727-735-7926 (scheduler)" entry:"1779448100" modified:"1779459022" status:"pending" uuid:"9a81f14e-e4f6-40cb-a60f-07899ba945ec"]
+---
+time 1779459036
+old [description:"schedule maintenace Kia" entry:"1779360364" modified:"1779360433" project:"car" status:"pending" uuid:"d32adb49-531f-4880-9421-5c387e37a969"]
+new [description:"schedule maintenace Kia" end:"1779459036" entry:"1779360364" modified:"1779459036" project:"car" status:"completed" uuid:"d32adb49-531f-4880-9421-5c387e37a969"]
+---
+time 1779459056
+old [description:"schedule piano tuner Bob Horton 727-735-7926 (scheduler)" entry:"1779448100" modified:"1779459022" status:"pending" uuid:"9a81f14e-e4f6-40cb-a60f-07899ba945ec"]
+new [description:"schedule piano tuner Bob Horton 727-735-7926 (scheduler)" entry:"1779448100" modified:"1779459056" project:"home" status:"pending" uuid:"9a81f14e-e4f6-40cb-a60f-07899ba945ec"]
+---
+time 1779706823
+old [description:"schedule piano tuner Bob Horton 727-735-7926 (scheduler)" entry:"1779448100" modified:"1779459056" project:"home" status:"pending" uuid:"9a81f14e-e4f6-40cb-a60f-07899ba945ec"]
+new [description:"schedule piano tuner Bob Horton 727-735-7926 (scheduler)" end:"1779706823" entry:"1779448100" modified:"1779706823" project:"home" status:"completed" uuid:"9a81f14e-e4f6-40cb-a60f-07899ba945ec"]
+---
+time 1780438799
+new [description:"apply for electronic visa for UK" entry:"1780438799" modified:"1780438799" project:"travel" status:"pending" uuid:"dcc3574a-3deb-4a4d-af28-357845f87ddc"]
+---
+time 1780438815
+old [description:"CPG and whatever re United Health" entry:"1776512884" modified:"1776512884" project:"health" status:"pending" uuid:"e45bdf3a-3dad-4627-941b-da8ff357dc2d"]
+new [description:"CPG and whatever re United Health" end:"1780438815" entry:"1776512884" modified:"1780438815" project:"health" status:"completed" uuid:"e45bdf3a-3dad-4627-941b-da8ff357dc2d"]
+---
+time 1780438827
+old [description:"get dermatologist" entry:"1776512775" modified:"1778874900" project:"todo" status:"pending" uuid:"80f5ff85-435e-426e-a4b9-7b6282629ad2"]
+new [description:"get dermatologist" end:"1780438827" entry:"1776512775" modified:"1780438827" project:"todo" status:"completed" uuid:"80f5ff85-435e-426e-a4b9-7b6282629ad2"]
+---
+time 1780613117
+new [description:"write Layla Roberts" entry:"1780613117" modified:"1780613117" project:"SD" status:"pending" uuid:"1ab8baa8-b495-4161-b3dd-e38b5e1e4f7e"]
+---
+time 1780613156
+new [description:"buy boots" entry:"1780613156" modified:"1780613156" project:"travel" status:"pending" uuid:"2bfecb5d-18a0-4967-9efd-214507b6078d"]
+---
+time 1781187080
+new [description:"install new mailbox" entry:"1781187080" modified:"1781187080" project:"home" status:"pending" uuid:"fb5fbd56-7bd8-490b-ac2f-2b3076ba6bb6"]
+---
+time 1781232603
+new [description:"change Linda S date again" entry:"1781232603" modified:"1781232603" status:"pending" uuid:"567e812c-5579-42fe-8b30-0099c1d99fa5"]
+---
+time 1781261409
+new [description:"change Linda S appointment" entry:"1781261409" modified:"1781261409" project:"todo" status:"pending" uuid:"731d4190-8300-414f-acad-1812f014a8bf"]
+---
+time 1782847155
+old [description:"write Layla Roberts" entry:"1780613117" modified:"1780613117" project:"SD" status:"pending" uuid:"1ab8baa8-b495-4161-b3dd-e38b5e1e4f7e"]
+new [description:"write Layla Roberts" end:"1782847155" entry:"1780613117" modified:"1782847155" project:"SD" status:"completed" uuid:"1ab8baa8-b495-4161-b3dd-e38b5e1e4f7e"]
+---
+time 1782847162
+old [description:"buy boots" entry:"1780613156" modified:"1780613156" project:"travel" status:"pending" uuid:"2bfecb5d-18a0-4967-9efd-214507b6078d"]
+new [description:"buy boots" end:"1782847162" entry:"1780613156" modified:"1782847162" project:"travel" status:"completed" uuid:"2bfecb5d-18a0-4967-9efd-214507b6078d"]
+---
+time 1782847171
+old [description:"install new mailbox" entry:"1781187080" modified:"1781187080" project:"home" status:"pending" uuid:"fb5fbd56-7bd8-490b-ac2f-2b3076ba6bb6"]
+new [description:"install new mailbox" end:"1782847171" entry:"1781187080" modified:"1782847171" project:"home" status:"completed" uuid:"fb5fbd56-7bd8-490b-ac2f-2b3076ba6bb6"]
+---
+time 1782847190
+old [description:"change Linda S appointment" entry:"1781261409" modified:"1781261409" project:"todo" status:"pending" uuid:"731d4190-8300-414f-acad-1812f014a8bf"]
+new [description:"change Linda S appointment" end:"1782847190" entry:"1781261409" modified:"1782847190" project:"todo" status:"completed" uuid:"731d4190-8300-414f-acad-1812f014a8bf"]
+---
+time 1782847202
+old [description:"sort whats in storage in FL room" entry:"1779448135" modified:"1779448135" status:"pending" uuid:"ce849f83-bf26-4279-b9ba-563a35f5f700"]
+new [description:"sort whats in storage in FL room" end:"1782847202" entry:"1779448135" modified:"1782847202" status:"completed" uuid:"ce849f83-bf26-4279-b9ba-563a35f5f700"]
+---
+time 1782847208
+old [description:"change Linda S date again" entry:"1781232603" modified:"1781232603" status:"pending" uuid:"567e812c-5579-42fe-8b30-0099c1d99fa5"]
+new [description:"change Linda S date again" end:"1782847208" entry:"1781232603" modified:"1782847208" status:"completed" uuid:"567e812c-5579-42fe-8b30-0099c1d99fa5"]
+---
+<<<<<<< HEAD
+time 1783973665
+old [description:"apply for electronic visa for UK" entry:"1780438799" modified:"1780438799" project:"travel" status:"pending" uuid:"dcc3574a-3deb-4a4d-af28-357845f87ddc"]
+new [description:"apply for electronic visa for UK" end:"1783973665" entry:"1780438799" modified:"1783973665" project:"travel" status:"completed" uuid:"dcc3574a-3deb-4a4d-af28-357845f87ddc"]
+---
+time 1783973683
+old [description:"onhold Linux on newest chromebook" entry:"1774780900" modified:"1774780964" project:"onhold" status:"pending" uuid:"94c02085-080c-490b-95b1-4bee3497f9e0"]
+new [description:"onhold Linux on newest chromebook" end:"1783973683" entry:"1774780900" modified:"1783973683" project:"onhold" status:"completed" uuid:"94c02085-080c-490b-95b1-4bee3497f9e0"]
+=======
+time 1784030604
+old [description:"apply for electronic visa for UK" entry:"1780438799" modified:"1780438799" project:"travel" status:"pending" uuid:"dcc3574a-3deb-4a4d-af28-357845f87ddc"]
+new [description:"apply for electronic visa for UK" end:"1784030604" entry:"1780438799" modified:"1784030604" project:"travel" status:"completed" uuid:"dcc3574a-3deb-4a4d-af28-357845f87ddc"]
+>>>>>>> 10e104a532af0801d67a902aa240912318931c1c
 ---

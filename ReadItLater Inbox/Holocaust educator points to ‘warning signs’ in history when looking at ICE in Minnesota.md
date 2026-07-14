@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Holocaust educator points to ‘warning signs’ in history when looking at ICE in Minnesota](https://www.mprnews.org/story/2026/01/22/holocaust-educator-minnesota-trump-administration-ice-gestapo-nazi-germany)

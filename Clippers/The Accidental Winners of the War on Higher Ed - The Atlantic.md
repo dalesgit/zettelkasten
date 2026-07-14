@@ -3,6 +3,7 @@ created: 2026-01-29T17:06:51 (UTC -05:00)
 tags: []
 source: https://www.theatlantic.com/technology/2026/01/liberal-arts-college-war-higher-ed/685800/
 author: Ian Bogost
+_organized: true
 ---
 
 # The Accidental Winners of the War on Higher Ed - The Atlantic

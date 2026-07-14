@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies](https://www.nytimes.com/2025/12/07/us/politics/supreme-court-trump-independent-agencies.html?smid=nytcore-ios-share)

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [3 Folk Ballads That’ll Put a Tear in Your Eye and Pain in Your Heart](https://americansongwriter.com/3-folk-ballads-thatll-put-a-tear-in-your-eye-and-pain-in-your-heart/)

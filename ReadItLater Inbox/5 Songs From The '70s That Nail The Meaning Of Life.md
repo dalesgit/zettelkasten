@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [5 Songs From The '70s That Nail The Meaning Of Life](https://www.grunge.com/2052090/songs-70s-nail-meaning-of-life/)

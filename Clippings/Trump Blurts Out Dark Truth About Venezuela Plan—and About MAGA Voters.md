@@ -8,6 +8,7 @@ created: 2026-01-07
 description: "To some critics, it’s about plunder. To others, it’s about hemispheric hegemony. Actually, it’s about both."
 tags:
   - "clippings"
+_organized: true
 ---
 Trump Blurts Out Dark Truth About Venezuela Plan—and About MAGA Voters | The New Republic
 

@@ -7,6 +7,7 @@ author: By
 
 
 Published on July 2, 2025
+_organized: true
 ---
 
 # 6 Things to Avoid After 5 P.M. for Better Blood Sugar Control

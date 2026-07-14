@@ -4,6 +4,7 @@ tags:
   - violence
   - guns
   - division
+_organized: true
 ---
 
 [[ReadItLater]] [[Article]]

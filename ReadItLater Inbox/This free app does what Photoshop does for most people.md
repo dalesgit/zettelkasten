@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [This free app does what Photoshop does for most people](https://www.makeuseof.com/this-free-app-does-what-photoshop-does-for-most-people/)

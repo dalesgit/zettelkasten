@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 # Raisins with almonds
 ## Part I 
 - **Isaac Bashevis Singer**: *"The Talmud is an ocean … "* as expressed in a 1964 WFMT/Studs Terkel interview.

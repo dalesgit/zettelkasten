@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 
 [[prayers-at-PofP (Rite 2)]] 
 [[Offertory Sentences (Rite 1)]]

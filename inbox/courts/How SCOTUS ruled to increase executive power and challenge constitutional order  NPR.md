@@ -3,6 +3,7 @@ created: 2025-07-11T05:52:19 (UTC -04:00)
 tags: []
 source: https://www.npr.org/2025/07/10/nx-s1-5463516/how-scotus-ruled-to-increase-executive-power-and-challenge-constitutional-order
 author: Terry Gross
+_organized: true
 ---
 
 # How SCOTUS ruled to increase executive power and challenge constitutional order : NPR

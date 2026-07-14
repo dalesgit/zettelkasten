@@ -3,6 +3,7 @@ tags:
   - nazi
   - history
   - Ur-Fascism
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 

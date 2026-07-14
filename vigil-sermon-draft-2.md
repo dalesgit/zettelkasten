@@ -3,6 +3,7 @@ title: Easter Vigil Sermon Draft 2
 author: DCH
 date: April 2026
 _width: wide
+_organized: true
 ---
 
 ## Introduction

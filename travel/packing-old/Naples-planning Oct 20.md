@@ -1,6 +1,7 @@
 ---
 tags:
   - travel
+_organized: true
 ---
 #travel 
 

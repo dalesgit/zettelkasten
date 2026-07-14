@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [If you want your 70s to feel fulfilling and joyful, psychology says to focus on these 6 daily choices](https://vegoutmag.com/lifestyle/k-lc-if-you-want-your-70s-to-feel-fulfilling-and-joyful-psychology-says-to-focus-on-these-6-daily-choices/)

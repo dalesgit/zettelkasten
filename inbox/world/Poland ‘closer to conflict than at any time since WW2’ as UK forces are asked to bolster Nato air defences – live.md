@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Poland ‘closer to conflict than at any time since WW2’ as UK forces are asked to bolster Nato air defences – live](https://www.theguardian.com/world/live/2025/sep/10/poland-pm-condemns-repeated-violation-of-airspace-amid-russian-attack-on-ukraine-follow-live)

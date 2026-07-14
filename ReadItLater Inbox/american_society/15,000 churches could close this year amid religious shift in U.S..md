@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [15,000 churches could close this year amid religious shift in U.S.](https://www.axios.com/2025/10/03/us-churches-close-religious-shift-christians)

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ### Psalm 138
 
 Confitebor tibi

@@ -7,6 +7,7 @@ author: By
 
 
 Updated on January 5, 2026
+_organized: true
 ---
 
 # Why You Should Make a Pot of Soup Every Week

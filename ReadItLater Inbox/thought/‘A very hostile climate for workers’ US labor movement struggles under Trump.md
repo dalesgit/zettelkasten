@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [‘A very hostile climate for workers’: US labor movement struggles under Trump](https://www.theguardian.com/us-news/2025/dec/14/labor-movement-union-trump-nlrb)

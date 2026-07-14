@@ -2,6 +2,7 @@
 created: 2025-09-28T06:23:21
 source: https://www.theatlantic.com/podcasts/archive/2025/09/the-david-frum-show-geoffrey-kabaservice-political-violence/684354/
 author: David Frum
+_organized: true
 ---
 
 # The David Frum Show: Why Assassinations Shaped the 1960s and Haunt Us Again

@@ -1,5 +1,6 @@
 ---
 link: "https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/?utm_source=feed"
+_organized: true
 ---
 # [AI and the Rise of Techno-Fascism in the United States - The AtlanticThe Atlantic](https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/?utm_source=feed)
 *Subscribe here: [Apple Podcasts](https://podcasts.apple.com/us/podcast/autocracy-in-america/id1763234285) | [Spotify](https://open.spotify.com/show/0ujIGO5bvCO6NkevvgsWTL) | [YouTube](https://www.youtube.com/@TheAtlantic/podcasts) | [Overcast](https://pod.link/1763234285.overcast) | [Pocket Casts](https://pca.st/podcast/43d80380-3e01-013d-e863-02cacb2c6223)*

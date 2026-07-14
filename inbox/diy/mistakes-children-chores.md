@@ -2,6 +2,7 @@
 created: 2025-07-27T07:24:06
 source: https://www.theatlantic.com/family/archive/2025/07/children-parents-housework-chores/683606/?utm_campaign=one-story-to-read-today&utm_content=20250721&utm_source=newsletter&utm_medium=email&utm_term=One+Story+to+Read+Today
 author: Christine Carrig
+_organized: true
 ---
 
 # The Mistake Parents Make With Chores

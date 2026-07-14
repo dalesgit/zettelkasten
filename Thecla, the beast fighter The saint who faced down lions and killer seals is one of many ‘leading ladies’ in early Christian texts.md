@@ -3,6 +3,7 @@ created: 2026-01-18T07:09:30 (UTC -05:00)
 tags: []
 source: https://theconversation.com/thecla-the-beast-fighter-the-saint-who-faced-down-lions-and-killer-seals-is-one-of-many-leading-ladies-in-early-christian-texts-270346
 author: Christy Cobb
+_organized: true
 ---
 
 # Thecla, the beast fighter: The saint who faced down lions and killer seals is one of many ‘leading ladies’ in early Christian texts

@@ -2,6 +2,7 @@
 created: 2025-07-11T12:29:42
 source: https://www.theatlantic.com/ideas/archive/2025/07/trump-administration-supporters-good/683441/?utm_medium=cr&utm_source=email&utm_campaign=07_10_2025_tta_david_brooks_on_trump_acquisition_engaged_prospects_large_subject_line_preview_text_10_10_80_winner&utm_content=Final&utm_term=prospects_90_day_engagement
 author: David Brooks
+_organized: true
 ---
 
 # Why Do So Many People Think Trump Is Good?

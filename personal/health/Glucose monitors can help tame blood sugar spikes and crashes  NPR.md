@@ -5,6 +5,7 @@ tags:
   - diabetes
 source: https://www.npr.org/2025/07/03/nx-s1-5448849/glucose-blood-sugar-diet-weight-loss
 author: Michaeleen Doucleff
+_organized: true
 ---
 
 # Glucose monitors can help tame blood sugar spikes and crashes : NPR

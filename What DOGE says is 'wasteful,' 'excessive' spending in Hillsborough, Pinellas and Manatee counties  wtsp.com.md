@@ -3,6 +3,7 @@ created: 2026-01-29T06:50:01 (UTC -05:00)
 tags: []
 source: https://www.wtsp.com/article/news/local/florida-doge-report-hillsborough-manatee-pinellas-counties-wasteful-spending/67-ee0a5ebc-9db7-46aa-935e-a97d90a4f505
 author: S.G. de León y León
+_organized: true
 ---
 
 

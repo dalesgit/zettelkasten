@@ -2,6 +2,7 @@
 tags:
   - college
   - autocracy
+_organized: true
 ---
 ---
 created: 2025-09-03T09:49:52

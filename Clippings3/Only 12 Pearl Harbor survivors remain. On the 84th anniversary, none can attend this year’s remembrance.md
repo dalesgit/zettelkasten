@@ -8,6 +8,7 @@ created: 2025-12-07
 description: "Survivors of the 1941 Japanese bombing of Pearl Harbor have long been the center of a remembrance ceremony held each year on the military base’s waterfront."
 tags:
   - "clippings"
+_organized: true
 ---
 ![The USS Arizona Memorial is seen during a ceremony to mark the 82nd anniversary of the Japanese attack on Pearl Harbor in Hawaii on December 7, 2023.](https://media.cnn.com/api/v1/images/stellar/prod/ap23341631577849.jpg?c=original&q=w_680)
 

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [‘There is a sense of things careening towards a head’: TS Eliot prize winner Karen Solie](https://www.theguardian.com/books/2026/jan/21/there-is-a-sense-of-things-careening-towards-a-head-ts-eliot-prize-winner-karen-solie)

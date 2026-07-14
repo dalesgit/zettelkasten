@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Risking the Questions Podcast](https://www.joanchittister.org/pages/risking-the-questions-podcast?mc_cid=01c8a316f9)

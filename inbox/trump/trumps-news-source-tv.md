@@ -2,6 +2,7 @@
 created: 2025-07-29T07:27:02
 source: https://www.theatlantic.com/newsletters/archive/2025/07/how-tv-warps-trumps-worldview/683689/
 author: David A. Graham
+_organized: true
 ---
 
 # How TV Warps Trump’s Worldview

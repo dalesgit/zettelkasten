@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Why is China setting up a nature reserve in one of the world’s most contested waterways? | CNN](https://www.cnn.com/2025/09/11/asia/china-nature-reserve-south-china-sea-intl-hnk)

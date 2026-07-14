@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 # /dev/nome0n1 -GParted from mxlinux installation
 
 ## fedora

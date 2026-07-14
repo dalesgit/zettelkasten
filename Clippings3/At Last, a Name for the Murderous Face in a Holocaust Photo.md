@@ -8,6 +8,7 @@ created: 2025-12-01
 description: "With the help of A.I., a historian has identified the killer in a 1941 image that defined the savagery of the Nazi regime."
 tags:
   - "clippings"
+_organized: true
 ---
 pOne man kneels at the edge of a pit filled with bodies. He knows that, within moments, he will be dead. His drawn face burns with defiance. Behind him stands a uniformed, bespectacled Nazi soldier. In his extended right arm, the soldier holds a pistol, just inches from his victim’s skull. A crowd of other Germans stands watching, curious but undisturbed.
 

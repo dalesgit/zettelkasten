@@ -3,6 +3,7 @@ created: 2025-07-10T08:27:49 (UTC -04:00)
 tags: []
 source: https://contrarian.substack.com/p/a-warning-bell-for-all-women-in-america?utm_source=substack&utm_medium=email
 author: The Contrarian
+_organized: true
 ---
 
 # A warning bell for all women in America - The Contrarian

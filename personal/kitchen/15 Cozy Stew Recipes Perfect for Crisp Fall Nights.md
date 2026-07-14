@@ -8,6 +8,7 @@ created: 2025-10-18
 description: These cozy, top-rated stew recipes are perfect for fall. They're packed with hearty ingredients, rich flavor, and slow-simmered comfort you’ll crave all season.
 tags:
   - recipes
+_organized: true
 ---
 Credit:
 

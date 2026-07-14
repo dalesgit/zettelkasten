@@ -1,3 +1,6 @@
+---
+_organized: true
+---
  [[ReadItLater]] [[Article]]
 
 # [After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr | CNN](https://www.cnn.com/2025/09/15/us/conservative-evangelical-leaders-charlie-kirk)

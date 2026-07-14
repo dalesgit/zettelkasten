@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Filename: 06-29-2026.md
 
 # Daily Journal - 

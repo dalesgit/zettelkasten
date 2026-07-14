@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## Eucharistic Prayer 2
 
 _Celebrant The Lord be with you._\

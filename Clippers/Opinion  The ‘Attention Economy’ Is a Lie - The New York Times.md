@@ -3,6 +3,7 @@ created: 2026-01-10T22:17:00 (UTC -07:00)
 tags: []
 source: https://www.nytimes.com/2026/01/10/opinion/attention-world-war-2-technology-nazis.html
 author: D. Graham Burnett, Alyssa Loh, Peter Schmidt
+_organized: true
 ---
 
 # Opinion | The ‘Attention Economy’ Is a Lie - The New York Times

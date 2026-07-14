@@ -8,6 +8,7 @@ created: 2025-12-07
 description: "President Trump is shifting from discussion of the long-lasting competition among the world’s biggest economies and nuclear powers."
 tags:
   - "clippings"
+_organized: true
 ---
 The last time President Trump issued a national security strategy, eight years ago, it heralded a return to superpower competition, describing China and Russia as “revisionist” powers seeking to upend American dominance around the world.
 

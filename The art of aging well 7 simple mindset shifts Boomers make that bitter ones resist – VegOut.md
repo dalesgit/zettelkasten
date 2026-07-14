@@ -3,6 +3,7 @@ created: 2026-01-18T07:21:18 (UTC -05:00)
 tags: []
 source: https://vegoutmag.com/lifestyle/z-bt-the-art-of-aging-well-7-simple-mindset-shifts-boomers-make-that-bitter-ones-resist/
 author: Jordan Cooper
+_organized: true
 ---
 
 # The art of aging well: 7 simple mindset shifts Boomers make that bitter ones resist – VegOut

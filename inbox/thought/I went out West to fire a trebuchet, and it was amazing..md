@@ -3,6 +3,7 @@ created: 2025-07-08T08:11:01 (UTC -04:00)
 tags: []
 source: https://slate.com/news-and-politics/2025/07/trebuchet-catapult-meaning-difference-define-work.html
 author: Sam Kean
+_organized: true
 ---
 
 # I went out West to fire a trebuchet, and it was amazing.

@@ -3,6 +3,7 @@ created: 2026-01-21T17:08:36 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/21/opinion/trump-norway-letter.html
 author: Jamelle Bouie
+_organized: true
 ---
 
 # Opinion | Trump’s Norway Letter Proves This Isn’t Sustainable - The New York Times

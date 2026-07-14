@@ -2,6 +2,7 @@
 created: 2025-07-07T08:22:53
 source: https://www.theatlantic.com/health/archive/2025/07/rfk-jr-autism-insar/683438/
 author: John Donvan, Caren Zucker
+_organized: true
 ---
 
 # Scientists Are Afraid of What RFK Jr. Means for Autism

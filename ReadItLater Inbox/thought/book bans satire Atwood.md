@@ -6,6 +6,7 @@ tags:
   - bans
 source: https://www.theguardian.com/world/2025/sep/02/margaret-atwood-alberta-canada-book-ban
 author: Leyland Cecco
+_organized: true
 ---
 
 # Margaret Atwood releases satirical short story critiquing book bans in Canada | Canada | The Guardian

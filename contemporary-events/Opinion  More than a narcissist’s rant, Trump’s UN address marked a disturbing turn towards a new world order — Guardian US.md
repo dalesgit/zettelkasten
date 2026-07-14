@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Opinion | More than a narcissist’s rant, Trump’s UN address marked a disturbing turn towards a new world order — Guardian US](https://apple.news/AozhcEGswRcmttfl6h9Y3iA)

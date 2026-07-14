@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Sermon re temptation lent 1
 
 Peter focused on synoptic wilderness narrative. 3 different ways Holly spirit worked. Led. Driven. Full of HS. 

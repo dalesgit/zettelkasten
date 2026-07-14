@@ -2,6 +2,7 @@
 created: 2025-07-08T01:51:35
 source: https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/?utm_medium=cr&utm_source=email&utm_campaign=07_03_2025_tta_malaysia_airlines_acquisition_prospects_large_cta_header_vs_footer_20_20_60_a&utm_content=A&utm_term=Prospects
 author: William Langewiesche
+_organized: true
 ---
 
 # Malaysia Airlines Flight MH370: Where Is It?

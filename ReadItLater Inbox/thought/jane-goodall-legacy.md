@@ -4,6 +4,7 @@ tags:
   - science
   - women
   - primates
+_organized: true
 ---
 - # [Jane Goodall’s legacy: three ways she changed scienceClose bannerClose banner](https://www.nature.com/articles/d41586-025-03209-y)
 Jane Goodall, a British primatologist known for her work with chimpanzees, died on Wednesday 1 October, aged 91. She was in California on a speaking tour and died of natural causes, according to the Jane Goodall Institute.

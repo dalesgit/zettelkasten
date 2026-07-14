@@ -10,6 +10,7 @@ tags:
   - personality
 source: https://www.yourtango.com/self/little-things-classy-people-have-homes-no-matter-how-much-money-make
 author: Zayda Slabbekoorn
+_organized: true
 ---
 
 # 11 Little Things Classy People Have In Their Homes, No Matter How Much Money They Make | YourTango

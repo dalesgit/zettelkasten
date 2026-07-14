@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Alright, let’s be real. There will always be a hater out there when it comes to literally _anything_. Even the greatest songs and musicians on the planet are hated by at least one person with a chip on their shoulder. Still… I really can’t imagine anyone hating the following four songs. Each one is special in its own way, and some of them remain legendary tracks in the modern age. Let’s take a look at a few hit songs that I can’t imagine anyone hating!
 
 ### “Bohemian Rhapsody” by Queen

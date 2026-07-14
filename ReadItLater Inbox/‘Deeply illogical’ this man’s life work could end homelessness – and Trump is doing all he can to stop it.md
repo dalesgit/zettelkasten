@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [‘Deeply illogical’: this man’s life work could end homelessness – and Trump is doing all he can to stop it](https://www.theguardian.com/society/ng-interactive/2026/feb/12/sam-tsemberis-homelessness?CMP=Share_iOSApp_Other)

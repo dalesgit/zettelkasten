@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [‘I ain’t goin nowhere’: Gullah Geechee people fight off developers with a historic referendum](https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum)

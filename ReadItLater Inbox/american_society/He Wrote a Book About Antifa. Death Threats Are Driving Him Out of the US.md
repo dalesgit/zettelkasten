@@ -3,6 +3,7 @@ tags:
   - Antifa
   - threat
   - police-state
+_organized: true
 ---
 #[[ReadItLater]] [[Article]]
 

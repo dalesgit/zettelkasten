@@ -6,6 +6,7 @@ tags:
   - obsidian
 source: https://forum.obsidian.md/t/configuring-the-web-clipper-markdownload-for-a-seamless-workflow-with-obsidian/62441
 author:
+_organized: true
 ---
 
 # Configuring the Web Clipper MarkDownload for a seamless workflow with Obsidian - Share & showcase - Obsidian Forum

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [The best meditation apps to quit doomscrolling and find peace instead](https://www.theguardian.com/thefilter-us/2025/nov/03/best-meditation-apps)

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## Week of Jan 25
 
 - Planning session for Poetry. Peter seeing me as leader? If we had met earlier.

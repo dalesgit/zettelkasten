@@ -4,6 +4,7 @@ tags:
   - liberation
 source: https://mail.google.com/mail/u/0/
 author:
+_organized: true
 ---
 
 # Fwd: Richard Rohr’s Daily Meditation: A Leading Voice for Liberation - dhath12@gmail.com - Gmail

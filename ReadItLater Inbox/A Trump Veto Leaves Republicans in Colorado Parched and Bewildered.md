@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [A Trump Veto Leaves Republicans in Colorado Parched and Bewildered](https://www.nytimes.com/2026/01/17/us/politics/colorado-water-trump-veto.html)

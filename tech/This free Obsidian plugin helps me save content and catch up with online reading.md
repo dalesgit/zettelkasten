@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [This free Obsidian plugin helps me save content and catch up with online reading](https://www.xda-developers.com/free-obsidian-plugin-to-read-it-later/)

@@ -3,6 +3,7 @@ created: 2026-01-11T07:56:57 (UTC -07:00)
 tags: []
 source: https://mail.google.com/mail/u/0/
 author: 
+_organized: true
 ---
 
 # Fwd: Saturday Morning Covfefe: 5 Things That Explain This Moment - dhath12@gmail.com - Gmail

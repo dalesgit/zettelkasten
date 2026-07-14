@@ -6,6 +6,7 @@ files:
 share.uri: "https://github.com/joekrill/silverbullet-treeview/blob/main/PLUG.md"
 share.hash: 07f5ccca
 share.mode: pull
+_organized: true
 ---
 # SilverBullet TreeView plug
 

@@ -3,6 +3,7 @@ created: 2025-07-26T23:19:19 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/22/world/europe/fiona-hill-trump-russia-uk-defense.html
 author: Mark Landler
+_organized: true
 ---
 
 # Fiona Hill on Trump, Putin and Why Great Powers Fall - The New York Times

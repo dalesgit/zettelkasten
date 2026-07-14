@@ -9,6 +9,7 @@ description: Reviewers love this pair of insanely highly-rated walking sticks.
 tags:
   - exercise
   - walking
+_organized: true
 ---
 *The experts consulted for this story do not necessarily endorse the products ahead unless otherwise noted.*
 

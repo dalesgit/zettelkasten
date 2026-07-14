@@ -8,6 +8,7 @@ created: 2025-11-12
 description: "The U.S. Mint has ended production of the penny, a change made to save money and in recognition of the growing irrelevance of the 1-cent coin."
 tags:
   - "clippings"
+_organized: true
 ---
 PHILADELPHIA (AP) — The U.S. Mint on Wednesday ended production of the , a change made to save money and because the 1-cent coin that could once buy a snack or a piece of candy had become increasingly irrelevant.
 

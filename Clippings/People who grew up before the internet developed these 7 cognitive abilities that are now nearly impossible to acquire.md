@@ -8,6 +8,7 @@ created: 2026-01-01
 description: "Those who came of age in the analog era developed mental muscles for deep focus, patient thinking, and navigating uncertainty that our always-connected world has made nearly extinct—abilities that now seem like cognitive superpowers in an age of endless distraction."
 tags:
   - "clippings"
+_organized: true
 ---
 Those who came of age in the analog era developed mental muscles for deep focus, patient thinking, and navigating uncertainty that our always-connected world has made nearly extinct—abilities that now seem like cognitive superpowers in an age of endless distraction.
 

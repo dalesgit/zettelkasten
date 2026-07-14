@@ -3,6 +3,7 @@ created: 2026-01-11T10:39:42 (UTC -07:00)
 tags: []
 source: https://mail.google.com/mail/u/0/
 author: 
+_organized: true
 ---
 
 # "how often and how well" - dhath12@gmail.com - Gmail

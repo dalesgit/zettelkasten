@@ -3,6 +3,7 @@ created: 2025-12-18T06:33:46 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2025/12/17/travel/camping-on-a-budget-hawaii-trip.html
 author: Elaine Glusac, Michelle Mishina Kunz
+_organized: true
 ---
 
 # Exploring Hawaii’s Big Island on a Budget - The New York Times

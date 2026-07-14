@@ -3,6 +3,7 @@ created: 2025-07-12T07:28:39 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/10/opinion/scopes-monkey-trial-democrats.html
 author: Michael Kazin
+_organized: true
 ---
 
 # Opinion | This ‘Trial of the Century’ Is 100. Its Lessons Could Save the Democrats. - The New York Times

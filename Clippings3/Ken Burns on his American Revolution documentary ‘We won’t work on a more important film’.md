@@ -8,6 +8,7 @@ created: 2025-11-20
 description: "The acclaimed documentarian’s latest epic series has been in the works for a decade and features A-list contributions from Meryl Streep to Tom Hanks"
 tags:
   - "clippings"
+_organized: true
 ---
 ![Ken Burns speaks during a press conference](https://i.guim.co.uk/img/media/84abada2f254aa8639519437c9bc2accbc85cf04/1018_0_5600_4480/master/5600.jpg?width=620&dpr=2&s=none&crop=none)
 

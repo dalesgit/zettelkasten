@@ -3,6 +3,7 @@ created: 2025-07-25T08:29:20 (UTC -04:00)
 tags: []
 source: https://www.npr.org/2025/07/25/nx-s1-5479144/trump-epstein-files-politics-maga
 author: Domenico Montanaro
+_organized: true
 ---
 
 # Why Trump has struggled to deal with the Epstein files : NPR

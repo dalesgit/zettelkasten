@@ -7,6 +7,7 @@ author: By
 
 
 Published on July 24, 2025
+_organized: true
 ---
 
 # The 5-Ingredient Dinner I Have On Repeat This Summer

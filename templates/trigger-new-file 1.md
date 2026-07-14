@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 <%*
   let title = tp.file.title;
   if (title.startsWith("Untitled")) {

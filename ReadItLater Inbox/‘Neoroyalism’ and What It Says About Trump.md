@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [‘Neoroyalism’ and What It Says About Trump](https://www.nytimes.com/2026/02/04/business/economy/trump-history-newroyalism.html?smid=nytcore-ios-share)

@@ -1,6 +1,7 @@
 ---
 tags:
   - letting_go
+_organized: true
 ---
 ## Give us this day
 **The Light of the Cross**

@@ -3,6 +3,7 @@ created: 2026-01-12T07:47:00 (UTC -07:00)
 tags: []
 source: https://www.nytimes.com/2026/01/12/opinion/marie-gluesenkamp-perez.html
 author: James Pogue
+_organized: true
 ---
 
 # Opinion | This Rural Congresswoman Thinks Democrats Have Lost Their Minds. She Has a Point. - The New York Times

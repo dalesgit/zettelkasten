@@ -12,6 +12,7 @@ tags:
   - supreme-court
   - law
   - rule-of-law
+_organized: true
 ---
 [Politics](https://www.cbc.ca/news/politics)
 

@@ -3,6 +3,7 @@ created: 2025-07-06T07:30:19 (UTC -04:00)
 tags: []
 source: https://www.earth.com/news/japanese-interval-walking-training-technique-iwt-improves-health-prevents-disease/
 author: ByJordan JosephEarth.com staff writer
+_organized: true
 ---
 
 # Japanese walking technique improves health and prevents disease - Earth.com

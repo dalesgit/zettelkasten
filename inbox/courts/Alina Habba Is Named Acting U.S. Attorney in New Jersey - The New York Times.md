@@ -3,6 +3,7 @@ created: 2025-07-28T07:39:11 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/24/nyregion/alina-habba-desiree-grace-new-jersey-us-attorney.html
 author: Tracey Tully, Jonah E. Bromwich
+_organized: true
 ---
 
 # Alina Habba Is Named Acting U.S. Attorney in New Jersey - The New York Times

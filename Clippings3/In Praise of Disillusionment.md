@@ -10,6 +10,7 @@ tags:
   - commitment
   - illusions
   - hope
+_organized: true
 ---
 ### When illusions fail, we come closer to reality, where we are called to act with hope...
 

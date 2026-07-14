@@ -8,6 +8,7 @@ created: 2026-01-05
 description: "Executives debated whether to allow the corporation to lie dormant after federal funding ended last year, but decided against it."
 tags:
   - "clippings"
+_organized: true
 ---
 The Corporation for Public Broadcasting, which funded NPR, PBS and hundreds of local radio and TV stations across the United States for more than a half-century, said on Monday that its board of directors had voted to dissolve the organization because Congress cut off its federal money.
 

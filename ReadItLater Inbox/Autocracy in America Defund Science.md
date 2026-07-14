@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Autocracy in America: Defund Science](https://www.theatlantic.com/podcasts/2026/01/reality-reshaped/685289/)

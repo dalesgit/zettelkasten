@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)

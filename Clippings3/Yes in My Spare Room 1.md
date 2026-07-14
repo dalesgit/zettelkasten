@@ -17,6 +17,7 @@ description: What would a truly Christian response to America’s housing shorta
 published: 2025-11-30
 source: https://www.plough.com/en/topics/community/yes-in-my-spare-room?utm_source=Plough+-+English&utm_campaign=38968ead18-WEEKLY_2025_11_22&utm_medium=email&utm_term=0_-150a330f40-295682545
 title: Yes in My Spare Room
+_organized: true
 ---
 bounce on a knee, a landing place in a tender and tumultuous time. 
 

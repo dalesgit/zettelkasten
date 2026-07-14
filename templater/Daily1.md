@@ -13,6 +13,7 @@ meditation:
 exercise: 
 study:
 stretch: 
+_organized: true
 ---
 <%*
 await tp.file.move(`Journal/Daily/${tp.file.title}`);

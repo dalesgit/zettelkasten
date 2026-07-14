@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 The good news is that God is out there
 
 The good news is that God is out there. God is with us waiting to be heard. 

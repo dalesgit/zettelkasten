@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ### Genesis 18:20-32
 [[Colossians 2.6-15, (16-19)]]
 [[Luke 11.1-13]]

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [The Guardian view on Ukraine peace talks: Putin is taking Trump for another ride on the Kremlin carousel | Editorial](https://www.theguardian.com/commentisfree/2025/nov/28/the-guardian-view-on-ukraine-peace-talks-putin-is-taking-trump-for-another-ride-on-the-kremlin-carousel?CMP=Share_iOSApp_Other)

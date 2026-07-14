@@ -3,6 +3,7 @@ created: 2026-01-29T06:58:21 (UTC -05:00)
 tags: []
 source: https://www.bgr.com/2082277/costco-trade-in-program-old-electronics/
 author: Jonathan Sayers
+_organized: true
 ---
 
 # Do You Have Old Electronics Lying Around? Costco Will Trade You For Them

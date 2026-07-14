@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Researchers across the globe put on their sleuthing hats this year to provide answers to questions that have lingered from decades to centuries. The thought-provoking findings offer new ways of understanding the past.
 
 Archaeological exploration of historic sites yielded fresh insights. An analysis of a [quarry containing unfinished statues](https://www.cnn.com/2025/11/26/science/easter-island-stone-statues-rapa-nui) showed how wayfaring Polynesians created the massive stone heads found across [Rapa Nui](https://www.cnn.com/travel/article/easter-island-things-to-do), or Easter Island.

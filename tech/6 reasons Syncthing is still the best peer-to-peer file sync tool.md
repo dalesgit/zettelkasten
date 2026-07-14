@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [6 reasons Syncthing is still the best peer-to-peer file sync tool](https://www.xda-developers.com/reasons-syncthing-best-peer-to-peer-file-sync-tool/)

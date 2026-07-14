@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [4 Unforgettable Closing Songs From Standout Classic Rock Albums of the 70s](https://americansongwriter.com/4-unforgettable-closing-songs-from-standout-classic-rock-albums-of-the-70s/)

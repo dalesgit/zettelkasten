@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [This Obsidian plugin can literally replace a dozen others](https://www.xda-developers.com/this-obsidian-plugin-can-literally-replace-a-dozen-others/)

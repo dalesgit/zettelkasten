@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Dr. Hamill, page 2
 
 His assistant is named Macy. She was quietly very supportive and informative. She seemed to be interrupting his rambling by focusing on what needed attention on me.

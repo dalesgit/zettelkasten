@@ -10,6 +10,7 @@ created: 2026-06-30
 description: "Colorado, New Mexico, Utah and Wyoming are resisting the deal because it would allow the Navajo and Hopi to lease water to cities downstream, likely the growing towns around Phoenix."
 tags:
   - "clippings"
+_organized: true
 ---
 ### Reporting Highlights
 

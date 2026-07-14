@@ -8,6 +8,7 @@ created: 2025-11-30
 description: "Many of us have done it, but that doesn’t make it right, experts say."
 tags:
   - "clippings"
+_organized: true
 ---
 One night last week, my husband, Tom, and I got into an argument. The next morning, I was still fuming. So I gave him the silent treatment.
 

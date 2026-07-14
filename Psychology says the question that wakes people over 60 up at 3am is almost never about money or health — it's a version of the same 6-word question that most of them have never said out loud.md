@@ -1,1 +1,4 @@
+---
+_organized: true
+---
 [Psychology says the question that wakes people over 60 up at 3am is almost never about money or health — it's a version of the same 6-word question that most of them have never said out loud](https://vegoutmag.com/lifestyle/s-t-psychology-says-the-question-that-wakes-people-over-60-up-at-3am-is-almost-never-about-money-or-health-its-a-version-of-the-same-6-word-question-that-most-of-them-have-never-said-out-aloud/)

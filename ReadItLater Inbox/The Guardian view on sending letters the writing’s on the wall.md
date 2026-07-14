@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [The Guardian view on sending letters: the writing’s on the wall](https://www.theguardian.com/commentisfree/2025/dec/22/the-guardian-view-on-sending-letters-writings-on-the-wall)

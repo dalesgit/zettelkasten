@@ -2,6 +2,7 @@
 tags:
   - social-norms
   - europe
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 

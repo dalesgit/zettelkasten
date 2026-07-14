@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [How Amazon turned our capitalist era of free markets into the age of technofeudalism | Yanis Varoufakis](https://www.theguardian.com/commentisfree/2025/nov/27/amazon-capitalist-era-free-markets-age-technofeudalism?CMP=Share_iOSApp_Other)

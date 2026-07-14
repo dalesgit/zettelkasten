@@ -3,6 +3,7 @@ created: 2025-07-19T08:25:37 (UTC -04:00)
 tags: []
 source: https://newrepublic.com/article/198120/stephen-colbert-cancellation-ellison-trump
 author: Parker Molloy
+_organized: true
 ---
 
 # Stephen Colbert’s Cancellation Is Exactly What It Looks Like | The New Republic

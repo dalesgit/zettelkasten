@@ -3,6 +3,7 @@ created: 2025-12-12T09:40:56 (UTC -05:00)
 tags: []
 source: https://www.lectionarypage.net/YearA_RCL/Advent/AAdv4_RCL.html
 author: 
+_organized: true
 ---
 
 # Advent 4, Year A

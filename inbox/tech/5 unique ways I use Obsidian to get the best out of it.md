@@ -3,6 +3,7 @@ created: 2025-07-19T07:47:45 (UTC -04:00)
 tags: []
 source: https://www.xda-developers.com/unique-ways-use-obsidian/
 author: Parth Shah
+_organized: true
 ---
 
 # 5 unique ways I use Obsidian to get the best out of it

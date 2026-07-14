@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Why one 16th-century theologian’s advice for a bitterly divided nation holds true today](https://theconversation.com/why-one-16th-century-theologians-advice-for-a-bitterly-divided-nation-holds-true-today-266457)

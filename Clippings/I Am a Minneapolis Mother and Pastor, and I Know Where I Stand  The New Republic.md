@@ -3,6 +3,7 @@ created: 2026-01-10T10:10:37 (UTC -07:00)
 tags: []
 source: https://newrepublic.com/article/205114/renee-good-minneapolis-mother-pastor
 author: Angela Denker
+_organized: true
 ---
 
 # I Am a Minneapolis Mother and Pastor, and I Know Where I Stand | The New Republic

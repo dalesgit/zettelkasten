@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Zach Lambert
 
 Using the Bible as a weapon. Against ... 

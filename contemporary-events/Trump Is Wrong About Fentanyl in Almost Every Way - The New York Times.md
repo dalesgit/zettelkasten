@@ -2,6 +2,7 @@
 tags:
   - addiction
   - supply-demand
+_organized: true
 ---
 [[ReadItLater]] [[Textsnippet]]
 

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [How 5 Great Thinkers Found Meaning Through Physical Exercise | TheCollector](https://www.thecollector.com/what-philosophers-say-physical-exercise/)

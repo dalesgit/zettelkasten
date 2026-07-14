@@ -3,6 +3,7 @@ id: ash-wednesday-draft-3
 title: "Ash Wednesday 2026: draft 3"
 aliases: []
 tags: []
+_organized: true
 ---
 
 

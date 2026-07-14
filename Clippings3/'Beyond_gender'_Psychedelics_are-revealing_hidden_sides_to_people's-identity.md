@@ -9,6 +9,7 @@ description: There is growing evidence that mind-altering drugs can be used to h
 tags:
   - psychedelics
   - health
+_organized: true
 ---
 ![Serenity Strull/ Getty Images A man and woman looking away from each other, with splotches of colour emanating from their heads against an orange background (Credit: Serenity Strull/ Getty Images)](https://ichef.bbci.co.uk/images/ic/160xn/p0mmzk3s.jpg.webp)
 

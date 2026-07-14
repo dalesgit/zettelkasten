@@ -1,6 +1,7 @@
 ---
 tags:
   - quote
+_organized: true
 ---
 
 ## Kaʻiulani

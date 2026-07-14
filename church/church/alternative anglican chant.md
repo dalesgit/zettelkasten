@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ```music-abc
 X: 1
 T: Chant 2

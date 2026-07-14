@@ -3,6 +3,7 @@ created: 2025-07-21T06:59:40 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/20/opinion/dictionary-ai-spelling-writing.html
 author: Alessandro Tersigni
+_organized: true
 ---
 
 # Opinion | Dictionaries Are Better Than Artificial Intelligence - The New York Times

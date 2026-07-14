@@ -8,6 +8,7 @@ created: 2026-06-30
 description: "Gboard may be the most popular keyboard on Android, but these five alternatives give you plenty of reasons to switch."
 tags:
   - "clippings"
+_organized: true
 ---
 Gboard isn't the only star.
 

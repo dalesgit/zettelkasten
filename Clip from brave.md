@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Eric Clapton deals with the loss of his child
 6 Comments / Loss of a Child / By Larry Lynn
 ‘I tried to heal myself’: Grieving Eric Clapton, 72, lived as a recluse in Antigua for a year after his son Conor, four, suffered a fatal 53-story fall from New York skyscraper.

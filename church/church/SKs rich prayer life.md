@@ -3,6 +3,7 @@ created: 2025-07-20T17:07:46 (UTC -04:00)
 tags: []
 source: https://www.americamagazine.org/faith/2020/02/28/startling-prayer-life-soren-kierkegaard
 author: Karen Wright MarshFebruary 28, 2020FacebookTwitterEmail
+_organized: true
 ---
 
 # The startling prayer life of Søren Kierkegaard | America Magazine

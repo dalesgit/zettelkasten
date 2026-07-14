@@ -8,6 +8,7 @@ created: 2026-01-04
 description: "Obsidian replaced every read-it-later app I tried. Here's my simple clipping workflow so articles stay clean, searchable, and useful."
 tags:
   - "clippings"
+_organized: true
 ---
 I’ve used just about every “read-it-later” app out there, and none of them stuck. To my surprise, what finally worked wasn’t a read-it-later app at all. It was Obsidian.
 

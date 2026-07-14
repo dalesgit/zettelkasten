@@ -10,6 +10,7 @@ tags:
   - space-time
   - thought
   - philosophy
+_organized: true
 ---
 ![Several circles made of smaller ovals arranged in a grid, in a way that looks like they're slowly rotating. ](https://images.theconversation.com/files/700901/original/file-20251106-56-xbn9nm.jpg?ixlib=rb-4.1.0&rect=0%2C430%2C3630%2C1815&q=75&auto=format&w=1336&h=668&fit=crop&dpr=1)
 

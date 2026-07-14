@@ -5,6 +5,7 @@ author: Alex Bozikovic Architecture Critic
 tags:
   - world
   - museum
+_organized: true
 ---
 
 # In Rotterdam, a new museum opens in a neighbourhood undergoing rebirth

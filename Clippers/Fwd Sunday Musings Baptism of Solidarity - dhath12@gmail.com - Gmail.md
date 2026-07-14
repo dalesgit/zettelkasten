@@ -3,6 +3,7 @@ created: 2026-01-11T07:53:21 (UTC -07:00)
 tags: []
 source: https://mail.google.com/mail/u/0/
 author: 
+_organized: true
 ---
 
 # Fwd: Sunday Musings: Baptism of Solidarity - dhath12@gmail.com - Gmail

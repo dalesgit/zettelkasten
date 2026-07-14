@@ -1,3 +1,6 @@
+---
+_organized: true
+---
  [[ReadItLater]] [[Article]]
 
 # [Trump’s Revolution Has a Martyr | The Tyee](https://thetyee.ca/Analysis/2025/09/18/Trump-Revolution-Has-Martyr/)

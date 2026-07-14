@@ -1,6 +1,7 @@
 ---
 created: <% tp.file.creation_date() %>
 source: https://dannb.org/blog/2022/obsidian-daily-note-template/ & https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/21?u=gibson
+_organized: true
 ---
 notags:: [[+Daily Notes]]
 

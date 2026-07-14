@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Robert Burns and Mary, Queen of Scots: how the poet shaped the enduring cultural legacy of the executed monarch](https://theconversation.com/robert-burns-and-mary-queen-of-scots-how-the-poet-shaped-the-enduring-cultural-legacy-of-the-executed-monarch-273950)

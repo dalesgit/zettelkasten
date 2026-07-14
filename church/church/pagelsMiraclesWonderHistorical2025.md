@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## Miracles and wonder: the historical mystery of Jesus
 
 ### Formatted Bibliography

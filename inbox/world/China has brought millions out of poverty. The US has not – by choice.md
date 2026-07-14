@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [China has brought millions out of poverty. The US has not – by choice](https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality?CMP=Share_iOSApp_Other)

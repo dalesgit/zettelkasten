@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 The sally gardens by wb yeats
 
 **Down by the Salley Gardens** is a poem by Irish literary giant **William Butler Yeats**, first published in 1889 in his collection _The Wanderings of Oisin and Other Poems_. It reflects on lost love and youthful regret, with the speaker recalling a meeting with his beloved in a garden of willow trees--"sally" being an old English word for willow. The poem's central theme is the wisdom of taking love and life gently, as nature unfolds, contrasted with the speaker's youthful impatience.

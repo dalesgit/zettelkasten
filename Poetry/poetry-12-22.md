@@ -2,6 +2,7 @@
 tags:
   - poetry
 created: 2025-12-22 07:06
+_organized: true
 ---
 ## Blessed Among Us
 

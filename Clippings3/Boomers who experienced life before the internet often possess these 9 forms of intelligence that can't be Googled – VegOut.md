@@ -3,6 +3,7 @@ created: 2025-11-16T07:24:25 (UTC -05:00)
 tags: []
 source: https://vegoutmag.com/lifestyle/gen-boomers-who-experienced-life-before-the-internet-often-possess-these-9-forms-of-intelligence-that-cant-be-googled/
 author: Lachlan Brown
+_organized: true
 ---
 
 # Boomers who experienced life before the internet often possess these 9 forms of intelligence that can't be Googled – VegOut

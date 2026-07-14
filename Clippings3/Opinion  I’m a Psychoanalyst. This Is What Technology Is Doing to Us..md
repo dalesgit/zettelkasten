@@ -8,6 +8,7 @@ created: 2025-11-14
 description: "We’ve lost the capacity to feel the grief technology brings."
 tags:
   - "clippings"
+_organized: true
 ---
 For the vast majority of my psychotherapy patients, the gravitational pull of phones and social media alters the most important aspects of who they are, their relationships with others and how they move through the world.
 

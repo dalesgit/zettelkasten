@@ -5,6 +5,7 @@ author:
 tags:
   - reading
   - novels
+_organized: true
 ---
 
 # Novels with a certain structure are more likely to be classics

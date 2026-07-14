@@ -3,6 +3,7 @@ created: 2026-01-09T16:52:21 (UTC -05:00)
 tags: []
 source: https://www.thebulwark.com/p/we-have-king-that-paine-feared-common-sense-no-kings-trump-power
 author: William Kristol, Andrew Egger, Jim Swift
+_organized: true
 ---
 
 # We Have the King That Thomas Paine Feared

@@ -8,6 +8,7 @@ created: 2025-09-12
 description: "Donald Trump claimed they were violent for good reason."
 tags:
   - "clippings"
+_organized: true
 ---
 Trump Gives Mindblowing Defense for Far-Right Radicals | The New Republic
 

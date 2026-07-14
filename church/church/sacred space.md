@@ -1,5 +1,6 @@
 ---
 link: “https://www.noemamag.com/the-vanishing-art-of-building-sacred-spaces/”
+_organized: true
 ---
 https://www.noemamag.com/the-vanishing-art-of-building-sacred-spaces/
 # [Religious Architecture Is Vanishing - NOEMA](https://www.noemamag.com/the-vanishing-art-of-building-sacred-spaces/)

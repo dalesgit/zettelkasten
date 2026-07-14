@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [The Writer Who Dared Criticize Silicon Valley](https://www.nytimes.com/2025/11/27/technology/writer-silicon-valley-criticism.html?smid=nytcore-ios-share)

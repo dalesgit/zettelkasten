@@ -9,6 +9,7 @@ description: Governments shouldn’t hand over decision-making to A.I.
 tags:
   - democracy
   - AI
+_organized: true
 ---
 Albania is the first country to take a real step toward “algocracy”: government by algorithm. In September its prime minister [announced](https://www.bbc.com/news/articles/cm2znzgwj3xo) that all decisions concerning which private suppliers will provide goods and services to Albania’s government — over $1 billion annually — will be made by an A.I. avatar named Diella. Albania has long suffered from corruption, particularly in this realm. The unbiased, competent, algorithmic Diella is thought to be the solution.
 

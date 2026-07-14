@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## Offertory Sentences (Rite 1)
 
 One of the following, or some other appropriate sentence of Scripture,  

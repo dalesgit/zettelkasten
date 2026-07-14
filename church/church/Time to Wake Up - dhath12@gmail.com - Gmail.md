@@ -4,6 +4,7 @@ aliases: []
 tags: []
 created: 2025-11-28T08:14:49 (UTC -05:00)
 source: https://mail.google.com/mail/u/0/
+_organized: true
 ---
 
 # Time to Wake Up - dhath12@gmail.com - Gmail

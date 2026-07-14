@@ -3,6 +3,7 @@ created: 2025-07-21T07:11:42 (UTC -04:00)
 tags: []
 source: https://www.theguardian.com/global-development/2025/jul/16/trust-in-the-us-is-eroding-the-question-isnt-if-the-dollar-will-lose-supremacy-its-when
 author: Kenneth Mohammed
+_organized: true
 ---
 
 # Trust in the US is eroding. The question isn’t if the dollar will lose supremacy – it’s when | Kenneth Mohammed | The Guardian

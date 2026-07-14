@@ -2,6 +2,7 @@
 created: 2025-07-28T07:31:42
 source: https://slate.com/technology/2025/07/ai-artificial-intelligence-peter-thiel-dangerous-marshall-mcluhan.html?pay=1753702278387&support_journalism=please
 author: Nick Ripatrazone
+_organized: true
 ---
 
 # Marshall McLuhan warned us about folks like Peter Thiel. He died in 1980.

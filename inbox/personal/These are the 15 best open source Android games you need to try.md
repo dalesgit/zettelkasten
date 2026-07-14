@@ -3,6 +3,7 @@ created: 2025-07-06T07:38:24 (UTC -04:00)
 tags: []
 source: https://www.androidauthority.com/best-open-source-android-games-3571204/
 author: 
+_organized: true
 ---
 
 # These are the 15 best open source Android games you need to try

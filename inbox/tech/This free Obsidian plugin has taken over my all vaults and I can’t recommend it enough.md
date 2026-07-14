@@ -3,6 +3,7 @@ created: 2025-07-08T08:19:02 (UTC -04:00)
 tags: []
 source: https://www.xda-developers.com/free-obsidian-plugin-taken-over-my-all-vault/
 author: Parth Shah
+_organized: true
 ---
 
 # This free Obsidian plugin has taken over my all vaults and I can’t recommend it enough

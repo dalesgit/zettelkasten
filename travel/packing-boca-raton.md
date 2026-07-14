@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 #packing [[packing checklist]]
 
 ## bicycle -- Bag or box

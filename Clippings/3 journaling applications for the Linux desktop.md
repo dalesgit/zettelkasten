@@ -8,6 +8,7 @@ created: 2026-01-07
 description: "Record your activities with one of these three journaling applications for the Linux desktop."
 tags:
   - "clippings"
+_organized: true
 ---
 ![The Opensource.com preview: April](https://opensource.com/sites/default/files/lead-images/desk_clock_job_work.jpg "The Opensource.com preview: April")
 

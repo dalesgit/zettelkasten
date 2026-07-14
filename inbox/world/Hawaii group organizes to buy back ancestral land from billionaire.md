@@ -2,6 +2,7 @@
 tags:
   - hawaii
   - land
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 

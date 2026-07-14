@@ -2,6 +2,7 @@
 created: 2025-07-08T08:11:22
 source: https://slate.com/news-and-politics/2025/07/supreme-court-term-end-analysis-chuck-schumer.html
 author: Jay Willis
+_organized: true
 ---
 
 # The past four years at the Supreme Court did not need to be this way.

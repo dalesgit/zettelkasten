@@ -3,6 +3,7 @@ created: 2025-07-22T07:00:15 (UTC -04:00)
 tags: []
 source: https://vegoutmag.com/lifestyle/gen-the-dalai-lama-says-people-who-are-truly-happy-usually-practice-these-5-daily-habits/
 author: Lachlan Brown
+_organized: true
 ---
 
 # The Dalai Lama says people who are truly happy usually practice these 5 daily habits – VegOut

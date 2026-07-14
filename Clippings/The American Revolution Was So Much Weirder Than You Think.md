@@ -8,6 +8,7 @@ created: 2026-06-30
 description: "Alongside the Enlightenment reason we associate with the founding there were mystics, occultists, and conspiracy theorists."
 tags:
   - "clippings"
+_organized: true
 ---
 ### Alongside the Enlightenment reason we associate with the founding there were mystics, occultists, and conspiracy theorists.
 

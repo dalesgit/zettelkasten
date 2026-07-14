@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Walking with awareness of my center of gravity. 
 Allowed me to be released the only time I was stopped with alcohol in my breath. 
 Standing on one leg like a stork. 

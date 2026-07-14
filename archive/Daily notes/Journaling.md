@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ![[journal/2025-11-17.md]]
 
 ![[journal/2025-11-16.md]]

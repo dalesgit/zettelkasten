@@ -3,6 +3,7 @@ created: 2025-12-18T06:56:43 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2025/12/17/opinion/republican-identity-divide.html
 author: Vivek Ramaswamy
+_organized: true
 ---
  
 # Opinion | What Is an American? - The New York Times

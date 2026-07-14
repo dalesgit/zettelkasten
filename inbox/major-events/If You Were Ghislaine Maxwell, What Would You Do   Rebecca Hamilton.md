@@ -3,6 +3,7 @@ created: 2025-07-27T16:33:40 (UTC -04:00)
 tags: []
 source: https://www.patheos.com/blogs/publiccatholic/2025/07/if-you-were-ghislaine-maxwell-what-would-you-do/
 author: Public Catholic
+_organized: true
 ---
 
 # If You Were Ghislaine Maxwell, What Would You Do?  | Rebecca Hamilton

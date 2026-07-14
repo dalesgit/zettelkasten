@@ -2,6 +2,7 @@
 id: questionaire-berry
 aliases: []
 tags: []
+_organized: true
 ---
 **Questionnaire**
 _by Wendell Berry_

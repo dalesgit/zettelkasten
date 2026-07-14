@@ -11,6 +11,7 @@ tags:
   - reconciliation
   - liminal
   - space-between
+_organized: true
 ---
 ## A prayer for reconciliation
 

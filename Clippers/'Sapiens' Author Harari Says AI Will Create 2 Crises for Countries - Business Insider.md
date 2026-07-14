@@ -3,6 +3,7 @@ created: 2026-01-21T12:59:34 (UTC -05:00)
 tags: []
 source: https://www.businessinsider.com/sapiens-author-yuval-noah-harari-ai-crises-every-country-2026-1
 author: Charissa Cheong
+_organized: true
 ---
 
 # 'Sapiens' Author Harari Says AI Will Create 2 Crises for Countries - Business Insider

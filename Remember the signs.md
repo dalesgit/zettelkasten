@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Remember the signs
 
 Psalm 73:24 Deuteronomy 6:5-7 John 7:24

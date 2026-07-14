@@ -4,6 +4,7 @@ aliases: []
 tags:
   - preaching
 title: Advent 4 Sermon Draft 1
+_organized: true
 ---
 
 

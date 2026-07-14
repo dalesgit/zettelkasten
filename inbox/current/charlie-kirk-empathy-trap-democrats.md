@@ -2,6 +2,7 @@
 created: 2025-09-12T12:32:12
 source: https://newrepublic.com/article/200327/charlie-kirk-empathy-trap-democrats
 author: Ana Marie Cox
+_organized: true
 ---
 
 # Charlie Kirk and the Empathy Trap

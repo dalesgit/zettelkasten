@@ -3,6 +3,7 @@ creation date:<% tp.file.creation_date() %>
 modification date:<% tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>
 type:#knowledge #todo
 alias:
+_organized: true
 ---
 # <% tp.file.title %>
 [Wikipedia](https://en.wikipedia.org/wiki/<%tp.file.title %><% tp.file.cursor() %>)

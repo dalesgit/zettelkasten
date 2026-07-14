@@ -5,6 +5,7 @@ author: Alexandra Petri
 tags:
   - satire
   - amerika
+_organized: true
 ---
 
 # Apologies: You Have Reached the End of Your Free-Trial Period of America!
