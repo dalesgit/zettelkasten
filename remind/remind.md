@@ -1,6 +1,3 @@
----
-_organized: true
----
 ; blue: rgb(51, 102, 255)
 ; green: rgb(102, 255, 153)
 ; yellow: rgb(255, 255, 0)

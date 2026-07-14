@@ -1,6 +1,3 @@
----
-_organized: true
----
 DO /home/dale/Repositories/zettelkasten/remind/remind-cal.md
 DO /home/dale/Repositories/zettelkasten/remind/remind.md
 DO /home/dale/Repositories/zettelkasten/remind/remind-lit.md

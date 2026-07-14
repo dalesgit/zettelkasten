@@ -1,6 +1,3 @@
----
-_organized: true
----
 SET Week_2 8
 SET Week_3 15
 REM Jan 1 MSG Remind every year on new years day
