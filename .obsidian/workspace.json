@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "badfc3e7418f5eac",
+        "id": "9a966b8265cb1cf4",
         "type": "tabs",
         "children": [
           {
-            "id": "11360c0b28c5d0c2",
+            "id": "04e0a9420b039a3a",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -196,14 +211,13 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "periodic-notes:Open today": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "11360c0b28c5d0c2",
+  "active": "04e0a9420b039a3a",
   "lastOpenFiles": [
-    "vigil-sermon-draft.md",
     "Homepage.md",
+    "vigil-sermon-draft.md",
     "travel/vikings-cruise.md",
     "Clippers/Deep reading can boost your critical thinking and help you resist misinformation – here’s how to build the skill.md",
     "travel/packing checklist.md",
