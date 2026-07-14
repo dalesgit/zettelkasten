@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## The Collect at the Prayers
 
 _For the concluding Collect, the Celebrant selects_

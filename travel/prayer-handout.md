@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## New Zealand Lord's Prayer
 
 Eternal Spirit,  

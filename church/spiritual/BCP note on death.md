@@ -3,6 +3,7 @@ tags:
   - death
   - prayer
   - resurrection
+_organized: true
 ---
 **Note:**
 

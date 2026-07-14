@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 <%*
 await tp.file.move(`Journal/Monthly/${tp.file.title}`);
 

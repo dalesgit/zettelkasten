@@ -4,6 +4,7 @@ tags:
   - Education
 source: https://www.msnbc.com/top-stories/latest/trump-cuts-k12-after-school-programs-funding-rcna216803
 author: July 3, 2025, 2:31 PM EDTBy Ja'han Jones
+_organized: true
 ---
 
 # Trump's latest cuts to K-12 programs are teaching schoolchildren the wrong lesson

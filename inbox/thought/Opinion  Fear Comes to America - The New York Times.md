@@ -3,6 +3,7 @@ created: 2025-07-22T07:56:44 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/21/opinion/trump-fear-pentagon-harvard.html
 author: Frank Kendall
+_organized: true
 ---
 
 # Opinion | Fear Comes to America - The New York Times

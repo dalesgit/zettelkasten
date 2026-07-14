@@ -3,6 +3,7 @@ created: 2025-07-29T18:09:38 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/29/climate/epa-endangerment-finding-repeal-proposal.html
 author: Maxine Joselow, Lisa Friedman
+_organized: true
 ---
 
 # In Game-Changing Climate Rollback, E.P.A. Aims to Kill a Bedrock Scientific Finding - The New York Times

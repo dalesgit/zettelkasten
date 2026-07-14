@@ -3,6 +3,7 @@ created: 2025-11-18T17:50:11 (UTC -05:00)
 tags: []
 source: https://brianmeeker.me/2022/11/25/aggregating-weekly-notes-with-obsidian-and-dataview/
 author: 
+_organized: true
 ---
  
 # Aggregating Weekly Notes With Obsidian and Dataview

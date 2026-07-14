@@ -3,6 +3,7 @@ created: 2025-07-09T05:05:47 (UTC -04:00)
 tags: []
 source: https://www.theguardian.com/us-news/2025/jul/08/pentagon-military-spending
 author: Andrew Roth
+_organized: true
 ---
 
 # Pentagon provided $2.4tn to private arms firms to ‘fund war and weapons’, report finds | US military | The Guardian

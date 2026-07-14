@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Harry Sullivan abishiktananda cf Mike 
 
 Since 1989 intro to centering prayer

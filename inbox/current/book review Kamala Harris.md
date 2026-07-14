@@ -6,6 +6,7 @@ tags:
   - election
 source: https://www.nytimes.com/2025/09/18/books/review/107-days-kamala-harris.html
 author: Jennifer Szalai
+_organized: true
 ---
 
 # Book Review: ‘107 Days,’ by Kamala Harris - The New York Times

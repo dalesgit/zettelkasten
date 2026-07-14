@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [David and Victoria Beckham learned the hard way – modern kids go ‘no contact’ with no guilt or stigma at all | Emma Brockes](https://www.theguardian.com/commentisfree/2026/jan/22/brooklyn-beckhams-feud-parents-child-no-contact)

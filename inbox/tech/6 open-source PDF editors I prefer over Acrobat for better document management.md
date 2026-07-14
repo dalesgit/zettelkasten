@@ -3,6 +3,7 @@ created: 2025-07-28T08:23:02 (UTC -04:00)
 tags: []
 source: https://www.xda-developers.com/open-source-pdf-editors-i-prefer-over-adobe-acrobat/
 author: Ruby Helyer
+_organized: true
 ---
 
 # 6 open-source PDF editors I prefer over Acrobat for better document management

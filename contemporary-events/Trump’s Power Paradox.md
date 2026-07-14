@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Trump’s Power Paradox](https://www.foreignaffairs.com/trumps-power-paradox)

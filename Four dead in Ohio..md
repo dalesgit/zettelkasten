@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## Another death
 
 Four dead in Ohio. \

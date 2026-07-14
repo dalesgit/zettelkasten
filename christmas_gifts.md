@@ -2,6 +2,7 @@
 id: christmas_gifts
 aliases: []
 tags: []
+_organized: true
 ---
 ## 2025
 

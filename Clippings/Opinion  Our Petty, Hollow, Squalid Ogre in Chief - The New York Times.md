@@ -3,6 +3,7 @@ created: 2025-12-17T07:24:30 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2025/12/16/opinion/trump-reiner-death-post-truth-social.html
 author: Bret Stephens
+_organized: true
 ---
   
 # Opinion | Our Petty, Hollow, Squalid Ogre in Chief - The New York Times

@@ -8,6 +8,7 @@ created: 2025-12-05
 description: "In a candid exchange in a YouTube video, Linus Torvalds has noted that he thinks that Elon Musk is too stupid to be working at a tech company."
 tags:
   - "clippings"
+_organized: true
 ---
 ![Linus Trovalds flipping the bird](https://cdn.neowin.com/news/images/uploaded/2025/12/1764860879_untitled_design_4_story.webp)
 

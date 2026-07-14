@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [The last frontier of empathy: why we still struggle to see ourselves as animals | Megan Mayhew Bergman](https://www.theguardian.com/us-news/ng-interactive/2025/nov/16/human-exceptionalism-essay)

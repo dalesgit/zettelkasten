@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Communion
 
 There's no bread.

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Tony Campolo Throws a Party for a Prostitute](http://www.preachingtoday.com/illustrations/2008/june/15742.html)

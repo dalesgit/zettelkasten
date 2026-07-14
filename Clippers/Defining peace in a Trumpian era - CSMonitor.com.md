@@ -3,6 +3,7 @@ created: 2026-01-22T06:51:51 (UTC -05:00)
 tags: []
 source: https://www.csmonitor.com/Editorials/the-monitors-view/2026/0120/Defining-peace-in-a-Trumpian-era
 author: the Monitor's Editorial Board
+_organized: true
 ---
 
 # Defining peace in a Trumpian era - CSMonitor.com

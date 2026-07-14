@@ -3,6 +3,7 @@ created: 2025-12-13T08:07:25 (UTC -05:00)
 tags: []
 source: https://vegoutmag.com/lifestyle/d-i-spent-years-in-copenhagen-these-9-danish-habits-explain-why-they-rank-among-the-worlds-happiest-people/
 author: Jordan Cooper
+_organized: true
 ---
 
 # I spent years in Copenhagen – these 9 Danish habits explain why they rank among the world’s happiest people – VegOut

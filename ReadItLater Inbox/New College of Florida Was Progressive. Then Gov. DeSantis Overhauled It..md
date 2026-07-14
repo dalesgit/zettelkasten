@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [New College of Florida Was Progressive. Then Gov. DeSantis Overhauled It.](https://www.nytimes.com/2025/12/28/us/new-college-ron-desantis-florida-conservative.html?smid=nytcore-ios-share)

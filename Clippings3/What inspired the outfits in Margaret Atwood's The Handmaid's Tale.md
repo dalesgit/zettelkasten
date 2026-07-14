@@ -11,6 +11,7 @@ description: This one compound exercise will challenge multiple upper-body muscl
 published: 2025-11-10
 source: https://www.fitandwell.com/exercise/strength-workouts/a-trainer-says-this-is-the-most-underrated-move-for-building-strength-in-your-core-shoulders-arms-and-back
 title: A trainer says this is the most underrated move for building strength in your core, shoulders, arms and back
+_organized: true
 ---
 ![Woman in high plank position at home holding dumbbells](https://cdn.mos.cms.futurecdn.net/JswzG3PSP2x4hEpGGn5VWi-1920-80.jpg.webp)
 

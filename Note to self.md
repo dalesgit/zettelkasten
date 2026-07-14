@@ -2,6 +2,7 @@
 id: Note to self
 aliases: []
 tags: []
+_organized: true
 ---
 Note to self
 

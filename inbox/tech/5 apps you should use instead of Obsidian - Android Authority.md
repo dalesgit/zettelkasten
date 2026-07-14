@@ -3,6 +3,7 @@ created: 2025-07-29T18:22:33 (UTC -04:00)
 tags: []
 source: https://www.androidauthority.com/obsidian-alternatives-3581433/
 author: 
+_organized: true
 ---
 
 # 5 apps you should use instead of Obsidian - Android Authority

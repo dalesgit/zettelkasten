@@ -3,6 +3,7 @@ created: 2025-07-19T07:57:03 (UTC -04:00)
 tags: []
 source: https://www.newstatesman.com/culture/history/2025/07/what-we-can-learn-from-adolf-hitler
 author: Alec Ryrie
+_organized: true
 ---
 
 # The long shadow of Adolf Hitler - New Statesman

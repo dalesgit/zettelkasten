@@ -3,6 +3,7 @@ created: 2026-01-01T07:51:12 (UTC -05:00)
 tags: []
 source: https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/
 author: WIRED Staff
+_organized: true
 ---
 
 # The Most Dangerous People on the Internet in 2025 | WIRED

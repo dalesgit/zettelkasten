@@ -3,6 +3,7 @@ tags:
   - kamala-harris
   - biden
   - election
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 

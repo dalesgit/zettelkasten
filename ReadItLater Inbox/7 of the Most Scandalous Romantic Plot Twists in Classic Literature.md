@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [7 of the Most Scandalous Romantic Plot Twists in Classic Literature](https://www.mentalfloss.com/literature/books/romantic-plot-twists-in-classic-literature)

@@ -2,6 +2,7 @@
 created: 2025-07-12T08:35:30
 source: https://www.theatlantic.com/ideas/archive/2025/07/welcome-mafia-presidency/683433/
 author: David Frum
+_organized: true
 ---
 
 # Welcome to the Mafia Presidency

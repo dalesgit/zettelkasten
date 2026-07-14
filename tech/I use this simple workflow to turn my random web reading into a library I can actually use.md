@@ -9,6 +9,7 @@ description: This simple Obsidian workflow becomes so convenient that I find mys
 tags:
   - reading
   - organization
+_organized: true
 ---
 teLike most knowledge workers, I spend hours reading articles, blog posts, and research online. For years, this felt like pouring water through a sieve. I'd read something fascinating, bookmark it, then never find it again when I needed it. My browser bookmarks basically became a digital graveyard.
 

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 New Monasticism is a modern Christian movement that draws inspiration from historical monastic practices to create intentional communities focused on radical discipleship, social justice, and spiritual disciplines. It's not a return to traditional monasteries, but rather a reimagining of monastic ideals within contemporary contexts, often involving lay people and families. 
 
 Here's a more detailed look at New Monasticism:

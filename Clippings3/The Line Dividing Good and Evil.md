@@ -8,6 +8,7 @@ created: 2025-11-24
 description: "Aleksandr Solzhenitsyn & James Baldwin warned against evil within ourselves, yet both succumbed to bitterness and prejudice in their later years."
 tags:
   - "clippings"
+_organized: true
 ---
 🎉 CELEBRATING QUILLETTE'S 10TH ANNIVERSARY 🎉
 

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Africa’s forests transformed from carbon sink to carbon source, study finds](https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study?CMP=Share_iOSApp_Other)

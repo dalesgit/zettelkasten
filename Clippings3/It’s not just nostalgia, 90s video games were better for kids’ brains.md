@@ -8,6 +8,7 @@ created: 2025-12-07
 description: "Nineties games focused on skill-building, while today's games test psychological resilience, one expert told Newsweek."
 tags:
   - "clippings"
+_organized: true
 ---
 Anyone who grew up in the 90s will probably remember the thrill of racing Rainbow Road in Mario Kart or the shock of discovering Pokémon Red’s hidden secrets without a guidebook.
 

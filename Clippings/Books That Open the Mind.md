@@ -8,6 +8,7 @@ created: 2026-01-04
 description: "Our writers’ recommendations for literature that challenges and expands"
 tags:
   - "clippings"
+_organized: true
 ---
 *This is an edition of The Wonder Reader, a newsletter in which our editors recommend a set of stories to spark your curiosity and fill you with delight. [Sign up here](https://www.theatlantic.com/newsletters/sign-up/the-wonder-reader/) to get it every Saturday morning.*
 

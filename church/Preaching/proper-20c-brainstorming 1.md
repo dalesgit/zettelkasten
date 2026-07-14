@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 #proper20 
 ### Prophet
 - care of poor

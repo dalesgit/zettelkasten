@@ -8,6 +8,7 @@ created: 2025-12-12
 description: "Archaeologists in Britain say they've found the earliest evidence of humans making fires anywhere in the world. The discovery moves our understanding of when humans started making fire back by 350,000 years."
 tags:
   - "clippings"
+_organized: true
 ---
 <audio xmlns="http://www.w3.org/1999/xhtml"></audio>
 

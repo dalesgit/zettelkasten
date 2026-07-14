@@ -9,6 +9,7 @@ description: Venting when angry seems sensible.
 tags:
   - health
   - anger
+_organized: true
 ---
 [Venting](https://www.sciencealert.com/sorry-but-venting-online-just-makes-you-angrier-scientists-find) when angry seems sensible. Conventional wisdom suggests expressing anger can help us quell it, like releasing steam from a pressure cooker.
 

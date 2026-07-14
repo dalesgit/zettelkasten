@@ -3,6 +3,7 @@ created: 2025-07-10T08:00:01 (UTC -04:00)
 tags: []
 source: https://www.politico.com/news/2025/07/09/federal-workers-supreme-court-doge-musk-layoffs-00445234
 author: Erin Schumaker
+_organized: true
 ---
 
 # Supreme Court disabuses federal workers who thought their jobs were safe - POLITICO

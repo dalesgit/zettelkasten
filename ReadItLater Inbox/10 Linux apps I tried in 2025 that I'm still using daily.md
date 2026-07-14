@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [10 Linux apps I tried in 2025 that I'm still using daily](https://www.howtogeek.com/linux-apps-i-tried-in-2025-that-are-actually-worth-installing/)

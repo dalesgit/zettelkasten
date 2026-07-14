@@ -2,6 +2,7 @@
 created: 2025-07-08T08:49:32
 source: https://www.theatlantic.com/magazine/archive/2025/08/warrior-myth-lethality-pete-hegseth/683247/?utm_campaign=one-story-to-read-today&utm_content=20250708&utm_source=newsletter&utm_medium=email&utm_term=One+Story+to+Read+Today
 author: Mike Nelson
+_organized: true
 ---
 
 # What Pete Hegseth Doesn’t Understand About Soldiers

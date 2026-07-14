@@ -2,6 +2,7 @@
 created: 2025-09-14T09:17:52
 source: https://www.nytimes.com/2025/09/14/opinion/democrats-working-class-hardhat-riot.html
 author: By
+_organized: true
 ---
 
 # Opinion | Democrats Cannot Just Buy Back the Working Class

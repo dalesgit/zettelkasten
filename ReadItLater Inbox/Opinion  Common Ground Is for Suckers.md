@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Opinion | Common Ground Is for Suckers](https://www.nytimes.com/2026/02/04/opinion/trump-presidential-power-comments.html?smid=nytcore-ios-share)

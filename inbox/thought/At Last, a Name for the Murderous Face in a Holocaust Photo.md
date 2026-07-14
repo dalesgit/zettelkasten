@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [At Last, a Name for the Murderous Face in a Holocaust Photo](https://www.nytimes.com/2025/11/28/science/holocaust-nazi-photography.html?smid=nytcore-ios-share)

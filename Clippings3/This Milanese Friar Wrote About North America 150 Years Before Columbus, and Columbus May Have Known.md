@@ -10,6 +10,7 @@ tags:
   - history
   - discovery
   - Columbus
+_organized: true
 ---
 It's the first written evidence that proves Columbus wasn't the first European in the Americas.
 

@@ -2,6 +2,7 @@
 created: 2025-09-19T08:41:39
 source: https://www.theatlantic.com/ideas/archive/2025/09/spinozas-criticism-emotions-cancel/684236/
 author: Arthur C. Brooks
+_organized: true
 ---
 
 # How Spinoza Overcame 17th-Century Cancel Culture

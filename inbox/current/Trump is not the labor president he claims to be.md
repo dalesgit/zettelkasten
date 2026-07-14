@@ -6,6 +6,7 @@ tags:
   - people
 source: https://contrarian.substack.com/p/trump-is-not-the-labor-president?utm_source=substack&utm_medium=email
 author: Dan Koh
+_organized: true
 ---
 
 # Trump is not the labor president he claims to be

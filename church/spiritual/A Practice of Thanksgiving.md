@@ -10,6 +10,7 @@ description: Diana Butler Bass writes of gratitude. Explore how we can practice 
 tags:
   - thanksgiving
   - gratitude
+_organized: true
 ---
 **Thanksgiving Day (U.S.)**
 

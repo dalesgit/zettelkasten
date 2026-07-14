@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## A canticle for Leibowitz
 
 ### Formatted Bibliography

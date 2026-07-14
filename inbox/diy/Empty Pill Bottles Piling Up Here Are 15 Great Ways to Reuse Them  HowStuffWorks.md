@@ -3,6 +3,7 @@ created: 2025-10-26T15:53:21 (UTC -04:00)
 tags: []
 source: https://home.howstuffworks.com/green-living/uses-old-pill-bottles.htm
 author: Jesslyn Shields
+_organized: true
 ---
 
 # Empty Pill Bottles Piling Up? Here Are 15 Great Ways to Reuse Them | HowStuffWorks

@@ -3,6 +3,7 @@ created: 2025-07-29T18:11:17 (UTC -04:00)
 tags: []
 source: https://www.politico.com/news/2025/07/29/epa-to-revoke-2009-finding-that-climate-pollution-endangers-humans-00476166
 author: Alex Guillén
+_organized: true
 ---
 
 # Trump administration moves to repeal climate ‘holy grail’ - POLITICO

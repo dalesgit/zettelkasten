@@ -1,3 +1,6 @@
+---
+_organized: true
+---
  It appeared in the conversation yesterday (7/3) with the clergy when I concluded my "address to Peter" when I said that the answer to the multitude of voices and facts the new media throw at us is not to relativise it all, but rather to cultivate [[critical thinking]]. 
 
 Several stories have come my way in the past few days.

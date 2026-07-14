@@ -2,6 +2,7 @@
 created: 2025-10-03T08:11:38
 source: https://www.rollingstone.com/tv-movies/tv-movie-reviews/george-orwell-documentary-review-1235433561/
 author: David Fear
+_organized: true
 ---
 
 # The Scariest Movie of 2025 Is Here — and It's a Doc on George Orwell

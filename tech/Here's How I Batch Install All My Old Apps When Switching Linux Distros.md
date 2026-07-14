@@ -8,6 +8,7 @@ created: 2025-10-04
 description: "Save yourself some time by using these simple commands."
 tags:
   - "clippings"
+_organized: true
 ---
 Whether the year of the Linux desktop is here or not, switching distros is still a pain. If you're planning to make a move to another Linux distribution, here's how I batch-install all my old applications I was using on the previous one.
 

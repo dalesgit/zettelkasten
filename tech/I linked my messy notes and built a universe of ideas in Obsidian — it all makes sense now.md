@@ -9,6 +9,7 @@ description: It's my new second-brain
 tags:
   - obsidian
   - graph
+_organized: true
 ---
 A good note app is to a writer what a well-worn journal is to a poet. It's something deeply personal.
 

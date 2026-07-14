@@ -7,6 +7,7 @@ tags:
 author: Jessica Winter
 created: 2025-11-09T04:00:11
 source: https://www.newyorker.com/culture/the-weekend-essay/what-did-men-do-to-deserve-this
+_organized: true
 ---
 
 # What Did Men Do to Deserve This?

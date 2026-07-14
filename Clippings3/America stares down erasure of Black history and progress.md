@@ -8,6 +8,7 @@ created: 2025-11-30
 description: "In the last year, federal, state and institutional decisions have gutted pillars of America's civil rights protections."
 tags:
   - "clippings"
+_organized: true
 ---
 24 hours ago - [Politics & Policy](https://www.axios.com/politics-policy)
 

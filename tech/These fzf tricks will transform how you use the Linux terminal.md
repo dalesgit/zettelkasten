@@ -2,6 +2,7 @@
 tags:
   - tech
   - terminal
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 

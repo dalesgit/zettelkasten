@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ## Good soil
 
 ### Formatted Bibliography

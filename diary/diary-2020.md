@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 # Diary
 
 ## 2021

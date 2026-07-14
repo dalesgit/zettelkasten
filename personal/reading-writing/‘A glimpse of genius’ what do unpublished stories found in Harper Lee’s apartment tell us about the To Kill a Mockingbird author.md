@@ -2,6 +2,7 @@
 tags:
   - harper-lee
   - writing
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 Writing 

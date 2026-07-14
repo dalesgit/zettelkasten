@@ -3,6 +3,7 @@ created: 2025-11-17T08:37:28 (UTC -05:00)
 tags: []
 source: https://www.npr.org/2025/11/12/nx-s1-5606359/ken-burns-american-revolution-review
 author: David Bianculli
+_organized: true
 ---
 
 # Ken Burns' 'The American Revolution' revisits the country's founding : NPR

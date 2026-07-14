@@ -3,6 +3,7 @@ created: 2026-02-01T06:26:28 (UTC -05:00)
 tags: []
 source: https://www.xda-developers.com/cheap-android-tablet-new-lower-price/
 author: Timi Cantisano
+_organized: true
 ---
 
 # This Android tablet is perfect for work and play and an absolute steal at its new price

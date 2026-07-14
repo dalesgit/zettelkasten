@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ### Ash Wednesday
 
 - [Ash Wednesday: Blessing the Dust « The Painted Prayerbook](https://paintedprayerbook.com/2013/02/08/ash-wednesday-blessing-the-dust/)

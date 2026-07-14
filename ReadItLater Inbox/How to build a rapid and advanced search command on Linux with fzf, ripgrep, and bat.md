@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [How to build a rapid and advanced search command on Linux with fzf, ripgrep, and bat](https://www.howtogeek.com/how-one-bash-function-gives-me-real-time-search-across-thousands-of-files/)

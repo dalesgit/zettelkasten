@@ -1,1 +1,4 @@
+---
+_organized: true
+---
 [I run these 5 commands on every fresh Linux install to save hours of work](https://www.howtogeek.com/i-run-these-5-commands-on-every-fresh-linux-install-to-save-hours-of-work/)

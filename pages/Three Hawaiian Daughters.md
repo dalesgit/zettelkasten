@@ -1,3 +1,6 @@
+---
+_organized: true
+---
  ## Miriam
  
 [[Kaʻiulani]]  - **Miriam Likelike**, a princess of the Hawaiian Kingdom

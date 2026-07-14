@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 
 ```dataviewjs 
 // Select random quote or idea

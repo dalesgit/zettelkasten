@@ -9,6 +9,7 @@ description: Whether you grab a shaved ice in Haleʻiwa, a coffee in Hōlualoa, 
 tags:
   - hawaii
   - towns
+_organized: true
 ---
 ![Stores in Haleiwa on the Oahu's North Shore. (Editorial credit: Christian Mueller / Shutterstock.com)](https://www.worldatlas.com/r/w1300/upload/97/aa/02/shutterstock-1670985940-s3cdn.jpg)
 

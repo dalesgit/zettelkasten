@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 December 17, 2025 - dermatologist
 
 Dr. Hamill, for my six month check up. He sprayed two spots one on each four hand. The spot on my right hand, he called a pre-cancerous and commended me for noticing it. Also a precancerous on my right side in the back, possibly the one that I have scratched as itchy.

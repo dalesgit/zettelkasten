@@ -3,6 +3,7 @@ created: 2025-07-29T07:54:35 (UTC -04:00)
 tags: []
 source: https://github.com/mundimark/awesome-markdown-editors?tab=readme-ov-file
 author: jacob-willden
+_organized: true
 ---
 
 # mundimark/awesome-markdown-editors: A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more

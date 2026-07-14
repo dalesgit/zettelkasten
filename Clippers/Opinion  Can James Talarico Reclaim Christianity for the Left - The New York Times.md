@@ -3,6 +3,7 @@ created: 2026-01-20T07:48:15 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/13/opinion/ezra-klein-podcast-james-talarico.html?smid=nytcore-ios-share
 author: Ezra Klein, Marie Cascione
+_organized: true
 ---
 
 # Opinion | Can James Talarico Reclaim Christianity for the Left? - The New York Times

@@ -2,6 +2,7 @@
 created: 2025-07-27T08:11:35
 source: https://www.theatlantic.com/ideas/archive/2025/07/supreme-court-roberts-trump-dictator/683576/
 author: Peter M. Shane
+_organized: true
 ---
 
 # This Is the Presidency John Roberts Has Built

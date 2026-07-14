@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 REM Feb 14 +2 AT 17:00 SPECIAL COLOR 0 128 255 DH Celebrate %b%
 REM Feb 15 +2 AT 10:00 SPECIAL COLOR 0 128 255 DH Celebrate %b%
 REM Feb 18 +2 AT 12:00 SPECIAL COLOR 255 0 0 DH Preach also 5pm %b%

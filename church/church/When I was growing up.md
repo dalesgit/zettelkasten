@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 As a child I remember being a fair facsimile of a **first child**. I felt in my gut the expectation that I needed to succeed. I got the message that I was supposed to be like my father, whose name I carried. I took it for granted that I would follow the rules. When given the assignment in kindergarten to color pictures, I thought the number one rule was to stay within the lines.
 
 Around about puberty I began to reject that persona. Slowly at first. Then with more and more purpose I began to discover that going against the grain of the expectations placed on me -- at the very least opened up new possibilities.  Where I had once been a good first born son, I was not becoming an imp. "A mischievous fairy or demon."

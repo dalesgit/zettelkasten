@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 # Five Best: Books on the Ends of Civilizations
 
 ## Selected by Johan Norberg, the author of ‘Peak Human: What We Can Learn From History’s Greatest Civilizations.’

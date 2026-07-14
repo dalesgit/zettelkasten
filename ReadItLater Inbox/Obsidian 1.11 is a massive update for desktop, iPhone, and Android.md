@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Obsidian 1.11 is a massive update for desktop, iPhone, and Android](https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/)

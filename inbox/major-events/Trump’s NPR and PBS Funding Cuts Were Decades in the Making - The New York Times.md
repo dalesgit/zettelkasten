@@ -3,6 +3,7 @@ created: 2025-07-19T08:18:06 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/18/business/media/npr-pbs-funding-cuts-republicans.html
 author: Jim Rutenberg
+_organized: true
 ---
 
 # Trump’s NPR and PBS Funding Cuts Were Decades in the Making - The New York Times

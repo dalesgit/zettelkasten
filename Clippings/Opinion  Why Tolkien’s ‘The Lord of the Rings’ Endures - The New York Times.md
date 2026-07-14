@@ -3,6 +3,7 @@ created: 2025-12-19T21:26:05 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2025/12/19/opinion/tolkien-grief-lord-rings.html
 author: Michael D.C. Drout
+_organized: true
 ---
 
 # Opinion | Why Tolkien’s ‘The Lord of the Rings’ Endures - The New York Times

@@ -3,6 +3,7 @@ created: 2026-01-10T08:39:31 (UTC -07:00)
 tags: []
 source: https://www.theatlantic.com/books/2026/01/philosopher-who-explains-stephen-miller-thomas-hobbes/685574/
 author: Gal Beckerman
+_organized: true
 ---
 
 # The Philosopher Who Explains Stephen Miller - The Atlantic

@@ -19,6 +19,7 @@ tags:
   - clippings
 aliases: []
 id: 12 Notes to Self We Should All Memorize Before the End of the Year
+_organized: true
 ---
 ![12 Notes to Self We Should All Memorize Before the End of the Year](https://i0.wp.com/www.marcandangel.com/wp-content/uploads/12-notes-life-gets-harder.jpg?resize=500%2C333&ssl=1)
 

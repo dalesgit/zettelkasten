@@ -8,6 +8,7 @@ created: 2025-12-28
 description: "From merrily dismissing climate science, to promoting irresponsible health claims, the podcast was an unintentional warning for our times, says Guardian columnist George Monbiot"
 tags:
   - "clippings"
+_organized: true
 ---
 ![The Eaton fire in the Altadena area of Los Angeles county, California 8 January 2025. ](https://i.guim.co.uk/img/media/4a4a5b8beb69b7cf9821d10f938775d1d410b72b/44_0_6573_5260/master/6573.jpg?width=620&dpr=2&s=none&crop=none)
 

@@ -3,6 +3,7 @@ created: 2025-07-11T05:53:34 (UTC -04:00)
 tags: []
 source: https://www.npr.org/2025/07/10/nx-s1-5462598/state-department-staff-brace-for-layoffs-after-supreme-court-decision
 author: Michele Kelemen
+_organized: true
 ---
 
 # State Department staff brace for layoffs after Supreme Court decision : NPR

@@ -3,6 +3,7 @@ created: 2025-07-28T07:51:21 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/23/opinion/trump-columbia-deal-professor.html
 author: Suresh Naidu
+_organized: true
 ---
 
 # Opinion | Columbia’s Administrators Are Fooling Themselves - The New York Times

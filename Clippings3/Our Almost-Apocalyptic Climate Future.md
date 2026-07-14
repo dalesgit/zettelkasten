@@ -7,6 +7,7 @@ tags:
   - climate
 source: https://www.theatlantic.com/science/2025/11/cop-climate-3c-warming/685036/
 author: Peter Brannen
+_organized: true
 ---
 
 # Our Almost-Apocalyptic Climate Future - The Atlantic

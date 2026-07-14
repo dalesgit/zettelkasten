@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [What America Might Look Like With Zero Immigration](https://www.nytimes.com/2025/12/28/business/us-immigration-trump-1920s.html?smid=nytcore-ios-share)

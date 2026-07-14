@@ -3,6 +3,7 @@ created: 2025-07-27T16:36:22 (UTC -04:00)
 tags: []
 source: https://www.theguardian.com/us-news/2025/jul/27/ghislaine-maxwell-testimony-analysis
 author: Victoria Bekiempis
+_organized: true
 ---
 
 # Ghislaine Maxwell is talking – but what can she tell and can she be believed? | Ghislaine Maxwell | The Guardian

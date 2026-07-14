@@ -10,6 +10,7 @@ tags:
   - health
   - food
   - snacks
+_organized: true
 ---
 ![Person eating fruit and crackers on a yellow couch.](https://www.health.com/thmb/fygLEAFM_QJcAwRQEP0SqyHhqKk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Health-GettyImages-1365638798-9dd21bc8b15b401a8f9efa67b46285e0.jpg)
 

@@ -12,6 +12,7 @@ tags:
   - diabetes
   - glucose
   - health
+_organized: true
 ---
 ![A baked sweet potato on a plate topped with black beans salsa and a dollop of guacamole](https://www.eatingwell.com/thmb/VPK0QOJN9VatCkPD-w_5gwd3EoI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatHappenstoYourBloodSugarWhenYouEatSweetPotatoes-9a41c1dbd58540d3a16b1cd39c884144.jpg)
 

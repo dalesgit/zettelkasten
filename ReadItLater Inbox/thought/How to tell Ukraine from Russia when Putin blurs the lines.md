@@ -5,6 +5,7 @@ author: Garry Kasparov
 tags:
   - ukraine
   - russia
+_organized: true
 ---
 
 # How to tell Ukraine from Russia when Putin blurs the lines

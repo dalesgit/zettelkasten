@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 - It's about Resurrection
 - It's about baptism
 	- cf. Julian, baby drowned, my mother, Littlest angel -- all about living the life God intended for you

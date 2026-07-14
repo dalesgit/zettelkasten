@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Eucharistic Prayer 1
 
 Celebrant The Lord be with you.\

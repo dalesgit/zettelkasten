@@ -3,6 +3,7 @@ created: 2025-07-19T08:12:36 (UTC -04:00)
 tags: [longreads,donald trump,europe,china,politics]
 source: https://www.wired.com/story/enshittification-of-american-power/
 author: Henry Farrell, Abraham L. Newman
+_organized: true
 ---
 
 # The Enshittification of American Power | WIRED

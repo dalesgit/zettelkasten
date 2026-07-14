@@ -3,6 +3,7 @@ created: 2025-07-25T08:00:49 (UTC -04:00)
 tags: [pleasemod]
 source: https://www.theglobeandmail.com/world/article-israel-burial-site-changing-knowledge-early-humans/
 author: Melanie Lidman
+_organized: true
 ---
 
 # A 100,000-year-old burial site in Israel is changing what we know about early humans - The Globe and Mail

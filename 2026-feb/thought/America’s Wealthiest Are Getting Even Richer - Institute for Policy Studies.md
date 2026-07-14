@@ -3,6 +3,7 @@ created: 2026-02-01T06:23:08 (UTC -05:00)
 tags: []
 source: https://ips-dc.org/americas-wealthiest-are-getting-even-richer/
 author: averyr
+_organized: true
 ---
 
 # America’s Wealthiest Are Getting Even Richer - Institute for Policy Studies

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Syncthing and Tailscale gave me the private cloud experience I always wanted Dropbox to be](https://www.xda-developers.com/syncthing-and-tailscale-gave-me-a-private-cloud/)

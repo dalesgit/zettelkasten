@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Atlanta to Denver at night. 
 
 This tube I'm traveling in gets me hither

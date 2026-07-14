@@ -6,6 +6,7 @@ source: https://www.theguardian.com/us-news/ng-interactive/2025/sep/27/trump-fre
 description: After Charlie Kirk’s killing, the US president has unleashed an assault on free speech. Some conservatives are questioning his razor sharp U-turn
 author: Ed Pilkington
 published: 
+_organized: true
 ---
 
 It has taken barely two weeks for  [Donald Trump](https://www.theguardian.com/us-news/donaldtrump)  to turn the horrific killing of Charlie Kirk to his political advantage, unleashing an unprecedented peacetime assault on free speech and a free press on the back of the assassination.

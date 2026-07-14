@@ -3,6 +3,7 @@ created: 2025-07-28T07:49:54 (UTC -04:00)
 tags: []
 source: https://www.theguardian.com/music/2025/jul/28/tom-lehrer-dies-aged-97-dead-musical-satirist
 author: 
+_organized: true
 ---
 
 # Tom Lehrer, acclaimed musical satirist of cold war era, dies aged 97 | Music | The Guardian

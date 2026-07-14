@@ -3,6 +3,7 @@ created: 2025-07-12T07:24:21 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/12/business/unitedhealth-insurance-criticism.html
 author: David Enrich
+_organized: true
 ---
 
 # UnitedHealth’s Campaign to Quiet Critics - The New York Times

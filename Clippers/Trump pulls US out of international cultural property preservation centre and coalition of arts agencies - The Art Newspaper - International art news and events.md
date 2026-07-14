@@ -3,6 +3,7 @@ created: 2026-01-09T08:53:54 (UTC -05:00)
 tags: []
 source: https://www.theartnewspaper.com/2026/01/08/trump-withdraws-united-states-iccrom-ifacca
 author: Benjamin Sutton
+_organized: true
 ---
 
 # Trump pulls US out of international cultural property preservation centre and coalition of arts agencies - The Art Newspaper - International art news and events

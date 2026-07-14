@@ -3,6 +3,7 @@ created: 2026-01-22T07:10:14 (UTC -05:00)
 tags: []
 source: https://www.thenation.com/article/society/martin-luther-king-civil-rights-social-justice-community/
 author: Rev. Canon Kelly Brown Douglas
+_organized: true
 ---
  
 # Refusing Despair in a Despairing Time | The Nation

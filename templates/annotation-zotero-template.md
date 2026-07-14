@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 {% for annotation in annotations %}
 {% if annotation.annotatedText %}
 

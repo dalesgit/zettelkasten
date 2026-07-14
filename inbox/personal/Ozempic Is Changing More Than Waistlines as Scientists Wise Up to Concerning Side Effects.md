@@ -3,6 +3,7 @@ created: 2025-07-12T07:37:09 (UTC -04:00)
 tags: []
 source: https://www.zmescience.com/medicine/ozempic-is-changing-more-than-waistlines-as-scientists-wise-up-to-concerning-side-effects/
 author: Tibi Puiu
+_organized: true
 ---
 
 # Ozempic Is Changing More Than Waistlines as Scientists Wise Up to Concerning Side Effects

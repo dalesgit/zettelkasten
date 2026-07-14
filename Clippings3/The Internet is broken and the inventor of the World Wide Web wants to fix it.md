@@ -10,6 +10,7 @@ tags:
   - internet
   - privacy
   - de-centralize
+_organized: true
 ---
 - [Twitter](https://twitter.com/intent/tweet?text=The+Internet+is+broken+and+the+inventor+of+the+World+Wide+Web+wants+to+fix+it&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-025-03859-y)
 - [Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-025-03859-y&t=The+Internet+is+broken+and+the+inventor+of+the+World+Wide+Web+wants+to+fix+it)

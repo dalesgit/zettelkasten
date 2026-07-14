@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Justice Ketanji Brown Jackson is trying to warn us about something. Are we listening?](https://www.theguardian.com/us-news/ng-interactive/2025/oct/04/justice-ketanji-brown-jackson-supreme-court)

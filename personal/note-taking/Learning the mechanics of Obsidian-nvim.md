@@ -3,6 +3,7 @@ id: Learning the mechanics of Obsidian-nvim
 aliases:
   - Learning the mechanics of Obsidian-nvim
 tags: []
+_organized: true
 ---
 
 # Learning the mechanics of Obsidian-nvim #notetaking

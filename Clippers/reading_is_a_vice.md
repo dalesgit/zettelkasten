@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 
 [Ideas](https://www.theatlantic.com/ideas/)
 

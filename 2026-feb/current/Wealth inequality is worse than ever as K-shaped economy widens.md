@@ -3,6 +3,7 @@ created: 2026-02-01T06:21:53 (UTC -05:00)
 tags: [Business,Politics,Breaking News: Economy,Donald Trump,Donald J. Trump,S&P 500 Index,New York City,Personnel,Economic events,United States,Stock markets,Markets,Breaking News: Markets,Investment strategy,Breaking News: Investing,Economy,Mark Zandi,Jerome Powell,Jerome Powell,Breaking News: Politics,Amazon.com Inc,Home Depot Inc,United Parcel Service Inc,business news]
 source: https://www.cnbc.com/2026/01/30/wealth-inequality-k-shaped-economy-united-states-consumer-spending-trump.html
 author: Alex Harring
+_organized: true
 ---
 
 # Wealth inequality is worse than ever as K-shaped economy widens

@@ -9,6 +9,7 @@ created: 2025-11-19
 description: "Two months after Charlie Kirk’s assassination, a government-backed campaign has led to firings, suspensions, investigations and other action against more than 600 people. Republican officials have endorsed the punishments, saying that those who glorify violence should be removed from positions of trust."
 tags:
   - "clippings"
+_organized: true
 ---
 ![Republican Vice Presidential nominee U.S. Senator JD Vance holds a rally in Glendale](https://www.reuters.com/resizer/v2/3PKID4KMLBAW5OFD3JC2RO7VKM.jpg?auth=326703d13d87e4eeafcd9831c62e2bbff1b3ece1b24d5f17bb2e370242ecfbff&width=480&quality=80)
 

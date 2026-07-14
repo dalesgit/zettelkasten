@@ -2,6 +2,7 @@
 id: Trump says Putin ‘wants to get it done’ at tomorrow’s Alaska summit, as he floats idea of second meeting with Zelenskyy – Europe live
 aliases: []
 tags: []
+_organized: true
 ---
 
 [[ReadItLater]] [[Article]]

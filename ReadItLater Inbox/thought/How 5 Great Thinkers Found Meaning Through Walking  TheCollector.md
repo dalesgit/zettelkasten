@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [How 5 Great Thinkers Found Meaning Through Walking | TheCollector](https://www.thecollector.com/great-thinkers-found-meaning-walking/)

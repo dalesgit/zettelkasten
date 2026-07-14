@@ -1,1 +1,4 @@
+---
+_organized: true
+---
 [The best Linux terminal dashboard is wtf (and you need to try it)](https://www.howtogeek.com/the-best-linux-terminal-dashboard-is-wtf/)

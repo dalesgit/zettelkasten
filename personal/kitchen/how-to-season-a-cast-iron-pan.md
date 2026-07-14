@@ -6,6 +6,7 @@ tags:
   - diy
   - cooking
   - cast-iron
+_organized: true
 ---
 
 # How to Season a Cast-Iron Skillet So It Lasts Forever

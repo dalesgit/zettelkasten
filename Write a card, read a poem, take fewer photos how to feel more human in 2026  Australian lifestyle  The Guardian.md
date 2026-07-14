@@ -3,6 +3,7 @@ created: 2026-01-25T07:34:54 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/lifeandstyle/2026/jan/20/digital-detox-how-to-feel-more-human-in-2026
 author: Tom Gill
+_organized: true
 ---
 
 # Write a card, read a poem, take fewer photos: how to feel more human in 2026 | Australian lifestyle | The Guardian

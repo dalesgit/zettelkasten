@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 
 - ![reporter headshot](https://community-avatars.nyt.com/cropped-659f30f347e3a2d301bb60ab378b5318611280c1ff9bff9dec380b2897553c1dc9472866.png)
 # For Some Americans, the End of Obamacare Subsidies Means Falling Off a Financial Cliff

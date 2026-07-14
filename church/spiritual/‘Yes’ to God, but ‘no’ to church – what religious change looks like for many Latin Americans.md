@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [‘Yes’ to God, but ‘no’ to church – what religious change looks like for many Latin Americans](https://theconversation.com/yes-to-god-but-no-to-church-what-religious-change-looks-like-for-many-latin-americans-266880)

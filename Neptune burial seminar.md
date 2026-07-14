@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 - 13k dollars average funeral
 - note owned by National something or other out of Texas
 - Variety of contracts available

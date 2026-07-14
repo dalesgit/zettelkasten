@@ -3,6 +3,7 @@ created: 2025-07-21T13:28:01 (UTC -04:00)
 tags: []
 source: https://vegoutmag.com/lifestyle/r-if-you-can-still-do-these-9-things-in-your-70s-youre-aging-far-better-than-you-think/
 author: Maya Flores
+_organized: true
 ---
 
 # If you can still do these 9 things in your 70s, you're aging far better than you think

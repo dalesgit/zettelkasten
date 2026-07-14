@@ -8,6 +8,7 @@ created: 2026-05-29
 description: "Educational attainment varies widely across the US. See the states with the highest and lowest shares of adults with bachelor's degrees or higher."
 tags:
   - "clippings"
+_organized: true
 ---
 ![Students sit and walk outside on Quad lawn of University of Illinois college campus in Urbana Champaign](https://i.insider.com/6a0ddf2cbe2e5e1daf890fba?width=2000&format=jpeg&auto=webp)
 

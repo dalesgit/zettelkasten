@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # ['There's no other poem like it': Why this Robert Burns classic is a masterpiece](https://www.bbc.com/culture/article/20260122-why-this-robert-burns-poem-is-a-masterpiece)

@@ -3,6 +3,7 @@ created: 2026-01-23T11:20:07 (UTC -05:00)
 tags: []
 source: https://mail.google.com/mail/u/0/
 author: 
+_organized: true
 ---
 
 # What’s an Angry Old Quaker to Do? - dhath12@gmail.com - Gmail

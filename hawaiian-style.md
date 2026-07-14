@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 The 12 Days of Christmas (Hawaiian Style)
 
 Numbah One day of Christmas, my tutu give to me One mynah bird in one papaya tree.

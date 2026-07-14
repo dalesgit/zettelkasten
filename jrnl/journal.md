@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [2026-01-07 11:59:57 PM] This is going to be challenging.
 Staying with Julian is both heart-warming and way outside my comfort zone.
 

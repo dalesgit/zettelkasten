@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 # Burial Rite 1
 Page 483
 

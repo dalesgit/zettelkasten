@@ -8,6 +8,7 @@ created: 2026-01-10
 description: "Beginning in 1943, the War Department published a series of pamphlets for U.S."
 tags:
   - "clippings"
+_organized: true
 ---
 Beginning in 1943, the War Department published a series of pamphlets for U.S. Army personnel in the European theater of World War II. Titled Army Talks, the series was designed “to help \[the personnel\] become better-informed men and women and therefore better soldiers.”
 

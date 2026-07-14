@@ -8,6 +8,7 @@ created: 2025-11-30
 description: "Some call empathy \"toxic\" as others says it's core to Jesus' teachings"
 tags:
   - "clippings"
+_organized: true
 ---
 8 hours ago - [Politics & Policy](https://www.axios.com/politics-policy)
 

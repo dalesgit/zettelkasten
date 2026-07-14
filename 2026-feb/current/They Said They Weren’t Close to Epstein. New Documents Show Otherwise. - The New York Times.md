@@ -3,6 +3,7 @@ created: 2026-02-01T05:57:28 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/31/us/epstein-powerful-men.html
 author: Nicholas Confessore
+_organized: true
 ---
 
 # They Said They Weren’t Close to Epstein. New Documents Show Otherwise. - The New York Times

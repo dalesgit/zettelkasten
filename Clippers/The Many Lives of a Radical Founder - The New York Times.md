@@ -3,6 +3,7 @@ created: 2026-01-09T16:49:13 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/09/arts/thomas-paine-common-sense-250.html
 author: Jennifer Schuessler
+_organized: true
 ---
 
 # The Many Lives of a Radical Founder - The New York Times

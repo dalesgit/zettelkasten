@@ -8,6 +8,7 @@ created: 2025-09-26
 description: From a viral creamy casserole to comforting soup and even a food court copycat, these quick and easy dinners all start with the same $5 Costco rotisserie chicken, but transform it into so much more.
 tags:
   - recipes
+_organized: true
 ---
 ![Marry Me Chicken Soup being served out of a Dutch oven. ](https://www.allrecipes.com/thmb/Pxa2D4r5timEGPNcTWX1KRSacy8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8421914-Marry-Me-Chicken-Soup-4x3-179-843abc8af99247dcadb3f79a91681d49.jpg)
 

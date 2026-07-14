@@ -2,6 +2,7 @@
 created: 2025-07-09T05:01:57
 source: https://www.theatlantic.com/ideas/archive/2025/07/putin-trump-russia-ukraine/683414/
 author: Anne Applebaum
+_organized: true
 ---
 
 # America's Great Realignment Toward Putin

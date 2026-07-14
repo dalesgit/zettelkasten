@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Total Lunar Eclipse in Tampa, FL – March 3, 2026
 
 The total lunar eclipse in Tampa, Florida, began at 3:44 a.m. ET on Tuesday, March 3, 2026, when the Earth's penumbral shadow first touched the Moon.

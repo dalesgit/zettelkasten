@@ -8,6 +8,7 @@ tags:
 author: Dahlia Lithwick, Mark Joseph Stern
 created: 2025-09-20T07:49:20
 source: https://slate.com/news-and-politics/2025/09/supreme-court-john-roberts-criticism-ouch.html
+_organized: true
 ---
 
 # The most withering indictment of the Supreme Court ever by a sitting judge.

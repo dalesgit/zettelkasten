@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 # The man behind Trump's for dictatorship
 [The Man Behind Trump’s Push for an All-Powerful Presidency: Russell Vought](https://www.nytimes.com/2025/09/29/us/politics/russell-vought-trump-budget.html?smid=nytcore-ios-share&referringSource=articleShare)
 

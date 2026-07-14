@@ -8,6 +8,7 @@ created: 2025-11-30
 description: "Caregivers are at the brink of despair."
 tags:
   - "clippings"
+_organized: true
 ---
 The first sign of trouble arrived by text. On Dec. 17 at 2:33 p.m., my younger sister, Melissa, pinged me from Houston to say that our 78-year-old father had veered off course while driving himself to a medical appointment.
 

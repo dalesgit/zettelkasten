@@ -6,6 +6,7 @@ tags:
   - Christianity
 source: https://www.pewresearch.org/short-reads/2025/11/13/if-the-u-s-had-100-people-charting-americans-religious-affiliations/
 author: Becka A. Alper
+_organized: true
 ---
 
 # Americans’ religious profile, visualized as 100 people | Pew Research Center

@@ -12,6 +12,7 @@ description: Experts find artefacts left behind in Caral showing how population 
 published: Aug 6, 2025
 source: https://www.theguardian.com/science/2025/nov/05/archaeologists-discover-how-oldest-american-civilisation-survived-a-climate-catastrophe
 title: Archaeologists discover how oldest American civilisation survived a climate catastrophe | Archaeology | The Guardian
+_organized: true
 ---
 
 ![Archaeological site in Peñico, Peru, with mountains and greenery in the background. ](https://i.guim.co.uk/img/media/d21deece01f26381d5e3d89c083d4cb1eb514428/250_0_1350_1080/master/1350.jpg) 

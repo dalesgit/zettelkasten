@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Opinion | A.I. Companies Are Eating Higher Education](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html?smid=nytcore-ios-share)

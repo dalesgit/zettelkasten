@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 FORM FOR SENDING FORTH
 LAY EUCHARISTIC VISITORS
 FOR

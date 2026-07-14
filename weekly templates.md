@@ -6,6 +6,7 @@ banner: "<% tp.date.now('YYYY MMMM') %>"
 banner_icon: 🗓️
 banner_x: 0.5
 source: https://github.com/mulfok/periodic-note-templates
+_organized: true
 ---
 
 # <% tp.date.now("YYYY-MM [Week] WW") %>

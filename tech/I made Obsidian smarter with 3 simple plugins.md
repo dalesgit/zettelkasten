@@ -10,6 +10,7 @@ tags:
   - obsidian
   - shortcuts
   - plugins
+_organized: true
 ---
 Obsidian is already incredibly smart by default. Its core features such as linking, graph view, and tagging make connecting ideas effortless. The problem is that these features only work their magic when everything is well organized. I found myself spending more time worrying about folder placement and manual filing than actually taking down notes. This realization made me look for a solution to make my Obsidian vault smarter.
 

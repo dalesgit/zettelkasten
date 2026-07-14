@@ -3,6 +3,7 @@ created: 2026-01-11T17:42:11 (UTC -07:00)
 tags: []
 source: https://katiecouric.com/news/opinion/tony-dokoupil-first-week-cbs-evening-news-review/
 author: Katie Couric
+_organized: true
 ---
 
 # Expert Review of Tony Dokoupil's Premiere on CBS Evening News

@@ -1,5 +1,6 @@
 ---
 link: "https://newrepublic.com/article/200172/transcript-trump-firing-lisa-cook-backfires-brutal-poll-hits"
+_organized: true
 ---
 ---
 created: 2025-09-10T09:10:54

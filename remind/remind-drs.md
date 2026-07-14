@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 ; Kalani
 REM Nov 10 2026 +2 AT 13:00 SPECIAL COLOR 0 128 255 Kalani follow-up DH %b%
 ; Basil

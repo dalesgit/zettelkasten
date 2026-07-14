@@ -3,6 +3,7 @@ created: 2025-12-13T22:45:01 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/environment/2025/dec/10/kashmir-glacier-ecosystems-snow-kolahoi-biodiversity-agriculture-aoe
 author: 
+_organized: true
 ---
 
 # ‘Even the animals seem confused’: a retreating Kashmir glacier is creating an entire new world in its wake | Glaciers | The Guardian

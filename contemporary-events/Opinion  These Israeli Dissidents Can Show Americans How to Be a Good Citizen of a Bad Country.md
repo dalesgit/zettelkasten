@@ -3,6 +3,7 @@ tags:
   - citizens
   - democracy
   - anti-fascism
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 

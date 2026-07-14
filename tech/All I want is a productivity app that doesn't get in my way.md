@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [All I want is a productivity app that doesn't get in my way](https://www.xda-developers.com/productivity-app-that-gets-out-of-the-way/)

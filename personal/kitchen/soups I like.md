@@ -7,6 +7,7 @@ tags:
   - diy
   - kitchen
   - taste
+_organized: true
 ---
 # soups I like
 ## Soup swap

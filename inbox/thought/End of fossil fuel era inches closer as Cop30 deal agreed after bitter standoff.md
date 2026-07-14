@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff](https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff?CMP=Share_iOSApp_Other)

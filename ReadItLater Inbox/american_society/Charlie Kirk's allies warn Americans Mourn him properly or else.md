@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Charlie Kirk's allies warn Americans: Mourn him properly or else](https://www.reuters.com/world/us/charlie-kirks-allies-warn-americans-mourn-him-properly-or-else-2025-09-13/?gaa_at=la&gaa_n=ASWzDAgJv6OLl4YgIWWEFjhL5NHv4D_0sbxDAkCy7g-RaKtmUitxRdgnR1V9KAqMfm36NQY7f2qH-DkXHakGTov1fB7p94HW7g%3D%3D&gaa_ts=68c6c107&gaa_sig=5-4q9M2XhtUpkXr8xX6r6I8kBA-R3KjYw5kQIcgcTf79tSy700fh2A3YPSZfK2YY5_uuAT8nnVGmNs5TMmI-1g%3D%3D)

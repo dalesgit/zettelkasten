@@ -3,6 +3,7 @@ created: 2025-12-13T07:55:30 (UTC -05:00)
 tags: []
 source: https://www.cnn.com/2025/12/12/business/trump-changes-coins-policy
 author: Chris Isidore
+_organized: true
 ---
 
 # Killing the penny was just the start. Trump is rewriting the rules on America’s coins | CNN Business

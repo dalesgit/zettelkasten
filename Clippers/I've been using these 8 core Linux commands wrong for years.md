@@ -3,6 +3,7 @@ created: 2026-01-15T10:37:42 (UTC -05:00)
 tags: []
 source: https://www.howtogeek.com/ive-been-using-these-core-linux-commands-wrong/
 author: Bobby Jack
+_organized: true
 ---
 
 # I've been using these 8 core Linux commands wrong for years

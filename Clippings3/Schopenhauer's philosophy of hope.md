@@ -12,6 +12,7 @@ tags:
   - afterlife
   - Hegel
   - eschatology
+_organized: true
 ---
 The great philosopher of pessimism, Arthur Schopenhauer, did not believe in the afterlife. If he is installed on a plush cloud, glass of ambrosia in hand, however, watching the unfolding drama of human suffering, then he has had plenty to amuse him in recent decades. Not least that moment when – with the collapse of the Berlin Wall – we proclaimed the end of history. How he must have laughed. As Schopenhauer would have seen from his celestial perch, we had yet to experience the worldwide banking crisis, the rise of religious extremism, the erosion of truth and the inescapable effects of climate change. [Hegel](https://engelsbergideas.com/reviews/hegels-philosophy-of-history/), his intellectual adversary, and the man who gave us the idea that our long march culminates in freedom, had duped us. Schopenhauer’s own philosophy – premised on the idea that to live is to suffer – would soon have its day.
 

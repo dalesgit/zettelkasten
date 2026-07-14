@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Julian had a schizophrenic friend 
 who sounded like Judy talked. Taking cute foo delusions from what's going on around him. 
 

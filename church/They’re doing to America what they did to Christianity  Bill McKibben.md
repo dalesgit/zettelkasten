@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [They’re doing to America what they did to Christianity | Bill McKibben](https://www.theguardian.com/us-news/ng-interactive/2025/nov/23/america-christian-evangelical-discrimination-immigration?CMP=Share_iOSApp_Other)

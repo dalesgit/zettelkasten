@@ -3,6 +3,7 @@ created: 2025-12-13T22:42:21 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/us-news/2025/dec/13/you-and-me-against-the-world-who-was-behind-trumps-anti-europe-foreign-policy
 author: Andrew Roth
+_organized: true
 ---
 
 # You and me against the world: who was behind Trump’s anti-Europe foreign policy? | US foreign policy | The Guardian

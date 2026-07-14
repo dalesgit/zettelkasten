@@ -9,6 +9,7 @@ description: Google's approach to email
 tags:
   - mourning
   - grief
+_organized: true
 ---
 ---
 created: 2025-11-24T19:14:04 (UTC -05:00)

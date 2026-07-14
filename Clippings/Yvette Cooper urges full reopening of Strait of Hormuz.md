@@ -8,6 +8,7 @@ created: 2026-04-09
 description: "The foreign secretary also calls for Lebanon to be \"urgently included\" in the ceasefire agreement."
 tags:
   - "clippings"
+_organized: true
 ---
 ## Cooper urges full and toll-free reopening of Strait of Hormuz
 

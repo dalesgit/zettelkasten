@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [This is the best way for beginners to build strength, according to an expert trainer](https://www.fitandwell.com/exercise/strength-workouts/this-is-the-best-way-for-beginners-to-build-strength-according-to-an-expert-trainer)

@@ -3,6 +3,7 @@ created: 2026-01-13T06:14:05 (UTC -07:00)
 tags: [ICE,Immigration]
 source: https://www.thenation.com/article/activism/ice-businesses-boycott-campaign/
 author: Eric Blanc, Wes McEnany, and Claire Sandberg
+_organized: true
 ---
 
 # Want to Stop ICE? Go After Its Corporate Collaborators. | The Nation

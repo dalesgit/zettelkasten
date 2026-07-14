@@ -3,6 +3,7 @@ id: proper-20c
 aliases: []
 tags:
   - proper20
+_organized: true
 ---
 [[proper-20c-brainstorming 1]] 
 

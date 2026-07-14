@@ -3,6 +3,7 @@ created: 2026-02-01T06:06:33 (UTC -05:00)
 tags: [sfgnews,sfglocal]
 source: https://www.sfgate.com/bayarea/article/sf-dolores-park-ice-rally-21325277.php
 author: Olivia Hebert
+_organized: true
 ---
 
 # 'This isn't America anymore': Thousands rally against ICE in SF park

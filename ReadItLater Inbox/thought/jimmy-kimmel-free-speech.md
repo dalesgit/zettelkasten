@@ -4,6 +4,7 @@ tags:
   - free-speech
 source: https://www.nytimes.com/2025/09/19/us/jimmy-kimmel-free-speech.html
 author: Adam B. Kushner
+_organized: true
 ---
 
 # What Jimmy Kimmel’s Suspension Says About Free Speech - The New York Times

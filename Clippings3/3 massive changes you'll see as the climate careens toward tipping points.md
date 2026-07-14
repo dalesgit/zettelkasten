@@ -9,6 +9,7 @@ description: Scientists are increasingly concerned that the planet is headed for
 tags:
   - environment
   - climate-change
+_organized: true
 ---
 <audio xmlns="http://www.w3.org/1999/xhtml"></audio>
 

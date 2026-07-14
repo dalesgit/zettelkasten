@@ -3,6 +3,7 @@ created: 2026-02-01T06:20:43 (UTC -05:00)
 tags: []
 source: https://newrepublic.com/article/205904/bari-weiss-scoops-cbs-news
 author: Alex Shephard
+_organized: true
 ---
 
 # What Bari Weiss Doesn’t Get About CBS News | The New Republic

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 

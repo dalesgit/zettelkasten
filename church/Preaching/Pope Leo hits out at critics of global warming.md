@@ -10,6 +10,7 @@ tags:
   - environment
   - church
   - disinformation
+_organized: true
 ---
 e## Pope Leo condemns climate change critics
 

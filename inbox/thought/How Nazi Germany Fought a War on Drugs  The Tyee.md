@@ -3,6 +3,7 @@ created: 2025-07-10T08:10:32 (UTC -04:00)
 tags: []
 source: https://thetyee.ca/Culture/2016/10/14/Nazi-Germany-War-on-Drugs/
 author: Crawford Kilian
+_organized: true
 ---
 
 # How Nazi Germany Fought a War on Drugs | The Tyee

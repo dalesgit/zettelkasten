@@ -2,6 +2,7 @@
 created: 2025-07-12T07:48:09
 source: https://www.theatlantic.com/politics/archive/2025/07/trump-corruption-foreign-regimes/683487/
 author: Casey Michel
+_organized: true
 ---
 
 # America Has Never Seen Corruption Like Trump's

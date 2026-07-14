@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Charlie Kirk in his own words: ‘prowling Blacks’ and ‘the great replacement strategy’](https://www.theguardian.com/us-news/2025/sep/11/charlie-kirk-quotes-beliefs)

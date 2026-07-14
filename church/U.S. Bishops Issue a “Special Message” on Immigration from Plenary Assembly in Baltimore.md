@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [U.S. Bishops Issue a “Special Message” on Immigration from Plenary Assembly in Baltimore](https://www.usccb.org/news/2025/us-bishops-issue-special-message-immigration-plenary-assembly-baltimore)

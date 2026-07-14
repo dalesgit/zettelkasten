@@ -2,6 +2,7 @@
 id: trumps_letter_to_norway_should_be_last_straw
 aliases: []
 tags: []
+_organized: true
 ---
 # Trump’s Letter to Norway Should Be the Last Straw
 

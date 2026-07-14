@@ -6,6 +6,7 @@ files:
 share.uri: "https://github.com/silverbulletmd/basic-search/blob/main/PLUG.md"
 share.hash: 59d1e9ad
 share.mode: pull
+_organized: true
 ---
 # Basic Full Text Search
 Formerly a built-in plug for SilverBullet, now installable separately for those who don’t want to (for whatever reason) use the far superior [Silversearch](https://github.com/MrMugame/silversearch) instead. Seriously, use Silversearch instead of this.

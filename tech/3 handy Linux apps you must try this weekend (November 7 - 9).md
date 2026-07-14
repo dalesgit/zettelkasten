@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [3 handy Linux apps you must try this weekend (November 7 - 9)](https://www.howtogeek.com/linux-apps-to-worth-installing-this-weekend-november-7/)

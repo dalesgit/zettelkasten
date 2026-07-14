@@ -2,6 +2,7 @@
 created: 2025-07-08T08:30:05
 source: https://slate.com/news-and-politics/2025/07/supreme-court-term-analysis-emergency-trump.html
 author: Mark Joseph Stern
+_organized: true
 ---
 
 # For the Supreme Court, it's an emergency when Trump says so.

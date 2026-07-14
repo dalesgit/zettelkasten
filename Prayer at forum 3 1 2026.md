@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Prayer at forum 3/1/2026
 
 I can't make the

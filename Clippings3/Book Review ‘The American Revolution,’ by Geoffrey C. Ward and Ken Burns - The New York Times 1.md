@@ -3,6 +3,7 @@ created: 2025-11-17T08:39:38 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2025/11/10/books/review/the-american-revolution-geoffrey-c-ward-ken-burns.html
 author: Ted Widmer
+_organized: true
 ---
 
 # Book Review: ‘The American Revolution,’ by Geoffrey C. Ward and Ken Burns - The New York Times

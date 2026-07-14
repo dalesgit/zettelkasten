@@ -3,6 +3,7 @@ created: 2026-01-30T18:20:30 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/30/opinion/trump-minneapolis-america-pretti.html
 author: Lydia Polgreen
+_organized: true
 ---
 
 # Opinion | This Week Has Revealed 3 Types of Americans - The New York Times

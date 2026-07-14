@@ -5,6 +5,7 @@ tags:
   - must-read
 source: https://www.openculture.com/2025/07/neil-degrasse-tyson-lists-8-free-books-every-intelligent-person-should-read.html
 author: in Audio Books, Books, e-books |   July 3rd, 2025  10 Comments
+_organized: true
 ---
 
 # Neil deGrasse Tyson Lists 8 (Free) Books Every Intelligent Person Should Read | Open Culture

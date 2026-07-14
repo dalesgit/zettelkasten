@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 ![](https://youtu.be/1Yah0CqJqUM?si=SPAJ2iB55OIuH9ZR)

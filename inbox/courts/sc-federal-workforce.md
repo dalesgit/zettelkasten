@@ -2,6 +2,7 @@
 created: 2025-07-10T07:54:08
 source: https://www.theatlantic.com/ideas/archive/2025/07/supreme-court-federal-workforce-layoffs/683470/
 author: Quinta Jurecic
+_organized: true
 ---
 
 # The Supreme Court Comes to the Administration’s Rescue, Again

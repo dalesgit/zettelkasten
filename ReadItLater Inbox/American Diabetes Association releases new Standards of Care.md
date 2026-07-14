@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [American Diabetes Association releases new Standards of Care](https://www.wbrz.com/news/american-diabetes-association-releases-new-standards-of-care/)

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
  [[ReadItLater]] [[Article]]
 
 # [Charlie Kirk’s death raises fears of ‘beginning of a darker chapter’ for US violence](https://www.theguardian.com/us-news/2025/sep/14/charlie-kirk-death-us-violence)

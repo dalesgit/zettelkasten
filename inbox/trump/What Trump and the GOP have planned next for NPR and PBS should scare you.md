@@ -3,6 +3,7 @@ created: 2025-07-27T17:35:09 (UTC -04:00)
 tags: []
 source: https://contrarian.substack.com/p/what-trump-and-the-gop-have-planned?utm_source=substack&utm_medium=email
 author: The Contrarian
+_organized: true
 ---
 
 # What Trump and the GOP have planned next for NPR and PBS should scare you

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 REM Mar 04 2025 +2 MSG Fly to Honolulu %b%
 REM Mar 16 2025 +2 MSG on 5pm Auckland, New Zealand %b%
 REM Mar 16 2025 +2 MSG Departs 5pm DAY 1 - AUCKLAND, NEW ZEALAND %b%

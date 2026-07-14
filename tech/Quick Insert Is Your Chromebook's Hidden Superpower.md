@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Quick Insert Is Your Chromebook's Hidden Superpower](https://www.howtogeek.com/quick-insert-is-a-hidden-chromebook-superpower/)

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Beef Barley Soup](https://www.spendwithpennies.com/beef-barley-soup/)

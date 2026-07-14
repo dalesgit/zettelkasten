@@ -9,6 +9,7 @@ description: Google is rolling out an update to Gmail that will introduce a new 
 tags:
   - tech
   - email
+_organized: true
 ---
 [🔥 33% OFF Botslab 4K Battery 4-Cam Security System](https://andauth.co/BotslabW510-AA-DB-Sep)
 

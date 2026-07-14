@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 test of whether a person is good
 
 Many experts suggest that a single, powerful test of a person's character is 

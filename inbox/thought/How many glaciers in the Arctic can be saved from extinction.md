@@ -3,6 +3,7 @@ created: 2025-12-15T17:10:42 (UTC -05:00)
 tags: []
 source: https://www.aptnnews.ca/national-news/how-many-glaciers-in-canadas-arctic-can-be-saved-from-extinction/
 author: The Canadian Press
+_organized: true
 ---
 
 # How many glaciers in the Arctic can be saved from extinction?

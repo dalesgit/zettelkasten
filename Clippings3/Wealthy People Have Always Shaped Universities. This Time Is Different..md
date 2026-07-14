@@ -8,6 +8,7 @@ created: 2025-11-30
 description: "A new set of billionaires with an interest in higher education has helped oust college presidents and even assisted the Trump administration in its effort to overhaul the industry."
 tags:
   - "clippings"
+_organized: true
 ---
 The ultrawealthy have long lorded their money and might over university presidents, pelting them with ideas and demands, promises and threats.
 

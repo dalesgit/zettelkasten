@@ -3,6 +3,7 @@ source: https://www.theringer.com/2025/11/20/national-affairs/ken-burns-the-amer
 tags:
   - revolutionary_war
   - ken_burns
+_organized: true
 ---
 
 By [Lex Pryor](/creator/lex-pryor)Nov. 20, 11:20 am UTC • 20 min

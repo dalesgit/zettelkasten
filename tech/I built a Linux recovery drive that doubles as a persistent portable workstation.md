@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [I built a Linux "recovery drive" that doubles as a persistent portable workstation](https://www.xda-developers.com/linux-recovery-drive-persistent-portable-workstation/)

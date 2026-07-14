@@ -2,6 +2,7 @@
 id: Inbox
 aliases: []
 tags: []
+_organized: true
 ---
 ## archived
 - [[preaching]]

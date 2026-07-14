@@ -3,6 +3,7 @@ created: 2025-07-19T08:16:03 (UTC -04:00)
 tags: []
 source: https://vegoutmag.com/lifestyle/m-people-who-grew-up-the-1960s-and-70s-tend-to-share-these-5-admirable-traits/
 author: Jordan Cooper
+_organized: true
 ---
 
 # People who grew up the 1960s and 70s tend to share these 5 admirable traits – VegOut

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [It’s the media’s job to hold power to account. This year, too many got into bed with it instead | Arwa Mahdawi](https://www.theguardian.com/media/2025/dec/15/its-the-medias-job-to-hold-power-to-account-this-year-too-many-got-into-bed-with-it-instead)

@@ -3,6 +3,7 @@ created: 2026-01-29T17:09:24 (UTC -05:00)
 tags: []
 source: https://www.theatlantic.com/culture/2026/01/bruce-springsteen-streets-of-minneapolis-review/685807/
 author: Spencer Kornhaber
+_organized: true
 ---
 
 # The Tragic Familiarity of a New Springsteen Protest Song - The Atlantic

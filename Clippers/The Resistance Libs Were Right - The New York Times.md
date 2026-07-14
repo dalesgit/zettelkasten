@@ -3,6 +3,7 @@ created: 2026-01-20T07:50:30 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/12/opinion/resistance-libs-trump-fascism.html?smid=nytcore-ios-share
 author: Michelle Goldberg
+_organized: true
 ---
 
 # Opinion | The Resistance Libs Were Right - The New York Times

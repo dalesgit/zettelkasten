@@ -3,6 +3,7 @@ tags:
   - truth
   - disinformation
   - shared-reality
+_organized: true
 ---
 
 # Chaos in Minneapolis Exposes an Internet at War With Truth

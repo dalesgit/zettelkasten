@@ -3,6 +3,7 @@ created: 2025-12-15T07:51:13 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2025/12/15/opinion/monroe-doctrine-trump.html
 author: Greg Grandin
+_organized: true
 ---
 
 # Opinion | Trump Wants to Carve Up the World. It’s a Blueprint for Disaster. - The New York Times

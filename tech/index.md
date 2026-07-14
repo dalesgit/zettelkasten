@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 **Graphics** of the process 
 	Templates
 		![[Pasted image 20250628101730.png]]

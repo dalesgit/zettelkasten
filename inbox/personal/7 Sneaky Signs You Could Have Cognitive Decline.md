@@ -10,6 +10,7 @@ Updated on July 7, 2025
 
 Reviewed by Dietitian
  Jessica Ball, M.S., RD
+_organized: true
 ---
 
 # 7 Sneaky Signs You Could Have Cognitive Decline

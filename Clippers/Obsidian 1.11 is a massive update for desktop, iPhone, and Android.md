@@ -3,6 +3,7 @@ created: 2026-01-17T14:17:23 (UTC -05:00)
 tags: []
 source: https://www.howtogeek.com/obsidian-11-1-is-a-massive-update-for-desktop-iphone-and-android/
 author: Corbin Davenport
+_organized: true
 ---
 
 # Obsidian 1.11 is a massive update for desktop, iPhone, and Android

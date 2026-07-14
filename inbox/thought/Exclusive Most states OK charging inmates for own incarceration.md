@@ -3,6 +3,7 @@ created: 2025-07-12T07:26:58 (UTC -04:00)
 tags: [Prisoners,Racism,Prisons,Debt,Latin America and Latinos,Hispanic and Latino Americans,Health care costs,Native Americans,Prison reform,African Americans,Race and Equity,Racial discrimination]
 source: https://www.axios.com/2025/07/12/exclusive-states-inmates-pay-own-incarceration
 author: Russell Contreras,Delano Massey
+_organized: true
 ---
 
 # Exclusive: Most states OK charging inmates for own incarceration

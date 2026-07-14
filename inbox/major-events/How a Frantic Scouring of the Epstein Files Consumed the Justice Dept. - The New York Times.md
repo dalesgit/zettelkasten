@@ -3,6 +3,7 @@ created: 2025-07-25T08:33:40 (UTC -04:00)
 tags: []
 source: https://www.nytimes.com/2025/07/24/us/politics/epstein-files-trump-bondi-justice-department-fbi.html
 author: Adam Goldman, Alan Feuer
+_organized: true
 ---
 
 # How a Frantic Scouring of the Epstein Files Consumed the Justice Dept. - The New York Times

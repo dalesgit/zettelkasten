@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 # Queen Emma of Hawaii
 
 Queen of Hawaii from 1856 to 1863

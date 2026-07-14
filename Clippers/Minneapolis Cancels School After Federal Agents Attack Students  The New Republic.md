@@ -3,6 +3,7 @@ created: 2026-01-09T09:01:44 (UTC -05:00)
 tags: []
 source: https://newrepublic.com/post/205071/minneapolis-cancels-school-high-school-raid-students-teachers
 author: Ellie Quinlan Houghtaling
+_organized: true
 ---
 
 # Minneapolis Cancels School After Federal Agents Attack Students | The New Republic

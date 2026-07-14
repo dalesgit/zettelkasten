@@ -8,6 +8,7 @@ created: 2026-01-10
 description: "I didn’t want to be doing this."
 tags:
   - "clippings"
+_organized: true
 ---
 <audio src="/api/v1/audio/upload/ac6f211f-e070-4008-ba0d-62ecb4f5627d/src">Audio playback is not supported on your browser. Please upgrade.</audio>
 

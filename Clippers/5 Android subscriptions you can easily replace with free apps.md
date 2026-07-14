@@ -3,6 +3,7 @@ created: 2026-01-20T07:44:58 (UTC -05:00)
 tags: []
 source: https://www.makeuseof.com/android-subscriptions-replace-with-free-apps/
 author: Tashreef Shareef
+_organized: true
 ---
 
 # 5 Android subscriptions you can easily replace with free apps

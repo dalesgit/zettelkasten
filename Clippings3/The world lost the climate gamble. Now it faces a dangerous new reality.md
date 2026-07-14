@@ -11,6 +11,7 @@ tags:
   - apocalyptic
   - catastrophe
   - climate
+_organized: true
 ---
 ![Dice saying 1.5°C and 2°C](https://images.theconversation.com/files/703910/original/file-20251121-56-xgrtvi.jpg?ixlib=rb-4.1.0&rect=0%2C680%2C2374%2C1187&q=75&auto=format&w=1336&h=668&fit=crop&dpr=1)
 

@@ -2,6 +2,7 @@
 created: 2025-07-08T08:32:18
 source: https://slate.com/news-and-politics/2025/07/trump-news-ukraine-russia-putin-weapons.html?pay=1751976882877&support_journalism=please
 author: Fred Kaplan
+_organized: true
 ---
 
 # The message that the U.S. Ukraine weapons pause is sending to Putin.

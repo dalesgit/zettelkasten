@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [I tried this calming seven-minute beginner&rsquo;s Tai Chi flow and I&rsquo;m going to do it whenever I feel stressed](https://www.fitandwell.com/wellness/i-tried-this-calming-seven-minute-beginners-tai-chi-flow-and-im-going-to-do-it-whenever-i-feel-stressed)

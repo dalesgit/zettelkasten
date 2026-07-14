@@ -3,6 +3,7 @@ created: 2025-07-28T07:24:10 (UTC -04:00)
 tags: []
 source: https://www.visualcapitalist.com/cp/inside-the-world-of-billionaire-islands/
 author: Nick Routley
+_organized: true
 ---
 
 # Inside the World of Billionaire Islands

@@ -3,6 +3,7 @@ created: 2025-07-05T07:16:24 (UTC -04:00)
 tags: []
 source: https://www.xda-developers.com/replace-chrome-firefox-fast-open-source-browser-thorium/
 author: Chandraveer Mathur
+_organized: true
 ---
 
 # I ditched Chrome and Firefox for this snappy open-source browser, and it exceeded expectations

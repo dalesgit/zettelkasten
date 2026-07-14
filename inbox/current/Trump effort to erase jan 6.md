@@ -2,6 +2,7 @@
 created: 2025-10-13T10:18:31
 source: https://www.nytimes.com/2025/10/13/opinion/january-6-trump-erase.html
 author: By
+_organized: true
 ---
 
 # Opinion | The Appalling Campaign to Erase Jan. 6 Never Ends

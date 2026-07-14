@@ -3,6 +3,7 @@ created: 2025-07-12T07:42:56 (UTC -04:00)
 tags: []
 source: https://www.xda-developers.com/managing-kitchen-with-free-open-source-software/
 author: Parth Shah
+_organized: true
 ---
 
 # I started managing my kitchen with this free open-source software and I’m not going back

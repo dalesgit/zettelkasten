@@ -2,6 +2,7 @@
 created: 2025-07-11T06:02:28
 source: https://www.theatlantic.com/newsletters/archive/2025/07/whos-afraid-of-being-middlebrow/683491/
 author: Shan Wang
+_organized: true
 ---
 
 # Who’s Afraid of Being Middlebrow?

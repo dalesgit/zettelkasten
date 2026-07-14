@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 The next basic division of the Hebrew Bible are, surprisingly called, the prophets. These books include what Christians call historical books. From the Hebrew point of view, there are not historical and non-historical works. There are words from prophets and words from everyone else. The next basic division of the Hebrew Bible are, surprisingly called, the prophets. These books include what Christians call historical books. From the Hebrew point of view, there are not historical and non-historical works. There are words from prophets and words from everyone else. These are known in the Hebrew by the title ”writings”. So the Hebrew bible is divided into three parts: The Torah, the prophets, and the writings.
 
 If we turn our attention to Amos, one of the earliest of the prophets, the interpretation of his words are fairly straightforward. the earliest of the prophets, the interpretation of his words are fairly straightforward.

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Girls and boys solve math problems differently – with similar short-term results but different long-term outcomes](https://theconversation.com/girls-and-boys-solve-math-problems-differently-with-similar-short-term-results-but-different-long-term-outcomes-269059)

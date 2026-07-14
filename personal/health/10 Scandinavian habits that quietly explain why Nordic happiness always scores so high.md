@@ -9,6 +9,7 @@ description: From slow mornings to unspoken trust, these 10 Scandinavian rituals
 tags:
   - habits
   - mental-health
+_organized: true
 ---
 From slow mornings to unspoken trust, these 10 Scandinavian rituals show that true happiness often hides in life’s calmest moments.
 

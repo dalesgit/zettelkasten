@@ -11,6 +11,7 @@ tags:
   - reading
   - body
   - awareness
+_organized: true
 ---
 **AWAKE: A Memoir,** by Jen Hatmaker
 

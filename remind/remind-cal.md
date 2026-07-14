@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 REM Jan 01 MSG The Holy Name of Our Lord Jesus Christ %b%
 REM Jan 06 MSG The Epiphany of Our Lord Jesus Christ %b%
 REM Jan 04 MSG Elizabeth Seton, Vowed Religious and Educator, 1821 %b%

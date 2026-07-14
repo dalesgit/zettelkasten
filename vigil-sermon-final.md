@@ -2,6 +2,7 @@
 title: Easter Vigil Sermon Final
 author: DCH
 date: April 2026
+_organized: true
 ---
 
 ## Props

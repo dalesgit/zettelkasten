@@ -6,6 +6,7 @@ source: https://theconversation.com/troys-fall-was-partly-due-to-environmental-s
 description: Long before industry, ancient societies were already pushing their ecosystems to the brink
 author: Stephan Blum
 published: Published: August 12, 2025 1:11pm EDT
+_organized: true
 ---
 
  ** 

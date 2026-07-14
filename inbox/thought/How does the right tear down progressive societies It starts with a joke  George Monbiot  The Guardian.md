@@ -3,6 +3,7 @@ created: 2025-07-10T08:15:41 (UTC -04:00)
 tags: []
 source: https://www.theguardian.com/commentisfree/2025/jul/10/right-progressive-societies-joke-glastonbury-starve-benefit-rod-liddle-lewis-schaffer
 author: George Monbiot
+_organized: true
 ---
 
 # How does the right tear down progressive societies? It starts with a joke | George Monbiot | The Guardian

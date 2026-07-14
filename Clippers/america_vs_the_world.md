@@ -2,6 +2,7 @@
 id: america_vs_the_world
 aliases: []
 tags: []
+_organized: true
 ---
 https://www.theatlantic.com/magazine/2026/03/trump-national-security-greenland-spheres-of-interest/685673/
 

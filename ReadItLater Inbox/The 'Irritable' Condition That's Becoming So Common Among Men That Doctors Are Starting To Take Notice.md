@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [The 'Irritable' Condition That's Becoming So Common Among Men That Doctors Are Starting To Take Notice](https://www.yourtango.com/self/doctors-beginning-acknowledge-irritable-male-syndrome)

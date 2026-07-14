@@ -5,6 +5,7 @@ tags:
   - stories
 source: https://bigthink.com/big-think-books/5-stories-that-teach-you-philosophy/
 author: Scotty Hendricks
+_organized: true
 ---
 
 # 5 stories that teach you philosophy (better than some philosophy books) - Big Think

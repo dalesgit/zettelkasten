@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 #conversion #transformation 
 
 It matters what our image of God is, because the image we bring to the relationship will limit the possibilities. One learns quickly in gardening that much depends on the soil, the nutrients, the temperature, the moisture, the light we provide the plants. The difference is between a flourishing -- *whatever it is* -- and a plant that "fails to thrive." 

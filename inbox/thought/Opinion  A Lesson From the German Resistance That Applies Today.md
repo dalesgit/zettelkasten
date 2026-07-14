@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Opinion | A Lesson From the German Resistance That Applies Today](https://www.nytimes.com/2025/10/15/opinion/defiance-nazi-germany.html?smid=nytcore-ios-share&referringSource=articleShare)

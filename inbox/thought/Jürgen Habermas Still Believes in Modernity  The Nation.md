@@ -3,6 +3,7 @@ created: 2025-07-11T06:00:07 (UTC -04:00)
 tags: []
 source: https://www.thenation.com/article/culture/jurgen-habermas-qa/
 author: Daniel Steinmetz-Jenkins
+_organized: true
 ---
 
 # Jürgen Habermas Still Believes in Modernity | The Nation

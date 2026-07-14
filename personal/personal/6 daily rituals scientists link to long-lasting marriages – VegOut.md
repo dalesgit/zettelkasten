@@ -4,6 +4,7 @@ tags:
   - marriage
 source: https://vegoutmag.com/lifestyle/gen-6-daily-rituals-scientists-link-to-long-lasting-marriages/
 author: Jordan Cooper
+_organized: true
 ---
 
 # 6 daily rituals scientists link to long-lasting marriages – VegOut

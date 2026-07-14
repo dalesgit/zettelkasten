@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [Trump’s weird day at the UN, briefly explained](https://www.vox.com/the-logoff-newsletter-trump/462559/trump-russia-ukraine-war-un-general-assembly)

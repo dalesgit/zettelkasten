@@ -3,6 +3,7 @@ created: 2026-01-29T16:50:24 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/commentisfree/2026/jan/29/minneapolis-revolt-donald-trump-america-people-power
 author: Aditya Chakrabortty
+_organized: true
 ---
 
 # The Minneapolis revolt tells us this: even in Trump’s America, the people have power too | Aditya Chakrabortty | The Guardian

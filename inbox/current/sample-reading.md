@@ -2,6 +2,7 @@
 id: sample
 aliases: []
 tags: []
+_organized: true
 ---
 
 Unknown date

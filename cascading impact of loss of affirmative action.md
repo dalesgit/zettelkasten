@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 
 # Colleges See Major Racial Shifts in Student Enrollment
 

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Bruce Springsteen song _streets of Minneapolis_
 
 Released to the public. 

@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 tags:: [[+Daily Notes]]
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>

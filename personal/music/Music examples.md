@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Music examples
 
 https://itsfoss.com/linux-gui-search-tools/

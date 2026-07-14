@@ -11,6 +11,7 @@ description: In Luke’s telling of the Christmas story, startled shepherds are 
 published: 2025-10-30
 source: https://www.episcopalchurch.org/dfms/2025-advent-and-christmas-resources/
 title: 2025 Advent and Christmas Resources
+_organized: true
 ---
 ## 2025 Advent and Christmas Resources
 

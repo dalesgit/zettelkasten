@@ -6,6 +6,7 @@ tags:
   - data
 source: https://www.theguardian.com/commentisfree/2025/jun/30/peter-thiel-palantir-threat-to-americans
 author: Robert Reich
+_organized: true
 ---
 
 # Peter Thiel’s Palantir poses a grave threat to Americans | Robert Reich | The Guardian

@@ -2,6 +2,7 @@
 tags:
   - feminism
   - gender
+_organized: true
 ---
 [[ReadItLater]] [[Article]]
 

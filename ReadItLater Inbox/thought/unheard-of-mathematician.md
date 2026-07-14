@@ -6,6 +6,7 @@ tags:
   - mathematics
   - algebra
   - geometry
+_organized: true
 ---
 
 # The most important mathematician you’ve (probably) never heard of

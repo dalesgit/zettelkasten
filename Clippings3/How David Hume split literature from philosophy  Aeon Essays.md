@@ -10,6 +10,7 @@ tags:
   - clippings
   - thought
   - literature
+_organized: true
 ---
 ![Painting of three 18th-century men in discussion, one holding an illustration. A dog lies on the floor.](https://images.aeonmedia.co/images/8a79c8e3-81b0-4be1-9f68-f0d44dba1ffc/essay-david-allan-the-connoisseurs.jpg?width=3840&quality=75&format=auto)
 

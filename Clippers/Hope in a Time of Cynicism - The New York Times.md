@@ -3,6 +3,7 @@ created: 2026-01-04T23:57:35 (UTC -05:00)
 tags: []
 source: https://www.nytimes.com/2026/01/01/briefing/hope-in-a-time-of-cynicism.html
 author: Lauren Jackson
+_organized: true
 ---
 
 # Hope in a Time of Cynicism - The New York Times

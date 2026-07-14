@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [The Trump administration has a Nazi problem | Mehdi Hasan](https://www.theguardian.com/commentisfree/2026/jan/22/trump-administration-nazi-problem)

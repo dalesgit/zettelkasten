@@ -7,6 +7,7 @@ author: By
 
 
 Published on July 21, 2025
+_organized: true
 ---
 
 # 20 of the Most Popular Sandwiches From All Over the World

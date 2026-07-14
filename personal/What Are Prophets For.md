@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 [[ReadItLater]] [[Article]]
 
 # [What Are Prophets For](https://www.plough.com/en/topics/faith/what-are-prophets-for)

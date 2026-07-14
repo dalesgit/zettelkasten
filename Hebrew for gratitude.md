@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 The Hebrew word for “give thanks” in the Old Testament is yadah and it literally means “to acknowledge God in the middle of the mess.”
 
 It doesn’t mean “feel grateful.”

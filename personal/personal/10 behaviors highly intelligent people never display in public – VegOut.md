@@ -4,6 +4,7 @@ tags:
   - intelligence
 source: https://vegoutmag.com/lifestyle/gen-10-behaviors-highly-intelligent-people-never-display-in-public/
 author: Jordan Cooper
+_organized: true
 ---
 
 # 10 behaviors highly intelligent people never display in public – VegOut

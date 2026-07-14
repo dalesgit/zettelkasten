@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Trump dementia
 
 Donald Trump has always been a fabulist, but his remarks today at a White House Christmas reception carried him into new and unsettling terrain. For nearly an hour he careened between tragedies, tariffs, grandchildren, golf pros, and grievances, his usual mixtape of self-affirmation and imaginary math. The greatest hits landed with their usual thud: $18 trillion in investment, elections “too big to rig,” and factories materializing by the thousands because CEOs simply cannot bear to pay tariffs. We’ve seen this show before.

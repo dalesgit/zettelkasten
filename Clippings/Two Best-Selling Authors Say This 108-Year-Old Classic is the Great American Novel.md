@@ -8,6 +8,7 @@ created: 2026-06-30
 description: "More than 100 years after publication, Willa Cather's 'My Ántonia' continues to inspire, with two bestselling authors naming it among America's greatest novels."
 tags:
   - "clippings"
+_organized: true
 ---
 Some books never lose their power to move readers.
 

@@ -3,6 +3,7 @@ created: 2026-01-25T07:23:05 (UTC -05:00)
 tags: []
 source: https://www.pbs.org/weta/washingtonweek/video/2026/01/washington-week-with-the-atlantic-full-episode-12326
 author: 
+_organized: true
 ---
 
 # Washington Week with The Atlantic full episode, 1/23/26 | Washington Week with The Atlantic

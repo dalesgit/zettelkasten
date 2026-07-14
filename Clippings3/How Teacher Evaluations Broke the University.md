@@ -8,6 +8,7 @@ created: 2025-09-12
 description: "<span>“We give them all A’s, and they give us all fives.” </span>"
 tags:
   - "clippings"
+_organized: true
 ---
 At the close of the fall semester, professors across the country will grade their students. Based on recent trends, those grades will be higher than ever. Around the same time, students will hand grades right back to their professors in the form of teacher evaluations. *Those* grades, too, will likely be higher than ever.
 

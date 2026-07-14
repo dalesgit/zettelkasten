@@ -3,6 +3,7 @@ created: 2025-07-25T18:13:25 (UTC -04:00)
 tags: []
 source: https://www.sandmarc.com/pages/iphone-photography-tips-and-tricks-for-iphone-16-15-14-pro
 author: 
+_organized: true
 ---
 
 # iPhone Photography Tips and Tricks for iPhone 16, 15 & 14 Pro

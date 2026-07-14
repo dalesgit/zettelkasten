@@ -9,6 +9,7 @@ description: If you’re a boomer and you can still do these seven things, you�
 tags:
   - aging
   - wonder
+_organized: true
 ---
 If you’re a boomer and you can still do these seven things, you’re one of the rare ones. You’re living proof that aging doesn’t have to mean shrinking — it can mean expanding.
 

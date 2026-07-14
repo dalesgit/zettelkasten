@@ -6,6 +6,7 @@ author: William Davies
 created: Oct 2, 2025, 11:35 AM
 description: If the first term of Donald Trump provoked anxiety over the fate of objective knowledge, the second has led to claims we live in a world-historical age of stupid, accelerated by big tech. But might there be a way out?
 source: https://www.theguardian.com/news/2025/oct/02/critique-pure-stupidity-understanding-donald-trump-2
+_organized: true
 ---
 
 If the first term of Donald Trump provoked anxiety over the fate of objective knowledge, the second has led to claims we live in a world-historical age of stupid, accelerated by big tech. But might there be a way out?By [William Davies](https://www.theguardian.com/profile/william-davies-author) 

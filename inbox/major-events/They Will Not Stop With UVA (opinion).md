@@ -3,6 +3,7 @@ created: 2025-07-11T05:50:58 (UTC -04:00)
 tags: [Higher,Education,News,Jobs,Events,Career]
 source: https://www.insidehighered.com/opinion/views/2025/07/10/they-will-not-stop-uva-opinion
 author: Bonnie Gordon
+_organized: true
 ---
 
 # They Will Not Stop With UVA (opinion)

@@ -3,6 +3,7 @@ created: 2026-01-29T16:58:49 (UTC -05:00)
 tags: []
 source: https://www.theguardian.com/commentisfree/2026/jan/29/trump-minnesota-ice-government-shutdown
 author: Judith Levine
+_organized: true
 ---
 
 # Shut it down! The US is better off with no government than with the one it has | Judith Levine | The Guardian

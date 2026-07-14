@@ -15,6 +15,7 @@ created: 2025-11-22
 description: What would a truly Christian response to America’s housing shortage look like? I have some ideas.
 tags:
   - homeless
+_organized: true
 ---
 ---
 created: 2025-11-22T18:26:03 (UTC -05:00)

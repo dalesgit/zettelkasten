@@ -6,6 +6,7 @@ tags:
 author: Dale Hathaway
 date: St. Alfred's Episcopal Church
 title: Advent 4 Sermon Draft 3
+_organized: true
 ---
 
 ## Intro 

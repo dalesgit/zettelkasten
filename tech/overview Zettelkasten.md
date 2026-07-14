@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 # overview Zettelkasten
 ---
 title: "I built my own Zettlekasten in Obsidian, and it changed my note-taking forever"

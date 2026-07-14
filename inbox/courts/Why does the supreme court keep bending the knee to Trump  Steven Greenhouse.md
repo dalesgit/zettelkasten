@@ -8,6 +8,7 @@ created: 2025-10-07
 description: "As a new term begins, the justices have continually failed to provide a check on presidential power – with disastrous consequences"
 tags:
   - "clippings"
+_organized: true
 ---
 ![supreme court justices pose for photo](https://i.guim.co.uk/img/media/d02c2359b2a5287f69282d9d90348a44a1613c2e/0_0_5555_3703/master/5555.jpg?width=620&dpr=2&s=none&crop=none)
 

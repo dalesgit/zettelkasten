@@ -1,3 +1,6 @@
+---
+_organized: true
+---
 Privatization as a substitute for government. 
 
 - Reagan's move to reduce government produced ultra wealthy like musk and amazon guy

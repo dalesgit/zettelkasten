@@ -8,6 +8,7 @@ created: 2025-12-05
 description: "Corruption, extremism, authoritarianism, narcissism: it’s all there now, right at the top of the world’s most powerful democracy – and it can only accelerate from here"
 tags:
   - "clippings"
+_organized: true
 ---
 ![](https://www.theglobeandmail.com/resizer/v2/4MESO4GLNRAAFGXAI6CE445F2M.jpg?auth=0a1e735b7c748960cc259a99e0b0d692d0eec892c2bfd9d44982414847175d87&width=1200&quality=80)
 

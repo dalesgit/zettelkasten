@@ -9,6 +9,7 @@ description: Clear up space by cutting the clutter!
 tags:
   - tech
   - google-drive
+_organized: true
 ---
 Google Drive offers 15 GB of free storage, but that space can run out faster than you might think. But you don’t have to rush to buy extra storage. With a few simple cleanup steps, you can quickly reclaim space and make room for what really matters.
 
