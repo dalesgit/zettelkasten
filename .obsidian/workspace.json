@@ -255,12 +255,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "d5755bffb46668ed",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -269,9 +279,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "notebook-navigator:Notebook Navigator": false,
-      "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -280,10 +287,11 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "acc3514111e58879",
+  "active": "d5755bffb46668ed",
   "lastOpenFiles": [
     "assets/couple-on-cruise (copy).jpeg",
     "assets/bishops-province8-mokuleia-full-moon (copy).jpg",
