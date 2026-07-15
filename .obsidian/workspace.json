@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 459.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +212,9 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "04e0a9420b039a3a",

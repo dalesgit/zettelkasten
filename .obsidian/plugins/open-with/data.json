@@ -16,7 +16,7 @@
       "name": "nvim",
       "code": "xterm -e nvim",
       "arguments": "",
-      "showInMenu": false
+      "showInMenu": true
     }
   ],
   "sysexpInFileMenu": true
