@@ -300,10 +300,10 @@
   "latestKnownRelease": "3.2.3",
   "lastAnnouncedRelease": "2.5.6",
 <<<<<<< HEAD
-  "lastReleaseCheckAt": 1783976036042,
+  "lastReleaseCheckAt": 1784110629632,
 =======
-  "lastReleaseCheckAt": 1784023556830,
->>>>>>> 10e104a532af0801d67a902aa240912318931c1c
+  "lastReleaseCheckAt": 1784122290989,
+>>>>>>> ac7219e78069333515baadb6e02fa43815e7c909
   "rootFolderOrder": [],
   "rootTagOrder": []
 }
