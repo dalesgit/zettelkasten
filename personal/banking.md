@@ -40,7 +40,7 @@ password: dch2Citi!
   
 security questions:  
 first car: Simca  
-street lived when graduate high school: Dudley  
+stree1603t lived when graduate high school: Dudley  
 Father's profession when graduate high school: Physician  
 In what city first job: Lakewood
 
@@ -61,7 +61,7 @@ mpshoe
 ~mph2dch2019 (10/6/19)~
 ~password: gini29~
 ~as of Jan 2020 mph2AmericanExpress~
-
+as of Aug 2026: mph2Kuilei1603
 
 
 Look for icon to click indicating "download"  
