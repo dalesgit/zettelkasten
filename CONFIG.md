@@ -14,4 +14,5 @@ config.set("plugs", {
 -- managed-by: configuration-manager
 config.set("github.name", "Dale Hathaway")
 config.set("github.email", "dhath12@gmail.com")
+command.update { name = "Open Command Palette", key = "Alt-/" }
 ```
