@@ -9,3 +9,9 @@ config.set("plugs", {
   -- Then run the `Plugs: Update` command to update them
 })
 ```
+
+```space-lua
+-- managed-by: configuration-manager
+config.set("github.name", "Dale Hathaway")
+config.set("github.email", "dhath12@gmail.com")
+```
