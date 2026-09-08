@@ -18,3 +18,9 @@ where p.created:startsWith("2026")
 order by p.created desc limit 5
 select templates.pageItem(p)
 ]]}
+## Last 5 files 
+${query[[from p = index.tag "page"
+where p.created
+order by p.created desc limit 5
+select templates.pageItem(p)
+]]}
