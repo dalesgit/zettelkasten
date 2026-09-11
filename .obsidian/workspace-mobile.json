@@ -9,6 +9,11 @@
         "children": [
           {
             "id": "c221c0f1e34a3ceb",
+        "id": "3c838559b2b85cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8188fa7b49870f15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,6 +43,31 @@
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
+                "file": "Clippings2/demise of late night tv -- Colbert.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "demise of late night tv -- Colbert"
+            }
+          },
+          {
+            "id": "0787126e6abb36d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,7 +85,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,8 +250,7 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "periodic-notes:Open today": false
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
   "active": "c221c0f1e34a3ceb",
@@ -244,6 +274,28 @@
     "Eric Clapton deals with the loss of his child.md",
     "travel/vikings-cruise.md",
     "trump-paxton.md",
+  "active": "0787126e6abb36d8",
+  "lastOpenFiles": [
+    "Homepage.md",
+    "Clippings2/demise of late night tv -- Colbert.md",
+    "diary/diary-md/2020/2020-10-26.md",
+    "diary/diary-2020.md",
+    "2020-11-20.html.md",
+    "2020-10-26.html.md",
+    "2020-11-29.html.md",
+    "2020-12-02.html.md",
+    "2020-12-03.html.md",
+    "diary/diary-md/2019/2019-02-27.md",
+    "diary/diary-md/2019/2019-02-15.md",
+    "diary/diary-md/2017/2017-06-04.md",
+    "diary/diary-md/2017/2017-06-01.md",
+    "diary/diary-md/2017/2017-06-02.md",
+    "diary/diary-md/2017/2017-05-20.md",
+    "diary/diary-md/2017/2017-05-17.md",
+    "diary/diary-md/2017/2017-05-16.md",
+    "diary/diary-md/2020/2020-05-29.md",
+    "What DOGE says is 'wasteful,' 'excessive' spending in Hillsborough, Pinellas and Manatee counties  wtsp.com.md",
+    "Hebrew canon.md",
     "travel/packing checklist.md",
     "travel/packing-savannah.md",
     "travel/packing-boca-raton.md",
