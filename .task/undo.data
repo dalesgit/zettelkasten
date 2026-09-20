@@ -642,3 +642,6 @@ time 1784030604
 old [description:"apply for electronic visa for UK" entry:"1780438799" modified:"1780438799" project:"travel" status:"pending" uuid:"dcc3574a-3deb-4a4d-af28-357845f87ddc"]
 new [description:"apply for electronic visa for UK" end:"1784030604" entry:"1780438799" modified:"1784030604" project:"travel" status:"completed" uuid:"dcc3574a-3deb-4a4d-af28-357845f87ddc"]
 ---
+time 1789936892
+new [description:"replacement registration for miata" entry:"1789936892" modified:"1789936892" status:"pending" uuid:"ca553ad2-3258-4d2f-918d-996e4d46e614"]
+---
