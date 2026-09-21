@@ -70,8 +70,6 @@ REM Feb 25 2025 AT 12:30 +2 MSG Clergy lunch loc. tba %b%
 REM Fri FROM Oct 01 2025 UNTIL Nov 29 2025 +2 AT 15:00 MSG Meet with Zack  %b%
 REM FROM Nov 16 2025 UNTIL Nov 22 2025 MSG Hilton Head with Kids %b%
 REM FROM Jan 06 2026 UNTIL Jan 13 2026 SPECIAL COLOR 255 0 255 DH to Colorado with Julian %b% REM Tue 2026 AT 10:30 MSG LA Fitness %b%
-REM May 06 2026 AT 11:00 MSG LA Fitness %b%
-REM Fri 2026 AT 11:30 MSG LA Fitness %b%
 REM Dec 29 2025 AT 14:15 MSG Gardner Audiology %b%
 REM Dec 29 2025 MSG Call Hamil re. f/u biopsy %b%
 REM Dec 30 2025 AT 14:00  MSG Hamil f/u appt in Hudson %b%
@@ -124,4 +122,9 @@ REM May 8 2026 *1 UNTIL May 11 2026  MSG Travel Savannah %b
 REM May 8 2026 AT 17:00 DURATION 2:00 MSG Dirty Holly's gig %b
 REM May 9 2026 AT 15:00 DURATION 2:00 MSG Ecology tour %b 
 REM May 13 2026 AT 10:00 DURATION 4:00 SPECIAL COLOR 0 128 255 MSG Walter to Eye Doctor %b%
-REM Thu 2026 AT 12:00 DURATION 1:00 MSG Healing Mass %b%
+; Sept --
+REM Thu 2026 AT 12:00 DURATION 1:00 MSG Healing Mass %b
+REM Tue 2026 AT 10:30 MSG LA Fitness %b
+REM Fri 2026 AT 11:00 MSG LA Fitness %b
+REM Sep 25 2026 AT 17:30 SPECIAL COLOR 0  0 255  dinner Marcus & Gini %b
+REM Oct 03 2026 AT 09:00 DURATION 6:00 SPECIAL COLOR 0  0 255 Retreat Fr. Bill %b

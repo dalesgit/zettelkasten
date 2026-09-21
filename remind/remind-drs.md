@@ -23,3 +23,9 @@ REM Mar 24 2026 AT 11:00 SPECIAL COLOR 0 128 255 Linda Serepca
 REM Jun 2 2026 AT 11:30 DURATION 1:00 MSG Linda for spiritual direction %b
 REM Jun 30 2026 AT 10:00 DURATION 1:00 MSG Linda for spiritual direction %b
 REM Sep 30 2026 AT 12:30 DURATION 1:00 MSG Linda for spiritual direction %b
+; Other
+REM Sep 22 2026 AT 14:30 DURATION 1:00 SPECIAL COLOR 0 0 255 echocardiagram Kalani (for MPS) %b
+REM Sep 29 2026 AT 14:30  SPECIAL COLOR 0 0 255 cataract surgery (for MPS) %b
+REM Sep 30 2026 AT 08:00  SPECIAL COLOR 0 0 255 follow-up with Davis (for MPS) %b
+REM Oct 02 2026 AT 15:00  SPECIAL COLOR 0 0 255 follow-up with Acad. Dermatology (for MPS) %b
+REM Oct 07 2026 AT 10:45  SPECIAL COLOR 0 0 255 follow-up with Davis (for MPS) %b
