@@ -19,5 +19,4 @@ REM Nov 01 +2 AT 10:00 SPECIAL COLOR 0 128 255 DH Celebrate %b%
 REM Nov 07 +2 AT 17:00 SPECIAL COLOR 0 128 255 DH Preach %b%
 REM Nov 08 +2 AT 10:00 SPECIAL COLOR 0 128 255 DH Preach %b%
 REM Oct 25 +2 AT 10:00 SPECIAL COLOR 0 128 255 Bishop's visitation %b%
-REM Sun
- 22 +2 AT 12:00 SPECIAL COLOR 0 128 255 Normal vestry meeting %b%
+REM Sun 22 +2 AT 12:00 SPECIAL COLOR 0 128 255 Normal vestry meeting %b%
