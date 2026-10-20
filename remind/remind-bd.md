@@ -44,7 +44,9 @@ REM Oct 01 +2 MSG Scott Jansen birthday %b%
 REM Oct 01 +2 MSG Terry McCandliss Dowdell birthday %b%
 REM Oct 02 +2 MSG Howie Smith birthday %b%
 REM Oct 02 +2 MSG Joe Sjostrom birthday %b%
+REM Oct 04 +2 MSG Dale's birthday %b%
 REM Oct 06 +2 MSG Gary's birthday %b%
+REM Oct 15 +2 MSG Young Mi's birthday %b%
 REM Oct 20 +2 MSG Barb Street birthday %b%
 REM Sep 16 +2 MSG Ethan Street birthday %b%
 REM Sep 29 +2 MSG Miriam Birthday %b%
