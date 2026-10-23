@@ -29,3 +29,6 @@ REM Sep 29 2026 AT 14:30  SPECIAL COLOR 0 0 255 cataract surgery (for MPS) %b
 REM Sep 30 2026 AT 08:00  SPECIAL COLOR 0 0 255 follow-up with Davis (for MPS) %b
 REM Oct 02 2026 AT 15:00  SPECIAL COLOR 0 0 255 follow-up with Acad. Dermatology (for MPS) %b
 REM Oct 07 2026 AT 10:45  SPECIAL COLOR 0 0 255 follow-up with Davis (for MPS) %b
+REM Oct 05 2026 AT 09:15  SPECIAL COLOR 0 0 255 follow-up with Davis (for MPS) %b
+REM Sep 29 2026 AT 14:30  SPECIAL COLOR 0 0 255 cataract surgery (for MPS) %b
+REM Oct 06 2026   SPECIAL COLOR 0 0 255 possible cataract surgery (for MPS) %b
