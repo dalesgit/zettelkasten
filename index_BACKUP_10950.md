@@ -1,9 +1,6 @@
 ---
 _organized: true
 ---
-<<<<<<< HEAD
-=======
-
 # Hello 👋
 >>>>>>> 337ed1004e4bcffa19e256e5a28947597ac19321
 Welcome to the wondrous world of SilverBullet. A world that once you discover and appreciate, you’ll never want to leave.
