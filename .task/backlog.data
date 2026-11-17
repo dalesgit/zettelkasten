@@ -178,3 +178,5 @@
 {"description":"change Linda S date again","end":"20260630T192008Z","entry":"20260612T025003Z","modified":"20260630T192008Z","status":"completed","uuid":"567e812c-5579-42fe-8b30-0099c1d99fa5"}
 {"description":"apply for electronic visa for UK","end":"20260714T120324Z","entry":"20260602T221959Z","modified":"20260714T120324Z","project":"travel","status":"completed","uuid":"dcc3574a-3deb-4a4d-af28-357845f87ddc"}
 {"description":"replacement registration for miata","entry":"20260920T204132Z","modified":"20260920T204132Z","status":"pending","uuid":"ca553ad2-3258-4d2f-918d-996e4d46e614"}
+{"description":"change audiology appointment","entry":"20261109T191726Z","modified":"20261109T191726Z","status":"pending","uuid":"1124259e-cc0a-4ee0-8368-35a7be91fc72"}
+{"description":"change audiology appointment","entry":"20261109T191726Z","modified":"20261109T192528Z","project":"todo","status":"pending","uuid":"1124259e-cc0a-4ee0-8368-35a7be91fc72"}
