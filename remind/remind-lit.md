@@ -24,6 +24,6 @@ REM [easterdate(today())] +3 MSG Easter_Sunday %b
 REM [easterdate(today()) - 46] MSG Ash_Wednesday %b
 REM [easterdate(today()) - 7] MSG Palm_Sunday %b
 REM [easterdate(today()) - 3] MSG Maundy Thursday %b
-REM [easterdate(today()) - 2] MSG Good_Friday %b
+REM [easterdate(today()) - 2] MSG Good_Friday %bq
 REM [easterdate(today()) + 39] MSG Ascension_Day %b
 REM [easterdate(today()) + 49] MSG Pentecost %b
