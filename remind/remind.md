@@ -63,7 +63,9 @@ REM Jan 25 2025 +2 MSG Centering Prayer workshop AT 10:00 AM %b%
 REM Jan 28 2025 +2 AT 15:00 MSG Dr. Kalani f/u for DH %b%
 REM Feb 27 2025 +2 AT 15:30 MSG Victoria dermatology for DH %b%
 ;REM Mar 05 2025 +2 MSG Ash Wednesday %b%
-REM [easterdate()] SPECIAL COLOR 255 0 0 Easter
+;REM [easterdate()] MSG Easter Next
+;REM [easterdate(today())] MSG Easter Day
+;REM [easterdate()] +3 MSG Easter Sunday %b
 REM Feb 27 2025 +10 AT 11:30 MSG DH verbatim %b%
 REM Feb 25 2025 AT 12:30 +2 MSG Clergy lunch loc. tba %b%
 ;REM Jul 12 2025 1 UNTIL Jul 19 2025 MSG with Bud/Bertha in Orlando %b%
