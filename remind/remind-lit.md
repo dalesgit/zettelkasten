@@ -20,10 +20,10 @@ REM Nov 07 +2 AT 17:00 SPECIAL COLOR 0 128 255 DH Preach %b%
 REM Nov 08 +2 AT 10:00 SPECIAL COLOR 0 128 255 DH Preach %b%
 REM Oct 25 +2 AT 10:00 SPECIAL COLOR 0 128 255 Bishop's visitation %b%
 REM Sun 22 +2 AT 12:00 SPECIAL COLOR 0 128 255 Normal vestry meeting %b%
-REM [easterdate(today())] +3 MSG Easter_Sunday %b
-REM [easterdate(today()) - 46] MSG Ash_Wednesday %b
-REM [easterdate(today()) - 7] MSG Palm_Sunday %b
-REM [easterdate(today()) - 3] MSG Maundy Thursday %b
-REM [easterdate(today()) - 2] MSG Good_Friday %bq
-REM [easterdate(today()) + 39] MSG Ascension_Day %b
-REM [easterdate(today()) + 49] MSG Pentecost %b
+REM [easterdate(today())] +3 MSG EASTER_SUNDAY %b
+REM [easterdate(today()) - 46] MSG ASH_WEDNESDAY %b
+REM [easterdate(today()) - 7] MSG PALM_SUNDAY %b
+REM [easterdate(today()) - 3] MSG MAUNDY THURSDAY %b
+REM [easterdate(today()) - 2] MSG GOOD_FRIDAY %bq
+REM [easterdate(today()) + 39] MSG ASCENSION_DAY %b
+REM [easterdate(today()) + 49] MSG PENTECOST %b
