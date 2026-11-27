@@ -21,10 +21,10 @@ REM Nov 08 2026 +2 AT 10:00 SPECIAL COLOR 0 128 255 DH Preach %b%
 REM Oct 25 2026 +2 AT 10:00 SPECIAL COLOR 0 128 255 Bishop's visitation %b%
 REM Sun 22 2026 +2 AT 12:00 SPECIAL COLOR 0 128 255 Normal vestry meeting %b%
 REM FROM 10 Dec 2026 UNTIL 13 Dec 2026 SPECIAL COLOR 0 128 255 Silent retreat at Franciscan Ctr %b%
-;REM [easterdate(today())] +7 MSG %"Easter Sunday%" is %b
-REM [trigger(easterdate(today()))] +1 MSG Easter Sunday %b
-REM [trigger(easterdate(today())-7)] +1 MSG Palm Sunday %b
-REM [trigger(easterdate(today())-46)] +1 MSG Ash Wednesday %b
-REM [(easterdate($Uy)+1)] +1 MSG Easter Monday %b
-REM [(easterdate($Uy)+39)] +1 MSG Ascension Day %b
-REM [(easterdate($Uy)+49)] +1 MSG Day of Pentecost %b
+;REM [easterdate(today())] +7 SPECIAL COLOR 255 0 0 %"Easter Sunday%" is %b
+REM [trigger(easterdate(today()))] +1 SPECIAL COLOR 255 0 0 Easter Sunday %b
+REM [trigger(easterdate(today())-7)] +1 SPECIAL COLOR 255 0 0 Palm Sunday %b
+REM [trigger(easterdate(today())-46)] +1 SPECIAL COLOR 255 0 0 Ash Wednesday %b
+REM [(easterdate($Uy)+1)] +1 SPECIAL COLOR 255 0 0 Easter Monday %b
+REM [(easterdate($Uy)+39)] +1 SPECIAL COLOR 255 0 0 Ascension Day %b
+REM [(easterdate($Uy)+49)] +1 SPECIAL COLOR 255 0 0 Day of Pentecost %b
